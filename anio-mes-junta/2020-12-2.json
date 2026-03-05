@@ -1,0 +1,80 @@
+{
+  "vacantes": [
+    {
+      "id": 12165,
+      "codigo": "PDVC-20211210-12273",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "16/12/2020 09:00",
+      "fechaPublicacionFin": "18/12/2020 09:00",
+      "cargos": "[9000415/00] COLEGIO NACIONAL NICOLAS AVELLANEDA (AGUILARES) - 4HS. DE ANTROPOLOGIA SOCIAL Y CULTURAL [5 / A  # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 11807,
+      "codigo": "PDVC-20211206-11915",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2020 09:00",
+      "fechaPublicacionFin": "03/12/2020 09:00",
+      "cargos": "[9000702/00] ESC. DE COMERCIO REPÚBLICA DE PANAMA - PROF.TIEMPO PARCIAL 4TA. 12 HS - 264 [PROYECTO Y GESTION DE MICROEMPRENDIMIENTOS] [6 / 1 # TURNO TARDE], [9000702/00] ESC. DE COMERCIO REPÚBLICA DE PANAMA - PROF.TIEMPO PARCIAL 4TA. 12 HS - 264 [PROYECTO Y GESTION DE MICROEMPRENDIMIENTOS] [6 / 2 # TURNO TARDE], [9000702/00] ESC. DE COMERCIO REPÚBLICA DE PANAMA - PROF.TIEMPO PARCIAL 4TA. 12 HS - 264 [ECONOMIA II] [6 / 2 # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 11312,
+      "codigo": "PDVC-20211130-11420",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "01/12/2020 12:00",
+      "fechaPublicacionFin": "03/12/2021 12:00",
+      "cargos": "[9001769/00] ESC. MEDIA DE ALDERETES - 3HS. DE MATEMATICA I [4 / B # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 11292,
+      "codigo": "PDVC-20211130-11400",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "01/12/2020 12:00",
+      "fechaPublicacionFin": "03/12/2021 12:00",
+      "cargos": "[9002319/00] ESC. SECUNDARIA EL CHAÑAR VIEJO - 2HS. DE BIOLOGIA III [3 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 11278,
+      "codigo": "PDVC-20211130-11386",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "01/12/2020 12:00",
+      "fechaPublicacionFin": "03/12/2021 12:00",
+      "cargos": "[9002188/00] ESC. SECUNDARIA DE PALA PALA - PRECEPTOR - 224 [NINGUNO # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 11274,
+      "codigo": "PDVC-20211130-11382",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "01/12/2020 13:00",
+      "fechaPublicacionFin": "03/12/2021 13:00",
+      "cargos": "[9001985/00] ESCUELA SECUNDARIA EL PUESTITO - 3HS. DE LENGUA Y LITERATURA V [5 / A # TURNO TARDE]",
+      "abierto": false
+    }
+  ],
+  "listaPeriodos": [
+    {
+      "Selected": false,
+      "Text": "12/2020",
+      "Value": "16/12/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2020",
+      "Value": "02/12/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2020",
+      "Value": "01/12/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2020",
+      "Value": "01/12/2020"
+    }
+  ]
+}

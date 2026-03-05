@@ -1,0 +1,43 @@
+{
+  "vacantes": [
+    {
+      "id": 18,
+      "codigo": "PDVC-20200921-60",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "21/09/2020 13:00",
+      "fechaPublicacionFin": "25/09/2020 18:00",
+      "cargos": "[9000949/00] ESC. AGROTECNICA \"PROF. MIGUEL A.TORRES\" -TAFI DEL VALLE - RECTOR ESC.AGROP Y TEC.1A.J.C. - 240 [TURNO MAÑANA Y TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 17,
+      "codigo": "PDVC-20200921-59",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "21/09/2020 13:00",
+      "fechaPublicacionFin": "25/09/2020 18:00",
+      "cargos": "[9000087/00] ESC. TECNICA N° 1 DE BELLA VISTA - DCTOR ESC SRIA 1RA.C/2 TURNOS - 231 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 8,
+      "codigo": "PDVC-20200918-50",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "18/09/2020 13:30",
+      "fechaPublicacionFin": "25/09/2020 18:00",
+      "cargos": "[9000997/00] ESC. AGROTECNICA  AMALIA HERNANDEZ DE CASTILLO - RECTOR ESC.AGROP.Y TEC.3A. J.C - 242 [TURNO MAÑANA Y TARDE]",
+      "abierto": false
+    }
+  ],
+  "listaPeriodos": [
+    {
+      "Selected": false,
+      "Text": "9/2020",
+      "Value": "21/09/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "9/2020",
+      "Value": "18/09/2020"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "vacantes": [
+    {
+      "id": 599,
+      "codigo": "PDVC-20201216-642",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "16/12/2020 12:00",
+      "fechaPublicacionFin": "18/12/2020 20:00",
+      "cargos": "[9001933/00] ESC. COSTANERA NORTE - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 598,
+      "codigo": "PDVC-20201214-641",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "14/12/2020 14:30",
+      "fechaPublicacionFin": "16/12/2020 20:00",
+      "cargos": "[9000721/00] ESC. PABLO HAIMES - VICE DCTOR ESCUELA COM - 110 [6 / C # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 597,
+      "codigo": "PDVC-20201214-640",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "14/12/2020 14:30",
+      "fechaPublicacionFin": "16/12/2020 20:00",
+      "cargos": "[9000735/00] ESC. MUTUAL POLICIAL - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [6 / C # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 539,
+      "codigo": "PDVC-20201204-582",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/12/2020 08:00",
+      "fechaPublicacionFin": "11/12/2020 20:00",
+      "cargos": "[9000893/00] ESC. JOSE FEDERICO MORENO - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 538,
+      "codigo": "PDVC-20201204-581",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/12/2020 08:00",
+      "fechaPublicacionFin": "11/12/2020 20:00",
+      "cargos": "[9000479/00] ESC. N° 101 - BATALLA DE  SALTA - DCTOR ESC COMUN TER CAT - 108 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 537,
+      "codigo": "PDVC-20201204-580",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/12/2020 08:00",
+      "fechaPublicacionFin": "11/12/2020 20:00",
+      "cargos": "[9000252/00] ESC. Nº 327 FELIX ANTONIO IBAÑEZ - DCTOR ESC COMUN TER CAT - 108 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 504,
+      "codigo": "PDVC-20201130-547",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "01/12/2020 09:00",
+      "fechaPublicacionFin": "04/12/2020 09:00",
+      "cargos": "[9000734/00] ESC. PROFESOR ALFREDO COSSON - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 503,
+      "codigo": "PDVC-20201130-546",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "01/12/2020 09:00",
+      "fechaPublicacionFin": "04/12/2020 09:00",
+      "cargos": "[9000433/00] ESC. OBISPO JOSE AGUSTIN MOLINA - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 502,
+      "codigo": "PDVC-20201130-545",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "01/12/2020 09:00",
+      "fechaPublicacionFin": "04/12/2020 09:00",
+      "cargos": "[9000091/00] ESC. FEDERICO HELGUERA - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [TURNO MAÑANA]",
+      "abierto": false
+    }
+  ],
+  "listaPeriodos": [
+    {
+      "Selected": false,
+      "Text": "12/2020",
+      "Value": "16/12/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2020",
+      "Value": "14/12/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2020",
+      "Value": "09/12/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2020",
+      "Value": "01/12/2020"
+    }
+  ]
+}

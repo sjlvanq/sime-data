@@ -1,0 +1,383 @@
+{
+  "vacantes": [
+    {
+      "id": 36982,
+      "codigo": "PDVC-20230223-37272",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "27/02/2023 16:00",
+      "fechaPublicacionFin": "01/03/2023 16:00",
+      "cargos": "[9000709/00] ESC. ESPECIAL INMACULADA CONCEPCION - MAESTRO ESPECIAL DIF 10HS - 314 [NINGUNO # TURNO TARDE]",
+      "abierto": true
+    },
+    {
+      "id": 36981,
+      "codigo": "PDVC-20230223-37271",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "27/02/2023 16:00",
+      "fechaPublicacionFin": "01/03/2023 16:00",
+      "cargos": "[9000242/00] ESC. ESPECIAL DR. DARDO MOLINA - MAESTRO GRADO DIFERENCIAL - 307 [NINGUNO / 0 # TURNO MAÑANA]",
+      "abierto": true
+    },
+    {
+      "id": 36975,
+      "codigo": "PDVC-20230223-37265",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "24/02/2023 16:00",
+      "fechaPublicacionFin": "28/02/2023 16:00",
+      "cargos": "[9000543/00] ESC. ESPECIAL ALPI - MAESTRO GRADO DIFERENCIAL - 307 [1 / CICLO B # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36967,
+      "codigo": "PDVC-20230223-37257",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "24/02/2023 16:00",
+      "fechaPublicacionFin": "28/02/2023 16:00",
+      "cargos": "[9000543/00] ESC. ESPECIAL ALPI - MAESTRO ESPECIAL DIF 10HS - 314 [NINGUNO # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36960,
+      "codigo": "PDVC-20230223-37250",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "24/02/2023 16:00",
+      "fechaPublicacionFin": "28/02/2023 16:00",
+      "cargos": "[9000543/00] ESC. ESPECIAL ALPI - TEC. GABINETISTA EDU. ESPECIAL- 324 [NINGUNO # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 35380,
+      "codigo": "PDVC-20221116-35636",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "24/02/2023 16:00",
+      "fechaPublicacionFin": "28/02/2023 16:00",
+      "cargos": "[9000604/00] ESCUELA ESPECIAL NUESTRA SEÑORA DEL ROSARIO - PRECEPTOR DIFERENCIAL - 317 [NINGUNO # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36922,
+      "codigo": "PDVC-20230222-37210",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "23/02/2023 17:00",
+      "fechaPublicacionFin": "27/02/2023 17:00",
+      "cargos": "[9000998/00] ESC. NORMAL SUPERIOR FLORENTINO AMEGHINO - 3HS. DE HISTORIA Y POLITICA EDUCACIONAL ARGENTINA [2 / A # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36921,
+      "codigo": "PDVC-20230222-37209",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "23/02/2023 17:00",
+      "fechaPublicacionFin": "27/02/2023 17:00",
+      "cargos": "[9000998/00] ESC. NORMAL SUPERIOR FLORENTINO AMEGHINO - 3HS. DE HISTORIA DE LA CIENCIA Y LA EPISTEMOLOGIA [3 / A # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36920,
+      "codigo": "PDVC-20230222-37208",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "23/02/2023 17:00",
+      "fechaPublicacionFin": "27/02/2023 17:00",
+      "cargos": "[9000998/00] ESC. NORMAL SUPERIOR FLORENTINO AMEGHINO - 3HS. DE HISTORIA DE LA CIENCIA Y LA EPISTEMOLOGIA [3 / B # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36894,
+      "codigo": "PDVC-20230222-37182",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "23/02/2023 17:00",
+      "fechaPublicacionFin": "27/02/2023 17:00",
+      "cargos": "[9000998/00] ESC. NORMAL SUPERIOR FLORENTINO AMEGHINO - 3HS. DE FILOSOFIA DE LA EDUCACION [3 / A # TURNO NOCHE], [9000998/00] ESC. NORMAL SUPERIOR FLORENTINO AMEGHINO - 2HS. DE FILOSOFIA DE LA EDUCACION [3 / A # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 35936,
+      "codigo": "PDVC-20221124-36193",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "23/02/2023 17:00",
+      "fechaPublicacionFin": "27/02/2023 17:00",
+      "cargos": "[9001984/01] INST. DE ENSEÑANZA SUPERIOR SAN PEDRO DE COLALAO - ANEXO TRA - 3HS. DE INFORMATICA I [2 / U # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36817,
+      "codigo": "PDVC-20230216-37102",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "22/02/2023 17:00",
+      "fechaPublicacionFin": "24/02/2023 17:00",
+      "cargos": "[9001984/01] INST. DE ENSEÑANZA SUPERIOR SAN PEDRO DE COLALAO - ANEXO TRA - 3HS. DE GESTION DE CALIDAD [3 / U # TURNO NOCHE], [9001984/01] INST. DE ENSEÑANZA SUPERIOR SAN PEDRO DE COLALAO - ANEXO TRA - 1HS. DE GESTION DE CALIDAD [3 / U # TURNO NOCHE]",
+      "abierto": true
+    },
+    {
+      "id": 36815,
+      "codigo": "PDVC-20230216-37100",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "22/02/2023 17:00",
+      "fechaPublicacionFin": "24/02/2023 17:00",
+      "cargos": "[9000828/00] INST. DE ENSEÑANZA SUPERIOR TAFI VIEJO - 2HS. DE EFICIENCIA ENERGETICA Y DESARROLLO [1 / A # TURNO NOCHE]",
+      "abierto": true
+    },
+    {
+      "id": 36814,
+      "codigo": "PDVC-20230216-37099",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "22/02/2023 17:00",
+      "fechaPublicacionFin": "24/02/2023 17:00",
+      "cargos": "[9000507/00] INSTITUTO SUPERIOR DE EDUCACION TECNOLOGICA (I.S.E.T.) - 2HS. DE EFICIENCIA ENERGETICA Y DESARROLLO [1 / U # TURNO NOCHE]",
+      "abierto": true
+    },
+    {
+      "id": 36812,
+      "codigo": "PDVC-20230216-37097",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "22/02/2023 17:00",
+      "fechaPublicacionFin": "24/02/2023 17:00",
+      "cargos": "[9000507/00] INSTITUTO SUPERIOR DE EDUCACION TECNOLOGICA (I.S.E.T.) - 3HS. DE SISTEMAS DE GESTION AMBIENTAL [2 / A # TURNO NOCHE]",
+      "abierto": true
+    },
+    {
+      "id": 36811,
+      "codigo": "PDVC-20230216-37096",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "22/02/2023 17:00",
+      "fechaPublicacionFin": "24/02/2023 17:00",
+      "cargos": "[9000507/00] INSTITUTO SUPERIOR DE EDUCACION TECNOLOGICA (I.S.E.T.) - 6HS. DE PRACTICAS PROFESIONALIZANTES III [3 / A # TURNO NOCHE]",
+      "abierto": true
+    },
+    {
+      "id": 36810,
+      "codigo": "PDVC-20230216-37095",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "22/02/2023 17:00",
+      "fechaPublicacionFin": "24/02/2023 17:00",
+      "cargos": "[9000529/00] ESC. NORMAL SUPERIOR TTE. GRAL. JULIO A.ROCA - 2HS. DE EDI [4 / SD # TURNO NOCHE]",
+      "abierto": true
+    },
+    {
+      "id": 36772,
+      "codigo": "PDVC-20230215-37057",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "22/02/2023 17:00",
+      "fechaPublicacionFin": "24/02/2023 17:00",
+      "cargos": "[9000979/00] INST. DE ENSEÑANZA SUPERIOR LA MADRID - 4HS. DE PRACTICA PROFESIONAL IV Y RESIDENCIA DOCENTE  EN EL NIVEL SECUNDARIO [4 / U # TURNO NOCHE], [9000979/00] INST. DE ENSEÑANZA SUPERIOR LA MADRID - 4HS. DE PRACTICA PROFESIONAL IV Y RESIDENCIA DOCENTE  EN EL NIVEL SECUNDARIO [4 / U # TURNO NOCHE]",
+      "abierto": true
+    },
+    {
+      "id": 36771,
+      "codigo": "PDVC-20230215-37056",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "22/02/2023 17:00",
+      "fechaPublicacionFin": "24/02/2023 17:00",
+      "cargos": "[9000183/00] INST. DE ENSEÑANZA SUPERIOR FAMAILLA - 8HS. DE PRACTICA PROFESIONAL IV Y RESIDENCIA DOCENTE [4 / U # TURNO NOCHE]",
+      "abierto": true
+    },
+    {
+      "id": 36769,
+      "codigo": "PDVC-20230215-37054",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "22/02/2023 17:00",
+      "fechaPublicacionFin": "24/02/2023 17:00",
+      "cargos": "[9000529/00] ESC. NORMAL SUPERIOR TTE. GRAL. JULIO A.ROCA - 3HS. DE HISTORIA Y POLÍTICA EDUCACIONAL ARGENTINA [2 / SD # TURNO NOCHE]",
+      "abierto": true
+    },
+    {
+      "id": 35362,
+      "codigo": "PDVC-20221116-35618",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "22/02/2023 17:00",
+      "fechaPublicacionFin": "24/02/2023 17:00",
+      "cargos": "[9000998/00] ESC. NORMAL SUPERIOR FLORENTINO AMEGHINO - 2HS. DE EDI [4 / 0 # TURNO NOCHE]",
+      "abierto": true
+    },
+    {
+      "id": 35361,
+      "codigo": "PDVC-20221116-35617",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "22/02/2023 17:00",
+      "fechaPublicacionFin": "24/02/2023 17:00",
+      "cargos": "[9000998/00] ESC. NORMAL SUPERIOR FLORENTINO AMEGHINO - 2HS. DE EDI [4 / 0 # TURNO NOCHE]",
+      "abierto": true
+    },
+    {
+      "id": 36877,
+      "codigo": "PDVC-20230217-37164",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "22/02/2023 11:00",
+      "fechaPublicacionFin": "24/02/2023 11:00",
+      "cargos": "[9001613/00] ESC. DE EDUCACION POR EL ARTE - DCTOR ESC P/EL ARTE 1A. - 419 [NINGUNO # TURNO TARDE Y NOCHE]",
+      "abierto": true
+    },
+    {
+      "id": 36776,
+      "codigo": "PDVC-20230215-37061",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "16/02/2023 18:00",
+      "fechaPublicacionFin": "22/02/2023 18:00",
+      "cargos": "[9000545/00] INST. ENS. SUP. ALFREDO COVIELLO - 5HS. DE PRACTICAS PROFESIONALIZANTES II [2 / A # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36774,
+      "codigo": "PDVC-20230215-37059",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "16/02/2023 18:00",
+      "fechaPublicacionFin": "22/02/2023 18:00",
+      "cargos": "[9000828/00] INST. DE ENSEÑANZA SUPERIOR TAFI VIEJO - 3HS. DE PROBLEMATICA DE LA EDUCACION PRIMARIA [1 / U # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36773,
+      "codigo": "PDVC-20230215-37058",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "16/02/2023 18:00",
+      "fechaPublicacionFin": "22/02/2023 18:00",
+      "cargos": "[9000883/00] INST. DE ENSEÑANZA SUPERIOR MONTEROS - 8HS. DE PRACTICA PROFESIONAL III EN EL CICLO BASICO DEL NIVEL SECUNDARIO [3 / U # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36770,
+      "codigo": "PDVC-20230215-37055",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "16/02/2023 18:00",
+      "fechaPublicacionFin": "22/02/2023 18:00",
+      "cargos": "[9000340/00] INST. SUPERIOR DE FORMACION DOCENTE AGUILARES - 4HS. DE HISTORIA Y POLITICA EDUCACIONAL ARGENTINA [2 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36768,
+      "codigo": "PDVC-20230215-37053",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "16/02/2023 18:00",
+      "fechaPublicacionFin": "22/02/2023 18:00",
+      "cargos": "[9000529/00] ESC. NORMAL SUPERIOR TTE. GRAL. JULIO A.ROCA - 3HS. DE PRACTICA PROFESIONAL I [1 / SD # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36766,
+      "codigo": "PDVC-20230215-37051",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "16/02/2023 18:00",
+      "fechaPublicacionFin": "22/02/2023 18:00",
+      "cargos": "[9000896/00] ESC. SUPERIOR DE COMERCIO GRAL  J. DE SAN MARTIN - 4HS. DE PRACTICA PROFESIONAL III EN NIVEL INICIAL Y PRIMARIO [3 / U # TURNO NOCHE], [9000896/00] ESC. SUPERIOR DE COMERCIO GRAL  J. DE SAN MARTIN - 2HS. DE PRACTICA PROFESIONAL III EN NIVEL INICIAL Y PRIMARIO [3 / U # TURNO NOCHE], [9000896/00] ESC. SUPERIOR DE COMERCIO GRAL  J. DE SAN MARTIN - 2HS. DE PRACTICA PROFESIONAL III EN NIVEL INICIAL Y PRIMARIO [3 / U # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36765,
+      "codigo": "PDVC-20230215-37050",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "16/02/2023 18:00",
+      "fechaPublicacionFin": "22/02/2023 18:00",
+      "cargos": "[9000664/00] ESC. NORMAL SUPERIOR MANUEL BELGRANO - SIMOCA - 2HS. DE EDUCACION SEXUAL INTEGRAL [4 / U # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36764,
+      "codigo": "PDVC-20230215-37049",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "16/02/2023 18:00",
+      "fechaPublicacionFin": "22/02/2023 18:00",
+      "cargos": "[9000664/00] ESC. NORMAL SUPERIOR MANUEL BELGRANO - SIMOCA - 4HS. DE PRACTICA PROFESIONAL II [2 / A # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36732,
+      "codigo": "PDVC-20221220-36994",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "16/02/2023 18:00",
+      "fechaPublicacionFin": "22/02/2023 18:00",
+      "cargos": "[9000564/00] INSTITUTO DE ENSEÑANZA SUPERIOR LOLA MORA - 4HS. DE PRACTICA PROFESIONAL I [1 / B # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36684,
+      "codigo": "PDVC-20221212-36943",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "16/02/2023 18:00",
+      "fechaPublicacionFin": "22/02/2023 18:00",
+      "cargos": "[9000896/00] ESC. SUPERIOR DE COMERCIO GRAL  J. DE SAN MARTIN - 4HS. DE PRACTICA PROFESIONAL I [1 / U # TURNO NOCHE]",
+      "abierto": false
+    },
+    {
+      "id": 36756,
+      "codigo": "PDVC-20230213-37040",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "15/02/2023 10:00",
+      "fechaPublicacionFin": "17/02/2023 10:00",
+      "cargos": "[9002210/00] ESC. ESP. CLOTILDE DOÑATE (INT. SEC. JOV. Y ADULT. CON DISC. - DIRECTOR ESCUELA DIFERENCIAL - 303 [NINGUNO # TURNO MAÑANA]",
+      "abierto": true
+    },
+    {
+      "id": 36755,
+      "codigo": "PDVC-20230213-37039",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "15/02/2023 10:00",
+      "fechaPublicacionFin": "17/02/2023 10:00",
+      "cargos": "[9002030/00] ESC. ESPECIAL DE TRANCAS  - DIRECTOR ESCUELA DIFERENCIAL - 303 [NINGUNO # TURNO TARDE]",
+      "abierto": true
+    },
+    {
+      "id": 36754,
+      "codigo": "PDVC-20230213-37038",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "15/02/2023 10:00",
+      "fechaPublicacionFin": "17/02/2023 10:00",
+      "cargos": "[9000881/00] ESC. ESPECIAL CLOTILDE ALFONSO DOÑATE - DIRECTOR ESCUELA DIFERENCIAL - 303 [NINGUNO # TURNO TARDE]",
+      "abierto": true
+    },
+    {
+      "id": 36753,
+      "codigo": "PDVC-20230213-37037",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "15/02/2023 10:00",
+      "fechaPublicacionFin": "17/02/2023 10:00",
+      "cargos": "[9001986/00] ESCUELA ESPECIAL MAGDALENA LAGARRIGUE - DIRECTOR ESCUELA DIFERENCIAL - 303 [NINGUNO # TURNO TARDE]",
+      "abierto": true
+    },
+    {
+      "id": 36752,
+      "codigo": "PDVC-20230213-37036",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "15/02/2023 10:00",
+      "fechaPublicacionFin": "17/02/2023 10:00",
+      "cargos": "[9002209/00] ESC. ESP. DR. JULIO B. DE QUIROS (INT. SEC. JOV. Y ADULT. CO - DIRECTOR ESCUELA DIFERENCIAL - 303 [1 / CICLO PEDAGOGICO # TURNO MAÑANA]",
+      "abierto": true
+    }
+  ],
+  "listaPeriodos": [
+    {
+      "Selected": false,
+      "Text": "2/2023",
+      "Value": "27/02/2023"
+    },
+    {
+      "Selected": false,
+      "Text": "2/2023",
+      "Value": "24/02/2023"
+    },
+    {
+      "Selected": false,
+      "Text": "2/2023",
+      "Value": "23/02/2023"
+    },
+    {
+      "Selected": false,
+      "Text": "2/2023",
+      "Value": "22/02/2023"
+    },
+    {
+      "Selected": false,
+      "Text": "2/2023",
+      "Value": "22/02/2023"
+    },
+    {
+      "Selected": false,
+      "Text": "2/2023",
+      "Value": "16/02/2023"
+    },
+    {
+      "Selected": false,
+      "Text": "2/2023",
+      "Value": "15/02/2023"
+    }
+  ]
+}

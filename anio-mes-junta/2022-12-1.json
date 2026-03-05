@@ -1,0 +1,658 @@
+{
+  "vacantes": [
+    {
+      "id": 36737,
+      "codigo": "PDVC-20221227-37003",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "27/12/2022 10:15",
+      "fechaPublicacionFin": "28/12/2022 23:00",
+      "cargos": "[9000320/00] ESC. Nº 157 MAESTRO RURAL - DCTOR ESC COMUN TER CAT - 108 [NINGUNO # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36736,
+      "codigo": "PDVC-20221222-37001",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "26/12/2022 19:00",
+      "fechaPublicacionFin": "28/12/2022 19:00",
+      "cargos": "[9000758/00] ESC. MONSEÑOR BLAS VICTORIO CONRERO - VICE DCTOR ESCUELA COM - 110 [NINGUNO # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36735,
+      "codigo": "PDVC-20221221-37000",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "21/12/2022 19:00",
+      "fechaPublicacionFin": "26/12/2022 19:00",
+      "cargos": "[9000729/00] ESC. N° 387 PTE. DR. ARTURO UMBERTO ILLIA - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [NINGUNO / SIN DATOS # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36734,
+      "codigo": "PDVC-20221221-36999",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "21/12/2022 19:00",
+      "fechaPublicacionFin": "26/12/2022 19:00",
+      "cargos": "[9000129/00] ESC. Nº 227 - DCTOR ESC COMUN TER CAT - 108 [NINGUNO / SIN DATOS # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36733,
+      "codigo": "PDVC-20221221-36998",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "21/12/2022 19:00",
+      "fechaPublicacionFin": "26/12/2022 19:00",
+      "cargos": "[9000836/00] ESC. WENCESLAO POSSE - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [NINGUNO # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36731,
+      "codigo": "PDVC-20221216-36993",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "19/12/2022 19:00",
+      "fechaPublicacionFin": "21/12/2022 19:00",
+      "cargos": "[9000112/00] ESC. Nº 260 - COMODORO RODOLFO DE LA COLINA - DCTOR ESC COMUN TER CAT - 108 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36717,
+      "codigo": "PDVC-20221216-36977",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "19/12/2022 19:00",
+      "fechaPublicacionFin": "21/12/2022 19:00",
+      "cargos": "[9000022/00] ESC. Nº 341 - HERMANA LAURA GERALDINA RUEDA - DCTOR ESC COMUN TER CAT - 108 [TURNO -]",
+      "abierto": false
+    },
+    {
+      "id": 36713,
+      "codigo": "PDVC-20221215-36973",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "19/12/2022 19:00",
+      "fechaPublicacionFin": "21/12/2022 19:00",
+      "cargos": "[9001000/00] ESC. JUAN BAUTISTA BASCARY - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [NINGUNO # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36710,
+      "codigo": "PDVC-20221214-36969",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "14/12/2022 19:00",
+      "fechaPublicacionFin": "16/12/2022 19:00",
+      "cargos": "[9000741/00] ESC. Nº 372 - CAMPO DE LAS CARRERAS - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [NINGUNO # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36708,
+      "codigo": "PDVC-20221214-36967",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "14/12/2022 19:00",
+      "fechaPublicacionFin": "16/12/2022 19:00",
+      "cargos": "[9000000/00] MINISTERIO DE EDUCACION - SUPERVISOR ESCOLAR - 103 [TURNO SIN DATOS]",
+      "abierto": false
+    },
+    {
+      "id": 36702,
+      "codigo": "PDVC-20221213-36961",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "14/12/2022 19:00",
+      "fechaPublicacionFin": "16/12/2022 19:00",
+      "cargos": "[9000000/00] MINISTERIO DE EDUCACION - SUPERVISOR ESCOLAR - 103 [TURNO SIN DATOS]",
+      "abierto": false
+    },
+    {
+      "id": 36701,
+      "codigo": "PDVC-20221213-36960",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "14/12/2022 19:00",
+      "fechaPublicacionFin": "16/12/2022 19:00",
+      "cargos": "[9000000/00] MINISTERIO DE EDUCACION - SUPERVISOR ESCOLAR - 103 [TURNO SIN DATOS]",
+      "abierto": false
+    },
+    {
+      "id": 36695,
+      "codigo": "PDVC-20221213-36954",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "14/12/2022 19:00",
+      "fechaPublicacionFin": "16/12/2022 19:00",
+      "cargos": "[9000200/00] ESC. N° 266 - CARMEN MENDER DE ALMARAZ - DCTOR ESC COMUN TER CAT - 108 [NINGUNO / SIN DATOS # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36694,
+      "codigo": "PDVC-20221213-36953",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "14/12/2022 19:00",
+      "fechaPublicacionFin": "16/12/2022 19:00",
+      "cargos": "[9000961/00] ESC. Nº 307 - MARCELINA DIAZ IBAÑEZ DE GOMEZ - DCTOR ESC COMUN TER CAT - 108 [NINGUNO / SIN DATOS # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36679,
+      "codigo": "PDVC-20221207-36938",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "12/12/2022 19:00",
+      "fechaPublicacionFin": "14/12/2022 19:00",
+      "cargos": "[9000447/00] ESC. LUCAS ALEJANDRO CORDOBA - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [NINGUNO # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36678,
+      "codigo": "PDVC-20221207-36937",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "12/12/2022 19:00",
+      "fechaPublicacionFin": "14/12/2022 19:00",
+      "cargos": "[9000498/00] ESC. Nº 205 DR. BERNARDO LOZADA ECHENIQUE - DCTOR ESC COMUN TER CAT - 108 [NINGUNO / NINGUNO # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36648,
+      "codigo": "PDVC-20221205-36907",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9000843/00] ESC. Nº 062 - MONS. CARLOS ECHENIQUE Y ALTAMIRA - DCTOR ESC JORN COMP TER CATEG. - 134 [NINGUNO # TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 36647,
+      "codigo": "PDVC-20221205-36906",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9000263/00] ESC. Nº 133 NTRA SEÑORA DE LA CANDELARIA - MAESTRO ESPECIAL COMUN  (1/11) - 122 [PLASTICA] [1 / A # TURNO TARDE], [9000263/00] ESC. Nº 133 NTRA SEÑORA DE LA CANDELARIA - MAESTRO ESPECIAL COMUN  (1/11) - 122 [PLASTICA] [1 / B # TURNO TARDE], [9000263/00] ESC. Nº 133 NTRA SEÑORA DE LA CANDELARIA - MAESTRO ESPECIAL COMUN  (1/11) - 122 [PLASTICA] [2 / A # TURNO TARDE], [9000263/00] ESC. Nº 133 NTRA SEÑORA DE LA CANDELARIA - MAESTRO ESPECIAL COMUN  (1/11) - 122 [PLASTICA] [2 / B # TURNO TARDE], [9000263/00] ESC. Nº 133 NTRA SEÑORA DE LA CANDELARIA - MAESTRO ESPECIAL COMUN  (1/11) - 122 [PLASTICA] [3 / A # TURNO TARDE], [9000263/00] ESC. Nº 133 NTRA SEÑORA DE LA CANDELARIA - MAESTRO ESPECIAL COMUN  (1/11) - 122 [PLASTICA] [3 / B # TURNO TARDE], [9000263/00] ESC. Nº 133 NTRA SEÑORA DE LA CANDELARIA - MAESTRO ESPECIAL COMUN  (1/11) - 122 [PLASTICA] [6 / B # TURNO MAÑANA], [9000263/00] ESC. Nº 133 NTRA SEÑORA DE LA CANDELARIA - MAESTRO ESPECIAL COMUN  (1/11) - 122 [PLASTICA] [6 / C # TURNO MAÑANA], [9000263/00] ESC. Nº 133 NTRA SEÑORA DE LA CANDELARIA - MAESTRO ESPECIAL COMUN  (1/11) - 122 [PLASTICA] [5 / A # TURNO MAÑANA], [9000263/00] ESC. Nº 133 NTRA SEÑORA DE LA CANDELARIA - MAESTRO ESPECIAL COMUN  (1/11) - 122 [PLASTICA] [5 / B # TURNO MAÑANA], [9000263/00] ESC. Nº 133 NTRA SEÑORA DE LA CANDELARIA - MAESTRO ESPECIAL COMUN  (1/11) - 122 [PLASTICA] [5 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36639,
+      "codigo": "PDVC-20221205-36898",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9001978/00] ESC. B° POLICIAL  - MAESTRO DE GRADO - 115 [5 / A # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36638,
+      "codigo": "PDVC-20221205-36897",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9000495/00] ESC. Nº 071 - PROVINCIA DE JUJUY - MAESTRO DE GRADO - 115 [1 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36637,
+      "codigo": "PDVC-20221205-36896",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9000348/00] ESC. Nº 382 LIBERTADOR DE AMERICA - MAESTRO DE GRADO - 115 [4 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36635,
+      "codigo": "PDVC-20221205-36894",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9000083/00] ESC. DIEGO DE VILLARROEL - MAESTRO DE GRADO - 115 [3 / D # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36634,
+      "codigo": "PDVC-20221205-36893",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9000090/00] ESC. Nº 388 - JOSE DE DARREGUEIRA - MAESTRO DE GRADO - 115 [2 / A # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36633,
+      "codigo": "PDVC-20221205-36892",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9000609/00] ESC. Nº 247 - DR. PANTALEON FERNANDEZ - MAESTRO DE GRADO - 115 [6 / C # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36632,
+      "codigo": "PDVC-20221205-36891",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9000714/00] ESC. Nº 124 - MAESTRO DE GRADO - 115 [1 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36631,
+      "codigo": "PDVC-20221205-36890",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9000393/00] ESC. DR. ELISEO CANTON - MAESTRO DE GRADO - 115 [2 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36630,
+      "codigo": "PDVC-20221205-36889",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9000294/00] ESC. N° 132 - ESCUELA PARA LA PAZ - MAESTRO ESPECIAL COMUN  (2/10) - 121 [EDUCACION MUSICAL] [NINGUNO / A # TURNO MAÑANA], [9000374/00] ESC. DR. MIGUEL LILLO - MAESTRO ESPECIAL COMUN  (1/10) - 121 [MUSICA] [5 / D # TURNO TARDE], [9000374/00] ESC. DR. MIGUEL LILLO - MAESTRO ESPECIAL COMUN  (1/10) - 121 [MUSICA] [5 / C # TURNO TARDE], [9000294/00] ESC. N° 132 - ESCUELA PARA LA PAZ - MAESTRO ESPECIAL COMUN  (1/10) - 121 [MUSICA] [6 / A # TURNO MAÑANA], [9000294/00] ESC. N° 132 - ESCUELA PARA LA PAZ - MAESTRO ESPECIAL COMUN  (1/10) - 121 [MUSICA] [5 / A # TURNO MAÑANA], [9000294/00] ESC. N° 132 - ESCUELA PARA LA PAZ - MAESTRO ESPECIAL COMUN  (1/10) - 121 [MUSICA] [4 / A # TURNO MAÑANA], [9000294/00] ESC. N° 132 - ESCUELA PARA LA PAZ - MAESTRO ESPECIAL COMUN  (1/10) - 121 [MUSICA] [3 / A # TURNO MAÑANA], [9000294/00] ESC. N° 132 - ESCUELA PARA LA PAZ - MAESTRO ESPECIAL COMUN  (1/10) - 121 [MUSICA] [2 / A # TURNO MAÑANA], [9000294/00] ESC. N° 132 - ESCUELA PARA LA PAZ - MAESTRO ESPECIAL COMUN  (1/10) - 121 [MUSICA] [1 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36629,
+      "codigo": "PDVC-20221205-36888",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9000244/00] ESC. N° 225 - PEDRO PEREZ - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [EDUCACION MUSICAL] [5 / A # TURNO JORNADA COMPLETA], [9000244/00] ESC. N° 225 - PEDRO PEREZ - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [EDUCACION MUSICAL] [4 / A # TURNO JORNADA COMPLETA], [9000244/00] ESC. N° 225 - PEDRO PEREZ - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [EDUCACION MUSICAL] [6 / A # TURNO JORNADA COMPLETA], [9000244/00] ESC. N° 225 - PEDRO PEREZ - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [EDUCACION MUSICAL] [3 / A # TURNO JORNADA COMPLETA], [9000244/00] ESC. N° 225 - PEDRO PEREZ - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [EDUCACION MUSICAL] [2 / A # TURNO JORNADA COMPLETA], [9000244/00] ESC. N° 225 - PEDRO PEREZ - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [EDUCACION MUSICAL] [1 / A # TURNO JORNADA COMPLETA], [9000244/00] ESC. N° 225 - PEDRO PEREZ - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [EDUCACION MUSICAL] [NINGUNO / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36590,
+      "codigo": "PDVC-20221202-36849",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "05/12/2022 19:00",
+      "fechaPublicacionFin": "07/12/2022 19:00",
+      "cargos": "[9000509/00] ESC. MARIANO ARIZA - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [PLASTICA] [1 / A # TURNO JORNADA COMPLETA], [9000509/00] ESC. MARIANO ARIZA - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [PLASTICA] [2 / A # TURNO JORNADA COMPLETA], [9000509/00] ESC. MARIANO ARIZA - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [PLASTICA] [3 / A # TURNO JORNADA COMPLETA], [9000509/00] ESC. MARIANO ARIZA - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [PLASTICA] [4 / A # TURNO JORNADA COMPLETA], [9000509/00] ESC. MARIANO ARIZA - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [PLASTICA] [5 / A # TURNO JORNADA COMPLETA], [9000509/00] ESC. MARIANO ARIZA - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [PLASTICA] [6 / A # TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 36614,
+      "codigo": "PDVC-20221202-36873",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000424/00] ESC. DOMICILIARIA ELIZABETH KENNY CON EXTENSION HOSPITALARIA - 743-MAESTRO DE GRADO DE ESC. COMUN DOMIC./HOSP. [NINGUNO / 0 # TURNO MAÑANA]",
+      "abierto": true
+    },
+    {
+      "id": 36613,
+      "codigo": "PDVC-20221202-36872",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000424/00] ESC. DOMICILIARIA ELIZABETH KENNY CON EXTENSION HOSPITALARIA - 743-MAESTRO DE GRADO DE ESC. COMUN DOMIC./HOSP. [NINGUNO / 0 # TURNO MAÑANA]",
+      "abierto": true
+    },
+    {
+      "id": 36612,
+      "codigo": "PDVC-20221202-36871",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000424/00] ESC. DOMICILIARIA ELIZABETH KENNY CON EXTENSION HOSPITALARIA - 743-MAESTRO DE GRADO DE ESC. COMUN DOMIC./HOSP. [NINGUNO / 0 # TURNO TARDE]",
+      "abierto": true
+    },
+    {
+      "id": 36611,
+      "codigo": "PDVC-20221202-36870",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000424/00] ESC. DOMICILIARIA ELIZABETH KENNY CON EXTENSION HOSPITALARIA - 743-MAESTRO DE GRADO DE ESC. COMUN DOMIC./HOSP. [NINGUNO / 0 # TURNO TARDE]",
+      "abierto": true
+    },
+    {
+      "id": 36606,
+      "codigo": "PDVC-20221202-36865",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000075/00] ESC. N° 297 - RANDERAS TUCUMANAS - MAESTRO DE GRADO - 115 [NINGUNO / 1º, 2º Y 3º # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36605,
+      "codigo": "PDVC-20221202-36864",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000051/00] ESC. Nº 280 - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [TECNICAS AGROPECUARIAS / TECNOLOGIAS DIVERSAS] [1 / A # TURNO JORNADA COMPLETA], [9000051/00] ESC. Nº 280 - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [TECNICAS AGROPECUARIAS / TECNOLOGIAS DIVERSAS] [2 / A # TURNO JORNADA COMPLETA], [9000051/00] ESC. Nº 280 - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [TECNICAS AGROPECUARIAS / TECNOLOGIAS DIVERSAS] [5 / A # TURNO JORNADA COMPLETA], [9000051/00] ESC. Nº 280 - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [TECNICAS AGROPECUARIAS / TECNOLOGIAS DIVERSAS] [3 / A # TURNO JORNADA COMPLETA], [9000051/00] ESC. Nº 280 - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [TECNICAS AGROPECUARIAS / TECNOLOGIAS DIVERSAS] [4 / A # TURNO JORNADA COMPLETA], [9000051/00] ESC. Nº 280 - MAESTRO ESP.JORN.COMPL 15 HRS. - 137 [TECNICAS AGROPECUARIAS / TECNOLOGIAS DIVERSAS] [6 / A # TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 36604,
+      "codigo": "PDVC-20221202-36863",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000481/00] ESC. Nº 236 - MAESTRO GRADO JORN COMPLETA - 136 [5 / A # TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 36602,
+      "codigo": "PDVC-20221202-36861",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000734/00] ESC. PROFESOR ALFREDO COSSON - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [1 / A # TURNO MAÑANA], [9000734/00] ESC. PROFESOR ALFREDO COSSON - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [1 / B # TURNO MAÑANA], [9000734/00] ESC. PROFESOR ALFREDO COSSON - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [1 / C # TURNO MAÑANA], [9000734/00] ESC. PROFESOR ALFREDO COSSON - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [2 / A # TURNO MAÑANA], [9000734/00] ESC. PROFESOR ALFREDO COSSON - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [2 / B # TURNO MAÑANA], [9000734/00] ESC. PROFESOR ALFREDO COSSON - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [2 / C # TURNO MAÑANA], [9000734/00] ESC. PROFESOR ALFREDO COSSON - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [3 / A # TURNO MAÑANA], [9000734/00] ESC. PROFESOR ALFREDO COSSON - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [3 / B # TURNO MAÑANA], [9000734/00] ESC. PROFESOR ALFREDO COSSON - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [3 / C # TURNO MAÑANA], [9000734/00] ESC. PROFESOR ALFREDO COSSON - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [4 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36601,
+      "codigo": "PDVC-20221202-36860",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000245/00] ESC. Nº 106 - PROVINCIA DE SAN JUAN - MAESTRO DE GRADO - 115 [4 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36600,
+      "codigo": "PDVC-20221202-36859",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000487/00] ESC. MARCO MANUEL AVELLANEDA - MAESTRO GRADO JORN COMPLETA - 136 [6 / B # TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 36589,
+      "codigo": "PDVC-20221202-36848",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000458/00] ESC. Nº 210 - GREGORIO ARAOZ DE LAMADRID - MAESTRO DE RELIGION (2/15) - 174 [RELIGION] [1 / A # TURNO JORNADA COMPLETA], [9000458/00] ESC. Nº 210 - GREGORIO ARAOZ DE LAMADRID - MAESTRO DE RELIGION (2/15) - 174 [RELIGION] [2 / A # TURNO JORNADA COMPLETA], [9000458/00] ESC. Nº 210 - GREGORIO ARAOZ DE LAMADRID - MAESTRO DE RELIGION (2/15) - 174 [RELIGION] [3 / A # TURNO JORNADA COMPLETA], [9000458/00] ESC. Nº 210 - GREGORIO ARAOZ DE LAMADRID - MAESTRO DE RELIGION (2/15) - 174 [RELIGION] [4 / A # TURNO JORNADA COMPLETA], [9000458/00] ESC. Nº 210 - GREGORIO ARAOZ DE LAMADRID - MAESTRO DE RELIGION (2/15) - 174 [RELIGION] [4 / B # TURNO JORNADA COMPLETA], [9000458/00] ESC. Nº 210 - GREGORIO ARAOZ DE LAMADRID - MAESTRO DE RELIGION (2/15) - 174 [RELIGION] [5 / A # TURNO JORNADA COMPLETA], [9000458/00] ESC. Nº 210 - GREGORIO ARAOZ DE LAMADRID - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [6 / A # TURNO JORNADA COMPLETA], [9000458/00] ESC. Nº 210 - GREGORIO ARAOZ DE LAMADRID - MAESTRO DE RELIGION (2/15) - 174 [RELIGION] [6 / B # TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 36588,
+      "codigo": "PDVC-20221202-36847",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9002060/00] ESC. DE NIVEL INICIAL Nº 113 JOAQUIN VICTOR GONZALEZ - MAESTRO DE JARDIN - 116 [J5 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36587,
+      "codigo": "PDVC-20221202-36846",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000262/00] ESC. Nº 131 - DCTOR ESC.COMUN SEGUNDA CATEG. - 107 [NINGUNO / SIN DATOS # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36551,
+      "codigo": "PDVC-20221202-36810",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000851/00] ESC. RICARDO JAIMES FREYRE - MAESTRO DE GRADO - 115 [1 / C # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36550,
+      "codigo": "PDVC-20221202-36809",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000391/00] ESC. DR. IGNACIO COLOMBRES - MAESTRO DE GRADO - 115 [6 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36536,
+      "codigo": "PDVC-20221202-36795",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000479/00] ESC. N° 101 - BATALLA DE  SALTA - MAESTRO DE JARDIN - 116 [G / 3,4,5 # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36522,
+      "codigo": "PDVC-20221202-36781",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9001021/00] ESC. SAN MARTIN - MAESTRO DE GRADO - 115 [6 / D # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36518,
+      "codigo": "PDVC-20221201-36777",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000600/00] ESC. ALBERTO GARCIA HAMILTON - MAESTRO DE GRADO - 115 [4 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36513,
+      "codigo": "PDVC-20221201-36772",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000767/00] ESC. Nº 074 - DOCTOR ENRIQUE BASCARY - MAESTRO DE GRADO - 115 [NINGUNO / 4,5,6 # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36495,
+      "codigo": "PDVC-20221201-36753",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000739/00] ESC. FORTUNATA GARCIA DE GARCIA - MAESTRO ESPECIAL COMUN  (1/10) - 121 [EDUCACION FISICA] [1 / D # TURNO TARDE], [9000739/00] ESC. FORTUNATA GARCIA DE GARCIA - MAESTRO ESPECIAL COMUN  (1/10) - 121 [EDUCACION FISICA] [1 / D # TURNO TARDE], [9000739/00] ESC. FORTUNATA GARCIA DE GARCIA - MAESTRO ESPECIAL COMUN  (1/10) - 121 [EDUCACION FISICA] [1 / F # TURNO TARDE], [9001003/00] ESC. Nº 330 EUDORO AVELLANEDA - MAESTRO ESPECIAL COMUN  (1/10) - 121 [EDUCACION FISICA] [1 / B # TURNO MAÑANA], [9001003/00] ESC. Nº 330 EUDORO AVELLANEDA - MAESTRO ESPECIAL COMUN  (1/10) - 121 [EDUCACION FISICA] [1 / A # TURNO MAÑANA], [9001003/00] ESC. Nº 330 EUDORO AVELLANEDA - MAESTRO ESPECIAL COMUN  (1/10) - 121 [EDUCACION FISICA] [1 / D # TURNO TARDE], [9000874/00] ESC. Nº 351 - JOSE IGNACIO THAMES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [EDUCACION FISICA] [1 / B # TURNO MAÑANA], [9000874/00] ESC. Nº 351 - JOSE IGNACIO THAMES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [EDUCACION FISICA] [1 / C # TURNO TARDE], [9000874/00] ESC. Nº 351 - JOSE IGNACIO THAMES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [EDUCACION FISICA] [2 / A # TURNO MAÑANA], [9001003/00] ESC. Nº 330 EUDORO AVELLANEDA - MAESTRO ESPECIAL COMUN  (1/10) - 121 [EDUCACION FISICA] [1 / C # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36492,
+      "codigo": "PDVC-20221201-36750",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9002350/00] ESC. DE NIVEL INICIAL VILLA NUEVA  - MAESTRO DE JARDIN - 116 [J5 / C # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36488,
+      "codigo": "PDVC-20221201-36746",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000084/00] ESC. N° 165 - JUANA AZURDUY - MAESTRO DE JARDIN - 116 [G / J3,J4,J5 # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36483,
+      "codigo": "PDVC-20221201-36741",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9002393/00] ESC. DE NIVEL INICIAL N°259 GENERAL MANUEL BELGRANO - MAESTRO DE JARDIN - 116 [J5 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36466,
+      "codigo": "PDVC-20221201-36724",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000064/00] ESC. Nº 262 - BALDOMERO FERNANDEZ MORENO - MAESTRO DE GRADO - 115 [NINGUNO / 2ºY3º # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36464,
+      "codigo": "PDVC-20221201-36722",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000060/00] ESC. Nº 166- ELVIRA LOPEZ DE MARTINEZ ZAVALIA - MAESTRO DE GRADO - 115 [NINGUNO / 4,5,6 # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36455,
+      "codigo": "PDVC-20221201-36713",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000182/00] ESC. SILVANO BORES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [5 / B # TURNO MAÑANA], [9000182/00] ESC. SILVANO BORES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [5 / A # TURNO MAÑANA], [9000182/00] ESC. SILVANO BORES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [4 / B # TURNO MAÑANA], [9000182/00] ESC. SILVANO BORES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [4 / A # TURNO MAÑANA], [9000182/00] ESC. SILVANO BORES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [3 / B # TURNO MAÑANA], [9000182/00] ESC. SILVANO BORES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [3 / A # TURNO MAÑANA], [9000182/00] ESC. SILVANO BORES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [2 / B # TURNO MAÑANA], [9000182/00] ESC. SILVANO BORES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [2 / A # TURNO MAÑANA], [9000182/00] ESC. SILVANO BORES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [1 / B # TURNO MAÑANA], [9000182/00] ESC. SILVANO BORES - MAESTRO ESPECIAL COMUN  (1/10) - 121 [TECNOLOGIA] [1 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36453,
+      "codigo": "PDVC-20221201-36711",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000734/00] ESC. PROFESOR ALFREDO COSSON - MAESTRO DE GRADO - 115 [5 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36451,
+      "codigo": "PDVC-20221201-36709",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9002057/02] ESC. DE NIVEL INICIAL FORTUNATA GARCIA DE GARCIA - ANEX - MAESTRO ESPECIAL JARDIN  (1/10) - 127 [EDUCACION MUSICAL] [J5 / F # TURNO TARDE], [9002057/02] ESC. DE NIVEL INICIAL FORTUNATA GARCIA DE GARCIA - ANEX - MAESTRO ESPECIAL JARDIN  (1/10) - 127 [EDUCACION MUSICAL] [J5 / E # TURNO TARDE], [9002057/02] ESC. DE NIVEL INICIAL FORTUNATA GARCIA DE GARCIA - ANEX - MAESTRO ESPECIAL JARDIN  (1/10) - 127 [EDUCACION MUSICAL] [J5 / E # TURNO TARDE], [9002057/02] ESC. DE NIVEL INICIAL FORTUNATA GARCIA DE GARCIA - ANEX - MAESTRO ESPECIAL JARDIN  (1/10) - 127 [EDUCACION MUSICAL] [J5 / D # TURNO TARDE], [9002057/02] ESC. DE NIVEL INICIAL FORTUNATA GARCIA DE GARCIA - ANEX - MAESTRO ESPECIAL JARDIN  (1/10) - 127 [EDUCACION MUSICAL] [J5 / D # TURNO TARDE], [9002057/02] ESC. DE NIVEL INICIAL FORTUNATA GARCIA DE GARCIA - ANEX - MAESTRO ESPECIAL JARDIN  (1/10) - 127 [EDUCACION MUSICAL] [J5 / C # TURNO MAÑANA], [9002057/02] ESC. DE NIVEL INICIAL FORTUNATA GARCIA DE GARCIA - ANEX - MAESTRO ESPECIAL JARDIN  (1/10) - 127 [EDUCACION MUSICAL] [J5 / B # TURNO MAÑANA], [9002057/02] ESC. DE NIVEL INICIAL FORTUNATA GARCIA DE GARCIA - ANEX - MAESTRO ESPECIAL JARDIN  (1/10) - 127 [EDUCACION MUSICAL] [J5 / B # TURNO MAÑANA], [9002057/02] ESC. DE NIVEL INICIAL FORTUNATA GARCIA DE GARCIA - ANEX - MAESTRO ESPECIAL JARDIN  (1/10) - 127 [EDUCACION MUSICAL] [J5 / A # TURNO MAÑANA], [9002057/02] ESC. DE NIVEL INICIAL FORTUNATA GARCIA DE GARCIA - ANEX - MAESTRO ESPECIAL JARDIN  (1/10) - 127 [EDUCACION MUSICAL] [J5 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36450,
+      "codigo": "PDVC-20221201-36708",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000898/00] ESC. ZENON JOSE SANTILLAN - MAESTRO DE GRADO - 115 [2 / D # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36449,
+      "codigo": "PDVC-20221201-36707",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000743/00] ESC. Nº 110 GDOR. CELEDONIO GUTIERREZ - MAESTRO DE GRADO - 115 [2 / C # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36445,
+      "codigo": "PDVC-20221201-36703",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000433/00] ESC. OBISPO JOSE AGUSTIN MOLINA - MAESTRO DE GRADO - 115 [3 / D # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36405,
+      "codigo": "PDVC-20221130-36662",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9002299/00] ESC. DE NIVEL INICIAL JUAN CRISOSTOMO ALVAREZ - MAESTRO DE JARDIN - 116 [J4 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36403,
+      "codigo": "PDVC-20221130-36660",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9002278/00] ESC. DE NIVEL INICIAL DR. IGNACIO COLOMBRES - MAESTRO ESPECIAL JARDIN  (2/10) - 127 [EDUCACION MUSICAL] [J4 / A # TURNO MAÑANA], [9002278/00] ESC. DE NIVEL INICIAL DR. IGNACIO COLOMBRES - MAESTRO ESPECIAL JARDIN  (2/10) - 127 [EDUCACION MUSICAL] [J4 / B # TURNO TARDE], [9002278/00] ESC. DE NIVEL INICIAL DR. IGNACIO COLOMBRES - MAESTRO ESPECIAL JARDIN  (1/10) - 127 [EDUCACION MUSICAL] [J5 / A # TURNO MAÑANA], [9002278/00] ESC. DE NIVEL INICIAL DR. IGNACIO COLOMBRES - MAESTRO ESPECIAL JARDIN  (2/10) - 127 [EDUCACION MUSICAL] [G / 4,5 # TURNO MAÑANA], [9002278/00] ESC. DE NIVEL INICIAL DR. IGNACIO COLOMBRES - MAESTRO ESPECIAL JARDIN  (2/10) - 127 [EDUCACION MUSICAL] [J3 / A # TURNO TARDE], [9002278/00] ESC. DE NIVEL INICIAL DR. IGNACIO COLOMBRES - MAESTRO ESPECIAL JARDIN  (1/10) - 127 [EDUCACION MUSICAL] [J5 / B # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36402,
+      "codigo": "PDVC-20221130-36659",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000596/00] ESC. PERIODISMO ARGENTINO - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [5 / C # TURNO TARDE], [9000596/00] ESC. PERIODISMO ARGENTINO - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [6 / B # TURNO TARDE], [9000596/00] ESC. PERIODISMO ARGENTINO - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [3 / C # TURNO TARDE], [9000596/00] ESC. PERIODISMO ARGENTINO - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [2 / B # TURNO TARDE], [9000596/00] ESC. PERIODISMO ARGENTINO - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [4 / C # TURNO TARDE], [9000596/00] ESC. PERIODISMO ARGENTINO - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [1 / B # TURNO TARDE], [9000379/00] ESC. BERNARDINO RIVADAVIA - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [5 / F # TURNO TARDE], [9000379/00] ESC. BERNARDINO RIVADAVIA - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [1 / D # TURNO TARDE], [9000379/00] ESC. BERNARDINO RIVADAVIA - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [3 / F # TURNO TARDE], [9000379/00] ESC. BERNARDINO RIVADAVIA - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [3 / D # TURNO TARDE], [9000399/00] ESC. Nº 46 - PRESIDENTE NICOLAS AVELLANEDA - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [6 / C # TURNO TARDE], [9000399/00] ESC. Nº 46 - PRESIDENTE NICOLAS AVELLANEDA - MAESTRO DE RELIGION (1/15) - 174 [5 / C # TURNO TARDE], [9000399/00] ESC. Nº 46 - PRESIDENTE NICOLAS AVELLANEDA - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [4 / C # TURNO TARDE], [9000399/00] ESC. Nº 46 - PRESIDENTE NICOLAS AVELLANEDA - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [6 / C # TURNO TARDE], [9000399/00] ESC. Nº 46 - PRESIDENTE NICOLAS AVELLANEDA - MAESTRO DE RELIGION (1/15) - 174 [RELIGION] [4 / C # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36401,
+      "codigo": "PDVC-20221130-36658",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9002367/00] ESC. DE NIVEL INICIAL GRAL. JUAN GREGORIO LAS HERAS - MAESTRO DE JARDIN - 116 [J3 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 36400,
+      "codigo": "PDVC-20221130-36657",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000344/00] ESC. MAESTRO LUIS GIANNEO - MAESTRO DE JARDIN - 116 [J3 / A # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36399,
+      "codigo": "PDVC-20221130-36656",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9002371/00] ESC. DE NIVEL INICIAL DR. GUILLERMO RAWSON - MAESTRO ESPECIAL JARDIN (2/11) - 128 [EDUCACION MUSICAL] [J4 / A  # TURNO MAÑANA], [9002371/00] ESC. DE NIVEL INICIAL DR. GUILLERMO RAWSON - MAESTRO ESPECIAL JARDIN (2/11) - 128 [EDUCACION MUSICAL] [J5 / A  # TURNO MAÑANA], [9002371/00] ESC. DE NIVEL INICIAL DR. GUILLERMO RAWSON - MAESTRO ESPECIAL JARDIN (1/11) - 128 [EDUCACION MUSICAL] [J5 / B  # TURNO MAÑANA], [9002371/00] ESC. DE NIVEL INICIAL DR. GUILLERMO RAWSON - MAESTRO ESPECIAL JARDIN (1/11) - 128 [EDUCACION MUSICAL] [J5 / C  # TURNO MAÑANA], [9002371/00] ESC. DE NIVEL INICIAL DR. GUILLERMO RAWSON - MAESTRO ESPECIAL JARDIN (2/11) - 128 [EDUCACION MUSICAL] [J3 / A  # TURNO TARDE], [9002371/00] ESC. DE NIVEL INICIAL DR. GUILLERMO RAWSON - MAESTRO ESPECIAL JARDIN (1/11) - 128 [EDUCACION MUSICAL] [J3 / B  # TURNO TARDE], [9002371/00] ESC. DE NIVEL INICIAL DR. GUILLERMO RAWSON - MAESTRO ESPECIAL JARDIN (1/11) - 128 [EDUCACION MUSICAL] [J4 / B  # TURNO TARDE], [9002371/00] ESC. DE NIVEL INICIAL DR. GUILLERMO RAWSON - MAESTRO ESPECIAL JARDIN (1/11) - 128 [EDUCACION MUSICAL] [J4 / C  # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 36398,
+      "codigo": "PDVC-20221130-36655",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000810/00] ESC. Nº 91 - PROVINCIA DE CHUBUT - DCTOR.ESC.JORN.COM.SEG.CATEG. - 133 [NINGUNO # TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 36333,
+      "codigo": "PDVC-20221130-36590",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "02/12/2022 19:00",
+      "fechaPublicacionFin": "06/12/2022 19:00",
+      "cargos": "[9000524/00] ESC. N° 14 - 1° DE MAYO - MAESTRO ESPECIAL JORN COMPL (3/18) - 154 [PLASTICA] [3 / A # TURNO JORNADA COMPLETA], [9000524/00] ESC. N° 14 - 1° DE MAYO - MAESTRO ESPECIAL JORN COMPL (2/18) - 154 [PLASTICA] [5 / A  # TURNO JORNADA COMPLETA], [9000524/00] ESC. N° 14 - 1° DE MAYO - MAESTRO ESPECIAL JORN COMPL (3/18) - 154 [PLASTICA] [2 / A # TURNO JORNADA COMPLETA], [9000524/00] ESC. N° 14 - 1° DE MAYO - MAESTRO ESPECIAL JORN COMPL (2/18) - 154 [PLASTICA] [5 / A # TURNO JORNADA COMPLETA], [9000524/00] ESC. N° 14 - 1° DE MAYO - MAESTRO ESPECIAL JORN COMPL (2/18) - 154 [PLASTICA] [4 / A # TURNO JORNADA COMPLETA], [9000524/00] ESC. N° 14 - 1° DE MAYO - MAESTRO ESPECIAL JORN COMPL (2/18) - 154 [PLASTICA] [1 / A # TURNO JORNADA COMPLETA], [9000524/00] ESC. N° 14 - 1° DE MAYO - MAESTRO ESPECIAL JORN COMPL (2/18) - 154 [PLASTICA] [1 / A # TURNO JORNADA COMPLETA], [9000524/00] ESC. N° 14 - 1° DE MAYO - MAESTRO ESPECIAL JORN COMPL (2/18) - 154 [PLASTICA] [6 / A # TURNO JORNADA COMPLETA]",
+      "abierto": false
+    }
+  ],
+  "listaPeriodos": [
+    {
+      "Selected": false,
+      "Text": "12/2022",
+      "Value": "27/12/2022"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2022",
+      "Value": "26/12/2022"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2022",
+      "Value": "21/12/2022"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2022",
+      "Value": "19/12/2022"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2022",
+      "Value": "14/12/2022"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2022",
+      "Value": "12/12/2022"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2022",
+      "Value": "05/12/2022"
+    },
+    {
+      "Selected": false,
+      "Text": "12/2022",
+      "Value": "02/12/2022"
+    }
+  ]
+}

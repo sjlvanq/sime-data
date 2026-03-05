@@ -1,0 +1,47 @@
+{
+  "vacantes": [
+    {
+      "id": 25,
+      "codigo": "PDVC-20200925-67",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "28/09/2020 14:00",
+      "fechaPublicacionFin": "30/09/2020 18:00",
+      "cargos": "[9000840/00] ESC. Nº 112 - DCTOR ESC JORN COMP TER CATEG. - 134 [TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 24,
+      "codigo": "PDVC-20200925-66",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "28/09/2020 14:00",
+      "fechaPublicacionFin": "30/09/2020 18:00",
+      "cargos": "[9000644/00] ESC. Nº 150 MERCEDITAS DE SAN MARTIN - DCTOR ESC COMUN TER CAT - 108 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 23,
+      "codigo": "PDVC-20200925-65",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "28/09/2020 14:00",
+      "fechaPublicacionFin": "30/09/2020 18:00",
+      "cargos": "[9000137/00] ESC. DR. MARIANO MORENO - DCTOR ESC COMUN TER CAT - 108 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 22,
+      "codigo": "PDVC-20200925-64",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "28/09/2020 14:00",
+      "fechaPublicacionFin": "30/09/2020 18:00",
+      "cargos": "[9000338/00] ESC. BRIGIDO TERAN - DTOR ESC JORN COMP PRA CATEG. - 132 [TURNO JORNADA COMPLETA]",
+      "abierto": false
+    }
+  ],
+  "listaPeriodos": [
+    {
+      "Selected": false,
+      "Text": "9/2020",
+      "Value": "28/09/2020"
+    }
+  ]
+}

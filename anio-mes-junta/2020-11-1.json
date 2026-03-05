@@ -1,0 +1,635 @@
+{
+  "vacantes": [
+    {
+      "id": 401,
+      "codigo": "PDVC-20201125-444",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "27/11/2020 11:00",
+      "fechaPublicacionFin": "01/12/2020 11:00",
+      "cargos": "[9002126/00] ESC. DE NIVEL INICIAL DR. MARCOS PAZ - DCTOR JARDIN INF TER CAT - 109 [TURNO MAÑANA Y/O TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 400,
+      "codigo": "PDVC-20201124-443",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "24/11/2020 13:00",
+      "fechaPublicacionFin": "27/11/2020 13:00",
+      "cargos": "[9000512/00] ESC. REMEDIOS ESCALADA DE SAN MARTIN - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 399,
+      "codigo": "PDVC-20201124-442",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "24/11/2020 13:00",
+      "fechaPublicacionFin": "27/11/2020 13:00",
+      "cargos": "[9000551/00] ESC. GOBERNADOR MIGUEL CRITTO - VICE DCTOR ESCUELA COM - 110 [TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 398,
+      "codigo": "PDVC-20201124-441",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "24/11/2020 13:00",
+      "fechaPublicacionFin": "27/11/2020 13:00",
+      "cargos": "[9000337/00] ESC. OBISPO JOSE EUSEBIO COLOMBRES - DCTOR ESC COMUN TER CAT - 108 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 397,
+      "codigo": "PDVC-20201124-440",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "24/11/2020 13:00",
+      "fechaPublicacionFin": "27/11/2020 13:00",
+      "cargos": "[9000174/00] ESC. Nº 259 - GENERAL MANUEL BELGRANO - DCTOR ESC.COMUN PRIMERA CATEG. - 106 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 396,
+      "codigo": "PDVC-20201119-439",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "19/11/2020 20:00",
+      "fechaPublicacionFin": "24/11/2020 12:00",
+      "cargos": "[9000787/00] ESC. FLORENCIO VARELA - DCTOR ESC.COMUN SEGUNDA CATEG. - 107 [6 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 395,
+      "codigo": "PDVC-20201119-438",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "19/11/2020 20:00",
+      "fechaPublicacionFin": "24/11/2020 12:00",
+      "cargos": "[9000703/00] ESC. ULADISLAO FRIAS - VICE DCTOR ESCUELA COM - 110 [TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 394,
+      "codigo": "PDVC-20201119-437",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "19/11/2020 20:00",
+      "fechaPublicacionFin": "24/11/2020 12:00",
+      "cargos": "[9000973/00] ESC. Nº 99 - PROVINCIA DE RIO NEGRO - DCTOR ESC COMUN TER CAT - 108 [1 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 393,
+      "codigo": "PDVC-20201119-436",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "19/11/2020 20:00",
+      "fechaPublicacionFin": "24/11/2020 12:00",
+      "cargos": "[9000744/00] ESC. DR. DALMACIO VELEZ SARSFIELD - DCTOR ESC COMUN TER CAT - 108 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 392,
+      "codigo": "PDVC-20201119-435",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "19/11/2020 20:00",
+      "fechaPublicacionFin": "24/11/2020 12:00",
+      "cargos": "[9000901/00] ESC. DR. SALUSTIANO ZAVALIA - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 391,
+      "codigo": "PDVC-20201119-434",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "19/11/2020 20:00",
+      "fechaPublicacionFin": "24/11/2020 12:00",
+      "cargos": "[9000670/00] ESC. Nº 175 - DCTOR.ESC.JORN.COM.SEG.CATEG. - 133 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 390,
+      "codigo": "PDVC-20201119-433",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "19/11/2020 20:00",
+      "fechaPublicacionFin": "24/11/2020 12:00",
+      "cargos": "[9000225/00] ESC. AMADEO JACQUES - DCTOR ESC COMUN TER CAT - 108 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 389,
+      "codigo": "PDVC-20201119-432",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "19/11/2020 20:00",
+      "fechaPublicacionFin": "24/11/2020 12:00",
+      "cargos": "[9000698/00] ESC. Nº 159 - BASE NAVAL PUERTO BELGRANO - DCTOR ESC.COMUN SEGUNDA CATEG. - 107 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 388,
+      "codigo": "PDVC-20201119-431",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "19/11/2020 20:00",
+      "fechaPublicacionFin": "24/11/2020 12:00",
+      "cargos": "[9000998/00] ESC. NORMAL SUPERIOR FLORENTINO AMEGHINO - MAESTRO APLICACION 1RA -L.V.- - 194 [4 / B # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 357,
+      "codigo": "PDVC-20201111-400",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "12/11/2020 09:00",
+      "fechaPublicacionFin": "17/11/2020 09:00",
+      "cargos": "[9000684/00] ESC. Nº 384 - GOBERNADOR JOSE MARIA DEL CAMPO - MAESTRO DE GRADO - 115 [5 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 356,
+      "codigo": "PDVC-20201111-399",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "12/11/2020 09:00",
+      "fechaPublicacionFin": "17/11/2020 09:00",
+      "cargos": "[9000689/00] ESC. PATRICIAS ARGENTINAS - MAESTRO DE GRADO - 115 [6 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 355,
+      "codigo": "PDVC-20201111-398",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "12/11/2020 09:00",
+      "fechaPublicacionFin": "17/11/2020 09:00",
+      "cargos": "[9000175/00] ESC. RECTOR BENJAMIN VILLAFAÑE - MAESTRO DE GRADO - 115 [6 / D # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 354,
+      "codigo": "PDVC-20201111-397",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "12/11/2020 09:00",
+      "fechaPublicacionFin": "17/11/2020 09:00",
+      "cargos": "[9000008/00] ESC. Nº 371- JUAN CALCHAQUI - MAESTRO DE GRADO - 115 [0 / 1-2-3 # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 353,
+      "codigo": "PDVC-20201111-396",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "12/11/2020 09:00",
+      "fechaPublicacionFin": "17/11/2020 09:00",
+      "cargos": "[9000866/00] ESC. JUAN BENJAMIN TERAN - MAESTRO DE GRADO - 115 [5 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 352,
+      "codigo": "PDVC-20201111-395",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "12/11/2020 09:00",
+      "fechaPublicacionFin": "17/11/2020 09:00",
+      "cargos": "[9000991/00] ESC. Nº 80 TRADICION TUCUMANA - MAESTRO DE GRADO - 115 [5 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 351,
+      "codigo": "PDVC-20201106-394",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000533/00] ESC. DE LA PATRIA DR. MANUEL BELGRANO - MAESTRO DE JARDIN - 116 [J5 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 239,
+      "codigo": "PDVC-20201104-282",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000982/00] ESC. Nº 54 - PROVINCIA DE LA PAMPA - DCTOR ESC PRIA DE TERC 2 TURNO - 148 [TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 238,
+      "codigo": "PDVC-20201104-281",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000379/00] ESC. BERNARDINO RIVADAVIA - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [0 / A # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 237,
+      "codigo": "PDVC-20201104-280",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000681/00] ESC. CAPITAN JUAN NUÑEZ DEL PRADO - MAESTRO DE JARDIN - 116 [0 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 236,
+      "codigo": "PDVC-20201104-279",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9002124/00] ESC. DE NIVEL INICIAL Nº 382 LIBERTADOR DE AMERICA - MAESTRO DE JARDIN - 116 [0 / A # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 235,
+      "codigo": "PDVC-20201104-278",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9002192/00] ESC. DE NIVEL INICIAL Nº 155 NASIF MOISES - MAESTRO DE JARDIN - 116 [0 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 234,
+      "codigo": "PDVC-20201104-277",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000471/00] ESC. EMILIO CARMONA - MAESTRO DE JARDIN - 116 [0 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 233,
+      "codigo": "PDVC-20201104-276",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000423/00] ESC. JUAN BAUTISTA ALBERDI - MAESTRO DE JARDIN - 116 [0 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 232,
+      "codigo": "PDVC-20201104-275",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000135/00] ESC. Nº 235 EMILIO GENOVES BARRIONUEVO - MAESTRO DE JARDIN - 116 [0 / 3,4,5 # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 231,
+      "codigo": "PDVC-20201104-274",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000344/00] ESC. MAESTRO LUIS GIANNEO - MAESTRO GRADO JORN COMPLETA - 136 [6 / A # TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 230,
+      "codigo": "PDVC-20201104-273",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000196/00] ESC. Nº 184 LEOPOLDO PEREZ - MAESTRO DE GRADO - 115 [1 2 3 # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 229,
+      "codigo": "PDVC-20201104-272",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000986/00] ESC. N° 98 - JUANA  AZURDUY - MAESTRO DE GRADO - 115 [1 / B # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 228,
+      "codigo": "PDVC-20201104-271",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000512/00] ESC. REMEDIOS ESCALADA DE SAN MARTIN - MAESTRO DE GRADO - 115 [3 / B # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 227,
+      "codigo": "PDVC-20201104-270",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000438/00] ESC. MANUELA PEDRAZA - MAESTRO DE GRADO - 115 [1 2 3 # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 226,
+      "codigo": "PDVC-20201104-269",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "08/11/2020 08:30",
+      "fechaPublicacionFin": "08/11/2020 08:30",
+      "cargos": "[9000483/00] ESC. Nº 361 - DOMINGO FAUSTINO SARMIENTO - MAESTRO DE GRADO - 115 [6 # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 225,
+      "codigo": "PDVC-20201104-268",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000656/00] ESC. Nº 265 - POLICIA FEDERAL ARGENTINA - MAESTRO GRADO JORN COMPLETA - 136 [3  # TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 224,
+      "codigo": "PDVC-20201104-267",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000860/00] ESC. FRAY CAYETANO RODRIGUEZ - MAESTRO DE GRADO - 115 [3 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 223,
+      "codigo": "PDVC-20201104-266",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000860/00] ESC. FRAY CAYETANO RODRIGUEZ - MAESTRO DE GRADO - 115 [4 / C # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 222,
+      "codigo": "PDVC-20201104-265",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000860/00] ESC. FRAY CAYETANO RODRIGUEZ - MAESTRO DE GRADO - 115 [1/ A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 221,
+      "codigo": "PDVC-20201104-264",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000924/00] ESC. CONGRESO DE TUCUMAN - MAESTRO DE GRADO - 115 [5 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 220,
+      "codigo": "PDVC-20201104-263",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000175/00] ESC. RECTOR BENJAMIN VILLAFAÑE - MAESTRO DE GRADO - 115 [6 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 219,
+      "codigo": "PDVC-20201104-262",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000762/00] ESC. DR. RICARDO GUTIERREZ - MAESTRO DE GRADO - 115 [4 / B # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 218,
+      "codigo": "PDVC-20201104-261",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000689/00] ESC. PATRICIAS ARGENTINAS - MAESTRO DE GRADO - 115 [3 / D # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 217,
+      "codigo": "PDVC-20201104-260",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000533/00] ESC. DE LA PATRIA DR. MANUEL BELGRANO - MAESTRO DE GRADO - 115 [3 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 216,
+      "codigo": "PDVC-20201104-259",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000870/00] ESC. Nº 335 FAHD ISSA FARAH - MAESTRO GRADO JORN COMPLETA - 136 [1 /A 3/ A # TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 215,
+      "codigo": "PDVC-20201104-258",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000671/00] ESC. PRIMERA JUNTA - MAESTRO DE GRADO - 115 [2 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 214,
+      "codigo": "PDVC-20201104-257",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 18:00",
+      "cargos": "[9000553/00] ESC. PRESIDENTE ROQUE SAENZ PEÑA - MAESTRO DE GRADO - 115 [4 / C # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 213,
+      "codigo": "PDVC-20201104-256",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000553/00] ESC. PRESIDENTE ROQUE SAENZ PEÑA - MAESTRO DE GRADO - 115 [2 / C # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 212,
+      "codigo": "PDVC-20201104-255",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000236/00] ESC. DR. BENJAMIN ARAOZ - MAESTRO DE GRADO - 115 [3 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 211,
+      "codigo": "PDVC-20201104-254",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000730/00] ESC. FRAY MANUEL PEREZ - MAESTRO DE GRADO - 115 [3 / E # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 210,
+      "codigo": "PDVC-20201104-253",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000730/00] ESC. FRAY MANUEL PEREZ - MAESTRO DE GRADO - 115 [2 / C # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 209,
+      "codigo": "PDVC-20201104-252",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000730/00] ESC. FRAY MANUEL PEREZ - MAESTRO DE GRADO - 115 [2 / E # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 208,
+      "codigo": "PDVC-20201104-251",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000817/00] ESC. JUAN CRISOSTOMO MENDEZ - MAESTRO DE GRADO - 115 [1 / E # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 207,
+      "codigo": "PDVC-20201104-250",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000273/00] ESC. ESTEBAN DE LUCCA - MAESTRO DE GRADO - 115 [6 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 206,
+      "codigo": "PDVC-20201104-249",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9001023/00] ESC. SANTIAGO GALLO - MAESTRO DE GRADO - 115 [2 / B # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 205,
+      "codigo": "PDVC-20201104-248",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "09/11/2020 08:30",
+      "fechaPublicacionFin": "12/11/2020 08:30",
+      "cargos": "[9000866/00] ESC. JUAN BENJAMIN TERAN - MAESTRO DE GRADO - 115 [4 / E # TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 195,
+      "codigo": "PDVC-20201029-238",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "03/11/2020 18:00",
+      "fechaPublicacionFin": "06/11/2020 18:00",
+      "cargos": "[9000343/00] ESC. Nº 21 - DCTOR ESC JORN COMP TER CATEG. - 134 [TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 194,
+      "codigo": "PDVC-20201029-237",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "03/11/2020 18:00",
+      "fechaPublicacionFin": "06/11/2020 18:00",
+      "cargos": "[9000700/00] ESC. FAUSTO BURGOS - DCTOR ESC PRIA SDA CAT 2 TURN - 146 [TURNO MAÑANA Y TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 193,
+      "codigo": "PDVC-20201029-236",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "03/11/2020 18:00",
+      "fechaPublicacionFin": "06/11/2020 18:00",
+      "cargos": "[9000198/00] ESC. Nº 123 ADELA MORALES - DCTOR ESC COMUN TER CAT - 108 [TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 192,
+      "codigo": "PDVC-20201029-235",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "03/11/2020 18:00",
+      "fechaPublicacionFin": "06/11/2020 18:00",
+      "cargos": "[9000725/00] ESC. JOSE MARMOL - VICE DCTOR ESCUELA COM - 110 [TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 191,
+      "codigo": "PDVC-20201029-234",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "03/11/2020 18:00",
+      "fechaPublicacionFin": "06/11/2020 18:00",
+      "cargos": "[9000148/00] ESC. CIUDADELA - DCTOR ESC.PRIA.PRIM CAT 2 TURN - 144 [TURNO MAÑANA Y TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 190,
+      "codigo": "PDVC-20201029-233",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "03/11/2020 18:00",
+      "fechaPublicacionFin": "06/11/2020 18:00",
+      "cargos": "[9000230/00] ESC. Nº 167 - SANTOS LEGNAME - DCTOR ESC JORN COMP TER CATEG. - 134 [TURNO JORNADA COMPLETA]",
+      "abierto": false
+    },
+    {
+      "id": 189,
+      "codigo": "PDVC-20201029-232",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "03/11/2020 18:00",
+      "fechaPublicacionFin": "06/11/2020 18:00",
+      "cargos": "[9000329/00] ESC. N° 174 - TRANSITO HERRERA DE MURE - DCTOR ESC COMUN TER CAT - 108 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 188,
+      "codigo": "PDVC-20201029-231",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "03/11/2020 18:00",
+      "fechaPublicacionFin": "06/11/2020 18:00",
+      "cargos": "[9002075/00] ESC. DE NIVEL INICIAL GUILLERMO GRIET - MAESTRO DE JARDIN - 116 [J5 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 187,
+      "codigo": "PDVC-20201029-230",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "03/11/2020 18:00",
+      "fechaPublicacionFin": "06/11/2020 18:00",
+      "cargos": "[9000582/00] ESC. 9 DE JULIO - MAESTRO DE JARDIN - 116 [J5 / A # TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 186,
+      "codigo": "PDVC-20201029-229",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "03/11/2020 18:00",
+      "fechaPublicacionFin": "06/11/2020 18:00",
+      "cargos": "[9000736/00] ESC. GENERAL ANTONIO ALVAREZ DE ARENALES - MAESTRO DE JARDIN - 116 [J5 / B # TURNO MAÑANA]",
+      "abierto": false
+    }
+  ],
+  "listaPeriodos": [
+    {
+      "Selected": false,
+      "Text": "11/2020",
+      "Value": "27/11/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "11/2020",
+      "Value": "24/11/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "11/2020",
+      "Value": "19/11/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "11/2020",
+      "Value": "12/11/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "11/2020",
+      "Value": "09/11/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "11/2020",
+      "Value": "08/11/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "11/2020",
+      "Value": "03/11/2020"
+    }
+  ]
+}

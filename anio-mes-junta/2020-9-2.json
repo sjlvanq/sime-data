@@ -1,0 +1,79 @@
+{
+  "vacantes": [
+    {
+      "id": 7,
+      "codigo": "PDVC-20200918-49",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "21/09/2020 13:00",
+      "fechaPublicacionFin": "25/09/2020 18:00",
+      "cargos": "[9001866/00] ESC. MEDIA DE LOS GUTIERREZ - V DCTOR ESC. SRIA. PRIMERA - 205 [TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 6,
+      "codigo": "PDVC-20200918-48",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "18/09/2020 13:30",
+      "fechaPublicacionFin": "25/09/2020 18:00",
+      "cargos": "[9000998/00] ESC. NORMAL SUPERIOR FLORENTINO AMEGHINO - VICEREC/VICEDIR -NIVEL MEDIO- - 262 [TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 5,
+      "codigo": "PDVC-20200918-47",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "18/09/2020 13:30",
+      "fechaPublicacionFin": "25/09/2020 18:00",
+      "cargos": "[9001882/00] ESC. MEDIA DE RIO CHICO - DCTOR ESC SECUND. TERCERA - 204 [TURNO MAÑANA Y TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 4,
+      "codigo": "PDVC-20200918-46",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "18/09/2020 13:30",
+      "fechaPublicacionFin": "25/09/2020 18:00",
+      "cargos": "[9001966/00] ESC. SECUNDARIA DE AMBERES - DCTOR ESC SECUND. TERCERA - 204 [TURNO MAÑANA]",
+      "abierto": false
+    },
+    {
+      "id": 3,
+      "codigo": "PDVC-20200918-45",
+      "caracter": "SUPLENTE",
+      "fechaPublicacionInicio": "18/09/2020 13:30",
+      "fechaPublicacionFin": "25/09/2020 18:00",
+      "cargos": "[9000821/00] ESC. DE COMERCIO DR. ALEJANDRO HEREDIA (T.VIEJO) - DCTOR ESC SRIA 1RA.C/2 TURNOS - 231 [TURNO MAÑANA Y TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 2,
+      "codigo": "PDVC-20200918-44",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "18/09/2020 13:30",
+      "fechaPublicacionFin": "25/09/2020 18:00",
+      "cargos": "[9000372/00] ESC. SECUNDARIA REPUBLICA ORIENTAL DEL URUGUAY - V DCTOR ESC. SRIA. SEGUNDA - 206 [TURNO TARDE]",
+      "abierto": false
+    },
+    {
+      "id": 1,
+      "codigo": "PDVC-20200918-43",
+      "caracter": "INTERINO",
+      "fechaPublicacionInicio": "18/09/2020 13:30",
+      "fechaPublicacionFin": "25/09/2020 18:00",
+      "cargos": "[9000549/00] COLEGIO NACIONAL \" GRAL. BARTOLOME MITRE\" - V DCTOR ESC. SRIA. PRIMERA - 205 [TURNO NOCHE]",
+      "abierto": false
+    }
+  ],
+  "listaPeriodos": [
+    {
+      "Selected": false,
+      "Text": "9/2020",
+      "Value": "21/09/2020"
+    },
+    {
+      "Selected": false,
+      "Text": "9/2020",
+      "Value": "18/09/2020"
+    }
+  ]
+}
