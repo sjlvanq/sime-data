@@ -1,0 +1,48 @@
+{
+  "vacantes": [
+    {
+      "id": 120708,
+      "ocu_cargo_id": 3291396,
+      "establecimiento": "[9002245/00] ESC. SECUNDARIA DE ANCAJULI",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 805##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "MATEMATICA I, II, III",
+      "cargos_id": 281414,
+      "organismo_id": 8401
+    },
+    {
+      "id": 120709,
+      "ocu_cargo_id": 3291398,
+      "establecimiento": "[9002245/00] ESC. SECUNDARIA DE ANCAJULI",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 804##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "MATEMATICA IV, V, VI",
+      "cargos_id": 281415,
+      "organismo_id": 8401
+    },
+    {
+      "id": 120710,
+      "ocu_cargo_id": 3291847,
+      "establecimiento": "[9002245/01] ESC. SEC. DE CHASQUIVIL - ANEXO ESC. SEC. DE ANCAJULI",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 805##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "MATEMATICA I, II, III",
+      "cargos_id": 281418,
+      "organismo_id": 8526
+    },
+    {
+      "id": 120712,
+      "ocu_cargo_id": 3307240,
+      "establecimiento": "[9002245/01] ESC. SEC. DE CHASQUIVIL - ANEXO ESC. SEC. DE ANCAJULI",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 804##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "MATEMATICA IV, V, VI",
+      "cargos_id": 281419,
+      "organismo_id": 8526
+    }
+  ]
+}
