@@ -1,0 +1,48 @@
+{
+  "vacantes": [
+    {
+      "id": 60224,
+      "ocu_cargo_id": 3145995,
+      "establecimiento": "[9001910/00] ESCUELA MEDIA Bº SAN ALBERTO",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 805##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "MATEMATICA I",
+      "cargos_id": 291025,
+      "organismo_id": 6435
+    },
+    {
+      "id": 60225,
+      "ocu_cargo_id": null,
+      "establecimiento": "[9001910/00] ESCUELA MEDIA Bº SAN ALBERTO",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 801##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "HORA INSTITUCIONAL - MATEMATICA I",
+      "cargos_id": 357434,
+      "organismo_id": 6435
+    },
+    {
+      "id": 60226,
+      "ocu_cargo_id": 3145996,
+      "establecimiento": "[9001910/00] ESCUELA MEDIA Bº SAN ALBERTO",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 805##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "MATEMATICA II",
+      "cargos_id": 291173,
+      "organismo_id": 6435
+    },
+    {
+      "id": 60227,
+      "ocu_cargo_id": null,
+      "establecimiento": "[9001910/00] ESCUELA MEDIA Bº SAN ALBERTO",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 801##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "HORA INSTITUCIONAL - MATEMATICA II",
+      "cargos_id": 357436,
+      "organismo_id": 6435
+    }
+  ]
+}
