@@ -1,0 +1,37 @@
+{
+  "vacantes": [
+    {
+      "id": 165148,
+      "ocu_cargo_id": 3342742,
+      "establecimiento": "[9001764/00] ESCUELA MEDIA DE GOBERNADOR PIEDRABUENA",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 801##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "EDUCACION ARTISTICA I",
+      "cargos_id": 135600,
+      "organismo_id": 5150
+    },
+    {
+      "id": 165150,
+      "ocu_cargo_id": 3342740,
+      "establecimiento": "[9001764/00] ESCUELA MEDIA DE GOBERNADOR PIEDRABUENA",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 801##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "EDUCACION ARTISTICA II",
+      "cargos_id": 135601,
+      "organismo_id": 5150
+    },
+    {
+      "id": 165151,
+      "ocu_cargo_id": null,
+      "establecimiento": "[9001764/00] ESCUELA MEDIA DE GOBERNADOR PIEDRABUENA",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 801##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "EDUCACION ARTISTICA I",
+      "cargos_id": 395244,
+      "organismo_id": 5150
+    }
+  ]
+}
