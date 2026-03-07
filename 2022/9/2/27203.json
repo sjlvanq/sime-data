@@ -1,0 +1,37 @@
+{
+  "vacantes": [
+    {
+      "id": 42743,
+      "ocu_cargo_id": 2936623,
+      "establecimiento": "[9002095/00] ESCUELA SECUNDARIA DE MEDINAS",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 805##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "GEOGRAFIA I",
+      "cargos_id": 222166,
+      "organismo_id": 7877
+    },
+    {
+      "id": 42744,
+      "ocu_cargo_id": 2968622,
+      "establecimiento": "[9002095/00] ESCUELA SECUNDARIA DE MEDINAS",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 804##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "GEOGRAFIA II",
+      "cargos_id": 229442,
+      "organismo_id": 7877
+    },
+    {
+      "id": 42745,
+      "ocu_cargo_id": 2968623,
+      "establecimiento": "[9002095/00] ESCUELA SECUNDARIA DE MEDINAS",
+      "cargo": "HORAS CATEDRAS SECUNDARIAS - 802##",
+      "nivel": "SECUNDARIO",
+      "modalidad": "COMÚN",
+      "materia": "EDI",
+      "cargos_id": 229443,
+      "organismo_id": 7877
+    }
+  ]
+}
