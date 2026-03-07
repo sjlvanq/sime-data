@@ -1,4 +1,7 @@
-En construcción...
+> [!WARNING]
+> En construcción...
+
+Archivo histórico de vacantes para cargos docentes del Sistema Integrado del Ministerio de Educación de Tucumán. Este repositorio centraliza datos públicos recopilados para facilitar el estudio de la demanda laboral educativa en la provincia.
 
 ---
 
