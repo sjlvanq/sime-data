@@ -5,14 +5,15 @@ Archivo histórico de vacantes para cargos docentes del Sistema Integrado del Mi
 
 ---
 
-## Descargo de Responsabilidad / Disclaimer
+## Descargo de Responsabilidad
 
-Este repositorio es una iniciativa de carácter **informativo y de archivo personal**. Al utilizar estos datos, el usuario acepta lo siguiente:
+Este repositorio es una iniciativa de **carácter informativo, estadístico y de archivo personal**. El uso de estos datos implica la aceptación de los siguientes puntos:
 
-* **Origen de los datos:** Nota de transparencia: Los datos aquí presentados son de acceso público y provienen del SIME (Tucumán). Este proyecto no tiene un vínculo oficial, patrocinio ni representación legal con dicho organismo ni con el Gobierno de la Provincia de Tucumán.
-* **Exactitud y Actualización:** Si bien se busca mantener la integridad de la recopilación, no se garantiza la exactitud, exhaustividad o actualización en tiempo real de los datos. Para decisiones administrativas o legales, el usuario debe consultar siempre la fuente oficial del SIME.
-* **Uso de la Información:** El autor de este repositorio no se hace responsable por el uso que terceros den a esta información, ni por posibles errores en la transcripción, procesamiento o interpretación de los archivos de datos.
-* **Privacidad:** Los datos aquí expuestos son de carácter público. No se almacena ni se distribuye información sensible de carácter privado no autorizada por las fuentes originales.
+* **Origen de los datos:** La información proviene del SIME (Tucumán) y es de acceso público en su fuente original. Este proyecto es independiente y no posee vínculo oficial, patrocinio ni representación legal con dicho organismo ni con el Gobierno de la Provincia de Tucumán.
+* **Privacidad y Anonimización:** Para garantizar el cumplimiento de las normativas de protección de datos personales y evitar el mal uso de Información de Identificación Personal (PII), los datos han sido enmascarados. No se distribuyen DNI completos ni nombres íntegros (ej. 20.XXX.123 / Juan P.). No se almacena ni distribuye información sensible privada no autorizada.
+* **Exactitud y Actualización:** Si bien se busca mantener la integridad de la recopilación, no se garantiza la exactitud, exhaustividad o actualización en tiempo real de los datos respecto a la fuente primaria.
+* **Limitación de Responsabilidad:** El autor de este repositorio no se hace responsable por el uso que terceros den a esta información, ni por posibles errores en la transcripción, procesamiento o interpretación de los archivos. Se prohíbe el uso de este dataset para fines ilícitos.
+* **Derecho de Supresión:** Si considera que algún dato aquí expuesto vulnera sus derechos, puede solicitar su revisión o eliminación mediante un Issue en este repositorio.
 
 ---
 
