@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 53360,
+    "padron_id": 95330
+  },
+  "postulantes": [
+    {
+      "orden": 116,
+      "dni": "20XXXX98",
+      "apellidos": "DE LA BARRA                             ",
+      "nombres": "SILVANA DEL VALLE                       ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 134,
+      "dni": "18XXXX85",
+      "apellidos": "FERNANDEZ",
+      "nombres": "MABEL DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 155,
+      "dni": "20XXXX84",
+      "apellidos": "FARIAS",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "23XXXX50",
+      "apellidos": "NUÑEZ",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

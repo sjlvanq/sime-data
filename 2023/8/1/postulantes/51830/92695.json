@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51830,
+    "padron_id": 92695
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX64",
+      "apellidos": "GALAN",
+      "nombres": "MARIA DE LA PAZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "26XXXX98",
+      "apellidos": "GUANUCO",
+      "nombres": "VERONICA INES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "38XXXX66",
+      "apellidos": "MAMANI",
+      "nombres": "ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

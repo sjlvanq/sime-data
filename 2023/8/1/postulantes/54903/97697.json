@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 54903,
+    "padron_id": 97697
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX71",
+      "apellidos": "FERNANDEZ",
+      "nombres": "DANIELA IVANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "30XXXX73",
+      "apellidos": "TRAVAINI",
+      "nombres": "CARLA FABIOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "25XXXX40",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE MIGUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

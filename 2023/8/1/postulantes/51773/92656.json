@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51773,
+    "padron_id": 92656
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX51",
+      "apellidos": "ASTESANA",
+      "nombres": "MAURO BENJAMIN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "39XXXX83",
+      "apellidos": "ALCORTA",
+      "nombres": "FLORENCIA MICAELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX76",
+      "apellidos": "TREJO",
+      "nombres": "RUTH EVELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

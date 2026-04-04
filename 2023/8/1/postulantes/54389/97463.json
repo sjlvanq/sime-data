@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 54389,
+    "padron_id": 97463
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "18XXXX91",
+      "apellidos": "SUBIRAN",
+      "nombres": "SUSANA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "40XXXX66",
+      "apellidos": "NIEVA",
+      "nombres": "SOFIA DEL MILAGRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

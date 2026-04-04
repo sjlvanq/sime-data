@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 54146,
+    "padron_id": 96804
+  },
+  "postulantes": [
+    {
+      "orden": 61,
+      "dni": "22XXXX17",
+      "apellidos": "LIZONDO",
+      "nombres": "ROSSANA KARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 63,
+      "dni": "29XXXX05",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARIELA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 127,
+      "dni": "24XXXX13",
+      "apellidos": "HUMARAN",
+      "nombres": "SUSANA ESTER",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 53300,
+    "padron_id": 95303
+  },
+  "postulantes": [
+    {
+      "orden": 37,
+      "dni": "29XXXX60",
+      "apellidos": "GEREZ",
+      "nombres": "EMILCE CECILIA CONSTANZA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "32XXXX57",
+      "apellidos": "BORDONARO",
+      "nombres": "CINTIA RAQUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "24XXXX77",
+      "apellidos": "TAPIA",
+      "nombres": "PAOLA ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

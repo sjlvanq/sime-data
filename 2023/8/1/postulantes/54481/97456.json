@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 54481,
+    "padron_id": 97456
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "27XXXX23",
+      "apellidos": "ALVAREZ",
+      "nombres": "SILVANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 73,
+      "dni": "21XXXX23",
+      "apellidos": "INSAURRALDE",
+      "nombres": "PAULA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

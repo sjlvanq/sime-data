@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 53643,
+    "padron_id": 96035
+  },
+  "postulantes": [
+    {
+      "orden": 88,
+      "dni": "24XXXX06",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "EVA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 114,
+      "dni": "24XXXX93",
+      "apellidos": "FIGUEROA                                ",
+      "nombres": "ANALIA DEL VALLE                        ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 103,
+      "dni": "29XXXX18",
+      "apellidos": "PEDRAZA",
+      "nombres": "VERONICA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

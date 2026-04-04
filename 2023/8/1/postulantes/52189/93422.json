@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 52189,
+    "padron_id": 93422
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "23XXXX44",
+      "apellidos": "BRAHIM",
+      "nombres": "FERNANDA CARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

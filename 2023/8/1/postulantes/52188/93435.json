@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 52188,
+    "padron_id": 93435
+  },
+  "postulantes": [
+    {
+      "orden": 36,
+      "dni": "92XXXX77",
+      "apellidos": "DEDE JUGO",
+      "nombres": "CONNIE ALEXANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "27XXXX23",
+      "apellidos": "ALVAREZ",
+      "nombres": "SILVANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 55,
+      "dni": "23XXXX13",
+      "apellidos": "ZURITA",
+      "nombres": "ALEJANDRA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

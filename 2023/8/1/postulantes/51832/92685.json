@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 51832,
+    "padron_id": 92685
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "36XXXX65",
+      "apellidos": "BRITO",
+      "nombres": "CARLA DANIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "37XXXX35",
+      "apellidos": "RODRIGUEZ MIRANDA",
+      "nombres": "ANA PAULA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 73,
+      "dni": "41XXXX77",
+      "apellidos": "SORIA",
+      "nombres": "FRANCISCO NORBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 109,
+      "dni": "40XXXX47",
+      "apellidos": "ZELAYA",
+      "nombres": "FACUNDO LEONEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX24",
+      "apellidos": "ROJO REALES",
+      "nombres": "GUILLERMO HORACIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

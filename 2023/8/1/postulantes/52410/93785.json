@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 52410,
+    "padron_id": 93785
+  },
+  "postulantes": [
+    {
+      "orden": 723,
+      "dni": "25XXXX02",
+      "apellidos": "FLORES",
+      "nombres": "LILIANA  MARGARITA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 831,
+      "dni": "40XXXX78",
+      "apellidos": "HERRERA",
+      "nombres": "LORENA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1087,
+      "dni": "34XXXX67",
+      "apellidos": "GODOY",
+      "nombres": "MARIA CONSTANZA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 403,
+      "dni": "35XXXX55",
+      "apellidos": "ROMANO",
+      "nombres": "MARIA ANGELICA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

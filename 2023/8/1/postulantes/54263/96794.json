@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 54263,
+    "padron_id": 96794
+  },
+  "postulantes": [
+    {
+      "orden": 69,
+      "dni": "25XXXX42",
+      "apellidos": "GIL",
+      "nombres": "LUIS ANGEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "40XXXX66",
+      "apellidos": "NIEVA",
+      "nombres": "SOFIA DEL MILAGRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

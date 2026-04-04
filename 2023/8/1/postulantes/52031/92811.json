@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 52031,
+    "padron_id": 92811
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX78",
+      "apellidos": "CAMPERO",
+      "nombres": "MARTA LEONOR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX99",
+      "apellidos": "ANCE",
+      "nombres": "DANIELA CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX13",
+      "apellidos": "HUMARAN",
+      "nombres": "SUSANA ESTER",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "27XXXX59",
+      "apellidos": "DUMAS PELLETTI",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

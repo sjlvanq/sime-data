@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 53628,
+    "padron_id": 96082
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "27XXXX50",
+      "apellidos": "CORREA",
+      "nombres": "NADIA ANALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "27XXXX61",
+      "apellidos": "FERRO",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "27XXXX63",
+      "apellidos": "VEGA",
+      "nombres": "FERNANDA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

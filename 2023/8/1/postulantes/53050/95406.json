@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 53050,
+    "padron_id": 95406
+  },
+  "postulantes": [
+    {
+      "orden": 68,
+      "dni": "30XXXX42",
+      "apellidos": "SOSA",
+      "nombres": "MARIELA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NANCY CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

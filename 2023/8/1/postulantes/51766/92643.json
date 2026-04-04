@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 51766,
+    "padron_id": 92643
+  },
+  "postulantes": [
+    {
+      "orden": 95,
+      "dni": "22XXXX53",
+      "apellidos": "CAMPOS",
+      "nombres": "ANGELA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 100,
+      "dni": "30XXXX42",
+      "apellidos": "SERNA",
+      "nombres": "ELIANA DANIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 191,
+      "dni": "23XXXX88",
+      "apellidos": "VILLARREAL",
+      "nombres": "MARISA ALEJANDRA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "29XXXX69",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "JAQUELINE DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

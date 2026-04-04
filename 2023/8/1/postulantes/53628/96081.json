@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 53628,
+    "padron_id": 96081
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "37XXXX01",
+      "apellidos": "DIAZ",
+      "nombres": "HECTOR DAVID",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "36XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "LUCAS MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
