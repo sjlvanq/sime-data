@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 54655,
+    "padron_id": 98466
+  },
+  "postulantes": [
+    {
+      "orden": 49,
+      "dni": "39XXXX06",
+      "apellidos": "LOPEZ",
+      "nombres": "ANA DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "34XXXX78",
+      "apellidos": "LUNA",
+      "nombres": "CARMEN ESTHER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

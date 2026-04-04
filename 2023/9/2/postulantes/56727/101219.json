@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 56727,
+    "padron_id": 101219
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX65",
+      "apellidos": "TEMOCHE ROMERO",
+      "nombres": "EDDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX07",
+      "apellidos": "BALCARCE",
+      "nombres": "VANESA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

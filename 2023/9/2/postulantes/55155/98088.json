@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 55155,
+    "padron_id": 98088
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX82",
+      "apellidos": "SEMINARA FARIAS                         ",
+      "nombres": "BEATRIZ ANTONIETA                       ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "23XXXX80",
+      "apellidos": "LAZARTE",
+      "nombres": "ROSANA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

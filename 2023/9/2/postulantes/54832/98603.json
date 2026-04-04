@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 54832,
+    "padron_id": 98603
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX78",
+      "apellidos": "LUNA",
+      "nombres": "CARMEN ESTHER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX36",
+      "apellidos": "BERTINI",
+      "nombres": "ADRIANA GISELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

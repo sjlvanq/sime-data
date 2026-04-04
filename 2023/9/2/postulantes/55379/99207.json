@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 55379,
+    "padron_id": 99207
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "34XXXX72",
+      "apellidos": "CARRIZO",
+      "nombres": "ANDREA CELESTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX07",
+      "apellidos": "BALCARCE",
+      "nombres": "VANESA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

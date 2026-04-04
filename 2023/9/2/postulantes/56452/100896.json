@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 56452,
+    "padron_id": 100896
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX88",
+      "apellidos": "VELIZ CORDOBA",
+      "nombres": "JOSE AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX42",
+      "apellidos": "GRANEROS",
+      "nombres": "SILVIA VANESSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

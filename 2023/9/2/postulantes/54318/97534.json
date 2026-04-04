@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 54318,
+    "padron_id": 97534
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "24XXXX06",
+      "apellidos": "ISMAEL",
+      "nombres": "BETTIANA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX89",
+      "apellidos": "VERON",
+      "nombres": "FRANCO IVAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "22XXXX36",
+      "apellidos": "MARTORELL",
+      "nombres": "ESTER BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "25XXXX50",
+      "apellidos": "ARROYO COSTA",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

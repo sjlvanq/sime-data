@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 54524,
+    "padron_id": 98473
+  },
+  "postulantes": [
+    {
+      "orden": 44,
+      "dni": "27XXXX12",
+      "apellidos": "CACERES",
+      "nombres": "CRISTIAN ANDRES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "22XXXX38",
+      "apellidos": "CARRIZO",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "27XXXX90",
+      "apellidos": "PAOLINI",
+      "nombres": "ANA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "35XXXX72",
+      "apellidos": "ACOSTA",
+      "nombres": "FLORENCIA MACARENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56914,
+    "padron_id": 101549
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "28XXXX91",
+      "apellidos": "BALDICH",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX99",
+      "apellidos": "ELIAS",
+      "nombres": "MARIA JIMENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "32XXXX41",
+      "apellidos": "ESPECHE",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 54856,
+    "padron_id": 98338
+  },
+  "postulantes": [
+    {
+      "orden": 63,
+      "dni": "37XXXX77",
+      "apellidos": "GOMEZ",
+      "nombres": "JULIO DARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX84",
+      "apellidos": "PALLARES",
+      "nombres": "NORMA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 67,
+      "dni": "32XXXX41",
+      "apellidos": "GUERRA",
+      "nombres": "JULIO CESAR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

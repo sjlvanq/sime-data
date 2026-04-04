@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 56636,
+    "padron_id": 101175
+  },
+  "postulantes": [
+    {
+      "orden": 60,
+      "dni": "20XXXX50",
+      "apellidos": "GRANDE",
+      "nombres": "SILVINA DE FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 75,
+      "dni": "28XXXX27",
+      "apellidos": "DANDREA",
+      "nombres": "JESUS ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 73,
+      "dni": "25XXXX01",
+      "apellidos": "ORRILLO",
+      "nombres": "MARCELA INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 77,
+      "dni": "18XXXX41",
+      "apellidos": "AMDOR",
+      "nombres": "MYRIAM FABIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55038,
+    "padron_id": 98180
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "26XXXX70",
+      "apellidos": "CASAL",
+      "nombres": "CRISTIAN DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "34XXXX87",
+      "apellidos": "BARRAZA",
+      "nombres": "ANA PAULA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "26XXXX43",
+      "apellidos": "ARELLANO",
+      "nombres": "SERGIO ALFREDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

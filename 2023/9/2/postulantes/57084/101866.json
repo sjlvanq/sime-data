@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57084,
+    "padron_id": 101866
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "21XXXX42",
+      "apellidos": "ESPARZA",
+      "nombres": "ROSANA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX43",
+      "apellidos": "SANCHEZ",
+      "nombres": "ALEJANDRA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

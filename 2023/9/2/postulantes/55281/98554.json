@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 55281,
+    "padron_id": 98554
+  },
+  "postulantes": [
+    {
+      "orden": 47,
+      "dni": "17XXXX97",
+      "apellidos": "NAVARRO",
+      "nombres": "JORGE DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX89",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ELIANA ELVIRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

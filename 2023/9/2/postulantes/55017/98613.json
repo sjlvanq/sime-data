@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 55017,
+    "padron_id": 98613
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "28XXXX91",
+      "apellidos": "BALDICH",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "26XXXX70",
+      "apellidos": "CASAL",
+      "nombres": "CRISTIAN DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 107,
+      "dni": "34XXXX87",
+      "apellidos": "BARRAZA",
+      "nombres": "ANA PAULA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX99",
+      "apellidos": "ELIAS",
+      "nombres": "MARIA JIMENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "21XXXX97",
+      "apellidos": "LUNA",
+      "nombres": "DANIEL ANSELMO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

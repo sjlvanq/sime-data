@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 54545,
+    "padron_id": 97494
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "26XXXX92",
+      "apellidos": "JEREZ",
+      "nombres": "NANCY ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "26XXXX18",
+      "apellidos": "PEREA",
+      "nombres": "PABLO ARIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "33XXXX35",
+      "apellidos": "ROQUÉ",
+      "nombres": "YESSICA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "30XXXX38",
+      "apellidos": "COLQUE",
+      "nombres": "GASTON EMANUEL ANTONIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX75",
+      "apellidos": "ZELAIBE STEFANONI",
+      "nombres": "FATIMA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

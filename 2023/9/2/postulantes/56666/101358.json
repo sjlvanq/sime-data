@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 56666,
+    "padron_id": 101358
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX31",
+      "apellidos": "MALDONADO",
+      "nombres": "PAOLA DANIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX47",
+      "apellidos": "AGUIRRE",
+      "nombres": "ROMINA INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

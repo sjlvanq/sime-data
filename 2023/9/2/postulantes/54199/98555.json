@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 54199,
+    "padron_id": 98555
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX63",
+      "apellidos": "YSAYA",
+      "nombres": "DAVID CESAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "23XXXX13",
+      "apellidos": "SINTORA",
+      "nombres": "GUILLERMO JESUS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

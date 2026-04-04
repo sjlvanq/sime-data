@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56154,
+    "padron_id": 100608
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "25XXXX49",
+      "apellidos": "ALBANO SZANTO",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "33XXXX39",
+      "apellidos": "LO SARDO",
+      "nombres": "SERGIO CRISTÓBAL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX84",
+      "apellidos": "GIMENEZ",
+      "nombres": "ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

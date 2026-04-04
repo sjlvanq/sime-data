@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 56205,
+    "padron_id": 100855
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "35XXXX28",
+      "apellidos": "LOBO",
+      "nombres": "JESUS LUIS RODRIGO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "31XXXX57",
+      "apellidos": "ROSZNERCKI",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "20XXXX36",
+      "apellidos": "MARTINEZ ORPHEE",
+      "nombres": "MARIA LUISA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX85",
+      "apellidos": "MAMANI",
+      "nombres": "SEBASTIAN DARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

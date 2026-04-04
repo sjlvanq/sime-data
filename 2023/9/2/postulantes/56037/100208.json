@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 56037,
+    "padron_id": 100208
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "25XXXX55",
+      "apellidos": "DECIMA",
+      "nombres": "LUCIA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 12,
+      "dni": "26XXXX22",
+      "apellidos": "ACOSTA",
+      "nombres": "MARTA GABRIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 89,
+      "dni": "17XXXX31",
+      "apellidos": "PETRONI MUSTAFA",
+      "nombres": "JORGE BERNARDINO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 118,
+      "dni": "22XXXX15",
+      "apellidos": "VARELA MERCADO",
+      "nombres": "VERONICA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

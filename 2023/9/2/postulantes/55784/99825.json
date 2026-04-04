@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55784,
+    "padron_id": 99825
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "17XXXX32",
+      "apellidos": "FIGUEROA",
+      "nombres": "SEGUNDO FERMIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "28XXXX94",
+      "apellidos": "CRUZ",
+      "nombres": "IVANNA MARIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "38XXXX92",
+      "apellidos": "PEDRAZA CORONEL",
+      "nombres": "MAYRA AGUSTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

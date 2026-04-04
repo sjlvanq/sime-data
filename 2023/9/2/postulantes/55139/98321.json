@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 55139,
+    "padron_id": 98321
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "33XXXX90",
+      "apellidos": "JACOBO",
+      "nombres": "NOELIA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "27XXXX20",
+      "apellidos": "SALAS",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "31XXXX09",
+      "apellidos": "GARCIA",
+      "nombres": "OLGA MARÍA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "40XXXX81",
+      "apellidos": "RUIZ",
+      "nombres": "CARLOS FERNANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

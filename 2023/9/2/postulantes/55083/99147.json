@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55083,
+    "padron_id": 99147
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "27XXXX81",
+      "apellidos": "VILLARREAL",
+      "nombres": "JOSE NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "33XXXX93",
+      "apellidos": "LOZA DOMINGUEZ",
+      "nombres": "DEBORAH LIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "25XXXX68",
+      "apellidos": "MOLINA",
+      "nombres": "MARIO ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

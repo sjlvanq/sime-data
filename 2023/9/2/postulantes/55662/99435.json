@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55662,
+    "padron_id": 99435
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "34XXXX57",
+      "apellidos": "SUAREZ",
+      "nombres": "NOELIA VICTORIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "34XXXX22",
+      "apellidos": "MEDINA",
+      "nombres": "MAURICIO JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "31XXXX60",
+      "apellidos": "VALLEJO",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

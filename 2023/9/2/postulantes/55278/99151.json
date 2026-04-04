@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55278,
+    "padron_id": 99151
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX78",
+      "apellidos": "CABRERA VILLARREAL",
+      "nombres": "CELIA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "23XXXX80",
+      "apellidos": "LAZARTE",
+      "nombres": "ROSANA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "25XXXX37",
+      "apellidos": "UNCOS",
+      "nombres": "CECILIA MARIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

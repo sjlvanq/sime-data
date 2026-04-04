@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 54996,
+    "padron_id": 98036
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "26XXXX22",
+      "apellidos": "ACOSTA",
+      "nombres": "MARTA GABRIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 20,
+      "dni": "23XXXX53",
+      "apellidos": "DEGANO",
+      "nombres": "SILVIA ROSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 89,
+      "dni": "17XXXX31",
+      "apellidos": "PETRONI MUSTAFA",
+      "nombres": "JORGE BERNARDINO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

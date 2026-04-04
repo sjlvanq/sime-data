@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 56396,
+    "padron_id": 100748
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "25XXXX52",
+      "apellidos": "CORDOBA",
+      "nombres": "ANDREA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "25XXXX24",
+      "apellidos": "CARABAJAL",
+      "nombres": "DAVID MIGUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "30XXXX24",
+      "apellidos": "LUNA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX19",
+      "apellidos": "SCIME",
+      "nombres": "LOURDES MARINA LUZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "25XXXX50",
+      "apellidos": "ARROYO COSTA",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

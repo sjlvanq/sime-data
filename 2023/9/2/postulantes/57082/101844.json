@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57082,
+    "padron_id": 101844
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "20XXXX02",
+      "apellidos": "BERRONDO",
+      "nombres": "SILVIA CRISTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 75,
+      "dni": "28XXXX27",
+      "apellidos": "DANDREA",
+      "nombres": "JESUS ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 65,
+      "dni": "17XXXX31",
+      "apellidos": "PETRONI MUSTAFA",
+      "nombres": "JORGE BERNARDINO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

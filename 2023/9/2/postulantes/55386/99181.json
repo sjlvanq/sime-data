@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55386,
+    "padron_id": 99181
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX88",
+      "apellidos": "CORONEL",
+      "nombres": "ANDREA NATALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX77",
+      "apellidos": "GONZALEZ",
+      "nombres": "SILVANA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX06",
+      "apellidos": "MURUA",
+      "nombres": "FLORENCIA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

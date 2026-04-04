@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56371,
+    "padron_id": 101432
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "33XXXX68",
+      "apellidos": "MASMUT QUINTANA",
+      "nombres": "MARCELA GISELLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "22XXXX79",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "25XXXX39",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "PAMELA VIVIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

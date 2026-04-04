@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55997,
+    "padron_id": 100169
+  },
+  "postulantes": [
+    {
+      "orden": 63,
+      "dni": "21XXXX37",
+      "apellidos": "VILDOZA",
+      "nombres": "ANTONIO EDGARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 75,
+      "dni": "28XXXX27",
+      "apellidos": "DANDREA",
+      "nombres": "JESUS ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 73,
+      "dni": "25XXXX01",
+      "apellidos": "ORRILLO",
+      "nombres": "MARCELA INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

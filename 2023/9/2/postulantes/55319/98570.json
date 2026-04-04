@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55319,
+    "padron_id": 98570
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "38XXXX37",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "ELIANA GRACIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "21XXXX78",
+      "apellidos": "GONZALEZ",
+      "nombres": "CLAUDIA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "24XXXX59",
+      "apellidos": "OJEDA",
+      "nombres": "MARIANELA CILDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

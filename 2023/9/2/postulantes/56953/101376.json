@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56953,
+    "padron_id": 101376
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX15",
+      "apellidos": "SANTILLAN",
+      "nombres": "MARCOS AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX06",
+      "apellidos": "MURUA",
+      "nombres": "FLORENCIA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX46",
+      "apellidos": "HERRERA",
+      "nombres": "ANA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

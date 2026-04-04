@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 56666,
+    "padron_id": 101355
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "27XXXX12",
+      "apellidos": "GALOVARD",
+      "nombres": "FRANCISCA PAULA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "20XXXX33",
+      "apellidos": "SERRANO",
+      "nombres": "MARIANA ROSA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
