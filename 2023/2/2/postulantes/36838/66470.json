@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36838,
+    "padron_id": 66470
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "25XXXX41",
+      "apellidos": "ROMERO",
+      "nombres": "PABLO ARMANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX21",
+      "apellidos": "LOPEZ ARROYO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "32XXXX21",
+      "apellidos": "JUAREZ",
+      "nombres": "JOSE DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

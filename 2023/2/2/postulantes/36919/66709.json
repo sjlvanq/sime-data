@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36919,
+    "padron_id": 66709
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "24XXXX24",
+      "apellidos": "JUÁREZ",
+      "nombres": "CÉSAR ENRIQUE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "21XXXX39",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX18",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIA MÓNICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
