@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 43653,
+    "padron_id": 78098
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "20XXXX21",
+      "apellidos": "LEDESMA",
+      "nombres": "ROBERTO ROQUE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 25,
+      "dni": "23XXXX12",
+      "apellidos": "GARNICA",
+      "nombres": "MONICA ROXANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "20XXXX24",
+      "apellidos": "LEIVA",
+      "nombres": "RAQUEL MARGARITA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 43306,
+    "padron_id": 78900
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "38XXXX54",
+      "apellidos": "OLMEDO",
+      "nombres": "JUAN  JOSÉ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "25XXXX70",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ROSARIO ARGENTINA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "18XXXX68",
+      "apellidos": "JIMENEZ MONES MARCOLONGO",
+      "nombres": "SILVINA PAOLA DE FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "37XXXX18",
+      "apellidos": "ROCHA",
+      "nombres": "ROXANA ANABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

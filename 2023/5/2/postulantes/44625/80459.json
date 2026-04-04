@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 44625,
+    "padron_id": 80459
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX99",
+      "apellidos": "SORIA",
+      "nombres": "KARINA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "12XXXX34",
+      "apellidos": "SALAZAR",
+      "nombres": "MONICA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX63",
+      "apellidos": "JIMENEZ",
+      "nombres": "NANCY ELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX40",
+      "apellidos": "VIZCARRA",
+      "nombres": "LUCRECIA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

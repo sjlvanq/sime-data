@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 45633,
+    "padron_id": 81518
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "31XXXX36",
+      "apellidos": "FRIAS",
+      "nombres": "PATRICIA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "28XXXX71",
+      "apellidos": "CORREA",
+      "nombres": "SILVANA VALERIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX78",
+      "apellidos": "GONZALEZ",
+      "nombres": "JOSE MARIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

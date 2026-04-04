@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 42264,
+    "padron_id": 79089
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX04",
+      "apellidos": "MONTEROS",
+      "nombres": "HECTOR ABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX79",
+      "apellidos": "BURELA",
+      "nombres": "LORENA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX53",
+      "apellidos": "APARICIO",
+      "nombres": "ESTELA MARY",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX07",
+      "apellidos": "BALCARCE",
+      "nombres": "VANESA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

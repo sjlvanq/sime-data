@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 43183,
+    "padron_id": 77773
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX26",
+      "apellidos": "GIL",
+      "nombres": "ADRIANA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "38XXXX52",
+      "apellidos": "DIAZ",
+      "nombres": "FRANCISCO EMMANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "33XXXX50",
+      "apellidos": "VALENZUELA",
+      "nombres": "ANAHI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

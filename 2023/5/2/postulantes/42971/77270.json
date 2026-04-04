@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42971,
+    "padron_id": 77270
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX96",
+      "apellidos": "GIANUZZI",
+      "nombres": "CARLA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX00",
+      "apellidos": "GOMEZ",
+      "nombres": "ALEJANDRA MERCEDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX73",
+      "apellidos": "BAZAN",
+      "nombres": "SILVIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

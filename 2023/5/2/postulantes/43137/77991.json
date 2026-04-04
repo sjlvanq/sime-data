@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 43137,
+    "padron_id": 77991
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "21XXXX06",
+      "apellidos": "MORALES",
+      "nombres": "PATRICIA ROSSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "39XXXX43",
+      "apellidos": "GARCÍA",
+      "nombres": "ROCÍO DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

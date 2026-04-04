@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 45662,
+    "padron_id": 82081
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "33XXXX31",
+      "apellidos": "LEAL",
+      "nombres": "SONIA DEL ROSARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "32XXXX13",
+      "apellidos": "LESCANO",
+      "nombres": "GRACIELA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "26XXXX00",
+      "apellidos": "FRIAS",
+      "nombres": "ANA LUZ PATRICIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "21XXXX51",
+      "apellidos": "FERNANDEZ",
+      "nombres": "DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "27XXXX12",
+      "apellidos": "GALOVARD",
+      "nombres": "FRANCISCA PAULA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

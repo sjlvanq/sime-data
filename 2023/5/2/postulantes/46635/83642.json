@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 46635,
+    "padron_id": 83642
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX49",
+      "apellidos": "COSIANSI",
+      "nombres": "CARLOS DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX95",
+      "apellidos": "JALIL QUIROGA",
+      "nombres": "LUISA ESTELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

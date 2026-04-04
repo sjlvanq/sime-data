@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 45329,
+    "padron_id": 82462
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX12",
+      "apellidos": "ARNAU",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "18XXXX68",
+      "apellidos": "JIMENEZ MONES MARCOLONGO",
+      "nombres": "SILVINA PAOLA DE FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX60",
+      "apellidos": "CALIERA",
+      "nombres": "MARIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "33XXXX90",
+      "apellidos": "MENTEL ROMANO",
+      "nombres": "LUCIANO JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "30XXXX29",
+      "apellidos": "JIMENEZ",
+      "nombres": "MIRTHA VIVIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 44716,
+    "padron_id": 79935
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "32XXXX64",
+      "apellidos": "GRANDE",
+      "nombres": "MARIA VIRGINIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "26XXXX52",
+      "apellidos": "LAHORCA",
+      "nombres": "ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "39XXXX09",
+      "apellidos": "RODAS",
+      "nombres": "PRISCILA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "29XXXX09",
+      "apellidos": "MAIDANA",
+      "nombres": "PAOLA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

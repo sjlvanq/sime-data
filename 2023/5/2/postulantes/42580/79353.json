@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 42580,
+    "padron_id": 79353
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "28XXXX06",
+      "apellidos": "MONTENEGRO",
+      "nombres": "SEBASTIÁN ANDRÉS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "32XXXX12",
+      "apellidos": "JIMENEZ",
+      "nombres": "ABEL ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "32XXXX75",
+      "apellidos": "CORNEJO",
+      "nombres": "FABIO GREGORIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "33XXXX01",
+      "apellidos": "PAEZ ALDERETES",
+      "nombres": "JOSE ANDRES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

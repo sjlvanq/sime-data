@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 43012,
+    "padron_id": 77626
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "25XXXX30",
+      "apellidos": "PONCE",
+      "nombres": "RAQUEL DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "25XXXX92",
+      "apellidos": "ARMAS",
+      "nombres": "CECILIA RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "25XXXX40",
+      "apellidos": "ARNEDO",
+      "nombres": "YOLANDA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "32XXXX51",
+      "apellidos": "SEMAN",
+      "nombres": "ALEJANDRA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "38XXXX87",
+      "apellidos": "LEMOINE",
+      "nombres": "LUZ MARIA MERCEDES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

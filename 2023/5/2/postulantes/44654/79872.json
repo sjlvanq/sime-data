@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 44654,
+    "padron_id": 79872
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX09",
+      "apellidos": "PEREZ",
+      "nombres": "CAROLINA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "20XXXX36",
+      "apellidos": "CORREA",
+      "nombres": "ILDA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "22XXXX01",
+      "apellidos": "FAUR",
+      "nombres": "NELIDA ELVIRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 43980,
+    "padron_id": 78886
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "30XXXX78",
+      "apellidos": "ARANDA",
+      "nombres": "MIGUEL AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "36XXXX44",
+      "apellidos": "SIR",
+      "nombres": "ANA FLORENCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "26XXXX69",
+      "apellidos": "LÓPEZ",
+      "nombres": "CLAUDIA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "34XXXX10",
+      "apellidos": "POU",
+      "nombres": "ANA LORENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

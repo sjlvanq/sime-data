@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 42264,
+    "padron_id": 79091
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "30XXXX04",
+      "apellidos": "MONTEROS",
+      "nombres": "HECTOR ABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "34XXXX41",
+      "apellidos": "LUCENA",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "26XXXX07",
+      "apellidos": "BALCARCE",
+      "nombres": "VANESA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "32XXXX05",
+      "apellidos": "MENDIA                                  ",
+      "nombres": "MARIA BELEN                             ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "30XXXX24",
+      "apellidos": "LUNA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

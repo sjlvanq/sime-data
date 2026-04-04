@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42996,
+    "padron_id": 77556
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX76",
+      "apellidos": "TOLOSA",
+      "nombres": "SILVANA YESICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX97",
+      "apellidos": "DELGADO",
+      "nombres": "MARIA JULIETA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

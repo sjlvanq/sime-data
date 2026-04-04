@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 45336,
+    "padron_id": 82262
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX49",
+      "apellidos": "OLMOS",
+      "nombres": "MÁXIMO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX11",
+      "apellidos": "ALE",
+      "nombres": "MARIA AURORA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

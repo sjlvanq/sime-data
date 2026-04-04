@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 45798,
+    "padron_id": 82008
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "33XXXX71",
+      "apellidos": "RIVADENEIRA",
+      "nombres": "LAURA SILVANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "40XXXX59",
+      "apellidos": "OLEA",
+      "nombres": "MARCELA YUDY",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX02",
+      "apellidos": "DIAZ",
+      "nombres": "MAIRA LEONELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "26XXXX29",
+      "apellidos": "ALBORNOZ",
+      "nombres": "CECILIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

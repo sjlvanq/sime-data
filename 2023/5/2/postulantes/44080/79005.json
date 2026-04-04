@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 44080,
+    "padron_id": 79005
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "37XXXX97",
+      "apellidos": "GIMENEZ ORTIZ",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "36XXXX74",
+      "apellidos": "SANDOVAL",
+      "nombres": "ANDREA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "39XXXX20",
+      "apellidos": "DULOR PANTALENA",
+      "nombres": "ANTONELLA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

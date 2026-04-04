@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40185,
+    "padron_id": 83159
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX92",
+      "apellidos": "ALBORNOZ",
+      "nombres": "DAHIANA MARIANELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX44",
+      "apellidos": "GODOY",
+      "nombres": "MARISA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JESSICA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

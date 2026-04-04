@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "vacante_id": 42595,
+    "padron_id": 77653
+  },
+  "postulantes": [
+    {
+      "orden": 123,
+      "dni": "21XXXX38",
+      "apellidos": "BUSTAMANTE",
+      "nombres": "JORGE ALFREDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 159,
+      "dni": "23XXXX70",
+      "apellidos": "ARRIETA",
+      "nombres": "ARIEL OMAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 105,
+      "dni": "35XXXX13",
+      "apellidos": "MERCHED GONZALEZ",
+      "nombres": "DAVID GABRIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 204,
+      "dni": "29XXXX53",
+      "apellidos": "TORRES",
+      "nombres": "LORENA ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 206,
+      "dni": "36XXXX42",
+      "apellidos": "ORELLANA",
+      "nombres": "CAROLINA ESTEFANIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 216,
+      "dni": "39XXXX11",
+      "apellidos": "POL",
+      "nombres": "ROSARIO DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

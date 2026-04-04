@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42661,
+    "padron_id": 77206
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX31",
+      "apellidos": "GRANEROS",
+      "nombres": "EDIT VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX81",
+      "apellidos": "BENENCIA",
+      "nombres": "LUIS BENJAMIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "26XXXX08",
+      "apellidos": "LEDEZMA",
+      "nombres": "BEATRIZ ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 46517,
+    "padron_id": 83735
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "29XXXX39",
+      "apellidos": "SUAREZ",
+      "nombres": "SILVIA MARIA ANABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "37XXXX25",
+      "apellidos": "OROZCO PALMA",
+      "nombres": "PRISCILA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

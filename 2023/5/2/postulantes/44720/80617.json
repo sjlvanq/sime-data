@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 44720,
+    "padron_id": 80617
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX08",
+      "apellidos": "NIEVA",
+      "nombres": "SERGIO DEL JESUS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX26",
+      "apellidos": "VERA",
+      "nombres": "ENRIQUE EZEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "37XXXX48",
+      "apellidos": "CONTRERAS",
+      "nombres": "CRISTHIAN EMMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

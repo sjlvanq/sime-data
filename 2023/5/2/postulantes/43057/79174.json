@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 43057,
+    "padron_id": 79174
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "18XXXX39",
+      "apellidos": "ESTEVES",
+      "nombres": "DORA PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX79",
+      "apellidos": "DE LA VEGA",
+      "nombres": "MARCELA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

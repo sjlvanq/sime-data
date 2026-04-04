@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42667,
+    "padron_id": 77243
+  },
+  "postulantes": [
+    {
+      "orden": 41,
+      "dni": "24XXXX07",
+      "apellidos": "CHAILE",
+      "nombres": "PATRICIA MARCELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "31XXXX24",
+      "apellidos": "SOBRECASAS",
+      "nombres": "CARLOS ATILIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX88",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "MARIANA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 44775,
+    "padron_id": 81123
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX68",
+      "apellidos": "VALDEZ",
+      "nombres": "WALTER MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX20",
+      "apellidos": "BRITO",
+      "nombres": "JORGE ANIBAL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "25XXXX65",
+      "apellidos": "PONCE",
+      "nombres": "JORGE DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

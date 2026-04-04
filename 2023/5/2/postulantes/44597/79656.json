@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 44597,
+    "padron_id": 79656
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "27XXXX50",
+      "apellidos": "MENDOZA",
+      "nombres": "ELIANA SELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 24,
+      "dni": "20XXXX21",
+      "apellidos": "LEDESMA",
+      "nombres": "ROBERTO ROQUE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 13,
+      "dni": "23XXXX53",
+      "apellidos": "DEGANO",
+      "nombres": "SILVIA ROSANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 17,
+      "dni": "21XXXX22",
+      "apellidos": "TULA",
+      "nombres": "MARIA LELIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

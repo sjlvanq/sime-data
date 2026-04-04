@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 44880,
+    "padron_id": 80918
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX44",
+      "apellidos": "GUERRA",
+      "nombres": "SILVIA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 118,
+      "dni": "21XXXX18",
+      "apellidos": "DIAZ",
+      "nombres": "DANIEL AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 119,
+      "dni": "21XXXX00",
+      "apellidos": "MEDINA",
+      "nombres": "FABIANA GUILLERMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 46636,
+    "padron_id": 83643
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX49",
+      "apellidos": "COSIANSI",
+      "nombres": "CARLOS DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX60",
+      "apellidos": "PARDO MARCOS",
+      "nombres": "MELINA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "32XXXX73",
+      "apellidos": "HERRERA OVIEDO",
+      "nombres": "MARIA LOURDES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

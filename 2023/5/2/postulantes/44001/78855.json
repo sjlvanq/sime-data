@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 44001,
+    "padron_id": 78855
+  },
+  "postulantes": [
+    {
+      "orden": 112,
+      "dni": "27XXXX01",
+      "apellidos": "GONZALEZ",
+      "nombres": "VANINA VANESA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "36XXXX74",
+      "apellidos": "SANDOVAL",
+      "nombres": "ANDREA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

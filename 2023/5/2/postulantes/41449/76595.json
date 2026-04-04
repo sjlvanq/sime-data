@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 41449,
+    "padron_id": 76595
+  },
+  "postulantes": [
+    {
+      "orden": 43,
+      "dni": "37XXXX61",
+      "apellidos": "AMAYA",
+      "nombres": "VALERIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 110,
+      "dni": "36XXXX08",
+      "apellidos": "ATAY",
+      "nombres": "ERIKA ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 193,
+      "dni": "25XXXX48",
+      "apellidos": "DIAZ",
+      "nombres": "HECTOR FABIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

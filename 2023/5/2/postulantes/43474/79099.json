@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 43474,
+    "padron_id": 79099
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX53",
+      "apellidos": "APARICIO",
+      "nombres": "ESTELA MARY",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX07",
+      "apellidos": "BALCARCE",
+      "nombres": "VANESA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
