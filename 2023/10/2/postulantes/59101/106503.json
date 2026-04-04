@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 59101,
+    "padron_id": 106503
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "27XXXX14",
+      "apellidos": "BELLOS",
+      "nombres": "ILIANA ABIGAIL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "32XXXX34",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANAHI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX54",
+      "apellidos": "ROMERO GUNSET",
+      "nombres": "ANA CELESTE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

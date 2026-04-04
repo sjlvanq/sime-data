@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 58314,
+    "padron_id": 104316
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX78",
+      "apellidos": "AGÜERO",
+      "nombres": "LUIS CRISTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX34",
+      "apellidos": "NAVARRO",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

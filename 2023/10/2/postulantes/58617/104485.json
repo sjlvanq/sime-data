@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 58617,
+    "padron_id": 104485
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX18",
+      "apellidos": "ARAOZ",
+      "nombres": "GABRIELA ISABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "31XXXX14",
+      "apellidos": "SEGOVIA",
+      "nombres": "MATIAS ANGEL HONORIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "18XXXX51",
+      "apellidos": "ITURRE RIVERA",
+      "nombres": "OSCAR MANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "22XXXX43",
+      "apellidos": "DE SIMONE",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

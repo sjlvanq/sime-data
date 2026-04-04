@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "vacante_id": 57658,
+    "padron_id": 104965
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "35XXXX03",
+      "apellidos": "CUELLO",
+      "nombres": "EXEQUIEL HUMBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX28",
+      "apellidos": "DIAZ",
+      "nombres": "CRISTIAN ALEJANDRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "29XXXX89",
+      "apellidos": "LIZARRAGA",
+      "nombres": "MARIANA NOEMI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "30XXXX96",
+      "apellidos": "MUÑOZ ALBARRACIN",
+      "nombres": "VERONICA VANESA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 69,
+      "dni": "40XXXX77",
+      "apellidos": "LOBO",
+      "nombres": "LURDES MICAELA BELÉN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "26XXXX38",
+      "apellidos": "LAZO",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 58738,
+    "padron_id": 104955
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX36",
+      "apellidos": "MEDINA",
+      "nombres": "SILVINA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX04",
+      "apellidos": "MONTEROS",
+      "nombres": "HECTOR ABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

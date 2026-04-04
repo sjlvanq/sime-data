@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 58283,
+    "padron_id": 104333
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX22",
+      "apellidos": "ACOSTA",
+      "nombres": "MARTA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX37",
+      "apellidos": "CONTRERAS",
+      "nombres": "KARINA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "24XXXX14",
+      "apellidos": "RUIZ",
+      "nombres": "VIVIANA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

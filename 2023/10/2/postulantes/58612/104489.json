@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 58612,
+    "padron_id": 104489
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX64",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA ANGELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX49",
+      "apellidos": "MENA",
+      "nombres": "FEDERICO DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

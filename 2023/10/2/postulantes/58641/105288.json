@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 58641,
+    "padron_id": 105288
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "38XXXX10",
+      "apellidos": "LOPEZ",
+      "nombres": "SOFIA IVANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "33XXXX01",
+      "apellidos": "PAEZ ALDERETES",
+      "nombres": "JOSE ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "22XXXX84",
+      "apellidos": "ROMERO",
+      "nombres": "NORMA LILIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

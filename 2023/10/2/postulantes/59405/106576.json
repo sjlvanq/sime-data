@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 59405,
+    "padron_id": 106576
+  },
+  "postulantes": [
+    {
+      "orden": 69,
+      "dni": "28XXXX27",
+      "apellidos": "DANDREA",
+      "nombres": "JESUS ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "18XXXX69",
+      "apellidos": "SAFIR",
+      "nombres": "JORGE ANTONIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

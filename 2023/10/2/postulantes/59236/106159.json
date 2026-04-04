@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 59236,
+    "padron_id": 106159
+  },
+  "postulantes": [
+    {
+      "orden": 53,
+      "dni": "22XXXX88",
+      "apellidos": "PAZ",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 15,
+      "dni": "24XXXX82",
+      "apellidos": "SALAZAR",
+      "nombres": "LIDIA MERCEDES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 85,
+      "dni": "22XXXX01",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "HECTOR DOMINGO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 99,
+      "dni": "23XXXX24",
+      "apellidos": "GONZALEZ",
+      "nombres": "FELIPE MANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

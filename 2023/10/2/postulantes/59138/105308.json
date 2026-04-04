@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 59138,
+    "padron_id": 105308
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "20XXXX03",
+      "apellidos": "ZELARAYAN",
+      "nombres": "MARIA CLARA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

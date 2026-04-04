@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 58944,
+    "padron_id": 105624
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "27XXXX07",
+      "apellidos": "MORENO",
+      "nombres": "CECILIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "20XXXX63",
+      "apellidos": "ALANIS",
+      "nombres": "NOEMI VIVIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "25XXXX69",
+      "apellidos": "ANTON",
+      "nombres": "MONICA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "26XXXX07",
+      "apellidos": "BALCARCE",
+      "nombres": "VANESA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

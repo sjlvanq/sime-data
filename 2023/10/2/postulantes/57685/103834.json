@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57685,
+    "padron_id": 103834
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX65",
+      "apellidos": "NAVARRO PEREA",
+      "nombres": "JOSE ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "22XXXX51",
+      "apellidos": "GARZÓN",
+      "nombres": "DANIEL ERNESTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "26XXXX54",
+      "apellidos": "ROJAS",
+      "nombres": "JUAN ARIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

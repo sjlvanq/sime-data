@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 58170,
+    "padron_id": 104585
+  },
+  "postulantes": [
+    {
+      "orden": 44,
+      "dni": "20XXXX84",
+      "apellidos": "MONROY",
+      "nombres": "ROSSANA MABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "26XXXX72",
+      "apellidos": "ORTIZ",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

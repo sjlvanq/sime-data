@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 58840,
+    "padron_id": 105009
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX47",
+      "apellidos": "FARIAS",
+      "nombres": "LUISA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX51",
+      "apellidos": "VELASQUEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

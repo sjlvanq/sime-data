@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 58322,
+    "padron_id": 104404
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "31XXXX74",
+      "apellidos": "DIAZ",
+      "nombres": "NADIA MAGDALENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "28XXXX80",
+      "apellidos": "SCHWEITZER",
+      "nombres": "TOMAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

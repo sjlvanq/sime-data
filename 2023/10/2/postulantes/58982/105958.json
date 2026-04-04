@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 58982,
+    "padron_id": 105958
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX90",
+      "apellidos": "CARRIZO",
+      "nombres": "VERONICA GABRIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "32XXXX53",
+      "apellidos": "PACHAO",
+      "nombres": "MARIA LUISA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "22XXXX24",
+      "apellidos": "AREDEZ",
+      "nombres": "GABRIELA RUTH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

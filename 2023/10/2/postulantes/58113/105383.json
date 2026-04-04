@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 58113,
+    "padron_id": 105383
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "24XXXX82",
+      "apellidos": "ALARCON",
+      "nombres": "MYRIAN ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "32XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "BETTIANA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

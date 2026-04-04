@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 59408,
+    "padron_id": 106562
+  },
+  "postulantes": [
+    {
+      "orden": 66,
+      "dni": "25XXXX15",
+      "apellidos": "BACHUR",
+      "nombres": "PABLO ABRAHAM",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 85,
+      "dni": "25XXXX68",
+      "apellidos": "SEGURA",
+      "nombres": "SERGIO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 88,
+      "dni": "13XXXX44",
+      "apellidos": "PERALTA",
+      "nombres": "SARA ESTER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

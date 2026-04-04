@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57173,
+    "padron_id": 102597
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX38",
+      "apellidos": "BEVILACQUA",
+      "nombres": "LUCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "27XXXX61",
+      "apellidos": "IÑIGUEZ",
+      "nombres": "MARTA MARIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "28XXXX85",
+      "apellidos": "SORAIRE",
+      "nombres": "ADRIANA JULIETA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
