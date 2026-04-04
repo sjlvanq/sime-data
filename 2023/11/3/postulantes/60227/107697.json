@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 60227,
+    "padron_id": 107697
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX42",
+      "apellidos": "VILLA",
+      "nombres": "EMANUEL AGUSTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX85",
+      "apellidos": "ANDRADA",
+      "nombres": "WALTER ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

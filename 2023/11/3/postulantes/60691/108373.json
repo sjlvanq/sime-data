@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 60691,
+    "padron_id": 108373
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX28",
+      "apellidos": "DIAZ",
+      "nombres": "MARIA RAFAELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX51",
+      "apellidos": "MEDINA",
+      "nombres": "RICARDO EMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

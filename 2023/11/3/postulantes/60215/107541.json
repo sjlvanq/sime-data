@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 60215,
+    "padron_id": 107541
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "25XXXX19",
+      "apellidos": "DE HARO HOHL",
+      "nombres": "MARIA VALERIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "20XXXX17",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "RODOLFO ALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX92",
+      "apellidos": "GINE                                    ",
+      "nombres": "FRANCO AGUSTIN                          ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "39XXXX12",
+      "apellidos": "SALAZAR",
+      "nombres": "MARIBEL ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

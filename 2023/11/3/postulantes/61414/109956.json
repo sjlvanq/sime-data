@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 61414,
+    "padron_id": 109956
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "37XXXX02",
+      "apellidos": "ORELLANA",
+      "nombres": "ULISES JOSE MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "32XXXX63",
+      "apellidos": "SOSA",
+      "nombres": "CHRISTIAN FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "42XXXX36",
+      "apellidos": "SALAZAR",
+      "nombres": "OSCAR GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

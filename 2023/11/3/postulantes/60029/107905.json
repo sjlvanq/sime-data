@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 60029,
+    "padron_id": 107905
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "20XXXX74",
+      "apellidos": "GARCIA",
+      "nombres": "JOSE ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "31XXXX60",
+      "apellidos": "COLLANTE",
+      "nombres": "DARIO RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX40",
+      "apellidos": "SOSA",
+      "nombres": "DIEGO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "36XXXX20",
+      "apellidos": "LANFRANCO",
+      "nombres": "CARLOS FRANCISCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

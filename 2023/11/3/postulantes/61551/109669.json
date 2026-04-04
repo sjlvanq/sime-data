@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 61551,
+    "padron_id": 109669
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX16",
+      "apellidos": "TORRES",
+      "nombres": "ELVIO LEONEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX72",
+      "apellidos": "AGUIRRE",
+      "nombres": "NICOLAS ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "35XXXX66",
+      "apellidos": "JUAREZ CARRIZO",
+      "nombres": "NADIA NOELI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

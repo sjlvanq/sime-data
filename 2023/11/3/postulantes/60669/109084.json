@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 60669,
+    "padron_id": 109084
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "25XXXX91",
+      "apellidos": "MEDINA",
+      "nombres": "HECTOR RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "34XXXX56",
+      "apellidos": "ASLAN",
+      "nombres": "CLAUDIA JOANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "28XXXX45",
+      "apellidos": "JIMENEZ",
+      "nombres": "CESAR AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 60351,
+    "padron_id": 108065
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX92",
+      "apellidos": "GONZALEZ",
+      "nombres": "HECTOR EMMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX38",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "LUIS FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "18XXXX73",
+      "apellidos": "AYBAR",
+      "nombres": "JORGE DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
