@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 39853,
+    "padron_id": 71779
+  },
+  "postulantes": [
+    {
+      "orden": 118,
+      "dni": "14XXXX58",
+      "apellidos": "BARROS",
+      "nombres": "ROSA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 127,
+      "dni": "21XXXX50",
+      "apellidos": "RUIZ",
+      "nombres": "SILVANA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "22XXXX23",
+      "apellidos": "DUMO",
+      "nombres": "SANDRA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

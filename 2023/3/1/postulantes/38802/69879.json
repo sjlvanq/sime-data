@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 38802,
+    "padron_id": 69879
+  },
+  "postulantes": [
+    {
+      "orden": 36,
+      "dni": "31XXXX41",
+      "apellidos": "OLIVA",
+      "nombres": "MARCELO ANTONIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "39XXXX55",
+      "apellidos": "TORRES",
+      "nombres": "HUGO EMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "40XXXX61",
+      "apellidos": "ROMERO",
+      "nombres": "ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

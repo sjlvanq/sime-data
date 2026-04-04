@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 39610,
+    "padron_id": 71173
+  },
+  "postulantes": [
+    {
+      "orden": 123,
+      "dni": "29XXXX87",
+      "apellidos": "ALVAREZ",
+      "nombres": "DEBORAH MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 121,
+      "dni": "27XXXX62",
+      "apellidos": "OYOLA",
+      "nombres": "CRISTINA SILVANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

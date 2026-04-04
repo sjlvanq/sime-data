@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 37754,
+    "padron_id": 68107
+  },
+  "postulantes": [
+    {
+      "orden": 137,
+      "dni": "21XXXX17",
+      "apellidos": "VILLARREAL",
+      "nombres": "SILVINA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 154,
+      "dni": "21XXXX08",
+      "apellidos": "OTAROLA",
+      "nombres": "JORGE ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 63,
+      "dni": "18XXXX23",
+      "apellidos": "MEDINA",
+      "nombres": "MIRYAN MONICA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

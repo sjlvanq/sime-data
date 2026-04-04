@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 38702,
+    "padron_id": 70119
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "30XXXX00",
+      "apellidos": "PEREA",
+      "nombres": "NOELIA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "30XXXX59",
+      "apellidos": "VERA",
+      "nombres": "CARLOS FEDERICO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

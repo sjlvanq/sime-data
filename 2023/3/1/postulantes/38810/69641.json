@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 38810,
+    "padron_id": 69641
+  },
+  "postulantes": [
+    {
+      "orden": 42,
+      "dni": "23XXXX43",
+      "apellidos": "HERRERO",
+      "nombres": "CLAUDIA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

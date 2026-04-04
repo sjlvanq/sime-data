@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 38366,
+    "padron_id": 69100
+  },
+  "postulantes": [
+    {
+      "orden": 45,
+      "dni": "27XXXX23",
+      "apellidos": "ALVAREZ",
+      "nombres": "SILVANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 113,
+      "dni": "27XXXX62",
+      "apellidos": "OYOLA",
+      "nombres": "CRISTINA SILVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 150,
+      "dni": "22XXXX20",
+      "apellidos": "LOPEZ",
+      "nombres": "SANDRA LILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 38181,
+    "padron_id": 68767
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "36XXXX39",
+      "apellidos": "HERGUI",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "32XXXX24",
+      "apellidos": "AGUIRRE",
+      "nombres": "YANINA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "29XXXX35",
+      "apellidos": "FARA",
+      "nombres": "MARIELA MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 116,
+      "dni": "27XXXX74",
+      "apellidos": "SALAS",
+      "nombres": "WALDO FRANCISCO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

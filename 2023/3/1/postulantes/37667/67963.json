@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 37667,
+    "padron_id": 67963
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "40XXXX75",
+      "apellidos": "BAILETTI CRUZ",
+      "nombres": "PABLO AUGUSTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX84",
+      "apellidos": "AGUILAR",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "31XXXX31",
+      "apellidos": "LOBO",
+      "nombres": "CINTHYA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

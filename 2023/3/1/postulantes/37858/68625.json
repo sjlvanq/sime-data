@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 37858,
+    "padron_id": 68625
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "31XXXX87",
+      "apellidos": "RIOS",
+      "nombres": "MARIA JULIETA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "27XXXX09",
+      "apellidos": "CHEMES",
+      "nombres": "MARIA EVELYN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX90",
+      "apellidos": "DIAZ GAITAN",
+      "nombres": "MARIA NAZARETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

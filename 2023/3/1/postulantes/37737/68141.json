@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 37737,
+    "padron_id": 68141
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX57",
+      "apellidos": "VAQUERO",
+      "nombres": "CECILIA MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "24XXXX98",
+      "apellidos": "MEDINA",
+      "nombres": "ALBERTO NAPOLEON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "25XXXX40",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE MIGUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

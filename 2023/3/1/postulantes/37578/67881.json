@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 37578,
+    "padron_id": 67881
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "26XXXX88",
+      "apellidos": "ELIAS",
+      "nombres": "SILVINA SOFIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX98",
+      "apellidos": "MAYOL",
+      "nombres": "JIMENA GISEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

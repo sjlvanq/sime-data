@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 38978,
+    "padron_id": 69979
+  },
+  "postulantes": [
+    {
+      "orden": 100,
+      "dni": "20XXXX93",
+      "apellidos": "MOLINA",
+      "nombres": "MARINA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 128,
+      "dni": "22XXXX13",
+      "apellidos": "LARA",
+      "nombres": "MARCELA FERNANDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 187,
+      "dni": "20XXXX26",
+      "apellidos": "ACOSTA",
+      "nombres": "NORMA ELIZABET",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 250,
+      "dni": "23XXXX88",
+      "apellidos": "VILLARREAL",
+      "nombres": "MARISA ALEJANDRA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 38000,
+    "padron_id": 68815
+  },
+  "postulantes": [
+    {
+      "orden": 51,
+      "dni": "21XXXX10",
+      "apellidos": "CRESPIN",
+      "nombres": "ADRIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "21XXXX16",
+      "apellidos": "MORENO",
+      "nombres": "SANDRA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "16XXXX97",
+      "apellidos": "CASTRO",
+      "nombres": "NELIDA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "24XXXX98",
+      "apellidos": "MEDINA",
+      "nombres": "ALBERTO NAPOLEON",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

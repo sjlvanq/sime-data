@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 38347,
+    "padron_id": 69127
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "26XXXX88",
+      "apellidos": "ELIAS",
+      "nombres": "SILVINA SOFIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX78",
+      "apellidos": "CAMPERO",
+      "nombres": "MARTA LEONOR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "18XXXX04",
+      "apellidos": "GOMEZ",
+      "nombres": "CECILIA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
