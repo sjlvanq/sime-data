@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64285,
+    "padron_id": 114449
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX12",
+      "apellidos": "CISTERNA",
+      "nombres": "SILVANA JOSEFA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MAESTRO DE SECCION TITULAR"
+    },
+    {
+      "orden": 43,
+      "dni": "23XXXX85",
+      "apellidos": "SANDOVAL",
+      "nombres": "NEMESIA ANTONIA DEL MILAGRO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MAESTRO DE SECCION TITULAR"
+    },
+    {
+      "orden": 46,
+      "dni": "28XXXX99",
+      "apellidos": "LATINA",
+      "nombres": "IVANA MARIA DE LOS ANGELES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MAESTRO DE SECCION TITULAR"
+    }
+  ]
+}

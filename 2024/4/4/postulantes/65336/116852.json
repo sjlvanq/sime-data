@@ -1,0 +1,962 @@
+{
+  "metadata": {
+    "vacante_id": 65336,
+    "padron_id": 116852
+  },
+  "postulantes": [
+    {
+      "orden": 77,
+      "dni": "36XXXX13",
+      "apellidos": "ROJAS",
+      "nombres": "VICTOR GUILLERMO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 101,
+      "dni": "36XXXX87",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "35XXXX65",
+      "apellidos": "PONCE",
+      "nombres": "ESTEFANIA DE LOS ANGELES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 130,
+      "dni": "33XXXX25",
+      "apellidos": "SABALZA",
+      "nombres": "DANIELA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 134,
+      "dni": "30XXXX89",
+      "apellidos": "BARQUET",
+      "nombres": "MARIA YAZMIN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 138,
+      "dni": "36XXXX71",
+      "apellidos": "VARELA",
+      "nombres": "MAYRA DE LOS ANGELES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 174,
+      "dni": "33XXXX66",
+      "apellidos": "DIP",
+      "nombres": "HERNAN EXEQUIEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 178,
+      "dni": "27XXXX40",
+      "apellidos": "PAREDES",
+      "nombres": "CLAUDIO NAHUEL ANTONIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 180,
+      "dni": "36XXXX47",
+      "apellidos": "GALLO",
+      "nombres": "MARIA ANTONELLA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 183,
+      "dni": "31XXXX86",
+      "apellidos": "ZURITA",
+      "nombres": "MARTA ROXANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 240,
+      "dni": "27XXXX07",
+      "apellidos": "MORENO",
+      "nombres": "CECILIA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 299,
+      "dni": "31XXXX50",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 315,
+      "dni": "22XXXX01",
+      "apellidos": "LOPEZ",
+      "nombres": "FATIMA VIRGINIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 397,
+      "dni": "28XXXX89",
+      "apellidos": "ORTIZ",
+      "nombres": "PATRICIA DEL JESUS",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 412,
+      "dni": "35XXXX09",
+      "apellidos": "ACOSTA",
+      "nombres": "ELIANA ROSA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 428,
+      "dni": "27XXXX28",
+      "apellidos": "LAZARTE",
+      "nombres": "JOSE DAVID",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "31XXXX74",
+      "apellidos": "ROJAS",
+      "nombres": "PABLO LUIS FERNANDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 447,
+      "dni": "39XXXX11",
+      "apellidos": "MENOCAL BRAVO",
+      "nombres": "GUSTAVO ERNESTO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 448,
+      "dni": "35XXXX04",
+      "apellidos": "PERLIN",
+      "nombres": "ESTEFANI LUZ",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 570,
+      "dni": "28XXXX84",
+      "apellidos": "MUSTAFÁ",
+      "nombres": "SARA ALICIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 632,
+      "dni": "25XXXX09",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANA ALICIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 638,
+      "dni": "27XXXX01",
+      "apellidos": "ESCOBAR",
+      "nombres": "SILVIA VIVIANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 660,
+      "dni": "40XXXX97",
+      "apellidos": "URUEÑA",
+      "nombres": "LUCILA RITA MAGALI",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 757,
+      "dni": "33XXXX85",
+      "apellidos": "BIANCHINI",
+      "nombres": "ALEJANDRO DANIEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 773,
+      "dni": "36XXXX89",
+      "apellidos": "LEDESMA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 791,
+      "dni": "25XXXX37",
+      "apellidos": "GIAMPAOLI",
+      "nombres": "MARIA DEL ROSARIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 792,
+      "dni": "32XXXX89",
+      "apellidos": "VILLAFAÑE BULACIO",
+      "nombres": "ANAHI",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 822,
+      "dni": "31XXXX34",
+      "apellidos": "QUINTERO",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 854,
+      "dni": "41XXXX23",
+      "apellidos": "MELNIK",
+      "nombres": "MAURICIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 888,
+      "dni": "37XXXX06",
+      "apellidos": "PEREZ",
+      "nombres": "ROCIO DEL PILAR",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 898,
+      "dni": "33XXXX78",
+      "apellidos": "ROMAN LOPEZ",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 947,
+      "dni": "41XXXX79",
+      "apellidos": "OGAS",
+      "nombres": "JULIETA CAROLINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 973,
+      "dni": "40XXXX93",
+      "apellidos": "OVEJERO CARRIZO",
+      "nombres": "ALEXIS DANIEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 974,
+      "dni": "34XXXX40",
+      "apellidos": "RUSSO",
+      "nombres": "FLORENCIA MARIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 996,
+      "dni": "26XXXX35",
+      "apellidos": "ANDRADA",
+      "nombres": "LUCIA MARGARITA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1003,
+      "dni": "37XXXX35",
+      "apellidos": "ARRIETA",
+      "nombres": "ESTEFANIA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1087,
+      "dni": "41XXXX99",
+      "apellidos": "SANCHEZ",
+      "nombres": "NOELIA PRISCILA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1097,
+      "dni": "41XXXX31",
+      "apellidos": "QUINTEROS",
+      "nombres": "JULIAN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1100,
+      "dni": "32XXXX67",
+      "apellidos": "CASTILLO",
+      "nombres": "NATALIA DE LOS ÁNGELES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1149,
+      "dni": "37XXXX58",
+      "apellidos": "NARVÁEZ",
+      "nombres": "JUAN IGNACIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1163,
+      "dni": "39XXXX58",
+      "apellidos": "FAHUER",
+      "nombres": "PABLO MANUEL SALOMON",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1164,
+      "dni": "41XXXX24",
+      "apellidos": "GEROMINI",
+      "nombres": "MARIA BEATRIZ",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1167,
+      "dni": "26XXXX73",
+      "apellidos": "DIAZ",
+      "nombres": "MARIO ROBERTO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1240,
+      "dni": "34XXXX87",
+      "apellidos": "NIEVA",
+      "nombres": "SILVANA ROMINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1281,
+      "dni": "40XXXX53",
+      "apellidos": "SABALZA",
+      "nombres": "KAREN MACARENA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1326,
+      "dni": "37XXXX59",
+      "apellidos": "OCAMPO",
+      "nombres": "RUTH ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1327,
+      "dni": "36XXXX03",
+      "apellidos": "GRANEROS",
+      "nombres": "MARÍA ALEJANDRA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "27XXXX44",
+      "apellidos": "LOBO",
+      "nombres": "NANCY DEL CARMEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "33XXXX61",
+      "apellidos": "ROBLES",
+      "nombres": "PEDRO PABLO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 111,
+      "dni": "32XXXX77",
+      "apellidos": "HUVIERNE",
+      "nombres": "KARINA ROMINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 130,
+      "dni": "28XXXX64",
+      "apellidos": "DECIMA",
+      "nombres": "SANDRA MARIELA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 179,
+      "dni": "33XXXX72",
+      "apellidos": "ALDERETE",
+      "nombres": "MAYRA DANIELA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 202,
+      "dni": "36XXXX30",
+      "apellidos": "CEQUI",
+      "nombres": "PEDRO MIGUEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 231,
+      "dni": "36XXXX28",
+      "apellidos": "DIAZ",
+      "nombres": "CRISTIAN ALEJANDRO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 255,
+      "dni": "30XXXX94",
+      "apellidos": "RUÍZ",
+      "nombres": "MARÍA SUSANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 296,
+      "dni": "38XXXX75",
+      "apellidos": "ELIAS",
+      "nombres": "SANTIAGO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 320,
+      "dni": "36XXXX88",
+      "apellidos": "MOLINA",
+      "nombres": "IVANA BELEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 372,
+      "dni": "34XXXX14",
+      "apellidos": "JUAREZ",
+      "nombres": "VERONICA NATALIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 375,
+      "dni": "20XXXX83",
+      "apellidos": "QUIROGA",
+      "nombres": "LUCIA INES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 394,
+      "dni": "31XXXX05",
+      "apellidos": "NORRY",
+      "nombres": "DAIANA VANESSA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 414,
+      "dni": "27XXXX21",
+      "apellidos": "ELENA",
+      "nombres": "CINTHYA MARCELA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 437,
+      "dni": "31XXXX50",
+      "apellidos": "CENTENO",
+      "nombres": "JUAN MANUEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 475,
+      "dni": "28XXXX15",
+      "apellidos": "AMADOR",
+      "nombres": "VALERIA TRINIDAD",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 501,
+      "dni": "33XXXX17",
+      "apellidos": "VIDES",
+      "nombres": "NATALIA SOLEDAD",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 513,
+      "dni": "33XXXX61",
+      "apellidos": "PEREYRA",
+      "nombres": "ELIO ROLANDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 521,
+      "dni": "29XXXX93",
+      "apellidos": "GRANEROS",
+      "nombres": "NATALIA LEONOR",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 545,
+      "dni": "30XXXX51",
+      "apellidos": "ALVAREZ COSTAS",
+      "nombres": "ANDREA CELESTE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 550,
+      "dni": "36XXXX57",
+      "apellidos": "GALIP",
+      "nombres": "JESSICA YANINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 556,
+      "dni": "43XXXX91",
+      "apellidos": "OLIVA",
+      "nombres": "NATALIA ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 569,
+      "dni": "37XXXX71",
+      "apellidos": "FERNANDEZ",
+      "nombres": "ROMINA ABRIL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 576,
+      "dni": "34XXXX53",
+      "apellidos": "LAZARTE",
+      "nombres": "NATALIA DEL CARMEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 614,
+      "dni": "30XXXX56",
+      "apellidos": "RIVERO",
+      "nombres": "NATALIA ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 648,
+      "dni": "34XXXX37",
+      "apellidos": "SOSA",
+      "nombres": "PRISCILA ALICIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 649,
+      "dni": "37XXXX76",
+      "apellidos": "LENCINA",
+      "nombres": "MARÍA  AGUSTINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 667,
+      "dni": "35XXXX13",
+      "apellidos": "MERCHED GONZALEZ",
+      "nombres": "DAVID GABRIEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 692,
+      "dni": "23XXXX21",
+      "apellidos": "CABALLERO",
+      "nombres": "CARLOS ROBERTO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 727,
+      "dni": "36XXXX57",
+      "apellidos": "FIGUERES",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 747,
+      "dni": "37XXXX31",
+      "apellidos": "MONRROY",
+      "nombres": "DOMINGA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 751,
+      "dni": "35XXXX16",
+      "apellidos": "JUAREZ",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 805,
+      "dni": "36XXXX90",
+      "apellidos": "JUAREZ RODRIGUEZ",
+      "nombres": "MARISA MELINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 811,
+      "dni": "33XXXX58",
+      "apellidos": "ACUÑA",
+      "nombres": "MARIA ROMINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 865,
+      "dni": "38XXXX15",
+      "apellidos": "CABRERA",
+      "nombres": "ALBARO IVAN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 866,
+      "dni": "35XXXX73",
+      "apellidos": "SAL",
+      "nombres": "MARÍA ISABEL DEL MILAGRO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 869,
+      "dni": "23XXXX16",
+      "apellidos": "VILLADA",
+      "nombres": "VIOLETA NANCY",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 886,
+      "dni": "35XXXX18",
+      "apellidos": "MUSA                                    ",
+      "nombres": "ABEL DAMIAN                             ",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1009,
+      "dni": "33XXXX66",
+      "apellidos": "LUNA",
+      "nombres": "GLADYS ELIANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1069,
+      "dni": "31XXXX46",
+      "apellidos": "VIERA",
+      "nombres": "LUIS CESAR",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1082,
+      "dni": "20XXXX49",
+      "apellidos": "TAPIA",
+      "nombres": "HUGO CEFERINO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1096,
+      "dni": "39XXXX41",
+      "apellidos": "ROMANO",
+      "nombres": "GISEL BEATRIZ",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1097,
+      "dni": "40XXXX04",
+      "apellidos": "LLORENS",
+      "nombres": "PAULA DANIELA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1148,
+      "dni": "41XXXX63",
+      "apellidos": "GARCÍA",
+      "nombres": "STEFANÍA NAIR",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1151,
+      "dni": "37XXXX10",
+      "apellidos": "ABREGU",
+      "nombres": "ELIZABETH ROSANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1155,
+      "dni": "39XXXX59",
+      "apellidos": "GONZALEZ",
+      "nombres": "JULIAN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1162,
+      "dni": "36XXXX19",
+      "apellidos": "FIGUEROA",
+      "nombres": "LEONARDO ALEJANDRO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1170,
+      "dni": "40XXXX29",
+      "apellidos": "PEDRAZA ALBORNOZ",
+      "nombres": "IVANA GISEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1312,
+      "dni": "31XXXX88",
+      "apellidos": "PADILLA",
+      "nombres": "NOELIA RITA INES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1331,
+      "dni": "27XXXX19",
+      "apellidos": "PIRIS",
+      "nombres": "JUAN JOSE MAXIMILIANO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1368,
+      "dni": "21XXXX37",
+      "apellidos": "AVILA",
+      "nombres": "DELINA ELENA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1431,
+      "dni": "38XXXX29",
+      "apellidos": "AGUILAR",
+      "nombres": "MICAELA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1526,
+      "dni": "37XXXX42",
+      "apellidos": "PONCE",
+      "nombres": "YULIANA MARÍA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1539,
+      "dni": "33XXXX90",
+      "apellidos": "RUIZ",
+      "nombres": "PAULO HORACIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1592,
+      "dni": "25XXXX26",
+      "apellidos": "PALAVECINO",
+      "nombres": "CECILIA LOURDES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1618,
+      "dni": "33XXXX31",
+      "apellidos": "DIAZ",
+      "nombres": "EUGENIA MARGARITA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1662,
+      "dni": "23XXXX84",
+      "apellidos": "REYES",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1718,
+      "dni": "28XXXX28",
+      "apellidos": "GRAMAJO",
+      "nombres": "MARÍA FERNANDA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1951,
+      "dni": "28XXXX67",
+      "apellidos": "MOLINA",
+      "nombres": "MARCOS ESTEBAN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
