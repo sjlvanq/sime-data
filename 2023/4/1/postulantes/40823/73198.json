@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40823,
+    "padron_id": 73198
+  },
+  "postulantes": [
+    {
+      "orden": 166,
+      "dni": "24XXXX10",
+      "apellidos": "GIUNTA",
+      "nombres": "PATRICIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 217,
+      "dni": "22XXXX94",
+      "apellidos": "COSTILLA",
+      "nombres": "ANA LUZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 66,
+      "dni": "22XXXX88",
+      "apellidos": "LOBO",
+      "nombres": "SILVIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

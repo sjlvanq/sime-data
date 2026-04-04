@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 41527,
+    "padron_id": 74997
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX54",
+      "apellidos": "AVILA",
+      "nombres": "ADRIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX98",
+      "apellidos": "ALBARRAN",
+      "nombres": "VALERIA EDITH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "20XXXX06",
+      "apellidos": "REYNOSO",
+      "nombres": "MARIANA DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 42124,
+    "padron_id": 75491
+  },
+  "postulantes": [
+    {
+      "orden": 74,
+      "dni": "31XXXX69",
+      "apellidos": "CHAIO",
+      "nombres": "SILVANA DANIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 130,
+      "dni": "14XXXX58",
+      "apellidos": "BARROS",
+      "nombres": "ROSA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 150,
+      "dni": "23XXXX84",
+      "apellidos": "FIGUEROA",
+      "nombres": "FABIANA ESTELA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

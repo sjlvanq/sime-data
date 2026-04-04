@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42356,
+    "padron_id": 76450
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "25XXXX82",
+      "apellidos": "CRUZ",
+      "nombres": "JUAN ALBERTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX86",
+      "apellidos": "PEREZ",
+      "nombres": "PAOLA PATRICIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

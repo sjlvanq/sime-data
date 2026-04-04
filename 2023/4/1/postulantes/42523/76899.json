@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42523,
+    "padron_id": 76899
+  },
+  "postulantes": [
+    {
+      "orden": 52,
+      "dni": "21XXXX74",
+      "apellidos": "CHAZARRETA",
+      "nombres": "PATRICIA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 107,
+      "dni": "20XXXX63",
+      "apellidos": "OLARTE",
+      "nombres": "MARTA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 127,
+      "dni": "21XXXX50",
+      "apellidos": "RUIZ",
+      "nombres": "SILVANA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

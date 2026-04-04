@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 40467,
+    "padron_id": 73000
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "27XXXX23",
+      "apellidos": "ALVAREZ",
+      "nombres": "SILVANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "22XXXX20",
+      "apellidos": "LOPEZ",
+      "nombres": "SANDRA LILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

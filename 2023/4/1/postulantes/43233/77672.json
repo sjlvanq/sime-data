@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 43233,
+    "padron_id": 77672
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "38XXXX12",
+      "apellidos": "FERNADEZ COLOMBO",
+      "nombres": "LAURA DANIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "43XXXX19",
+      "apellidos": "NICOLOFF",
+      "nombres": "NURI LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "40XXXX61",
+      "apellidos": "ROMERO",
+      "nombres": "ROSARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 65,
+      "dni": "40XXXX47",
+      "apellidos": "ZELAYA",
+      "nombres": "FACUNDO LEONEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "41XXXX73",
+      "apellidos": "ORONA",
+      "nombres": "PAMELA AGOSTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

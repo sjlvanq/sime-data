@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42212,
+    "padron_id": 75625
+  },
+  "postulantes": [
+    {
+      "orden": 51,
+      "dni": "22XXXX23",
+      "apellidos": "DUMO",
+      "nombres": "SANDRA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "32XXXX24",
+      "apellidos": "AGUIRRE",
+      "nombres": "YANINA PAOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

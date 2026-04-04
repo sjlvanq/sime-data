@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40325,
+    "padron_id": 73629
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "40XXXX57",
+      "apellidos": "SORIA",
+      "nombres": "NICOLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "37XXXX79",
+      "apellidos": "ZORRILLA HOYOS",
+      "nombres": "YANET MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX90",
+      "apellidos": "PAOLINI",
+      "nombres": "ANA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

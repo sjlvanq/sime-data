@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 41999,
+    "padron_id": 75174
+  },
+  "postulantes": [
+    {
+      "orden": 64,
+      "dni": "24XXXX77",
+      "apellidos": "TAPIA",
+      "nombres": "PAOLA ANDREA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 131,
+      "dni": "20XXXX07",
+      "apellidos": "ARIAS",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

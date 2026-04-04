@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42181,
+    "padron_id": 75641
+  },
+  "postulantes": [
+    {
+      "orden": 114,
+      "dni": "24XXXX93",
+      "apellidos": "FIGUEROA                                ",
+      "nombres": "ANALIA DEL VALLE                        ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 128,
+      "dni": "22XXXX68",
+      "apellidos": "QUINTEROS",
+      "nombres": "NANCY CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

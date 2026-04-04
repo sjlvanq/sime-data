@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 40860,
+    "padron_id": 75684
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "26XXXX06",
+      "apellidos": "FERNANDEZ",
+      "nombres": "FABIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "41XXXX65",
+      "apellidos": "NYCEK",
+      "nombres": "ALEX IVAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "29XXXX35",
+      "apellidos": "HERNANDO",
+      "nombres": "LEANDRO MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "35XXXX19",
+      "apellidos": "MOLINA",
+      "nombres": "RODRIGO JESUS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "40XXXX61",
+      "apellidos": "ROMERO",
+      "nombres": "ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

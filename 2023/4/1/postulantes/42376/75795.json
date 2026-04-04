@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42376,
+    "padron_id": 75795
+  },
+  "postulantes": [
+    {
+      "orden": 124,
+      "dni": "21XXXX49",
+      "apellidos": "CARIA",
+      "nombres": "GUSTAVO MARCELO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 188,
+      "dni": "22XXXX81",
+      "apellidos": "CAJAL",
+      "nombres": "MYRIAM ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

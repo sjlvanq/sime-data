@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42948,
+    "padron_id": 76766
+  },
+  "postulantes": [
+    {
+      "orden": 52,
+      "dni": "25XXXX16",
+      "apellidos": "CORBALAN",
+      "nombres": "DORA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 90,
+      "dni": "22XXXX17",
+      "apellidos": "TICERA VALLEJO",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 110,
+      "dni": "22XXXX20",
+      "apellidos": "LOPEZ",
+      "nombres": "SANDRA LILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 41933,
+    "padron_id": 75683
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "30XXXX59",
+      "apellidos": "VERA",
+      "nombres": "CARLOS FEDERICO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "30XXXX00",
+      "apellidos": "PEREA",
+      "nombres": "NOELIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

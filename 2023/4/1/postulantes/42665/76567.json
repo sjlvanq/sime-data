@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42665,
+    "padron_id": 76567
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "30XXXX59",
+      "apellidos": "VERA",
+      "nombres": "CARLOS FEDERICO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "25XXXX82",
+      "apellidos": "CRUZ",
+      "nombres": "JUAN ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "30XXXX00",
+      "apellidos": "PEREA",
+      "nombres": "NOELIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

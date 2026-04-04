@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42520,
+    "padron_id": 76771
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "40XXXX21",
+      "apellidos": "VENEZIANO",
+      "nombres": "FRANCO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "32XXXX49",
+      "apellidos": "PASTRANA",
+      "nombres": "ROQUE ROLANDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

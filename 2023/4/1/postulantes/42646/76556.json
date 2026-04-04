@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42646,
+    "padron_id": 76556
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "23XXXX85",
+      "apellidos": "TORRES",
+      "nombres": "CLAUDIA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "23XXXX55",
+      "apellidos": "FRIAZ",
+      "nombres": "MARINA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

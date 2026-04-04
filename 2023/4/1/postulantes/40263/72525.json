@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 40263,
+    "padron_id": 72525
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "32XXXX16",
+      "apellidos": "VILLARREAL",
+      "nombres": "ROMINA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "30XXXX59",
+      "apellidos": "VERA",
+      "nombres": "CARLOS FEDERICO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

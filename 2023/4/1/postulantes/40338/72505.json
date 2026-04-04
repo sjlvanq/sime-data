@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40338,
+    "padron_id": 72505
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "20XXXX10",
+      "apellidos": "LOPEZ",
+      "nombres": "MONICA VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "22XXXX97",
+      "apellidos": "PEREZ",
+      "nombres": "MABEL DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "20XXXX41",
+      "apellidos": "CARDOZO",
+      "nombres": "MARIA ASUNCION",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

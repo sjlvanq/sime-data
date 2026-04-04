@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 41524,
+    "padron_id": 75036
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "27XXXX82",
+      "apellidos": "FRIAS PAZ",
+      "nombres": "ALEJANDRA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX78",
+      "apellidos": "CAMPERO",
+      "nombres": "MARTA LEONOR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "28XXXX78",
+      "apellidos": "BARRIOS",
+      "nombres": "GABRIEL EDUARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

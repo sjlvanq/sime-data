@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42384,
+    "padron_id": 75873
+  },
+  "postulantes": [
+    {
+      "orden": 136,
+      "dni": "23XXXX59",
+      "apellidos": "MORENO",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 180,
+      "dni": "22XXXX68",
+      "apellidos": "QUINTEROS",
+      "nombres": "NANCY CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

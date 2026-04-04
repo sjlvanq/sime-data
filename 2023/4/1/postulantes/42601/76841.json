@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42601,
+    "padron_id": 76841
+  },
+  "postulantes": [
+    {
+      "orden": 848,
+      "dni": "23XXXX15",
+      "apellidos": "VILLARREAL",
+      "nombres": "CRISTIAN ALEJANDRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 925,
+      "dni": "27XXXX10",
+      "apellidos": "JUAREZ",
+      "nombres": "MARTA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "22XXXX28",
+      "apellidos": "PERALTA",
+      "nombres": "VERONICA MARCELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

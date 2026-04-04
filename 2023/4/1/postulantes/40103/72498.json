@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40103,
+    "padron_id": 72498
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "32XXXX08",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "FERNANDO NICOLAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "23XXXX43",
+      "apellidos": "OTTINO",
+      "nombres": "ZULEMA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX54",
+      "apellidos": "PEREZ",
+      "nombres": "DANIEL GUSTAVO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42434,
+    "padron_id": 76430
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "26XXXX27",
+      "apellidos": "DECIMA",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "21XXXX45",
+      "apellidos": "MEDINA BONAHORA",
+      "nombres": "CLAUDIA CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 41531,
+    "padron_id": 75001
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX00",
+      "apellidos": "ROMERO",
+      "nombres": "SILVIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "24XXXX01",
+      "apellidos": "SORIA CASTILLO",
+      "nombres": "ELIZABETH VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "20XXXX77",
+      "apellidos": "GEREZ",
+      "nombres": "ANA MARIA GABRIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

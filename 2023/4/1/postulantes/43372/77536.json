@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 43372,
+    "padron_id": 77536
+  },
+  "postulantes": [
+    {
+      "orden": 124,
+      "dni": "21XXXX49",
+      "apellidos": "CARIA",
+      "nombres": "GUSTAVO MARCELO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "29XXXX35",
+      "apellidos": "FARA",
+      "nombres": "MARIELA MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 108,
+      "dni": "25XXXX79",
+      "apellidos": "CHOCOBAR ONTIVEROS",
+      "nombres": "FABIOLA MAYRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

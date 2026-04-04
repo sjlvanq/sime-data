@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 40570,
+    "padron_id": 72865
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX38",
+      "apellidos": "SORIA",
+      "nombres": "ROSA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "34XXXX55",
+      "apellidos": "OSORIO ORELLANA",
+      "nombres": "GLADYS ANAHI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "38XXXX01",
+      "apellidos": "CAÑAS",
+      "nombres": "MARIQUENA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX81",
+      "apellidos": "ABDALA",
+      "nombres": "MATIAS MIGUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

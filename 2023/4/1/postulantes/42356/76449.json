@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42356,
+    "padron_id": 76449
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "42XXXX01",
+      "apellidos": "MANCERA",
+      "nombres": "TOMAS AARON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "38XXXX69",
+      "apellidos": "MILIOTO",
+      "nombres": "MARIA ALFONSINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

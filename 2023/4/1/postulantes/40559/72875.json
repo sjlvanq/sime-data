@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40559,
+    "padron_id": 72875
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX71",
+      "apellidos": "FERNANDEZ",
+      "nombres": "DANIELA IVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "33XXXX72",
+      "apellidos": "PEREYRA",
+      "nombres": "CINTHIA MARICEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "18XXXX86",
+      "apellidos": "SALGUERO",
+      "nombres": "ESTELA RAMONA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

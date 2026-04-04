@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42781,
+    "padron_id": 76908
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "30XXXX97",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "ADRIANA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "21XXXX79",
+      "apellidos": "VILARIÑO",
+      "nombres": "LEONARDO GABRIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 41161,
+    "padron_id": 73760
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "23XXXX55",
+      "apellidos": "FRIAZ",
+      "nombres": "MARINA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "24XXXX98",
+      "apellidos": "MEDINA",
+      "nombres": "ALBERTO NAPOLEON",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

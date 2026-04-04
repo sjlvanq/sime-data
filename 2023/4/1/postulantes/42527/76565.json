@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42527,
+    "padron_id": 76565
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "28XXXX79",
+      "apellidos": "VALLS",
+      "nombres": "STELLA MARY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 107,
+      "dni": "25XXXX01",
+      "apellidos": "GONZALEZ",
+      "nombres": "KARINA DANIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 131,
+      "dni": "20XXXX58",
+      "apellidos": "VILACHI",
+      "nombres": "CECILIA BERSABET",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

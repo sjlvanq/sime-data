@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 41082,
+    "padron_id": 75952
+  },
+  "postulantes": [
+    {
+      "orden": 123,
+      "dni": "43XXXX64",
+      "apellidos": "ABREGÚ",
+      "nombres": "FACUNDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 124,
+      "dni": "41XXXX73",
+      "apellidos": "ORONA",
+      "nombres": "PAMELA AGOSTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "38XXXX12",
+      "apellidos": "FERNADEZ COLOMBO",
+      "nombres": "LAURA DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "43XXXX19",
+      "apellidos": "NICOLOFF",
+      "nombres": "NURI LILIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
