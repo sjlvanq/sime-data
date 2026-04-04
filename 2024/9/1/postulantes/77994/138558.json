@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 77994,
+    "padron_id": 138558
+  },
+  "postulantes": [
+    {
+      "orden": 28,
+      "dni": "25XXXX13",
+      "apellidos": "DIAZ",
+      "nombres": "JUAN MARCELO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX93",
+      "apellidos": "LOBO",
+      "nombres": "SANDRA LORENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX78",
+      "apellidos": "CARREÑO",
+      "nombres": "YANINA VALERIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

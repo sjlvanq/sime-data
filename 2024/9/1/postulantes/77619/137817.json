@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 77619,
+    "padron_id": 137817
+  },
+  "postulantes": [
+    {
+      "orden": 411,
+      "dni": "22XXXX19",
+      "apellidos": "PONCE",
+      "nombres": "SONIA VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 424,
+      "dni": "33XXXX87",
+      "apellidos": "SERRANO",
+      "nombres": "NOELIA FERNANDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 530,
+      "dni": "37XXXX21",
+      "apellidos": "AGUILERA",
+      "nombres": "FABIANA EDITH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

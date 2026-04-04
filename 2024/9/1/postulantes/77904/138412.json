@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 77904,
+    "padron_id": 138412
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "33XXXX57",
+      "apellidos": "BARROS",
+      "nombres": "OSCAR DARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "29XXXX44",
+      "apellidos": "SANDOVAL ARIAS",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

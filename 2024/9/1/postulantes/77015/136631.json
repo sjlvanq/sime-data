@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 77015,
+    "padron_id": 136631
+  },
+  "postulantes": [
+    {
+      "orden": 159,
+      "dni": "26XXXX92",
+      "apellidos": "DIAZ SMIDERLE",
+      "nombres": "CINTHIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 183,
+      "dni": "18XXXX55",
+      "apellidos": "NAVARRO",
+      "nombres": "ESTELA MARI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 151,
+      "dni": "29XXXX87",
+      "apellidos": "ALVAREZ",
+      "nombres": "DEBORAH MARIA JOSE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

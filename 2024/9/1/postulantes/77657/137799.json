@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 77657,
+    "padron_id": 137799
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "39XXXX69",
+      "apellidos": "OSCARES",
+      "nombres": "CECILIA KARINA GUILLERMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "28XXXX21",
+      "apellidos": "CORBALAN",
+      "nombres": "NOELIA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "35XXXX43",
+      "apellidos": "SABALZA",
+      "nombres": "GABRIEL FERNANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "39XXXX43",
+      "apellidos": "GARCÍA",
+      "nombres": "ROCÍO DEL MILAGRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

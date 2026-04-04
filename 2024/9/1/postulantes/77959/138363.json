@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 77959,
+    "padron_id": 138363
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "36XXXX11",
+      "apellidos": "LESCANO",
+      "nombres": "CECILIA ANTONELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 200,
+      "dni": "20XXXX08",
+      "apellidos": "MERCADO",
+      "nombres": "ROSA ELENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

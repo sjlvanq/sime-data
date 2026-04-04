@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 77563,
+    "padron_id": 137809
+  },
+  "postulantes": [
+    {
+      "orden": 450,
+      "dni": "26XXXX66",
+      "apellidos": "ESCOBAR",
+      "nombres": "VALERIA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 925,
+      "dni": "37XXXX21",
+      "apellidos": "AGUILERA",
+      "nombres": "FABIANA EDITH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 932,
+      "dni": "17XXXX22",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARCO ANTONIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1301,
+      "dni": "38XXXX67",
+      "apellidos": "MEDRANO",
+      "nombres": "SOFÍA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

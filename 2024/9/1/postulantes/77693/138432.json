@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 77693,
+    "padron_id": 138432
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "24XXXX92",
+      "apellidos": "SABATE",
+      "nombres": "OSCAR ADOLFO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "27XXXX64",
+      "apellidos": "GUELARDI",
+      "nombres": "EDUARDO DANIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "33XXXX12",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOSE MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 78262,
+    "padron_id": 138829
+  },
+  "postulantes": [
+    {
+      "orden": 54,
+      "dni": "34XXXX00",
+      "apellidos": "ROMANO",
+      "nombres": "JOSE MAXIMILIANO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 88,
+      "dni": "29XXXX14",
+      "apellidos": "YERNA",
+      "nombres": "GABRIELA DEL VALLE ROXANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "35XXXX56",
+      "apellidos": "VALENCIA DUGACHES",
+      "nombres": "RODRIGO ALFREDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

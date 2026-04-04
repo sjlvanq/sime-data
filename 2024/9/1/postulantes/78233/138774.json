@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 78233,
+    "padron_id": 138774
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "18XXXX04",
+      "apellidos": "GOMEZ",
+      "nombres": "CECILIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

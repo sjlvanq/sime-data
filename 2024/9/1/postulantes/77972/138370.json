@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 77972,
+    "padron_id": 138370
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "27XXXX44",
+      "apellidos": "BARRIENTOS",
+      "nombres": "NATALIA VALERIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "34XXXX96",
+      "apellidos": "OLARTE",
+      "nombres": "GABRIEL EMILIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "35XXXX01",
+      "apellidos": "MARTINEZ",
+      "nombres": "LAURA VIVIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "28XXXX42",
+      "apellidos": "JEREZ",
+      "nombres": "VANINA JESSICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

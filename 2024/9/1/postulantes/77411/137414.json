@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 77411,
+    "padron_id": 137414
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "20XXXX07",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA FABIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX51",
+      "apellidos": "MEDINA",
+      "nombres": "RICARDO EMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "32XXXX13",
+      "apellidos": "RUIZ",
+      "nombres": "VERONICA GABRIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "32XXXX65",
+      "apellidos": "GONZALEZ",
+      "nombres": "CLAUDIA ELIZABELH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "39XXXX92",
+      "apellidos": "DEL CAMPO GUERRERO",
+      "nombres": "MIGUEL GERMAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 77086,
+    "padron_id": 137268
+  },
+  "postulantes": [
+    {
+      "orden": 189,
+      "dni": "23XXXX57",
+      "apellidos": "BARRERA",
+      "nombres": "ROSA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 357,
+      "dni": "20XXXX80",
+      "apellidos": "VALLEJO",
+      "nombres": "ALICIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 838,
+      "dni": "36XXXX79",
+      "apellidos": "ALE",
+      "nombres": "MARIA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 948,
+      "dni": "33XXXX49",
+      "apellidos": "DIAZ",
+      "nombres": "PABLO MAXIMILIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

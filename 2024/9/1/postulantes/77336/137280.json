@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 77336,
+    "padron_id": 137280
+  },
+  "postulantes": [
+    {
+      "orden": 267,
+      "dni": "22XXXX82",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA SILVINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 307,
+      "dni": "22XXXX81",
+      "apellidos": "CAJAL",
+      "nombres": "MYRIAM ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX11",
+      "apellidos": "LESCANO",
+      "nombres": "CECILIA ANTONELLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "34XXXX00",
+      "apellidos": "ROMANO",
+      "nombres": "JOSE MAXIMILIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

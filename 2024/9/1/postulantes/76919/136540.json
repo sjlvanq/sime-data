@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 76919,
+    "padron_id": 136540
+  },
+  "postulantes": [
+    {
+      "orden": 189,
+      "dni": "25XXXX62",
+      "apellidos": "GUERRERO",
+      "nombres": "MONICA GRACIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 229,
+      "dni": "31XXXX15",
+      "apellidos": "ZARATE",
+      "nombres": "DORA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 389,
+      "dni": "26XXXX55",
+      "apellidos": "DIAZ",
+      "nombres": "PATRICIA DEL HUERTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

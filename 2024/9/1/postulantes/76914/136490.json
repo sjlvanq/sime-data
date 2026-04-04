@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 76914,
+    "padron_id": 136490
+  },
+  "postulantes": [
+    {
+      "orden": 168,
+      "dni": "25XXXX18",
+      "apellidos": "LOPEZ CORREA",
+      "nombres": "GUILLERMINA DE LAS NIEVES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 219,
+      "dni": "25XXXX28",
+      "apellidos": "NIEVA",
+      "nombres": "NOEMI ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 279,
+      "dni": "22XXXX68",
+      "apellidos": "DIAZ",
+      "nombres": "VICTOR MANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

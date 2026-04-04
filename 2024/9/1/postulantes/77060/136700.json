@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 77060,
+    "padron_id": 136700
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "24XXXX30",
+      "apellidos": "AGUIRRE",
+      "nombres": "MARIA ELVIRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "22XXXX74",
+      "apellidos": "CHAZARRETA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "22XXXX97",
+      "apellidos": "PEREZ",
+      "nombres": "MABEL DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

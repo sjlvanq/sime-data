@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 77818,
+    "padron_id": 138213
+  },
+  "postulantes": [
+    {
+      "orden": 183,
+      "dni": "18XXXX55",
+      "apellidos": "NAVARRO",
+      "nombres": "ESTELA MARI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 222,
+      "dni": "24XXXX93",
+      "apellidos": "FIGUEROA                                ",
+      "nombres": "ANALIA DEL VALLE                        ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "27XXXX99",
+      "apellidos": "VALDEZ",
+      "nombres": "VERONICA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

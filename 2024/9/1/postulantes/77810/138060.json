@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 77810,
+    "padron_id": 138060
+  },
+  "postulantes": [
+    {
+      "orden": 208,
+      "dni": "25XXXX30",
+      "apellidos": "CRUZ",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX11",
+      "apellidos": "LESCANO",
+      "nombres": "CECILIA ANTONELLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "34XXXX00",
+      "apellidos": "ROMANO",
+      "nombres": "JOSE MAXIMILIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

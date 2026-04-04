@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 76887,
+    "padron_id": 136287
+  },
+  "postulantes": [
+    {
+      "orden": 257,
+      "dni": "31XXXX27",
+      "apellidos": "GOYTIA",
+      "nombres": "CARLA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 292,
+      "dni": "35XXXX44",
+      "apellidos": "JUAREZ",
+      "nombres": "SILVIA DIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 101,
+      "dni": "31XXXX15",
+      "apellidos": "ZARATE",
+      "nombres": "DORA ELENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 108,
+      "dni": "27XXXX20",
+      "apellidos": "CARRIZO",
+      "nombres": "CLAUDIA MARIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

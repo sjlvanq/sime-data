@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 78269,
+    "padron_id": 138770
+  },
+  "postulantes": [
+    {
+      "orden": 104,
+      "dni": "29XXXX59",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "CASIANA VANESSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 115,
+      "dni": "23XXXX50",
+      "apellidos": "NUÑEZ",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 200,
+      "dni": "22XXXX42",
+      "apellidos": "RIVAS",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 149,
+      "dni": "29XXXX03",
+      "apellidos": "CASTRO",
+      "nombres": "LUCIA RAMONA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
