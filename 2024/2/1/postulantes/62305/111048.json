@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 62305,
+    "padron_id": 111048
+  },
+  "postulantes": [
+    {
+      "orden": 49,
+      "dni": "21XXXX25",
+      "apellidos": "SANCHEZ",
+      "nombres": "SANDRA LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

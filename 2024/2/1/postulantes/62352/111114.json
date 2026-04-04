@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 62352,
+    "padron_id": 111114
+  },
+  "postulantes": [
+    {
+      "orden": 198,
+      "dni": "20XXXX14",
+      "apellidos": "YAFAR",
+      "nombres": "MARIA JULIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 66,
+      "dni": "22XXXX88",
+      "apellidos": "LOBO",
+      "nombres": "SILVIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "24XXXX08",
+      "apellidos": "BOBBA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
