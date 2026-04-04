@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 57265,
+    "padron_id": 102990
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "20XXXX77",
+      "apellidos": "SISINI",
+      "nombres": "MARIA LILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "11XXXX30",
+      "apellidos": "ROBLES",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX60",
+      "apellidos": "COLLANTE",
+      "nombres": "DARIO RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX20",
+      "apellidos": "JIMENEZ",
+      "nombres": "FRANCO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57765,
+    "padron_id": 103548
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "30XXXX96",
+      "apellidos": "MUÑOZ ALBARRACIN",
+      "nombres": "VERONICA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "22XXXX37",
+      "apellidos": "ALTAMIRANDA",
+      "nombres": "SERGIO ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "34XXXX29",
+      "apellidos": "ORELLANA OLMOS",
+      "nombres": "HORACIO JESUS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

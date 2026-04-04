@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56516,
+    "padron_id": 103173
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "21XXXX38",
+      "apellidos": "IBRAHIM",
+      "nombres": "SERGIO GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "17XXXX23",
+      "apellidos": "RASGIDO",
+      "nombres": "OSVALDO EUGENIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX86",
+      "apellidos": "ZELARAYAN",
+      "nombres": "HECTOR ADOLFO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

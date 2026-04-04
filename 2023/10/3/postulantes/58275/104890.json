@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 58275,
+    "padron_id": 104890
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX14",
+      "apellidos": "SVALDI",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX52",
+      "apellidos": "MEDINA",
+      "nombres": "ENRIQUETA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

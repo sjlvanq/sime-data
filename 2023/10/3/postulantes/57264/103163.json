@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57264,
+    "padron_id": 103163
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX81",
+      "apellidos": "CASTILLO",
+      "nombres": "YVANA GRACIELA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX76",
+      "apellidos": "CUELLO",
+      "nombres": "MIGUEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX02",
+      "apellidos": "ROBLES",
+      "nombres": "MARIA LUZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

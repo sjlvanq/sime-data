@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 59288,
+    "padron_id": 106147
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "22XXXX79",
+      "apellidos": "FLORES",
+      "nombres": "MARIEL ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX80",
+      "apellidos": "LAGORIA",
+      "nombres": "LUCAS LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX57",
+      "apellidos": "PARRA",
+      "nombres": "GRACIELA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 59440,
+    "padron_id": 106324
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "36XXXX86",
+      "apellidos": "GIORGIS",
+      "nombres": "ANTONELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX49",
+      "apellidos": "TOLEDO",
+      "nombres": "CECILIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "18XXXX67",
+      "apellidos": "SOVERON",
+      "nombres": "ADRIANA FATIMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX90",
+      "apellidos": "CARRIZO",
+      "nombres": "VERONICA GABRIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 60012,
+    "padron_id": 107005
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX25",
+      "apellidos": "ROBLES",
+      "nombres": "LUCIANA ROCIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "30XXXX94",
+      "apellidos": "RUÍZ",
+      "nombres": "MARÍA SUSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "36XXXX54",
+      "apellidos": "ALVAREZ",
+      "nombres": "LOURDES ANAHÍ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

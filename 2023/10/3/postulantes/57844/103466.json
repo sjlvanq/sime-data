@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 57844,
+    "padron_id": 103466
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX00",
+      "apellidos": "GOMEZ",
+      "nombres": "FABIOLA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "21XXXX98",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA ELVIRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX89",
+      "apellidos": "VALDEZ",
+      "nombres": "MARÍA LUJÁN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "22XXXX88",
+      "apellidos": "DIAZ",
+      "nombres": "ALEJANDRA PATRICIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "23XXXX08",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

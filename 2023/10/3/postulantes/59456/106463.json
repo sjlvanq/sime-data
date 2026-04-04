@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 59456,
+    "padron_id": 106463
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "16XXXX97",
+      "apellidos": "PRIVSEK                                 ",
+      "nombres": "ANTONIO                                 ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX07",
+      "apellidos": "CACERES",
+      "nombres": "MARÍA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "30XXXX18",
+      "apellidos": "PERALTA",
+      "nombres": "MAURO NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

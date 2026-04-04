@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57093,
+    "padron_id": 103192
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX04",
+      "apellidos": "ARAOZ",
+      "nombres": "CYNTHIA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX60",
+      "apellidos": "PONCE AMADOR",
+      "nombres": "ARIEL GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX06",
+      "apellidos": "ORTIZ",
+      "nombres": "RODRIGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

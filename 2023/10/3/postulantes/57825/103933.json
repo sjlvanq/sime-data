@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 57825,
+    "padron_id": 103933
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX90",
+      "apellidos": "DIAZ",
+      "nombres": "IVAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "39XXXX67",
+      "apellidos": "NIEVA",
+      "nombres": "ROSARIO DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

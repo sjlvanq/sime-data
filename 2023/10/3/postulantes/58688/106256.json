@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 58688,
+    "padron_id": 106256
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "21XXXX75",
+      "apellidos": "SANCHEZ",
+      "nombres": "ANTONIO MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "35XXXX36",
+      "apellidos": "SANCHEZ",
+      "nombres": "ANGEL CONSTANCIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX82",
+      "apellidos": "MANSILLA",
+      "nombres": "GERARDO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56467,
+    "padron_id": 103175
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX65",
+      "apellidos": "JEREZ                                   ",
+      "nombres": "ALEJANDRA BEATRIZ                       ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "23XXXX22",
+      "apellidos": "ZUÑIGA",
+      "nombres": "ANTONIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "24XXXX21",
+      "apellidos": "NIEVA",
+      "nombres": "JUDITH ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

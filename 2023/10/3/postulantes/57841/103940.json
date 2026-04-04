@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57841,
+    "padron_id": 103940
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "24XXXX09",
+      "apellidos": "MARTINEZ",
+      "nombres": "SILVIA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "33XXXX06",
+      "apellidos": "MEDINA",
+      "nombres": "ANALÍA CONSTANZA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "37XXXX33",
+      "apellidos": "MONZÓN",
+      "nombres": "VICTORIA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
