@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 80096,
+    "padron_id": 142444
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX52",
+      "apellidos": "ARQUEZ",
+      "nombres": "FRANCISCO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX97",
+      "apellidos": "VALOR",
+      "nombres": "JENNIFER JOHANNA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX49",
+      "apellidos": "GOMEZ",
+      "nombres": "ROCIO DE FATIMA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

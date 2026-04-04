@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 80129,
+    "padron_id": 141550
+  },
+  "postulantes": [
+    {
+      "orden": 47,
+      "dni": "25XXXX87",
+      "apellidos": "ALE",
+      "nombres": "ANDRES DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "18XXXX97",
+      "apellidos": "JUAREZ",
+      "nombres": "NESTOR RAUL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

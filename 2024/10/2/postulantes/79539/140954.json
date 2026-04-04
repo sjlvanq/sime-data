@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 79539,
+    "padron_id": 140954
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "38XXXX79",
+      "apellidos": "UÑATES",
+      "nombres": "PEDRO ENRIQUE ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "37XXXX74",
+      "apellidos": "BARRIENTOS",
+      "nombres": "GUSTAVO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX35",
+      "apellidos": "GRANEROS",
+      "nombres": "RAMON GABRIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

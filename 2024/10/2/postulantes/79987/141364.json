@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 79987,
+    "padron_id": 141364
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "16XXXX06",
+      "apellidos": "MEDINA",
+      "nombres": "SUSANA INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX76",
+      "apellidos": "GONZALEZ",
+      "nombres": "RAFAEL RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX56",
+      "apellidos": "MORENO",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

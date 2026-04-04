@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 79361,
+    "padron_id": 141279
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX27",
+      "apellidos": "ALARCON",
+      "nombres": "VERONICA AZUCENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "33XXXX27",
+      "apellidos": "FARIAS",
+      "nombres": "ADRIANA ELISA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "33XXXX06",
+      "apellidos": "MEDINA",
+      "nombres": "ANALÍA CONSTANZA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

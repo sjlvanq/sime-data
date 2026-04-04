@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 79840,
+    "padron_id": 141528
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "29XXXX36",
+      "apellidos": "ACOSTA",
+      "nombres": "LUIS HERNAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "22XXXX50",
+      "apellidos": "JEREZ",
+      "nombres": "VICTOR JESUS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

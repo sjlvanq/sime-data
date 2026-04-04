@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 79527,
+    "padron_id": 140907
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "37XXXX27",
+      "apellidos": "ROMANO",
+      "nombres": "CAMILA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "38XXXX30",
+      "apellidos": "BRITO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "26XXXX90",
+      "apellidos": "GUTIERREZ",
+      "nombres": "CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

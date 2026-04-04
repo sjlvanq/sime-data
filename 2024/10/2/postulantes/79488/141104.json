@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 79488,
+    "padron_id": 141104
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX33",
+      "apellidos": "CORREA",
+      "nombres": "PAULA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX69",
+      "apellidos": "HERRERA",
+      "nombres": "ROMINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "26XXXX27",
+      "apellidos": "BARROS",
+      "nombres": "GUILLERMO GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

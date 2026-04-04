@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 78562,
+    "padron_id": 139618
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "26XXXX51",
+      "apellidos": "SILVA",
+      "nombres": "ADRIANA PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 56,
+      "dni": "20XXXX50",
+      "apellidos": "GRANDE",
+      "nombres": "SILVINA DE FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 101,
+      "dni": "25XXXX42",
+      "apellidos": "TOSCANO",
+      "nombres": "MARIELA JESUS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

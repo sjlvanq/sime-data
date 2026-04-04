@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 80374,
+    "padron_id": 142061
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX45",
+      "apellidos": "ROLDAN",
+      "nombres": "MIRTA PATRICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX44",
+      "apellidos": "RAMIREZ",
+      "nombres": "ISABEL ANGELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "22XXXX88",
+      "apellidos": "MORENO",
+      "nombres": "BLANCA ADRIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

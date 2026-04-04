@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 80423,
+    "padron_id": 142578
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX26",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "HECTOR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX74",
+      "apellidos": "ARGENTINO",
+      "nombres": "CARLOS EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

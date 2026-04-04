@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 80443,
+    "padron_id": 142248
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "32XXXX41",
+      "apellidos": "CHERVATIN",
+      "nombres": "SOL DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "34XXXX72",
+      "apellidos": "MOLINA",
+      "nombres": "GRISELDA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "35XXXX61",
+      "apellidos": "JUAREZ",
+      "nombres": "LUCIA ESTELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 72,
+      "dni": "37XXXX38",
+      "apellidos": "LAZARTE AGUIRRE",
+      "nombres": "CECILIA PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}
