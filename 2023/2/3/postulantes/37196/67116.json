@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 37196,
+    "padron_id": 67116
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "21XXXX44",
+      "apellidos": "PAEZ",
+      "nombres": "RUBEN ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "35XXXX39",
+      "apellidos": "FERREYRA",
+      "nombres": "CYNTIA DORA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX19",
+      "apellidos": "GONZALEZ",
+      "nombres": "CARMEN PATRICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 37166,
+    "padron_id": 67108
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX64",
+      "apellidos": "SARMIENTO",
+      "nombres": "JESUS RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX31",
+      "apellidos": "FIGUEROA",
+      "nombres": "ADRIANA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX42",
+      "apellidos": "GUILLO",
+      "nombres": "GISELLE CYNTHIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

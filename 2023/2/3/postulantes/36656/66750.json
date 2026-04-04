@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36656,
+    "padron_id": 66750
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX57",
+      "apellidos": "LOBO",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX47",
+      "apellidos": "VERA",
+      "nombres": "MARIA JOSE DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX12",
+      "apellidos": "RUIZ                                    ",
+      "nombres": "MARTIN EXEQUIEL                         ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
