@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 62419,
+    "padron_id": 111212
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "24XXXX16",
+      "apellidos": "GEREZ",
+      "nombres": "MARIELA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 70,
+      "dni": "22XXXX07",
+      "apellidos": "CARAM",
+      "nombres": "ALEJANDRA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

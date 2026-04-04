@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 61823,
+    "padron_id": 110712
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "23XXXX67",
+      "apellidos": "VILLARREAL",
+      "nombres": "LUCIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "25XXXX49",
+      "apellidos": "ALBANO SZANTO",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX24",
+      "apellidos": "JUÁREZ",
+      "nombres": "CÉSAR ENRIQUE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

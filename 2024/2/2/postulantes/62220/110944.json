@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 62220,
+    "padron_id": 110944
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX27",
+      "apellidos": "PIQUARD",
+      "nombres": "ARNALDO RAUL LEANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "24XXXX19",
+      "apellidos": "GONZALEZ",
+      "nombres": "CARMEN PATRICIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
