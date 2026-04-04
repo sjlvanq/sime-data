@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 50782,
+    "padron_id": 90874
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "25XXXX95",
+      "apellidos": "BRETONE",
+      "nombres": "KARINA MARIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX93",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

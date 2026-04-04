@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 51140,
+    "padron_id": 92095
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "29XXXX98",
+      "apellidos": "MORENO",
+      "nombres": "NOEMI MARIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "32XXXX38",
+      "apellidos": "BARQUET",
+      "nombres": "STELLA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "27XXXX08",
+      "apellidos": "ACOSTA",
+      "nombres": "MARTA SOFIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

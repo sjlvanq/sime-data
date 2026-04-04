@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 50539,
+    "padron_id": 90123
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "28XXXX98",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "GUSTAVO GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "29XXXX27",
+      "apellidos": "SOLOHAGA",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

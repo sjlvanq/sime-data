@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50955,
+    "padron_id": 92130
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX54",
+      "apellidos": "BERNAL",
+      "nombres": "ROCIO VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX37",
+      "apellidos": "TORRES",
+      "nombres": "OLGA GRACIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX66",
+      "apellidos": "DURAN",
+      "nombres": "KARINA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

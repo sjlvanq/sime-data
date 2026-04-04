@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 47221,
+    "padron_id": 90624
+  },
+  "postulantes": [
+    {
+      "orden": 42,
+      "dni": "33XXXX35",
+      "apellidos": "ROQUÉ",
+      "nombres": "YESSICA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "25XXXX49",
+      "apellidos": "ABDALA FORTE",
+      "nombres": "SILVINA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "29XXXX56",
+      "apellidos": "IBARRA",
+      "nombres": "NESTOR ADRIÁN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

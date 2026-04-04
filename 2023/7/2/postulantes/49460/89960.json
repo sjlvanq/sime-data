@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 49460,
+    "padron_id": 89960
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "18XXXX39",
+      "apellidos": "ESTEVES",
+      "nombres": "DORA PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "18XXXX51",
+      "apellidos": "VIDAL",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

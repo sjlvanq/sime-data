@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 51491,
+    "padron_id": 92145
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "20XXXX33",
+      "apellidos": "FERRI",
+      "nombres": "SONIA JUDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "35XXXX50",
+      "apellidos": "ARIAS",
+      "nombres": "DAIANA EDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "34XXXX45",
+      "apellidos": "REY",
+      "nombres": "ROMINA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "34XXXX16",
+      "apellidos": "FRANCO",
+      "nombres": "NATALIA PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

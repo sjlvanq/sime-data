@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51172,
+    "padron_id": 92398
+  },
+  "postulantes": [
+    {
+      "orden": 80,
+      "dni": "16XXXX30",
+      "apellidos": "CASTILLO",
+      "nombres": "LILIANA PATRICIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "26XXXX16",
+      "apellidos": "BARON",
+      "nombres": "RICARDO ADRIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 49033,
+    "padron_id": 90852
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "27XXXX21",
+      "apellidos": "BRAVO",
+      "nombres": "DANIELA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "22XXXX48",
+      "apellidos": "BLASCO",
+      "nombres": "JOSE LUIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "27XXXX63",
+      "apellidos": "APAZA",
+      "nombres": "HILDA GRISELDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "23XXXX84",
+      "apellidos": "REYES",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX22",
+      "apellidos": "LOPEZ VAZQUEZ",
+      "nombres": "NATALIA VANESA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 45839,
+    "padron_id": 89421
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "29XXXX20",
+      "apellidos": "JIMENEZ",
+      "nombres": "FRANCO DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "14XXXX19",
+      "apellidos": "CACERES",
+      "nombres": "NELIDA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 41426,
+    "padron_id": 90088
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "35XXXX78",
+      "apellidos": "ROQUÉ ",
+      "nombres": "CYNTHIA PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "41XXXX77",
+      "apellidos": "SORIA",
+      "nombres": "FRANCISCO NORBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

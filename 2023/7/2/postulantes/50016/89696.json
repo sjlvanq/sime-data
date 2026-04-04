@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 50016,
+    "padron_id": 89696
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX44",
+      "apellidos": "MEDINA",
+      "nombres": "SILVIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "38XXXX92",
+      "apellidos": "PEDRAZA CORONEL",
+      "nombres": "MAYRA AGUSTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "23XXXX25",
+      "apellidos": "MEDINA",
+      "nombres": "LUISA ISABEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "26XXXX72",
+      "apellidos": "ORTIZ",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

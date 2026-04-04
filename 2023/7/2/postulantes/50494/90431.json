@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 50494,
+    "padron_id": 90431
+  },
+  "postulantes": [
+    {
+      "orden": 36,
+      "dni": "24XXXX85",
+      "apellidos": "ANASTASIO",
+      "nombres": "DOMINGO ERNESTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "41XXXX36",
+      "apellidos": "VENZAL",
+      "nombres": "ANDREA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "29XXXX56",
+      "apellidos": "IBARRA",
+      "nombres": "NESTOR ADRIÁN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "32XXXX55",
+      "apellidos": "IBRAIM",
+      "nombres": "MARIA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "22XXXX38",
+      "apellidos": "CARRIZO",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

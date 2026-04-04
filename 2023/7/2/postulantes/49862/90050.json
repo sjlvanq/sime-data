@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 49862,
+    "padron_id": 90050
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX27",
+      "apellidos": "GIL",
+      "nombres": "MARIO EUGENIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX72",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "SEBASTIAN GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 49294,
+    "padron_id": 90301
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "28XXXX85",
+      "apellidos": "SORAIRE",
+      "nombres": "ADRIANA JULIETA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "22XXXX13",
+      "apellidos": "RAMÍREZ BUSTOS",
+      "nombres": "LAURA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "37XXXX03",
+      "apellidos": "PERERA",
+      "nombres": "JORGE ALEJANDRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

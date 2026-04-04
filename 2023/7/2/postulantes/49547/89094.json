@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 49547,
+    "padron_id": 89094
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX63",
+      "apellidos": "LIZARDO",
+      "nombres": "MARINA VICTORIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "37XXXX28",
+      "apellidos": "LOPEZ",
+      "nombres": "ALDANA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "27XXXX63",
+      "apellidos": "APAZA",
+      "nombres": "HILDA GRISELDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "23XXXX84",
+      "apellidos": "REYES",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

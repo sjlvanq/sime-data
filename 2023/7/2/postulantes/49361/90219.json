@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 49361,
+    "padron_id": 90219
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX77",
+      "apellidos": "BIANCHI",
+      "nombres": "MARTA MAGDALENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX84",
+      "apellidos": "GIMENEZ",
+      "nombres": "ROCIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

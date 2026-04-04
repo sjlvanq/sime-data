@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 49903,
+    "padron_id": 90527
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "26XXXX33",
+      "apellidos": "KASEM",
+      "nombres": "MIRTA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX25",
+      "apellidos": "MEDINA",
+      "nombres": "LUISA ISABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

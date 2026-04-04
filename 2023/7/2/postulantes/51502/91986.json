@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 51502,
+    "padron_id": 91986
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "22XXXX57",
+      "apellidos": "GERMAN",
+      "nombres": "PATRICIA MABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 9,
+      "dni": "25XXXX79",
+      "apellidos": "GONZALEZ",
+      "nombres": "MERCEDES DEL PILAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 15,
+      "dni": "25XXXX95",
+      "apellidos": "ALCARAZ",
+      "nombres": "JORGE ARIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 44,
+      "dni": "25XXXX44",
+      "apellidos": "CARABAJAL",
+      "nombres": "NANCY DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 29,
+      "dni": "28XXXX26",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "VALERIA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}
