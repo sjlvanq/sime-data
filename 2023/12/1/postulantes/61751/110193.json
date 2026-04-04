@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 61751,
+    "padron_id": 110193
+  },
+  "postulantes": [
+    {
+      "orden": 82,
+      "dni": "20XXXX95",
+      "apellidos": "CAMPOS",
+      "nombres": "RUBEN ALEJANDRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 87,
+      "dni": "25XXXX24",
+      "apellidos": "FRIAS",
+      "nombres": "NANCY MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 134,
+      "dni": "18XXXX85",
+      "apellidos": "FERNANDEZ",
+      "nombres": "MABEL DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
