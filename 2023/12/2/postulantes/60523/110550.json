@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 60523,
+    "padron_id": 110550
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX76",
+      "apellidos": "MAMANI",
+      "nombres": "MELINA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "33XXXX99",
+      "apellidos": "ZURITA",
+      "nombres": "SERGIO MANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "32XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "BETTIANA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX75",
+      "apellidos": "BOYDO",
+      "nombres": "FABIOLA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "28XXXX90",
+      "apellidos": "SANCHEZ",
+      "nombres": "RICARDO MIGUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 61820,
+    "padron_id": 110080
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "25XXXX55",
+      "apellidos": "CASTILLO",
+      "nombres": "GUILLERMO OSCAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "34XXXX16",
+      "apellidos": "FRANCO",
+      "nombres": "NATALIA PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "24XXXX25",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

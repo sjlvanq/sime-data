@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 61501,
+    "padron_id": 109774
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "35XXXX21",
+      "apellidos": "BRANDAN",
+      "nombres": "MARIA YUSTINA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "27XXXX41",
+      "apellidos": "ORELLANA",
+      "nombres": "RICARDO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "22XXXX50",
+      "apellidos": "JEREZ",
+      "nombres": "VICTOR JESUS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX83",
+      "apellidos": "LOPEZ",
+      "nombres": "JOSE SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

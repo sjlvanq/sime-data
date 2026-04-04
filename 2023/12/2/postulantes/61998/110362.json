@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 61998,
+    "padron_id": 110362
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "22XXXX95",
+      "apellidos": "NIEVA",
+      "nombres": "RICARDO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 56,
+      "dni": "24XXXX22",
+      "apellidos": "VEGA",
+      "nombres": "NANCY ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 62,
+      "dni": "21XXXX56",
+      "apellidos": "AREVALO",
+      "nombres": "ROXANA FATIMA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 67,
+      "dni": "24XXXX13",
+      "apellidos": "CHAVARRIA",
+      "nombres": "FAVIO MIGUEL DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

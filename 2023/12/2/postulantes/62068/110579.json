@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 62068,
+    "padron_id": 110579
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "36XXXX28",
+      "apellidos": "DIAZ",
+      "nombres": "CRISTIAN ALEJANDRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "34XXXX53",
+      "apellidos": "GALVAN",
+      "nombres": "DANIELA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "26XXXX38",
+      "apellidos": "LAZO",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

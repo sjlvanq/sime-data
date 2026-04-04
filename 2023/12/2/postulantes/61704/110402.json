@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 61704,
+    "padron_id": 110402
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "29XXXX50",
+      "apellidos": "CORDOBA",
+      "nombres": "GUILLERMO DAMIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "27XXXX53",
+      "apellidos": "GONELLA",
+      "nombres": "DANTE ALFONSO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX90",
+      "apellidos": "AGUIRRE",
+      "nombres": "MARTA SILVINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "31XXXX80",
+      "apellidos": "MELIAN",
+      "nombres": "SILVINA NELIDA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

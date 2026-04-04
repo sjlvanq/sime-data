@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 61879,
+    "padron_id": 110509
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX88",
+      "apellidos": "BOFFANO",
+      "nombres": "MARIA REGINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "33XXXX36",
+      "apellidos": "BERTINI",
+      "nombres": "ADRIANA GISELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
