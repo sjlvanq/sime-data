@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 74210,
+    "padron_id": 132257
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX41",
+      "apellidos": "MERINO",
+      "nombres": "LORENA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX68",
+      "apellidos": "NAVARRO",
+      "nombres": "ERICA JUDITH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX63",
+      "apellidos": "RIOS",
+      "nombres": "HECTOR DARIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
