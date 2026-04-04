@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64431,
+    "padron_id": 115257
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX84",
+      "apellidos": "RUEZGA",
+      "nombres": "TERESA DEL MILAGRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "23XXXX08",
+      "apellidos": "GOYTIA ANTONI",
+      "nombres": "ANA INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "23XXXX86",
+      "apellidos": "PAZ",
+      "nombres": "FLAVIA MERCEDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

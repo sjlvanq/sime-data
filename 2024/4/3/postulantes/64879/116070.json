@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64879,
+    "padron_id": 116070
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX81",
+      "apellidos": "SUAREZ",
+      "nombres": "SARA EUGENIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX57",
+      "apellidos": "GEREZ",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX52",
+      "apellidos": "GOMEZ",
+      "nombres": "ANALIA RAMONA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

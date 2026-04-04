@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 64665,
+    "padron_id": 115438
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX14",
+      "apellidos": "PAZ",
+      "nombres": "SEBASTIAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX28",
+      "apellidos": "ARENA",
+      "nombres": "FEDERICO MIGUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "39XXXX31",
+      "apellidos": "NACIF",
+      "nombres": "CAMILO ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX93",
+      "apellidos": "AVILA",
+      "nombres": "ROQUE OSVALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64400,
+    "padron_id": 115216
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX56",
+      "apellidos": "LIZARRAGA",
+      "nombres": "ALBERTO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX67",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX44",
+      "apellidos": "LOPEZ",
+      "nombres": "WALTER AMADEO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

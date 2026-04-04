@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64361,
+    "padron_id": 115283
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "23XXXX57",
+      "apellidos": "MERCADO",
+      "nombres": "ROXANA EMILSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX87",
+      "apellidos": "NIEVA",
+      "nombres": "YESICA ALICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "25XXXX60",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "KARINA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 64793,
+    "padron_id": 116016
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX14",
+      "apellidos": "RIVERO",
+      "nombres": "LUCIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "12XXXX33",
+      "apellidos": "SAAVEDRA",
+      "nombres": "POMPILIO ARCANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

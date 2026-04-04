@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 64351,
+    "padron_id": 115231
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX07",
+      "apellidos": "GARZON",
+      "nombres": "PABLO OMAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX74",
+      "apellidos": "BRITO",
+      "nombres": "DAVID HECTOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

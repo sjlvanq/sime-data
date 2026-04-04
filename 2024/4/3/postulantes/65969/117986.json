@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 65969,
+    "padron_id": 117986
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX92",
+      "apellidos": "VILLA",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX03",
+      "apellidos": "GUERRA",
+      "nombres": "AURORA FRANCISCA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

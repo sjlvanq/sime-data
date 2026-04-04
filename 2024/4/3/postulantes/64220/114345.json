@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64220,
+    "padron_id": 114345
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX59",
+      "apellidos": "GONZALEZ",
+      "nombres": "EDUARDO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX58",
+      "apellidos": "ACUÑA",
+      "nombres": "MARIA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX27",
+      "apellidos": "CORBALÁN",
+      "nombres": "NADIA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

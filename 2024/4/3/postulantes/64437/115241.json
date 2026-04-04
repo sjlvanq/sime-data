@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64437,
+    "padron_id": 115241
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX73",
+      "apellidos": "GARCIA ROSS",
+      "nombres": "CRISTIAN EMMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "32XXXX24",
+      "apellidos": "ANGEL",
+      "nombres": "JORGE RODOLFO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "41XXXX34",
+      "apellidos": "ROMANO OLIVERA",
+      "nombres": "CARLOS FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

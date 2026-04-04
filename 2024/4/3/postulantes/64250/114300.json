@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64250,
+    "padron_id": 114300
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX32",
+      "apellidos": "CORREA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "36XXXX15",
+      "apellidos": "BALDERRAMA",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX18",
+      "apellidos": "GUTIERREZ",
+      "nombres": "BEATRIZ DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

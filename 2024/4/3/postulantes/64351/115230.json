@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 64351,
+    "padron_id": 115230
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX88",
+      "apellidos": "VILLASUR",
+      "nombres": "ADAN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX96",
+      "apellidos": "IMPELLIZZERE",
+      "nombres": "DIEGO FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

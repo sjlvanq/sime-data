@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 65314,
+    "padron_id": 117213
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX30",
+      "apellidos": "BERRONDO",
+      "nombres": "NESTOR PEDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX90",
+      "apellidos": "GOMEZ",
+      "nombres": "CARINA ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "29XXXX15",
+      "apellidos": "APARICIO",
+      "nombres": "ADRIÁN DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX70",
+      "apellidos": "BULACIOS",
+      "nombres": "VICTOR DAMIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX32",
+      "apellidos": "FREGENAL",
+      "nombres": "NELSON ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64280,
+    "padron_id": 114428
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX13",
+      "apellidos": "DIAZ",
+      "nombres": "LILIANA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX63",
+      "apellidos": "PAOLINI",
+      "nombres": "JULIETA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "14XXXX52",
+      "apellidos": "COSTILLA",
+      "nombres": "DANIEL HORACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

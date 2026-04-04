@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64140,
+    "padron_id": 114524
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX38",
+      "apellidos": "BAZAN",
+      "nombres": "DIEGO ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "23XXXX40",
+      "apellidos": "VALENTI",
+      "nombres": "ADRIAN ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "22XXXX65",
+      "apellidos": "DIAZ",
+      "nombres": "LUIS EDGARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

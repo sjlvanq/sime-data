@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 64223,
+    "padron_id": 114330
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX72",
+      "apellidos": "VELIZ",
+      "nombres": "ROSA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX81",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

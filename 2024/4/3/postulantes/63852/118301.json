@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63852,
+    "padron_id": 118301
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX94",
+      "apellidos": "GONZALEZ",
+      "nombres": "SONIA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (OTROS TITULOS)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX68",
+      "apellidos": "UMAR",
+      "nombres": "SERGIO BERNARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 4,
+      "dni": "20XXXX55",
+      "apellidos": "CARABAJAL",
+      "nombres": "CONRADO RICARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 65826,
+    "padron_id": 117002
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "36XXXX94",
+      "apellidos": "CHICO",
+      "nombres": "SANTIAGO JESUS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "35XXXX34",
+      "apellidos": "PONCE",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "38XXXX89",
+      "apellidos": "SLEIMAN",
+      "nombres": "ANTONELLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX16",
+      "apellidos": "AVILA",
+      "nombres": "DELFINA MARÍA DEL MILAGRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

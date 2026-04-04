@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65335,
+    "padron_id": 117359
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX73",
+      "apellidos": "DIAZ",
+      "nombres": "RAUL FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX75",
+      "apellidos": "VERA",
+      "nombres": "EMILIO MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX67",
+      "apellidos": "LUNA",
+      "nombres": "CARINA NOEMI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

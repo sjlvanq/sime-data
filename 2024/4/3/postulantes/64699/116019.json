@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 64699,
+    "padron_id": 116019
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "37XXXX91",
+      "apellidos": "ROLDAN",
+      "nombres": "MARIA AGUSTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX87",
+      "apellidos": "ASIS",
+      "nombres": "PAOLA DANIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

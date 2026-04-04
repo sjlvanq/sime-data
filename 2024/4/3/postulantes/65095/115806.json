@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65095,
+    "padron_id": 115806
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "38XXXX52",
+      "apellidos": "LOPEZ VALDIVIEZO",
+      "nombres": "PABLO HERNAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "38XXXX20",
+      "apellidos": "MORAN",
+      "nombres": "BRUNO GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "32XXXX53",
+      "apellidos": "PACHAO",
+      "nombres": "MARIA LUISA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
