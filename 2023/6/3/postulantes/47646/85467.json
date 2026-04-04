@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 47646,
+    "padron_id": 85467
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX74",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "GUSTAVO ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX15",
+      "apellidos": "LADETTO",
+      "nombres": "JUAN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

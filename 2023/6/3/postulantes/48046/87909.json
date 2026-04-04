@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48046,
+    "padron_id": 87909
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX58",
+      "apellidos": "VALDIVIEZO",
+      "nombres": "RICARDO FABRICIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX55",
+      "apellidos": "SANCHEZ",
+      "nombres": "ROMAN MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "21XXXX26",
+      "apellidos": "PACHECO",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

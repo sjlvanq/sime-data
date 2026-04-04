@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50009,
+    "padron_id": 89509
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX15",
+      "apellidos": "ZELARAYAN",
+      "nombres": "RUBEN EDMUNDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX35",
+      "apellidos": "SANCHEZ GRAMAJO",
+      "nombres": "NATALIA EDITH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "23XXXX92",
+      "apellidos": "PAVON",
+      "nombres": "MONICA CLAUDIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

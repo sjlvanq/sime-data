@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 45618,
+    "padron_id": 84474
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX19",
+      "apellidos": "CENTENO",
+      "nombres": "HECTOR ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX12",
+      "apellidos": "MENDIOLAR",
+      "nombres": "MARIO LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "27XXXX99",
+      "apellidos": "ROMERO",
+      "nombres": "ESTEBAN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

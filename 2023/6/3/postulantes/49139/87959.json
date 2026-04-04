@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 49139,
+    "padron_id": 87959
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "29XXXX07",
+      "apellidos": "CACERES",
+      "nombres": "MARÍA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX99",
+      "apellidos": "MIQUEL",
+      "nombres": "MATIAS ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "34XXXX38",
+      "apellidos": "GARCIA",
+      "nombres": "EMANUEL MIGUEL ERNESTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

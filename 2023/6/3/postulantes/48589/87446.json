@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48589,
+    "padron_id": 87446
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX91",
+      "apellidos": "VERA",
+      "nombres": "CARLOS DAMIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX46",
+      "apellidos": "ROMANO",
+      "nombres": "JESSICA GUADALUPE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "25XXXX12",
+      "apellidos": "DE MINGO",
+      "nombres": "SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 48598,
+    "padron_id": 87694
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX71",
+      "apellidos": "GOMEZ",
+      "nombres": "NESTOR ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX75",
+      "apellidos": "GOMEZ TORRES",
+      "nombres": "JUAN MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX70",
+      "apellidos": "ALBORNOZ",
+      "nombres": "GABRIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX37",
+      "apellidos": "JUAREZ",
+      "nombres": "LUIS ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 47102,
+    "padron_id": 84505
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX36",
+      "apellidos": "GONZALEZ",
+      "nombres": "ALFREDO EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "31XXXX18",
+      "apellidos": "GAMBARTE",
+      "nombres": "CECILIA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX66",
+      "apellidos": "NIETO",
+      "nombres": "RAMON FABRICIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

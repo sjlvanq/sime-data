@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 46846,
+    "padron_id": 88258
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX89",
+      "apellidos": "BARQUET",
+      "nombres": "MARIA YAZMIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX80",
+      "apellidos": "LOTO CAMPOS",
+      "nombres": "IRIS ELEONORA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX19",
+      "apellidos": "MEDINA",
+      "nombres": "CESAR DANTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

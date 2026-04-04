@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 43353,
+    "padron_id": 84485
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX88",
+      "apellidos": "BOFFANO",
+      "nombres": "MARIA REGINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX27",
+      "apellidos": "RACEDO",
+      "nombres": "JUAN OSVALDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "37XXXX05",
+      "apellidos": "JALU",
+      "nombres": "RODRIGO JOEL ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX81",
+      "apellidos": "PULIDO",
+      "nombres": "CINTIA VERONICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

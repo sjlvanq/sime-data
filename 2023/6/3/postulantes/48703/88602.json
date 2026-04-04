@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48703,
+    "padron_id": 88602
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "31XXXX60",
+      "apellidos": "COLLANTE",
+      "nombres": "DARIO RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX30",
+      "apellidos": "OCAMPO",
+      "nombres": "MARIO ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX81",
+      "apellidos": "BAIGORRIA",
+      "nombres": "LUCAS EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

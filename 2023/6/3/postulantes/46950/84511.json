@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 46950,
+    "padron_id": 84511
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX07",
+      "apellidos": "SORIA",
+      "nombres": "MARÍA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX80",
+      "apellidos": "ASTUDILLO",
+      "nombres": "MARIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

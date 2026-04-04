@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 47643,
+    "padron_id": 86677
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX77",
+      "apellidos": "DEL CASTILLO",
+      "nombres": "PABLO GUILLERMO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "36XXXX01",
+      "apellidos": "FEREYRA",
+      "nombres": "GIULIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX14",
+      "apellidos": "SOSA JUAREZ",
+      "nombres": "MARIA VICTORIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

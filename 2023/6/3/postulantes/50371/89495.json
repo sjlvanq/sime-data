@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50371,
+    "padron_id": 89495
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "24XXXX81",
+      "apellidos": "ARZE DIAZ",
+      "nombres": "GUILLERMO NIVARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX01",
+      "apellidos": "ROMANO",
+      "nombres": "CESAR DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "20XXXX17",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "RODOLFO ALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

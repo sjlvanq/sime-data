@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 50367,
+    "padron_id": 89523
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX97",
+      "apellidos": "GOMEZ",
+      "nombres": "RUBEN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX84",
+      "apellidos": "GOMEZ",
+      "nombres": "ADRIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

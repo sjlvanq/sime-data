@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 50361,
+    "padron_id": 89526
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX19",
+      "apellidos": "CENTENO",
+      "nombres": "HECTOR ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX53",
+      "apellidos": "CINQUEGRANI",
+      "nombres": "VICTOR FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

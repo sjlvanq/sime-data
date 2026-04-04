@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 45983,
+    "padron_id": 85075
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX70",
+      "apellidos": "SEQUEIRA VELASQUEZ",
+      "nombres": "CRISTIAN JULIAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "33XXXX00",
+      "apellidos": "VILLAGRA",
+      "nombres": "ROMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "39XXXX90",
+      "apellidos": "FARIAS MARTINEZ",
+      "nombres": "MICAELA DEL ROSARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

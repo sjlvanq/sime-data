@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 49426,
+    "padron_id": 88882
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX48",
+      "apellidos": "JUAREZ",
+      "nombres": "AUGUSTO MARTIN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX57",
+      "apellidos": "LOBO",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "30XXXX57",
+      "apellidos": "GIMENEZ",
+      "nombres": "ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

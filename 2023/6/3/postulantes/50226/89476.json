@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50226,
+    "padron_id": 89476
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX30",
+      "apellidos": "MAMANÍ",
+      "nombres": "MARCELO HUGO ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX97",
+      "apellidos": "ORIS",
+      "nombres": "RAMON ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX66",
+      "apellidos": "GOMEZ",
+      "nombres": "CRISTIAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

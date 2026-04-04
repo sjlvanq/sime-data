@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 46971,
+    "padron_id": 87435
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX95",
+      "apellidos": "RISSO",
+      "nombres": "LEOPOLDO DANTE IGNACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "20XXXX85",
+      "apellidos": "LOPEZ",
+      "nombres": "MANUEL HORACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
