@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 44336,
+    "padron_id": 81414
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX02",
+      "apellidos": "BRANDAN",
+      "nombres": "OMAR FRANCISCO JAVIER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX65",
+      "apellidos": "GONZALEZ",
+      "nombres": "PABLO ESTEBAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

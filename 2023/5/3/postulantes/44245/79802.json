@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 44245,
+    "padron_id": 79802
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX88",
+      "apellidos": "DIEZ",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "41XXXX75",
+      "apellidos": "CARABAJAL",
+      "nombres": "FLORENCIA AGUSTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "43XXXX20",
+      "apellidos": "TORRES",
+      "nombres": "FELISA MICAELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

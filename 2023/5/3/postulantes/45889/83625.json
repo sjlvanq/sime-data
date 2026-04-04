@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 45889,
+    "padron_id": 83625
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX05",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "ESTEBAN DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX13",
+      "apellidos": "NAVARRO DINO",
+      "nombres": "ANA LIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX11",
+      "apellidos": "SAAVEDRA YBARRA",
+      "nombres": "CESAR GUILLERMO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

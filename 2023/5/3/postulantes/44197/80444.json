@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 44197,
+    "padron_id": 80444
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX77",
+      "apellidos": "NIEVA",
+      "nombres": "SEBASTIAN DOMINGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX24",
+      "apellidos": "NIEVA",
+      "nombres": "VERONICA PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "36XXXX25",
+      "apellidos": "ALBORNOZ",
+      "nombres": "SILVINA ANABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

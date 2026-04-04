@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 45876,
+    "padron_id": 83884
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX42",
+      "apellidos": "VALLEJO",
+      "nombres": "ANTONIO EDGARDO RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "37XXXX46",
+      "apellidos": "LUNA",
+      "nombres": "DANIEL ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "40XXXX25",
+      "apellidos": "HOMET VALENTIE",
+      "nombres": "ALBERTO VICENTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 45289,
+    "padron_id": 84095
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX41",
+      "apellidos": "LUPIA",
+      "nombres": "ENZO DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX97",
+      "apellidos": "TOLEDO",
+      "nombres": "ARIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

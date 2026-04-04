@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 45651,
+    "padron_id": 82240
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "27XXXX09",
+      "apellidos": "IBRAHIM",
+      "nombres": "CLAUDIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "28XXXX16",
+      "apellidos": "JIMENEZ",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX77",
+      "apellidos": "BARROS",
+      "nombres": "JUAN DOMINGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

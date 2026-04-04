@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 43886,
+    "padron_id": 79473
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX00",
+      "apellidos": "BALDERRAMA",
+      "nombres": "GUILLERMO ARNALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX44",
+      "apellidos": "SANCHEZ",
+      "nombres": "VANESSA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX42",
+      "apellidos": "DIAZ",
+      "nombres": "CARLA MARIA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

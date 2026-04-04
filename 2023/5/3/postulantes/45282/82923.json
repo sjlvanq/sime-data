@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 45282,
+    "padron_id": 82923
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "38XXXX07",
+      "apellidos": "DIAZ",
+      "nombres": "ANGEL DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "36XXXX35",
+      "apellidos": "MONTIVERO",
+      "nombres": "MARCELO HERNAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX70",
+      "apellidos": "LUNA",
+      "nombres": "DAVID EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

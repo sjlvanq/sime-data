@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 44336,
+    "padron_id": 81415
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "37XXXX27",
+      "apellidos": "BERNIO DRUBE",
+      "nombres": "JUAN LUCAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "33XXXX43",
+      "apellidos": "COCHA",
+      "nombres": "GABRIELA MARCELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

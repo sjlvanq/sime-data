@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42770,
+    "padron_id": 78404
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX60",
+      "apellidos": "ROLDAN",
+      "nombres": "PABLO GERARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "14XXXX39",
+      "apellidos": "OVIEDO                                  ",
+      "nombres": "MARCELINO ORLANDO                       ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "40XXXX52",
+      "apellidos": "SALGUERO FRIAS",
+      "nombres": "GUSTAVO PEDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 43885,
+    "padron_id": 79466
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX07",
+      "apellidos": "LARIVEY",
+      "nombres": "VANESA VANINA VALERIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX71",
+      "apellidos": "BOFFANO",
+      "nombres": "MARIA LUCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX24",
+      "apellidos": "GARCIA",
+      "nombres": "ANDREA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

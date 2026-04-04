@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 44442,
+    "padron_id": 80719
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX07",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ALDO GUILLERMO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "20XXXX72",
+      "apellidos": "FERNANDEZ",
+      "nombres": "OSCAR RENE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "31XXXX31",
+      "apellidos": "MERCADO",
+      "nombres": "CINTIA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

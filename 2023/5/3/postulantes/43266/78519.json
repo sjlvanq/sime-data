@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 43266,
+    "padron_id": 78519
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX62",
+      "apellidos": "GALVAN",
+      "nombres": "ROCIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "38XXXX97",
+      "apellidos": "NUÑEZ",
+      "nombres": "LUCIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX53",
+      "apellidos": "ALDERETE",
+      "nombres": "FRANCO NICOLAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "38XXXX49",
+      "apellidos": "CALDEZ",
+      "nombres": "GENESIS NATALIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

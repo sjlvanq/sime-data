@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 43272,
+    "padron_id": 79443
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX33",
+      "apellidos": "ALBARRACÍN",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX41",
+      "apellidos": "ALVAREZ",
+      "nombres": "CECILIA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "37XXXX13",
+      "apellidos": "CARRAZANO",
+      "nombres": "BRENDA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

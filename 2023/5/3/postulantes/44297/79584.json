@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 44297,
+    "padron_id": 79584
+  },
+  "postulantes": [
+    {
+      "orden": 28,
+      "dni": "32XXXX29",
+      "apellidos": "MAMERTO",
+      "nombres": "CARLOS DANTE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "22XXXX66",
+      "apellidos": "LEIVA",
+      "nombres": "CARLOS ADRIAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX13",
+      "apellidos": "GALVAN REY",
+      "nombres": "EMMANUEL CELSO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "28XXXX62",
+      "apellidos": "VELARDEZ",
+      "nombres": "SEBASTIAN HORACIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

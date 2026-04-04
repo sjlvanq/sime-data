@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 46328,
+    "padron_id": 83787
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX24",
+      "apellidos": "RAMIREZ QUINTEROS",
+      "nombres": "SILVIO NOLBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX62",
+      "apellidos": "BENDIK",
+      "nombres": "ADRIAN OMAR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

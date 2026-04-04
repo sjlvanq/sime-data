@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 44618,
+    "padron_id": 80195
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX24",
+      "apellidos": "GARCIA",
+      "nombres": "MONICA JUDITH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX90",
+      "apellidos": "MENTEL ROMANO",
+      "nombres": "LUCIANO JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "23XXXX51",
+      "apellidos": "ABDALA",
+      "nombres": "CRISTIAN ADRIAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "28XXXX93",
+      "apellidos": "PEREZ",
+      "nombres": "MARIO JAVIER",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

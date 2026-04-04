@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 45292,
+    "padron_id": 82916
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX30",
+      "apellidos": "ROBLES",
+      "nombres": "LUIS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX29",
+      "apellidos": "LANCELLA",
+      "nombres": "YULIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

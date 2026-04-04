@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42910,
+    "padron_id": 78744
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "31XXXX86",
+      "apellidos": "LIZONDO",
+      "nombres": "NOELIA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "33XXXX98",
+      "apellidos": "SALOMON",
+      "nombres": "JORGE ELIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "20XXXX46",
+      "apellidos": "BOASSO",
+      "nombres": "VICTOR JUAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

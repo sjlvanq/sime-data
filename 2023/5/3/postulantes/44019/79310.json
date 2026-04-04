@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 44019,
+    "padron_id": 79310
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "31XXXX44",
+      "apellidos": "NAVARRO",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "25XXXX53",
+      "apellidos": "CINQUEGRANI",
+      "nombres": "VICTOR FERNANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX69",
+      "apellidos": "VELARDEZ",
+      "nombres": "FRANCO ANTONIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "36XXXX22",
+      "apellidos": "ESCOBAR",
+      "nombres": "WALTER MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

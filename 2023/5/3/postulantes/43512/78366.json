@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 43512,
+    "padron_id": 78366
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX57",
+      "apellidos": "BUSTOS",
+      "nombres": "ELOY EXEQUIEL DEL ROSARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX54",
+      "apellidos": "ARROYO",
+      "nombres": "NAZARENO ALVARO ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX09",
+      "apellidos": "CARRERAS",
+      "nombres": "MARCOS FELICIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX46",
+      "apellidos": "CAZON",
+      "nombres": "FRANCO PATRICIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

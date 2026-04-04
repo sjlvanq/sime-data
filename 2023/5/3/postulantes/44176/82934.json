@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 44176,
+    "padron_id": 82934
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX95",
+      "apellidos": "ALE",
+      "nombres": "NANCY MARIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX35",
+      "apellidos": "ALBORNOZ VOSS",
+      "nombres": "IRMA EDITH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX14",
+      "apellidos": "RIVERO",
+      "nombres": "LUCIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

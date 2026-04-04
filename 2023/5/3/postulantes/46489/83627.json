@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 46489,
+    "padron_id": 83627
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX62",
+      "apellidos": "JUAREZ",
+      "nombres": "TOMAS AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "13XXXX41",
+      "apellidos": "GONZALEZ",
+      "nombres": "ESTEBAN DARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX79",
+      "apellidos": "FERNANDEZ",
+      "nombres": "CARLOS FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

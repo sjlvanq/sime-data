@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42912,
+    "padron_id": 78758
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX28",
+      "apellidos": "GONZALEZ",
+      "nombres": "OSCAR DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX28",
+      "apellidos": "ARENA",
+      "nombres": "FEDERICO MIGUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 45278,
+    "padron_id": 84091
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX17",
+      "apellidos": "NACHEF",
+      "nombres": "JUAN NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX52",
+      "apellidos": "SUELDO",
+      "nombres": "JULIO RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "21XXXX75",
+      "apellidos": "SANCHEZ",
+      "nombres": "ANTONIO MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "40XXXX69",
+      "apellidos": "SARASPE",
+      "nombres": "FRANCO EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

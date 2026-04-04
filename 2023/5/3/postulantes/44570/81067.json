@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 44570,
+    "padron_id": 81067
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX41",
+      "apellidos": "VIDAL",
+      "nombres": "HUGO FABRICIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX24",
+      "apellidos": "GONZALEZ",
+      "nombres": "ADRIAN EUDORO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

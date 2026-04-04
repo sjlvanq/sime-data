@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42846,
+    "padron_id": 78613
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX82",
+      "apellidos": "GRANEROS",
+      "nombres": "MARIA VICTORIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX19",
+      "apellidos": "AGUILAR SORIA",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

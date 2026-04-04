@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42854,
+    "padron_id": 78152
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "35XXXX51",
+      "apellidos": "HERRERA",
+      "nombres": "PATRICIA FERNANDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX84",
+      "apellidos": "MANSILLA",
+      "nombres": "CECILIA GISETE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

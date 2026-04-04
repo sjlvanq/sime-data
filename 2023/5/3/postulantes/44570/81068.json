@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 44570,
+    "padron_id": 81068
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX32",
+      "apellidos": "DE ROSA",
+      "nombres": "MARIO VENTURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX58",
+      "apellidos": "JAIMEZ",
+      "nombres": "ROBERTO REGINO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

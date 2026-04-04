@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 42432,
+    "padron_id": 78790
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX06",
+      "apellidos": "MURUA",
+      "nombres": "FLORENCIA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX85",
+      "apellidos": "LOPEZ",
+      "nombres": "MERCEDES ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX87",
+      "apellidos": "MARTINEZ",
+      "nombres": "JOSÉ ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX19",
+      "apellidos": "MEDINA",
+      "nombres": "CESAR DANTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

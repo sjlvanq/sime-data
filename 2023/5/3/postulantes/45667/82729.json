@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 45667,
+    "padron_id": 82729
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX54",
+      "apellidos": "DIAZ",
+      "nombres": "CARMEN GRISELDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "20XXXX53",
+      "apellidos": "ARROYO",
+      "nombres": "CLAUDIA ROSSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX08",
+      "apellidos": "LEDEZMA",
+      "nombres": "BEATRIZ ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

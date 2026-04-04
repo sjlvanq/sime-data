@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42107,
+    "padron_id": 80021
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "27XXXX87",
+      "apellidos": "ROMERO",
+      "nombres": "DEBORA PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "39XXXX76",
+      "apellidos": "ROLDAN",
+      "nombres": "LUCIANA ZULEMA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "34XXXX51",
+      "apellidos": "CORONEL",
+      "nombres": "EXEQUIEL ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

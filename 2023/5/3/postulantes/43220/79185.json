@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 43220,
+    "padron_id": 79185
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX41",
+      "apellidos": "VIDAL",
+      "nombres": "HUGO FABRICIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX74",
+      "apellidos": "LAZARTE",
+      "nombres": "MAYRA LIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

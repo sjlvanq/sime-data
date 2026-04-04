@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42893,
+    "padron_id": 78064
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "26XXXX05",
+      "apellidos": "LUNA",
+      "nombres": "PATRICIA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "33XXXX99",
+      "apellidos": "MEDINA",
+      "nombres": "DARIO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "37XXXX53",
+      "apellidos": "SANCHEZ",
+      "nombres": "GRECIA ANTONELLA MARGARITA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

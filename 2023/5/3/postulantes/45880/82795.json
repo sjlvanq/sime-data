@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 45880,
+    "padron_id": 82795
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX09",
+      "apellidos": "AMAYA",
+      "nombres": "JUAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "21XXXX72",
+      "apellidos": "ESCOBAR",
+      "nombres": "DANIEL ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP TITULAR"
+    }
+  ]
+}

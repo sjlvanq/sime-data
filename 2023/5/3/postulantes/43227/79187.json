@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 43227,
+    "padron_id": 79187
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX54",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX36",
+      "apellidos": "ACOSTA RUIZ",
+      "nombres": "ALEJANDRA DEL PILAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "18XXXX76",
+      "apellidos": "SANCHEZ",
+      "nombres": "CESAR MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
