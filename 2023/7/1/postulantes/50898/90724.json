@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50898,
+    "padron_id": 90724
+  },
+  "postulantes": [
+    {
+      "orden": 749,
+      "dni": "33XXXX64",
+      "apellidos": "DIAZ",
+      "nombres": "DORA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 885,
+      "dni": "40XXXX57",
+      "apellidos": "BELTRAN",
+      "nombres": "NOELIA MALVINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 624,
+      "dni": "37XXXX66",
+      "apellidos": "BAYON",
+      "nombres": "DAYANA MIKAELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

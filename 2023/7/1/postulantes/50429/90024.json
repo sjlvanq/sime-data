@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50429,
+    "padron_id": 90024
+  },
+  "postulantes": [
+    {
+      "orden": 36,
+      "dni": "41XXXX99",
+      "apellidos": "TRIVIÑO",
+      "nombres": "MARIA LOURDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "22XXXX83",
+      "apellidos": "AGUERO",
+      "nombres": "VIRGINIA CAROLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 63,
+      "dni": "32XXXX79",
+      "apellidos": "ESTEBAN",
+      "nombres": "JUAN DARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

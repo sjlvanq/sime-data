@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 50721,
+    "padron_id": 90189
+  },
+  "postulantes": [
+    {
+      "orden": 688,
+      "dni": "31XXXX11",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "GABRIELA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 831,
+      "dni": "40XXXX78",
+      "apellidos": "HERRERA",
+      "nombres": "LORENA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1016,
+      "dni": "36XXXX24",
+      "apellidos": "ALDERETE",
+      "nombres": "DIEGO FERNANDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1258,
+      "dni": "37XXXX56",
+      "apellidos": "BALDERRAMA",
+      "nombres": "ERIKA GISEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

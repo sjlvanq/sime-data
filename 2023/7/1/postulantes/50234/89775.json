@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50234,
+    "padron_id": 89775
+  },
+  "postulantes": [
+    {
+      "orden": 59,
+      "dni": "25XXXX19",
+      "apellidos": "VIERA SOSA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 65,
+      "dni": "17XXXX71",
+      "apellidos": "DAJIR",
+      "nombres": "MARTA FATIMA LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 123,
+      "dni": "29XXXX87",
+      "apellidos": "ALVAREZ",
+      "nombres": "DEBORAH MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

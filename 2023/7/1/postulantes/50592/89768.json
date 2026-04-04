@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50592,
+    "padron_id": 89768
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "38XXXX69",
+      "apellidos": "MILIOTO",
+      "nombres": "MARIA ALFONSINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "33XXXX61",
+      "apellidos": "LAZARTE",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 119,
+      "dni": "36XXXX80",
+      "apellidos": "DE FREITAS E SILVA IPARRAGUIRRE",
+      "nombres": "DARMALA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

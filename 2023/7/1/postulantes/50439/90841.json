@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50439,
+    "padron_id": 90841
+  },
+  "postulantes": [
+    {
+      "orden": 80,
+      "dni": "25XXXX24",
+      "apellidos": "FRIAS",
+      "nombres": "NANCY MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "22XXXX75",
+      "apellidos": "VEGA",
+      "nombres": "MARIA NANCY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "28XXXX47",
+      "apellidos": "TORRES",
+      "nombres": "CAROLINA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50940,
+    "padron_id": 90460
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "26XXXX43",
+      "apellidos": "CRUZADO",
+      "nombres": "LILIAN ELIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "33XXXX58",
+      "apellidos": "AVILA",
+      "nombres": "SERGIO DANIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "29XXXX68",
+      "apellidos": "LUNA",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

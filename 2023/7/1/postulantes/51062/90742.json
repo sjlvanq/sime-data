@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 51062,
+    "padron_id": 90742
+  },
+  "postulantes": [
+    {
+      "orden": 500,
+      "dni": "29XXXX68",
+      "apellidos": "LUNA",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 969,
+      "dni": "30XXXX35",
+      "apellidos": "PEREZ",
+      "nombres": "RUTH RAQUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "22XXXX28",
+      "apellidos": "PERALTA",
+      "nombres": "VERONICA MARCELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 532,
+      "dni": "34XXXX68",
+      "apellidos": "LEZCANO",
+      "nombres": "IVANA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

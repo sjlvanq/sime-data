@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 51288,
+    "padron_id": 90910
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "43XXXX78",
+      "apellidos": "TORRES",
+      "nombres": "AGOSTINA DEL MILAGRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX01",
+      "apellidos": "CANO",
+      "nombres": "JUAN MANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "34XXXX62",
+      "apellidos": "ALDERETE",
+      "nombres": "ROBERTO CARLOS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "37XXXX35",
+      "apellidos": "RODRIGUEZ MIRANDA",
+      "nombres": "ANA PAULA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "44XXXX31",
+      "apellidos": "LAZARTE GEORGIEFF",
+      "nombres": "JOSIAS GERMAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

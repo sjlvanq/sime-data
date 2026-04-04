@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50203,
+    "padron_id": 89643
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "28XXXX26",
+      "apellidos": "GOMEZ",
+      "nombres": "EDGAR ROLAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "41XXXX76",
+      "apellidos": "SORIA",
+      "nombres": "VIRGINIA ANALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 82,
+      "dni": "35XXXX78",
+      "apellidos": "ROQUÉ ",
+      "nombres": "CYNTHIA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

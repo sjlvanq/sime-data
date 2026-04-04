@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51497,
+    "padron_id": 91721
+  },
+  "postulantes": [
+    {
+      "orden": 59,
+      "dni": "25XXXX19",
+      "apellidos": "VIERA SOSA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 87,
+      "dni": "24XXXX21",
+      "apellidos": "PONCE",
+      "nombres": "MARCELA LIDIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 222,
+      "dni": "22XXXX81",
+      "apellidos": "CAJAL",
+      "nombres": "MYRIAM ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

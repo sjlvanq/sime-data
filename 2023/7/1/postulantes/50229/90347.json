@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 50229,
+    "padron_id": 90347
+  },
+  "postulantes": [
+    {
+      "orden": 497,
+      "dni": "38XXXX30",
+      "apellidos": "FLORES",
+      "nombres": "RITA NOEMÍ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 527,
+      "dni": "40XXXX83",
+      "apellidos": "VALDEZ",
+      "nombres": "MARÍA LUZ CONSTANZA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 710,
+      "dni": "37XXXX56",
+      "apellidos": "BALDERRAMA",
+      "nombres": "ERIKA GISEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 317,
+      "dni": "31XXXX42",
+      "apellidos": "SALAZAR",
+      "nombres": "CECILIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

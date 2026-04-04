@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51217,
+    "padron_id": 90925
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "31XXXX87",
+      "apellidos": "RIOS",
+      "nombres": "MARIA JULIETA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "37XXXX37",
+      "apellidos": "CEJAS",
+      "nombres": "LEANDRO IVAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "29XXXX02",
+      "apellidos": "BESERRA",
+      "nombres": "JOSE FERNANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51212,
+    "padron_id": 90909
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "31XXXX87",
+      "apellidos": "RIOS",
+      "nombres": "MARIA JULIETA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "37XXXX11",
+      "apellidos": "IBARRA",
+      "nombres": "CRISTIAN ANDRÉS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "30XXXX01",
+      "apellidos": "LEIVA",
+      "nombres": "PATRICIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

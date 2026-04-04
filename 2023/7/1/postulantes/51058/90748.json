@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51058,
+    "padron_id": 90748
+  },
+  "postulantes": [
+    {
+      "orden": 265,
+      "dni": "28XXXX77",
+      "apellidos": "LOBO",
+      "nombres": "SUSANA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 624,
+      "dni": "37XXXX66",
+      "apellidos": "BAYON",
+      "nombres": "DAYANA MIKAELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1267,
+      "dni": "29XXXX47",
+      "apellidos": "RACEDO",
+      "nombres": "MONICA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

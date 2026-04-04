@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50597,
+    "padron_id": 89740
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "28XXXX26",
+      "apellidos": "GOMEZ",
+      "nombres": "EDGAR ROLAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "29XXXX58",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "GRACIELA SABRINA DE FATIMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "41XXXX76",
+      "apellidos": "SORIA",
+      "nombres": "VIRGINIA ANALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

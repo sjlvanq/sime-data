@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50218,
+    "padron_id": 89670
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "21XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NANCY CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "32XXXX24",
+      "apellidos": "AGUIRRE",
+      "nombres": "YANINA PAOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 142,
+      "dni": "20XXXX82",
+      "apellidos": "AMENTTA",
+      "nombres": "MONICA ESTELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

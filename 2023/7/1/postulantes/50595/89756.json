@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50595,
+    "padron_id": 89756
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "38XXXX69",
+      "apellidos": "MILIOTO",
+      "nombres": "MARIA ALFONSINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "22XXXX19",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "VIVIANA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "33XXXX61",
+      "apellidos": "LAZARTE",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

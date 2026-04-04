@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 51220,
+    "padron_id": 90943
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "28XXXX26",
+      "apellidos": "GOMEZ",
+      "nombres": "EDGAR ROLAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "44XXXX31",
+      "apellidos": "LAZARTE GEORGIEFF",
+      "nombres": "JOSIAS GERMAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

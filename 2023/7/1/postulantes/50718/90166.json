@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 50718,
+    "padron_id": 90166
+  },
+  "postulantes": [
+    {
+      "orden": 90,
+      "dni": "23XXXX80",
+      "apellidos": "MIRANDA",
+      "nombres": "JULIA RAQUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1035,
+      "dni": "40XXXX15",
+      "apellidos": "CASTILLO",
+      "nombres": "LUCIA AGUSTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1036,
+      "dni": "30XXXX03",
+      "apellidos": "GUZMÁN LÓPEZ",
+      "nombres": "ALEJANDRA EVELYN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 532,
+      "dni": "34XXXX68",
+      "apellidos": "LEZCANO",
+      "nombres": "IVANA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
