@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 81740,
+    "padron_id": 144108
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "20XXXX18",
+      "apellidos": "DECIMA",
+      "nombres": "JULIO ARGENTINO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "22XXXX86",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA GABRIELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX03",
+      "apellidos": "GUERRA",
+      "nombres": "AURORA FRANCISCA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

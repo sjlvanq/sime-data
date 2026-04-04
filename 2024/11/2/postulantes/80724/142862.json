@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 80724,
+    "padron_id": 142862
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "30XXXX93",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "38XXXX69",
+      "apellidos": "MILIOTO",
+      "nombres": "MARIA ALFONSINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "35XXXX58",
+      "apellidos": "MARTINEZ",
+      "nombres": "LAURA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

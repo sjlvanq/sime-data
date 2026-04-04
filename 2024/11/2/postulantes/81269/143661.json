@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 81269,
+    "padron_id": 143661
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX49",
+      "apellidos": "COSIANSI",
+      "nombres": "CARLOS DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX53",
+      "apellidos": "EMGE",
+      "nombres": "MARTIN LORENZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "38XXXX83",
+      "apellidos": "RUIZ",
+      "nombres": "MATIAS FACUNDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

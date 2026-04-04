@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 82470,
+    "padron_id": 145549
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "25XXXX12",
+      "apellidos": "MEDINA",
+      "nombres": "CLAUDIA ROXANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX34",
+      "apellidos": "MOYA",
+      "nombres": "EDUARDO ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX22",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

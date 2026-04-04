@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 80749,
+    "padron_id": 143459
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX51",
+      "apellidos": "DEL MORAL",
+      "nombres": "DANIELA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX31",
+      "apellidos": "GONZALEZ",
+      "nombres": "CRISTIAN ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 82427,
+    "padron_id": 145941
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX43",
+      "apellidos": "VILLELLA",
+      "nombres": "FABIO OSCAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX61",
+      "apellidos": "ROBLES",
+      "nombres": "PEDRO PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

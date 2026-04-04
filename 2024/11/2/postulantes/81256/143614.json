@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 81256,
+    "padron_id": 143614
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX06",
+      "apellidos": "PALMIERI",
+      "nombres": "VANINA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "28XXXX19",
+      "apellidos": "VERA",
+      "nombres": "NOELIA VIVIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "27XXXX95",
+      "apellidos": "GARAY",
+      "nombres": "VICTOR OSVALDO EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

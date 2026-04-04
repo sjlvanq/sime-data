@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 78470,
+    "padron_id": 144385
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "37XXXX43",
+      "apellidos": "GRAMAJO",
+      "nombres": "BENIGNO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "27XXXX81",
+      "apellidos": "VILLARREAL",
+      "nombres": "JOSE NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "25XXXX68",
+      "apellidos": "MOLINA",
+      "nombres": "MARIO ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

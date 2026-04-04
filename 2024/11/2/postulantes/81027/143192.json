@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 81027,
+    "padron_id": 143192
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "26XXXX32",
+      "apellidos": "TORO TISEIRA",
+      "nombres": "JULIETA VALERIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "30XXXX93",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "38XXXX69",
+      "apellidos": "MILIOTO",
+      "nombres": "MARIA ALFONSINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 81708,
+    "padron_id": 144650
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "21XXXX58",
+      "apellidos": "DIAZ",
+      "nombres": "MARIELA ROXANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "25XXXX08",
+      "apellidos": "ACOSTA",
+      "nombres": "DANIEL WALTER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX49",
+      "apellidos": "OLMOS",
+      "nombres": "MÁXIMO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

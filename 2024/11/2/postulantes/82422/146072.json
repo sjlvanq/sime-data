@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 82422,
+    "padron_id": 146072
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "26XXXX22",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 44,
+      "dni": "25XXXX64",
+      "apellidos": "TOSCANO",
+      "nombres": "RICARDO CLEMENTE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 75,
+      "dni": "24XXXX44",
+      "apellidos": "PANTALENA                               ",
+      "nombres": "ELIZABETH LUCIA                         ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

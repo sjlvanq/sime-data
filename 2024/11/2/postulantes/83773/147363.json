@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 83773,
+    "padron_id": 147363
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "23XXXX11",
+      "apellidos": "HERRERA",
+      "nombres": "SANDRA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 52,
+      "dni": "28XXXX89",
+      "apellidos": "BRAVO",
+      "nombres": "NOEMI DELIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

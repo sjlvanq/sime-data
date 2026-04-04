@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 81636,
+    "padron_id": 144098
+  },
+  "postulantes": [
+    {
+      "orden": 37,
+      "dni": "42XXXX29",
+      "apellidos": "VERA",
+      "nombres": "MICAELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "40XXXX40",
+      "apellidos": "BENZAL",
+      "nombres": "MARIANA CANDELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX80",
+      "apellidos": "MORENO LEDESMA",
+      "nombres": "LUCIANO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "33XXXX09",
+      "apellidos": "HERRERA",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "25XXXX16",
+      "apellidos": "AVILA",
+      "nombres": "DELFINA MARÍA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

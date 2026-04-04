@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 82508,
+    "padron_id": 145924
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "34XXXX80",
+      "apellidos": "PEREYRA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "27XXXX22",
+      "apellidos": "ANCE",
+      "nombres": "JUAN PABLO SEBASTIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX16",
+      "apellidos": "MEDINA",
+      "nombres": "GLORIA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "36XXXX74",
+      "apellidos": "MARTINEZ SANTAMARINA",
+      "nombres": "GABRIELA RUTH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

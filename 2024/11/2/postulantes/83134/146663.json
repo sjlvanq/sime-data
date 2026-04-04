@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 83134,
+    "padron_id": 146663
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "37XXXX06",
+      "apellidos": "ALBARRACIN",
+      "nombres": "FRANCO DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX35",
+      "apellidos": "GRANEROS",
+      "nombres": "RAMON GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX22",
+      "apellidos": "PAEZ",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

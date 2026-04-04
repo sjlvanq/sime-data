@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 83334,
+    "padron_id": 146695
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "33XXXX93",
+      "apellidos": "ROBLES",
+      "nombres": "ANDREA CELESTE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX54",
+      "apellidos": "ROMERO GUNSET",
+      "nombres": "ANA CELESTE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX02",
+      "apellidos": "AUDI FALU",
+      "nombres": "MONICA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX68",
+      "apellidos": "PEREZ NAVARRO",
+      "nombres": "JULIANA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

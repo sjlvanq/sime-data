@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 83180,
+    "padron_id": 146395
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "24XXXX56",
+      "apellidos": "MAESTU",
+      "nombres": "MARIA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "29XXXX31",
+      "apellidos": "HERRERA",
+      "nombres": "CARINA ELENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "30XXXX70",
+      "apellidos": "GONZALEZ FRIAS",
+      "nombres": "FERNANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
