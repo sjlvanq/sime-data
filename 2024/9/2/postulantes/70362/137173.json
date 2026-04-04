@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 70362,
+    "padron_id": 137173
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX89",
+      "apellidos": "VERON",
+      "nombres": "FRANCO IVAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX19",
+      "apellidos": "SCIME",
+      "nombres": "LOURDES MARINA LUZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

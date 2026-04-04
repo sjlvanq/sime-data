@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 76647,
+    "padron_id": 136437
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "21XXXX83",
+      "apellidos": "FEMENIAS",
+      "nombres": "JUAN NELSON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "22XXXX13",
+      "apellidos": "CUELLAR",
+      "nombres": "RAQUEL DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "18XXXX51",
+      "apellidos": "ITURRE RIVERA",
+      "nombres": "OSCAR MANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

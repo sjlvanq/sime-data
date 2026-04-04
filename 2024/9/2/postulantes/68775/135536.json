@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68775,
+    "padron_id": 135536
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX58",
+      "apellidos": "MEDINA",
+      "nombres": "YESSICA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX39",
+      "apellidos": "ZELARAYAN",
+      "nombres": "HERNAN ANTONIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "37XXXX02",
+      "apellidos": "ROBLES",
+      "nombres": "GUSTAVO MAXIMILIANO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

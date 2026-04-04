@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 75987,
+    "padron_id": 137087
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "34XXXX72",
+      "apellidos": "MOLINA",
+      "nombres": "GRISELDA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "17XXXX20",
+      "apellidos": "MADRAZO",
+      "nombres": "JOSE ZENON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "35XXXX61",
+      "apellidos": "JUAREZ",
+      "nombres": "LUCIA ESTELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "31XXXX14",
+      "apellidos": "SEGOVIA",
+      "nombres": "MATIAS ANGEL HONORIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

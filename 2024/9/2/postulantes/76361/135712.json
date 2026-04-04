@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 76361,
+    "padron_id": 135712
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "29XXXX80",
+      "apellidos": "RETES",
+      "nombres": "MARIA DOLORES EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "28XXXX32",
+      "apellidos": "MARINO",
+      "nombres": "RODOLFO DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX58",
+      "apellidos": "DIAZ",
+      "nombres": "NADIA GISELLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

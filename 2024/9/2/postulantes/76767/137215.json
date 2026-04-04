@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 76767,
+    "padron_id": 137215
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "27XXXX29",
+      "apellidos": "CONTTI",
+      "nombres": "HEBE MARISEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "38XXXX51",
+      "apellidos": "ALVAREZ",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "31XXXX21",
+      "apellidos": "CASARES",
+      "nombres": "MARIO GUILLERMO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

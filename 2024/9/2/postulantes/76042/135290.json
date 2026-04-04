@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 76042,
+    "padron_id": 135290
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "26XXXX00",
+      "apellidos": "VACA",
+      "nombres": "MELINA VIVIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 82,
+      "dni": "30XXXX69",
+      "apellidos": "ISSA",
+      "nombres": "FATIMA VANESA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "27XXXX35",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ROMINA JANET",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

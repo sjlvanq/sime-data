@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 76822,
+    "padron_id": 136474
+  },
+  "postulantes": [
+    {
+      "orden": 34,
+      "dni": "23XXXX06",
+      "apellidos": "POSADA",
+      "nombres": "ELIZABETH DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 101,
+      "dni": "25XXXX42",
+      "apellidos": "TOSCANO",
+      "nombres": "MARIELA JESUS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

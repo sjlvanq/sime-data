@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 76428,
+    "padron_id": 137184
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX45",
+      "apellidos": "ALBORNOZ",
+      "nombres": "JESUS PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "22XXXX26",
+      "apellidos": "MAZZA",
+      "nombres": "ELIZABETH ANTONIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "39XXXX59",
+      "apellidos": "GONZALEZ",
+      "nombres": "JULIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

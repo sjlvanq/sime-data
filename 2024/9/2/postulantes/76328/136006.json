@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 76328,
+    "padron_id": 136006
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX64",
+      "apellidos": "TOSCANO",
+      "nombres": "RICARDO CLEMENTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX47",
+      "apellidos": "IÑIGO",
+      "nombres": "BRENDA LAURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX86",
+      "apellidos": "SOSA",
+      "nombres": "GUSTAVO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
