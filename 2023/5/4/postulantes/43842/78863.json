@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 43842,
+    "padron_id": 78863
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "25XXXX55",
+      "apellidos": "VALDIVIEZO",
+      "nombres": "MARTA DE LOS ANGELES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "25XXXX23",
+      "apellidos": "DIAZ",
+      "nombres": "ALEJANDRA ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX38",
+      "apellidos": "MEDINA",
+      "nombres": "FABIANA CAROLINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
