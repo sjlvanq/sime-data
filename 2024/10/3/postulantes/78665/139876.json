@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 78665,
+    "padron_id": 139876
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "27XXXX81",
+      "apellidos": "LOBO",
+      "nombres": "CRISTIAN SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX30",
+      "apellidos": "TORASSO",
+      "nombres": "MAURICIO EZEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX05",
+      "apellidos": "AGUILERA",
+      "nombres": "SEBASTIAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX73",
+      "apellidos": "GIGENA GOMEZ",
+      "nombres": "GONZALO RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

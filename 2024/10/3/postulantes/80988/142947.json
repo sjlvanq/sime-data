@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 80988,
+    "padron_id": 142947
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "31XXXX37",
+      "apellidos": "ESCACENA",
+      "nombres": "PAMELA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "24XXXX42",
+      "apellidos": "MERCADO",
+      "nombres": "KARINA VERONICA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX46",
+      "apellidos": "RAMOS",
+      "nombres": "ANDREA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 79275,
+    "padron_id": 140726
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "92XXXX55",
+      "apellidos": "DIAZ FLORES",
+      "nombres": "RICHARD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX10",
+      "apellidos": "LAREDO",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "18XXXX36",
+      "apellidos": "ASSA",
+      "nombres": "CLAUDIA SUSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

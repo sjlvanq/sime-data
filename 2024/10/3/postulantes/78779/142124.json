@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 78779,
+    "padron_id": 142124
+  },
+  "postulantes": [
+    {
+      "orden": 51,
+      "dni": "27XXXX60",
+      "apellidos": "GARECA",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 72,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 95,
+      "dni": "40XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "PAMELA CONSTANZA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 146,
+      "dni": "37XXXX00",
+      "apellidos": "BOIDO",
+      "nombres": "ROCIO MELANI",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 78797,
+    "padron_id": 141898
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX34",
+      "apellidos": "CORONEL",
+      "nombres": "MARIELA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "32XXXX97",
+      "apellidos": "COSTILLA",
+      "nombres": "PEDRO MANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX77",
+      "apellidos": "ALINCASTRO",
+      "nombres": "ROSANA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "31XXXX85",
+      "apellidos": "MAMANI",
+      "nombres": "SEBASTIAN DARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "26XXXX21",
+      "apellidos": "LUNA",
+      "nombres": "PABLO GUILLERMO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

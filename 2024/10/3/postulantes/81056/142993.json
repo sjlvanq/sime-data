@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 81056,
+    "padron_id": 142993
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX33",
+      "apellidos": "ALBARRACÍN",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "36XXXX45",
+      "apellidos": "OCARANZA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "34XXXX08",
+      "apellidos": "ALVAREZ",
+      "nombres": "FLORENCIA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

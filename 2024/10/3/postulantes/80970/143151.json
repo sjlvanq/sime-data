@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 80970,
+    "padron_id": 143151
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX10",
+      "apellidos": "DEL MORAL",
+      "nombres": "MARIO EDGARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX30",
+      "apellidos": "TORASSO",
+      "nombres": "MAURICIO EZEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

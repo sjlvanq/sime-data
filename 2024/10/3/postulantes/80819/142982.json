@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 80819,
+    "padron_id": 142982
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "23XXXX75",
+      "apellidos": "SALINAS",
+      "nombres": "JOSE MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 9,
+      "dni": "26XXXX44",
+      "apellidos": "SANTILLAN",
+      "nombres": "MARCOS DIEGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 11,
+      "dni": "29XXXX99",
+      "apellidos": "CANOSA",
+      "nombres": "MARIO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

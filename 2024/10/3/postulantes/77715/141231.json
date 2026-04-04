@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 77715,
+    "padron_id": 141231
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX52",
+      "apellidos": "DIAZ",
+      "nombres": "FERNANDO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX32",
+      "apellidos": "OLIVERA",
+      "nombres": "ADRIAN MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
