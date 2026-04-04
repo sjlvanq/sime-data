@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 36872,
+    "padron_id": 66584
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "27XXXX72",
+      "apellidos": "RUIZ",
+      "nombres": "DIEGO MARCIAL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX00",
+      "apellidos": "ROMERO",
+      "nombres": "SILVIA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX02",
+      "apellidos": "DIAZ",
+      "nombres": "MAIRA LEONELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "22XXXX13",
+      "apellidos": "SANCHEZ",
+      "nombres": "RUBEN DARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

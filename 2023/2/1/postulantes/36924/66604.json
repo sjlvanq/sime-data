@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36924,
+    "padron_id": 66604
+  },
+  "postulantes": [
+    {
+      "orden": 90,
+      "dni": "22XXXX17",
+      "apellidos": "TICERA VALLEJO",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "30XXXX01",
+      "apellidos": "CASTRO",
+      "nombres": "ALICIA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 55,
+      "dni": "27XXXX62",
+      "apellidos": "OYOLA",
+      "nombres": "CRISTINA SILVANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

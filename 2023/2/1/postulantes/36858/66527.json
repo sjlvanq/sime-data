@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 36858,
+    "padron_id": 66527
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "24XXXX98",
+      "apellidos": "MEDINA",
+      "nombres": "ALBERTO NAPOLEON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "30XXXX73",
+      "apellidos": "TRAVAINI",
+      "nombres": "CARLA FABIOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

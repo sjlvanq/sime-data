@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 36890,
+    "padron_id": 66826
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "31XXXX87",
+      "apellidos": "RIOS",
+      "nombres": "MARIA JULIETA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "40XXXX49",
+      "apellidos": "CEJAS",
+      "nombres": "ENEAS MARTIN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "37XXXX37",
+      "apellidos": "CEJAS",
+      "nombres": "LEANDRO IVAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "38XXXX29",
+      "apellidos": "POSSE GALLARDO",
+      "nombres": "CAMILA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX90",
+      "apellidos": "DIAZ GAITAN",
+      "nombres": "MARIA NAZARETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

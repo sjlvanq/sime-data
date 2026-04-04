@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 36763,
+    "padron_id": 66375
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX56",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ESTELA NANCY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "23XXXX95",
+      "apellidos": "BRITO",
+      "nombres": "DOMINGO HECTOR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
