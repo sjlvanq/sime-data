@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 82433,
+    "padron_id": 145373
+  },
+  "postulantes": [
+    {
+      "orden": 210,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 236,
+      "dni": "21XXXX27",
+      "apellidos": "BARRIONUEVO DE JAUME",
+      "nombres": "MARIA CELIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 259,
+      "dni": "23XXXX08",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

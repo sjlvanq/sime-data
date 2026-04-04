@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 80594,
+    "padron_id": 143687
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "31XXXX18",
+      "apellidos": "VALDEZ",
+      "nombres": "VERONICA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "20XXXX14",
+      "apellidos": "MOYANO                                  ",
+      "nombres": "ALICIA BEATRIZ                          ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "23XXXX83",
+      "apellidos": "CABRERA",
+      "nombres": "MONICA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "23XXXX98",
+      "apellidos": "ROMERO",
+      "nombres": "CRISTINA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 60152,
+    "padron_id": 107523
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "22XXXX88",
+      "apellidos": "DIAZ",
+      "nombres": "ALEJANDRA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "23XXXX83",
+      "apellidos": "CABRERA",
+      "nombres": "MONICA GRACIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 112,
+      "dni": "27XXXX21",
+      "apellidos": "GRAMAJO",
+      "nombres": "VERONICA ISABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 143,
+      "dni": "20XXXX14",
+      "apellidos": "MOYANO                                  ",
+      "nombres": "ALICIA BEATRIZ                          ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

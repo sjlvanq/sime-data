@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 81423,
+    "padron_id": 143528
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "24XXXX30",
+      "apellidos": "HEREDIA",
+      "nombres": "CLAUDIA GRACIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX11",
+      "apellidos": "LESCANO",
+      "nombres": "CECILIA ANTONELLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

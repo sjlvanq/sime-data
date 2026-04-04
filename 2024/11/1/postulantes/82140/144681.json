@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 82140,
+    "padron_id": 144681
+  },
+  "postulantes": [
+    {
+      "orden": 139,
+      "dni": "22XXXX54",
+      "apellidos": "ACUÑA",
+      "nombres": "LILIANA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 232,
+      "dni": "29XXXX68",
+      "apellidos": "LUNA",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 563,
+      "dni": "27XXXX47",
+      "apellidos": "ACUÑA",
+      "nombres": "NATALIA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

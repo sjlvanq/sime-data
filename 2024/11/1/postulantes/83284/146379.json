@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 83284,
+    "padron_id": 146379
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "33XXXX11",
+      "apellidos": "DIAZ",
+      "nombres": "FATIMA NOELIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "36XXXX15",
+      "apellidos": "CORONEL",
+      "nombres": "FLAVIA AGUSTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "30XXXX28",
+      "apellidos": "AGUERO DANERI",
+      "nombres": "DANIELA MARIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "16XXXX83",
+      "apellidos": "HIDALGO",
+      "nombres": "SERGIO GUSTAVO ADOLFO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

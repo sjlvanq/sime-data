@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 60152,
+    "padron_id": 107524
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX72",
+      "apellidos": "CORTES ISSI",
+      "nombres": "CLARA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX47",
+      "apellidos": "AGUIRRE",
+      "nombres": "CECILIA MARIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

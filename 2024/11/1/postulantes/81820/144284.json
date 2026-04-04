@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 81820,
+    "padron_id": 144284
+  },
+  "postulantes": [
+    {
+      "orden": 195,
+      "dni": "25XXXX28",
+      "apellidos": "GIL",
+      "nombres": "GABRIELA JEANETT",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 94,
+      "dni": "31XXXX47",
+      "apellidos": "GUZMAN",
+      "nombres": "CAROLINA VERONICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 140,
+      "dni": "23XXXX48",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

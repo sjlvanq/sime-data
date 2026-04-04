@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 81834,
+    "padron_id": 144442
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "31XXXX21",
+      "apellidos": "CASARES",
+      "nombres": "MARIO GUILLERMO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "34XXXX44",
+      "apellidos": "CORREA",
+      "nombres": "MARTIN NICOLAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

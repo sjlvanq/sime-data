@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 81486,
+    "padron_id": 143701
+  },
+  "postulantes": [
+    {
+      "orden": 136,
+      "dni": "24XXXX52",
+      "apellidos": "GARCIA",
+      "nombres": "FRANCISCO ARIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 200,
+      "dni": "22XXXX42",
+      "apellidos": "RIVAS",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 251,
+      "dni": "23XXXX72",
+      "apellidos": "BAZAN",
+      "nombres": "MARIA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
