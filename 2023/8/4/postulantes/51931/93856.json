@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51931,
+    "padron_id": 93856
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "39XXXX89",
+      "apellidos": "MARTINICH",
+      "nombres": "CAMILA DEL ROSARIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX38",
+      "apellidos": "MEDINA",
+      "nombres": "FABIANA CAROLINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "39XXXX04",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

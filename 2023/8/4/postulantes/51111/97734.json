@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51111,
+    "padron_id": 97734
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "17XXXX03",
+      "apellidos": "SRUR",
+      "nombres": "RICARDO FABIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "39XXXX70",
+      "apellidos": "DIAZ ALBORNOZ",
+      "nombres": "LUCAS RICARDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX76",
+      "apellidos": "VILLAFAÑE BULACIO",
+      "nombres": "LAURA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

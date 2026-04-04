@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 53010,
+    "padron_id": 96336
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX03",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "TERESA ESTELA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "32XXXX35",
+      "apellidos": "HERRERA",
+      "nombres": "IVANA KARINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX34",
+      "apellidos": "SALVATIERRA",
+      "nombres": "HECTOR MAXIMILIANO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
