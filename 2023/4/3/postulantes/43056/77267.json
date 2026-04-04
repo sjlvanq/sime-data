@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 43056,
+    "padron_id": 77267
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "31XXXX49",
+      "apellidos": "MONTEROS",
+      "nombres": "YESICA GABRIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "34XXXX63",
+      "apellidos": "GONZALEZ SURVANO",
+      "nombres": "SEBASTIAN FRANCISCO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "32XXXX14",
+      "apellidos": "BELMONTE",
+      "nombres": "LUIS MIGUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

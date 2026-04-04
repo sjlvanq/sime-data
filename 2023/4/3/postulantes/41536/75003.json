@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 41536,
+    "padron_id": 75003
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX23",
+      "apellidos": "DIAZ",
+      "nombres": "VERONICA DEL ROSARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX64",
+      "apellidos": "SARMIENTO",
+      "nombres": "JESUS RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

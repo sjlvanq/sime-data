@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42420,
+    "padron_id": 77085
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "38XXXX43",
+      "apellidos": "LEAL VILLANUEVA",
+      "nombres": "NADIA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "17XXXX97",
+      "apellidos": "BRAVO",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX52",
+      "apellidos": "ARGÜELLO",
+      "nombres": "MARÍA VIVIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

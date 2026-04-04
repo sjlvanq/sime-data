@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40960,
+    "padron_id": 77393
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "37XXXX51",
+      "apellidos": "GONZALEZ",
+      "nombres": "JOSE AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "38XXXX39",
+      "apellidos": "BUSTAMANTE",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "38XXXX29",
+      "apellidos": "RUIZ",
+      "nombres": "ARNALDO ANIBAL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

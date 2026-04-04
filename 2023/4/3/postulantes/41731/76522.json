@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 41731,
+    "padron_id": 76522
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX46",
+      "apellidos": "GRANDE",
+      "nombres": "NAHUEL RODRIGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX79",
+      "apellidos": "YURKO",
+      "nombres": "ANYA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX90",
+      "apellidos": "COSTA",
+      "nombres": "ISMAEL DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

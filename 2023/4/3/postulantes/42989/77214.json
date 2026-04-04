@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42989,
+    "padron_id": 77214
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX24",
+      "apellidos": "RAMIREZ QUINTEROS",
+      "nombres": "SILVIO NOLBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX28",
+      "apellidos": "CARDOZO",
+      "nombres": "CRISTIAN WALTER DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX62",
+      "apellidos": "BENDIK",
+      "nombres": "ADRIAN OMAR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

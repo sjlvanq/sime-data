@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 40807,
+    "padron_id": 73227
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX99",
+      "apellidos": "JEREZ",
+      "nombres": "GERARDO JAVIER",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX27",
+      "apellidos": "MARQUEZ",
+      "nombres": "JOSE GABRIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

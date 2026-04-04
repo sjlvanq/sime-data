@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40985,
+    "padron_id": 75468
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "21XXXX61",
+      "apellidos": "MAGRIÑA",
+      "nombres": "LUIS ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX21",
+      "apellidos": "JEREZ",
+      "nombres": "JOSE ROLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX52",
+      "apellidos": "BIANCHI",
+      "nombres": "SEBASTIAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

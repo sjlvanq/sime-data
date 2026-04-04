@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 43051,
+    "padron_id": 77268
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX98",
+      "apellidos": "HERRERA",
+      "nombres": "ANDREA ANALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "23XXXX40",
+      "apellidos": "GOMEZ RODRIGUEZ",
+      "nombres": "RICARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "30XXXX20",
+      "apellidos": "SORAIRE",
+      "nombres": "MIGUEL ANGEL MATEO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

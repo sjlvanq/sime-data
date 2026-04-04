@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "vacante_id": 42423,
+    "padron_id": 76750
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX99",
+      "apellidos": "ENCINA",
+      "nombres": "FERNANDO MIGUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "35XXXX57",
+      "apellidos": "JIMENEZ",
+      "nombres": "DANA XIMENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "32XXXX75",
+      "apellidos": "JIMENEZ",
+      "nombres": "EMMANUEL JOEL ORLANDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "32XXXX43",
+      "apellidos": "VELARDEZ",
+      "nombres": "RUTH PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "32XXXX59",
+      "apellidos": "IBAÑEZ",
+      "nombres": "PABLO ROMAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "32XXXX56",
+      "apellidos": "BORDALLO",
+      "nombres": "SANTIAGO LUIS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "28XXXX93",
+      "apellidos": "PEREZ",
+      "nombres": "MARIO JAVIER",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "33XXXX30",
+      "apellidos": "GRAMAJO",
+      "nombres": "ANA LÍA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 41339,
+    "padron_id": 75244
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX22",
+      "apellidos": "MEDINA",
+      "nombres": "MAURICIO JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX57",
+      "apellidos": "VILLAGRA",
+      "nombres": "DELIA ISABEL DEL ROSARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "36XXXX20",
+      "apellidos": "VALDEZ",
+      "nombres": "ANDREA DEL MILAGRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

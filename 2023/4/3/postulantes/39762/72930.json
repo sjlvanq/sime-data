@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 39762,
+    "padron_id": 72930
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX22",
+      "apellidos": "LESCANO",
+      "nombres": "ROMINA IRENE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "17XXXX97",
+      "apellidos": "BRAVO",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "95XXXX85",
+      "apellidos": "PADILLA BUENDIA",
+      "nombres": "ZULMA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

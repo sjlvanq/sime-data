@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42443,
+    "padron_id": 76654
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX15",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "YANINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "34XXXX24",
+      "apellidos": "MENDOZA",
+      "nombres": "WALTER HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX51",
+      "apellidos": "GOMEZ",
+      "nombres": "ERIC LAUTARO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

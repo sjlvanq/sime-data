@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42676,
+    "padron_id": 77381
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "33XXXX12",
+      "apellidos": "MORENO",
+      "nombres": "CAROLINA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "41XXXX25",
+      "apellidos": "CAMPOS",
+      "nombres": "CAROLINA DEL MILAGRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

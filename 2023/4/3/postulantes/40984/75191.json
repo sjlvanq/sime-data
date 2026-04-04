@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40984,
+    "padron_id": 75191
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX04",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "SERGIO ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX34",
+      "apellidos": "CASTILLO",
+      "nombres": "NATALIA LILIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "36XXXX42",
+      "apellidos": "ALVAREZ",
+      "nombres": "ANGEL DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

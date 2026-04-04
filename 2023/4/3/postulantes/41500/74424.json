@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 41500,
+    "padron_id": 74424
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX01",
+      "apellidos": "ALDANA",
+      "nombres": "MARIA LUCRECIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX56",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MARIA GLORIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

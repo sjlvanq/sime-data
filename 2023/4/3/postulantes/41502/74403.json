@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 41502,
+    "padron_id": 74403
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX02",
+      "apellidos": "BRANDAN",
+      "nombres": "OMAR FRANCISCO JAVIER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX39",
+      "apellidos": "SUELDO",
+      "nombres": "REINALDO EMILIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX18",
+      "apellidos": "GAMBARTE",
+      "nombres": "JOSÉ EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "38XXXX25",
+      "apellidos": "GONZALEZ",
+      "nombres": "GABRIEL ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

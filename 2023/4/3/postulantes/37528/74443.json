@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 37528,
+    "padron_id": 74443
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "38XXXX79",
+      "apellidos": "UÑATES",
+      "nombres": "PEDRO ENRIQUE ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX83",
+      "apellidos": "RUIZ",
+      "nombres": "MATIAS FACUNDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "31XXXX96",
+      "apellidos": "SORIA",
+      "nombres": "CARLOS SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

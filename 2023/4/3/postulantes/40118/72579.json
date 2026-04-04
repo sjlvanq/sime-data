@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 40118,
+    "padron_id": 72579
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "39XXXX30",
+      "apellidos": "BORQUEZ",
+      "nombres": "MAIRA SOFIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "34XXXX53",
+      "apellidos": "OCARANZA",
+      "nombres": "MIGUEL GABRIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX90",
+      "apellidos": "MENTEL ROMANO",
+      "nombres": "LUCIANO JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "28XXXX81",
+      "apellidos": "NAVARRO",
+      "nombres": "SILVANA DEBORAH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "28XXXX93",
+      "apellidos": "PEREZ",
+      "nombres": "MARIO JAVIER",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
