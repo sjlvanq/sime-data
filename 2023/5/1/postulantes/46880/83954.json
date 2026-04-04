@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 46880,
+    "padron_id": 83954
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "26XXXX89",
+      "apellidos": "ROMERO",
+      "nombres": "GLADYS VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 262,
+      "dni": "30XXXX71",
+      "apellidos": "PEREZ",
+      "nombres": "ANDREA JOSEFINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 72,
+      "dni": "25XXXX62",
+      "apellidos": "GUERRERO",
+      "nombres": "MONICA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

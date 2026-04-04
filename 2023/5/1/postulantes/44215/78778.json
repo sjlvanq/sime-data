@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 44215,
+    "padron_id": 78778
+  },
+  "postulantes": [
+    {
+      "orden": 128,
+      "dni": "25XXXX49",
+      "apellidos": "JIMENEZ",
+      "nombres": "WALTER ARIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 153,
+      "dni": "26XXXX65",
+      "apellidos": "BELLIDO",
+      "nombres": "ALEJANDRA KARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 163,
+      "dni": "24XXXX52",
+      "apellidos": "GOMEZ",
+      "nombres": "ROSANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "23XXXX65",
+      "apellidos": "GOMEZ",
+      "nombres": "NATALIA JESUS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

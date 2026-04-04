@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 43468,
+    "padron_id": 78146
+  },
+  "postulantes": [
+    {
+      "orden": 41,
+      "dni": "21XXXX45",
+      "apellidos": "MEDINA BONAHORA",
+      "nombres": "CLAUDIA CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 89,
+      "dni": "27XXXX23",
+      "apellidos": "MOLINA",
+      "nombres": "GLADYS MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 91,
+      "dni": "27XXXX63",
+      "apellidos": "ACUÑA",
+      "nombres": "BEATRIZ MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

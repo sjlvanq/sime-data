@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 44558,
+    "padron_id": 79595
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX06",
+      "apellidos": "TORRES",
+      "nombres": "SANDRA MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX29",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "CARLOS MIGUEL ANGEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

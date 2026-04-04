@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 44584,
+    "padron_id": 80036
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX13",
+      "apellidos": "LAZARTE",
+      "nombres": "GRACIELA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "40XXXX21",
+      "apellidos": "VENEZIANO",
+      "nombres": "FRANCO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

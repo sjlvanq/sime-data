@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 46947,
+    "padron_id": 83988
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "29XXXX27",
+      "apellidos": "TAVERNA",
+      "nombres": "CECILIA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "17XXXX69",
+      "apellidos": "NIEVA",
+      "nombres": "JUAN RAMON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "25XXXX40",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE MIGUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

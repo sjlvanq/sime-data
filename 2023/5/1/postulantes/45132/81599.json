@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 45132,
+    "padron_id": 81599
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "21XXXX68",
+      "apellidos": "JUAREZ",
+      "nombres": "LIA VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "27XXXX63",
+      "apellidos": "VEGA",
+      "nombres": "FERNANDA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

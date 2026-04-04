@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 44614,
+    "padron_id": 79689
+  },
+  "postulantes": [
+    {
+      "orden": 56,
+      "dni": "27XXXX77",
+      "apellidos": "TOLEDO",
+      "nombres": "MIRTA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 86,
+      "dni": "25XXXX24",
+      "apellidos": "MIRANDA",
+      "nombres": "PATRICIA INES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

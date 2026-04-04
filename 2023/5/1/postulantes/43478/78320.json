@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 43478,
+    "padron_id": 78320
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "40XXXX76",
+      "apellidos": "GONZALEZ",
+      "nombres": "SABRINA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 108,
+      "dni": "29XXXX35",
+      "apellidos": "HERNANDO",
+      "nombres": "LEANDRO MATIAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 124,
+      "dni": "41XXXX73",
+      "apellidos": "ORONA",
+      "nombres": "PAMELA AGOSTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 126,
+      "dni": "39XXXX29",
+      "apellidos": "LUCERO",
+      "nombres": "LUZ MARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 44781,
+    "padron_id": 80664
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "25XXXX74",
+      "apellidos": "BALVERDE",
+      "nombres": "JENNY MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "27XXXX61",
+      "apellidos": "SANCHEZ",
+      "nombres": "ELINA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "22XXXX99",
+      "apellidos": "ANCE",
+      "nombres": "DANIELA CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
