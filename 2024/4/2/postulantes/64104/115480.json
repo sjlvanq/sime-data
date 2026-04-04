@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64104,
+    "padron_id": 115480
+  },
+  "postulantes": [
+    {
+      "orden": 67,
+      "dni": "21XXXX56",
+      "apellidos": "AREVALO",
+      "nombres": "ROXANA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 74,
+      "dni": "27XXXX64",
+      "apellidos": "ACOSTA",
+      "nombres": "ANDREA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 53,
+      "dni": "25XXXX13",
+      "apellidos": "BRITO",
+      "nombres": "MARTA FERNANDA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

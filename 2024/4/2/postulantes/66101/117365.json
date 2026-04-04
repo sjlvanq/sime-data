@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66101,
+    "padron_id": 117365
+  },
+  "postulantes": [
+    {
+      "orden": 59,
+      "dni": "29XXXX41",
+      "apellidos": "TOSCANO",
+      "nombres": "MARGARITA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 67,
+      "dni": "37XXXX84",
+      "apellidos": "DIP",
+      "nombres": "JORGE NICOLAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "37XXXX69",
+      "apellidos": "AGUIRRE",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

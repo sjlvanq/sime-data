@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 65438,
+    "padron_id": 116456
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX59",
+      "apellidos": "GONZALEZ",
+      "nombres": "EDUARDO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "24XXXX70",
+      "apellidos": "PERAL",
+      "nombres": "SUSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX71",
+      "apellidos": "JUAREZ",
+      "nombres": "DANIELA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX24",
+      "apellidos": "MARCOLIN",
+      "nombres": "DANIELA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 65698,
+    "padron_id": 117109
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "33XXXX40",
+      "apellidos": "PEREYRA",
+      "nombres": "IGNACIO JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "38XXXX23",
+      "apellidos": "SALUM ARQUEZ",
+      "nombres": "EZEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX84",
+      "apellidos": "GIMENEZ",
+      "nombres": "ROCIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX11",
+      "apellidos": "ALE",
+      "nombres": "MARIA AURORA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 65432,
+    "padron_id": 116648
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "25XXXX08",
+      "apellidos": "ACOSTA",
+      "nombres": "DANIEL WALTER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX02",
+      "apellidos": "GODOY",
+      "nombres": "HECTOR JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

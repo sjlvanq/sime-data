@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64260,
+    "padron_id": 115013
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "36XXXX60",
+      "apellidos": "MARTINEZ ROBLES",
+      "nombres": "MARIA DEL ROSARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "33XXXX12",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOSE MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

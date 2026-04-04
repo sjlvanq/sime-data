@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 64107,
+    "padron_id": 115476
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "24XXXX76",
+      "apellidos": "NORRY",
+      "nombres": "ARIEL AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 9,
+      "dni": "25XXXX71",
+      "apellidos": "BALDINI",
+      "nombres": "EDUARDO AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 65380,
+    "padron_id": 116301
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX52",
+      "apellidos": "GOMEZ",
+      "nombres": "MONICA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX71",
+      "apellidos": "JUAREZ",
+      "nombres": "DANIELA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

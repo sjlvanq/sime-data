@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65184,
+    "padron_id": 115980
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX02",
+      "apellidos": "AGUILAR",
+      "nombres": "ALDO RODOLFO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "33XXXX70",
+      "apellidos": "ROLDAN FIZ",
+      "nombres": "RUTH MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "30XXXX24",
+      "apellidos": "MARTIN",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

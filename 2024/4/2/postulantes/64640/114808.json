@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 64640,
+    "padron_id": 114808
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "25XXXX65",
+      "apellidos": "PONCE",
+      "nombres": "JORGE DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "18XXXX44",
+      "apellidos": "CORREA",
+      "nombres": "ADRIANA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

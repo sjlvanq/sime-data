@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64123,
+    "padron_id": 114206
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "22XXXX50",
+      "apellidos": "JEREZ",
+      "nombres": "VICTOR JESUS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "27XXXX20",
+      "apellidos": "ALVARADO",
+      "nombres": "EDUARDO HERNAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX11",
+      "apellidos": "ALE",
+      "nombres": "MARIA AURORA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 64607,
+    "padron_id": 115016
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "24XXXX82",
+      "apellidos": "ALARCON",
+      "nombres": "MYRIAN ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "41XXXX25",
+      "apellidos": "GÓMEZ GARNIER",
+      "nombres": "ROCÍO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "33XXXX12",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOSE MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65424,
+    "padron_id": 116543
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX81",
+      "apellidos": "VALENZUELA",
+      "nombres": "GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "20XXXX15",
+      "apellidos": "NAVARRO",
+      "nombres": "SILVANA DELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX68",
+      "apellidos": "JEREZ",
+      "nombres": "EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

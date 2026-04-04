@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65440,
+    "padron_id": 116461
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX36",
+      "apellidos": "DECIMA",
+      "nombres": "JORGE GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "24XXXX70",
+      "apellidos": "PERAL",
+      "nombres": "SUSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "23XXXX40",
+      "apellidos": "PACHECO",
+      "nombres": "NANCY NOEMI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 65027,
+    "padron_id": 115581
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX02",
+      "apellidos": "GIL",
+      "nombres": "NOELIA MARIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

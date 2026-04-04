@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 66138,
+    "padron_id": 117543
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "24XXXX03",
+      "apellidos": "GUZMAN",
+      "nombres": "KARINA SANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "35XXXX11",
+      "apellidos": "ALE",
+      "nombres": "MARIA AURORA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

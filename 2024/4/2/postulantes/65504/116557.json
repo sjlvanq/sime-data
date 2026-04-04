@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65504,
+    "padron_id": 116557
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "35XXXX06",
+      "apellidos": "SALDAÑO",
+      "nombres": "FABIOLA GRISEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "28XXXX32",
+      "apellidos": "MARINO",
+      "nombres": "RODOLFO DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "28XXXX85",
+      "apellidos": "SORAIRE",
+      "nombres": "ADRIANA JULIETA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

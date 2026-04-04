@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 64052,
+    "padron_id": 114716
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "33XXXX68",
+      "apellidos": "GALLARDO",
+      "nombres": "PATRICIA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "27XXXX77",
+      "apellidos": "MIRANDA",
+      "nombres": "GERMAN DARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

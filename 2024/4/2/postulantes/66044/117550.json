@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 66044,
+    "padron_id": 117550
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX20",
+      "apellidos": "NIETO",
+      "nombres": "MARIA SILVIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "20XXXX54",
+      "apellidos": "CRUZ FERNANDEZ",
+      "nombres": "SILVANA MILENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

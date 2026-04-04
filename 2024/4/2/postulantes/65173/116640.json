@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 65173,
+    "padron_id": 116640
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "38XXXX83",
+      "apellidos": "RUIZ",
+      "nombres": "MATIAS FACUNDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX03",
+      "apellidos": "ORTIZ",
+      "nombres": "RITA ROMINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "36XXXX13",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ISIDRO MIGUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "25XXXX66",
+      "apellidos": "BRITO",
+      "nombres": "MIGUEL MARTIN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64136,
+    "padron_id": 116932
+  },
+  "postulantes": [
+    {
+      "orden": 39,
+      "dni": "24XXXX87",
+      "apellidos": "IBRAHIM",
+      "nombres": "MARIELA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 54,
+      "dni": "26XXXX63",
+      "apellidos": "FLORES",
+      "nombres": "JUAN JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 81,
+      "dni": "25XXXX15",
+      "apellidos": "BACHUR",
+      "nombres": "PABLO ABRAHAM",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

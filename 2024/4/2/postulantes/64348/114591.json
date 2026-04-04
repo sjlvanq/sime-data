@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64348,
+    "padron_id": 114591
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "34XXXX52",
+      "apellidos": "SANTILLAN",
+      "nombres": "FERNANDA ELISABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX20",
+      "apellidos": "SANTILLÁN",
+      "nombres": "SILVINA MELISA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "38XXXX48",
+      "apellidos": "OSORES",
+      "nombres": "PAMELA MARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

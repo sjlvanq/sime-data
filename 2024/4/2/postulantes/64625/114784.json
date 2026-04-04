@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 64625,
+    "padron_id": 114784
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX23",
+      "apellidos": "FERREYRA",
+      "nombres": "JULIETA  INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX02",
+      "apellidos": "ROBLES",
+      "nombres": "MARIA LUZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "18XXXX72",
+      "apellidos": "LUCERO ZALESAK",
+      "nombres": "DIEGO LUIS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX60",
+      "apellidos": "MIKAEL MAHMUD",
+      "nombres": "JOSE RICARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

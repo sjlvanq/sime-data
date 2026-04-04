@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 65913,
+    "padron_id": 117691
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX75",
+      "apellidos": "FACCINI",
+      "nombres": "ALEJANDRO MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX84",
+      "apellidos": "NUCCI",
+      "nombres": "PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "17XXXX14",
+      "apellidos": "KUCHUK",
+      "nombres": "HORACIO RAUL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX68",
+      "apellidos": "TORRES MAEMPEL",
+      "nombres": "OTTO JORGE MAXIMILIANO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

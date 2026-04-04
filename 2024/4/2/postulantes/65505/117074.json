@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 65505,
+    "padron_id": 117074
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX05",
+      "apellidos": "ACOSTA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "17XXXX05",
+      "apellidos": "MORALES",
+      "nombres": "JOSE MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

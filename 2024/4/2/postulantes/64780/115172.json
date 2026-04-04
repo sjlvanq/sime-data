@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64780,
+    "padron_id": 115172
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "22XXXX38",
+      "apellidos": "TELLO",
+      "nombres": "LAURA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "38XXXX23",
+      "apellidos": "SALUM ARQUEZ",
+      "nombres": "EZEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX24",
+      "apellidos": "AREDEZ",
+      "nombres": "GABRIELA RUTH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

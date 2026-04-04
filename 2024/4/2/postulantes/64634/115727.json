@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64634,
+    "padron_id": 115727
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "28XXXX19",
+      "apellidos": "VERA",
+      "nombres": "NOELIA VIVIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "27XXXX95",
+      "apellidos": "GARAY",
+      "nombres": "VICTOR OSVALDO EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

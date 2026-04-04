@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 65652,
+    "padron_id": 117106
+  },
+  "postulantes": [
+    {
+      "orden": 36,
+      "dni": "38XXXX23",
+      "apellidos": "SALUM ARQUEZ",
+      "nombres": "EZEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX11",
+      "apellidos": "ALE",
+      "nombres": "MARIA AURORA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

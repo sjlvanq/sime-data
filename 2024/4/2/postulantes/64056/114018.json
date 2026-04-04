@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 64056,
+    "padron_id": 114018
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "22XXXX50",
+      "apellidos": "JEREZ",
+      "nombres": "VICTOR JESUS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX37",
+      "apellidos": "BUCCI",
+      "nombres": "ALFREDO ARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
