@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 52303,
+    "padron_id": 94812
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "25XXXX60",
+      "apellidos": "VACA",
+      "nombres": "CECILIA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "26XXXX58",
+      "apellidos": "CALDERON",
+      "nombres": "MARIA EUGENIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "24XXXX32",
+      "apellidos": "PEDRAZA",
+      "nombres": "LUIS MARCELO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

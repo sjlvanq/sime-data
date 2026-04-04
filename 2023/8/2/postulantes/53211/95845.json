@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 53211,
+    "padron_id": 95845
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX90",
+      "apellidos": "GARCIA",
+      "nombres": "SONIA LUCRECIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX21",
+      "apellidos": "MARCHETTI",
+      "nombres": "GIANINA IRENE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51849,
+    "padron_id": 93550
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "17XXXX32",
+      "apellidos": "FIGUEROA",
+      "nombres": "SEGUNDO FERMIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "23XXXX25",
+      "apellidos": "MEDINA",
+      "nombres": "LUISA ISABEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "26XXXX72",
+      "apellidos": "ORTIZ",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

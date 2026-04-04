@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 54453,
+    "padron_id": 97644
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "27XXXX69",
+      "apellidos": "MAZAER",
+      "nombres": "MARIA CAROLINA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 77,
+      "dni": "23XXXX25",
+      "apellidos": "MEDINA",
+      "nombres": "LUISA ISABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 85,
+      "dni": "25XXXX68",
+      "apellidos": "SEGURA",
+      "nombres": "SERGIO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 38,
+      "dni": "24XXXX78",
+      "apellidos": "DIAZ",
+      "nombres": "ELIZABETH PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

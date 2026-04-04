@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 52124,
+    "padron_id": 93485
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "16XXXX36",
+      "apellidos": "JUAREZ",
+      "nombres": "ALBA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "24XXXX82",
+      "apellidos": "ALARCON",
+      "nombres": "MYRIAN ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "33XXXX99",
+      "apellidos": "ZURITA",
+      "nombres": "SERGIO MANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

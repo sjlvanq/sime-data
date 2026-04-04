@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 52276,
+    "padron_id": 93633
+  },
+  "postulantes": [
+    {
+      "orden": 54,
+      "dni": "38XXXX22",
+      "apellidos": "NAVARRO",
+      "nombres": "JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "18XXXX38",
+      "apellidos": "ATENCIO",
+      "nombres": "CLAUDIA INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "20XXXX49",
+      "apellidos": "TAPIA",
+      "nombres": "HUGO CEFERINO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

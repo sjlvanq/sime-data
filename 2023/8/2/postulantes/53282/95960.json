@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 53282,
+    "padron_id": 95960
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX80",
+      "apellidos": "SAL",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "23XXXX80",
+      "apellidos": "LAZARTE",
+      "nombres": "ROSANA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

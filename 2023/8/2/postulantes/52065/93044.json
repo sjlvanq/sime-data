@@ -1,0 +1,962 @@
+{
+  "metadata": {
+    "vacante_id": 52065,
+    "padron_id": 93044
+  },
+  "postulantes": [
+    {
+      "orden": 199,
+      "dni": "26XXXX87",
+      "apellidos": "VACA",
+      "nombres": "GLORIA VALERIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 203,
+      "dni": "22XXXX18",
+      "apellidos": "ROBLEDO",
+      "nombres": "PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 237,
+      "dni": "25XXXX04",
+      "apellidos": "CALI",
+      "nombres": "PROSPERO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 269,
+      "dni": "38XXXX04",
+      "apellidos": "FERRIN",
+      "nombres": "MARCOS GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 292,
+      "dni": "23XXXX75",
+      "apellidos": "VELEZ",
+      "nombres": "MONICA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 293,
+      "dni": "29XXXX05",
+      "apellidos": "ANDRES",
+      "nombres": "DAVID CESAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 308,
+      "dni": "31XXXX27",
+      "apellidos": "DELGADO",
+      "nombres": "LORENA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 329,
+      "dni": "36XXXX35",
+      "apellidos": "LOZANO",
+      "nombres": "ROSA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 364,
+      "dni": "29XXXX24",
+      "apellidos": "ROLDAN",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 398,
+      "dni": "36XXXX83",
+      "apellidos": "ROLDAN",
+      "nombres": "NICOLAS ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 482,
+      "dni": "25XXXX47",
+      "apellidos": "SOSA",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 483,
+      "dni": "35XXXX67",
+      "apellidos": "JUAREZ",
+      "nombres": "CATHERINE DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 493,
+      "dni": "32XXXX97",
+      "apellidos": "FERNANDEZ",
+      "nombres": "MARIO EZEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 522,
+      "dni": "36XXXX83",
+      "apellidos": "PAZ",
+      "nombres": "RITA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 540,
+      "dni": "33XXXX58",
+      "apellidos": "ACUÑA",
+      "nombres": "MARIA ROMINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 568,
+      "dni": "29XXXX04",
+      "apellidos": "GOMEZ",
+      "nombres": "CECILIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 580,
+      "dni": "36XXXX49",
+      "apellidos": "PLAATE",
+      "nombres": "GISELLE VANESSA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 659,
+      "dni": "38XXXX94",
+      "apellidos": "CASTRO",
+      "nombres": "NADIA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 671,
+      "dni": "31XXXX02",
+      "apellidos": "MAIHUB",
+      "nombres": "MIRTA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 679,
+      "dni": "25XXXX31",
+      "apellidos": "AGUIRRE ",
+      "nombres": "SONIA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 682,
+      "dni": "37XXXX18",
+      "apellidos": "MOYANO",
+      "nombres": "NORA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 713,
+      "dni": "24XXXX67",
+      "apellidos": "MORENO",
+      "nombres": "ELENA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 716,
+      "dni": "26XXXX29",
+      "apellidos": "ROSALES",
+      "nombres": "PAOLA GUADALUPE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 731,
+      "dni": "32XXXX14",
+      "apellidos": "SERRANO",
+      "nombres": "SARA MARCELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 742,
+      "dni": "34XXXX11",
+      "apellidos": "ROMANO",
+      "nombres": "MARINA LUZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 745,
+      "dni": "28XXXX79",
+      "apellidos": "MARIN",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 810,
+      "dni": "27XXXX19",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ALEJANDRA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 827,
+      "dni": "26XXXX33",
+      "apellidos": "SOLORZANO",
+      "nombres": "LEONARDO DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 829,
+      "dni": "39XXXX45",
+      "apellidos": "JUAREZ",
+      "nombres": "MICAELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 835,
+      "dni": "29XXXX90",
+      "apellidos": "ARRIETA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 894,
+      "dni": "34XXXX13",
+      "apellidos": "SILVA",
+      "nombres": "ANAHI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 907,
+      "dni": "33XXXX63",
+      "apellidos": "ALDERETE",
+      "nombres": "MARIA ISABEL DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 926,
+      "dni": "38XXXX79",
+      "apellidos": "MALDONADO",
+      "nombres": "MARÍA BELÉN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 929,
+      "dni": "27XXXX57",
+      "apellidos": "PAEZ",
+      "nombres": "JOSÉ ANTONIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 956,
+      "dni": "37XXXX03",
+      "apellidos": "VARELA",
+      "nombres": "CYNTHIA ANTONELLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 982,
+      "dni": "29XXXX88",
+      "apellidos": "ESPECHE",
+      "nombres": "MARTIN ANTONIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1031,
+      "dni": "35XXXX22",
+      "apellidos": "SANCHEZ",
+      "nombres": "DIEGO EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1050,
+      "dni": "32XXXX23",
+      "apellidos": "ABREGU",
+      "nombres": "NOELIA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1057,
+      "dni": "37XXXX59",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA MICAELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1060,
+      "dni": "25XXXX09",
+      "apellidos": "ELGUERO",
+      "nombres": "JOSEFINA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1092,
+      "dni": "38XXXX43",
+      "apellidos": "LEAL VILLANUEVA",
+      "nombres": "NADIA VANESA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1153,
+      "dni": "34XXXX93",
+      "apellidos": "AGRAMUNT",
+      "nombres": "MARIA GIANNINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1245,
+      "dni": "28XXXX57",
+      "apellidos": "DIAZ",
+      "nombres": "CELINA CAROLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1343,
+      "dni": "31XXXX66",
+      "apellidos": "SANTILLAN",
+      "nombres": "GRACIELA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1351,
+      "dni": "36XXXX49",
+      "apellidos": "ESPINOSA",
+      "nombres": "CECILIA RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1419,
+      "dni": "32XXXX53",
+      "apellidos": "PACHAO",
+      "nombres": "MARIA LUISA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1421,
+      "dni": "29XXXX23",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1426,
+      "dni": "26XXXX74",
+      "apellidos": "VARGAS",
+      "nombres": "CESAR ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1469,
+      "dni": "37XXXX52",
+      "apellidos": "NIETO                                   ",
+      "nombres": "AIMÉ LEONOR                             ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1494,
+      "dni": "30XXXX90",
+      "apellidos": "GARCIA",
+      "nombres": "SONIA LUCRECIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1499,
+      "dni": "36XXXX17",
+      "apellidos": "SORANE",
+      "nombres": "LUCIA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1499,
+      "dni": "36XXXX17",
+      "apellidos": "SORANE",
+      "nombres": "LUCIA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1509,
+      "dni": "33XXXX06",
+      "apellidos": "MEDINA",
+      "nombres": "ANALÍA CONSTANZA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1511,
+      "dni": "26XXXX26",
+      "apellidos": "CAJAL",
+      "nombres": "GABRIELA SILVINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1517,
+      "dni": "34XXXX63",
+      "apellidos": "ALBERTI",
+      "nombres": "PEDRO NICOLAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1529,
+      "dni": "35XXXX23",
+      "apellidos": "ESCALANTE",
+      "nombres": "NADIA ROMINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1555,
+      "dni": "29XXXX22",
+      "apellidos": "GIACOBBE",
+      "nombres": "MIGUEL ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1567,
+      "dni": "41XXXX63",
+      "apellidos": "GARCÍA",
+      "nombres": "STEFANÍA NAIR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1589,
+      "dni": "33XXXX48",
+      "apellidos": "ARANDA",
+      "nombres": "MARTA EMILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1611,
+      "dni": "41XXXX11",
+      "apellidos": "BRANDAN",
+      "nombres": "JENIFER MICAELA DAIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1653,
+      "dni": "35XXXX40",
+      "apellidos": "JIMENEZ",
+      "nombres": "MAYRA GISELL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1769,
+      "dni": "33XXXX95",
+      "apellidos": "VACA NAVARRO",
+      "nombres": "MARIA VICTORIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 433,
+      "dni": "36XXXX44",
+      "apellidos": "SIR",
+      "nombres": "ANA FLORENCIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 614,
+      "dni": "39XXXX11",
+      "apellidos": "ROBLEDO VARELA",
+      "nombres": "ANDREA BIANCA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 615,
+      "dni": "28XXXX02",
+      "apellidos": "MARTINEZ CARDOZO",
+      "nombres": "MARIA AMALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 711,
+      "dni": "39XXXX98",
+      "apellidos": "BRIZUELA",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 770,
+      "dni": "35XXXX84",
+      "apellidos": "RUIZ",
+      "nombres": "SILVINA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1004,
+      "dni": "37XXXX76",
+      "apellidos": "VAQUERO",
+      "nombres": "MARIA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1070,
+      "dni": "28XXXX27",
+      "apellidos": "GONZALEZ",
+      "nombres": "CECILIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1209,
+      "dni": "35XXXX38",
+      "apellidos": "SORIA",
+      "nombres": "DEBORA YANET",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1267,
+      "dni": "38XXXX17",
+      "apellidos": "VEGA",
+      "nombres": "ROBERTO RAMON",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1279,
+      "dni": "30XXXX76",
+      "apellidos": "CECANTI",
+      "nombres": "NOELIA ETELVINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1288,
+      "dni": "25XXXX54",
+      "apellidos": "SUAREZ",
+      "nombres": "CRISTINA NOEMI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1306,
+      "dni": "35XXXX02",
+      "apellidos": "HALÍ",
+      "nombres": "ROMINA NAIR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1320,
+      "dni": "37XXXX87",
+      "apellidos": "ROMANO",
+      "nombres": "ESTEBAN ARMANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1353,
+      "dni": "33XXXX09",
+      "apellidos": "OSORES",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1390,
+      "dni": "38XXXX20",
+      "apellidos": "RUBINI ZAMORA",
+      "nombres": "PAULA ADRIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1400,
+      "dni": "37XXXX97",
+      "apellidos": "GIMENEZ ORTIZ",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1468,
+      "dni": "38XXXX86",
+      "apellidos": "GALLARDO",
+      "nombres": "MARIA LUISA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1499,
+      "dni": "35XXXX03",
+      "apellidos": "LESCANO",
+      "nombres": "MARIANELA DAIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1514,
+      "dni": "28XXXX12",
+      "apellidos": "GONZÁLEZ",
+      "nombres": "PATRICIA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1582,
+      "dni": "27XXXX98",
+      "apellidos": "LESCANO",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1584,
+      "dni": "38XXXX87",
+      "apellidos": "LOBO",
+      "nombres": "ELIANA MABEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1597,
+      "dni": "37XXXX75",
+      "apellidos": "ALBARRACIN",
+      "nombres": "SILVIA DAIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1675,
+      "dni": "29XXXX86",
+      "apellidos": "GONZALEZ ALVAREZ",
+      "nombres": "VALERIA ELINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1717,
+      "dni": "24XXXX28",
+      "apellidos": "FARACI",
+      "nombres": "EDUARDO ADRIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1730,
+      "dni": "35XXXX55",
+      "apellidos": "GIMENEZ ARROYO",
+      "nombres": "IVANA GISELLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1889,
+      "dni": "36XXXX63",
+      "apellidos": "VIDAL",
+      "nombres": "DAVID CECILIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1906,
+      "dni": "27XXXX19",
+      "apellidos": "PALLARES",
+      "nombres": "ELIANA CORINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1916,
+      "dni": "13XXXX83",
+      "apellidos": "RIVAS",
+      "nombres": "ROBERTO MARCOS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1930,
+      "dni": "30XXXX97",
+      "apellidos": "MENDOZA",
+      "nombres": "MARÍA BELÉN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1939,
+      "dni": "34XXXX33",
+      "apellidos": "GOMEZ",
+      "nombres": "ROMINA VANESA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1974,
+      "dni": "33XXXX43",
+      "apellidos": "ARRIETA",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1996,
+      "dni": "37XXXX22",
+      "apellidos": "CANO",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2048,
+      "dni": "36XXXX93",
+      "apellidos": "URUEÑA AVILA",
+      "nombres": "EMANUEL ERASMO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2132,
+      "dni": "41XXXX99",
+      "apellidos": "SANCHEZ",
+      "nombres": "NOELIA PRISCILA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2178,
+      "dni": "37XXXX56",
+      "apellidos": "RUIZ ",
+      "nombres": "DEBORAH MARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2329,
+      "dni": "33XXXX39",
+      "apellidos": "UMANA",
+      "nombres": "ANGEL CARLOS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2331,
+      "dni": "31XXXX14",
+      "apellidos": "JIMENEZ",
+      "nombres": "BLANCA PAMELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2583,
+      "dni": "38XXXX38",
+      "apellidos": "GOMEZ",
+      "nombres": "LUCIANA BELEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2628,
+      "dni": "33XXXX39",
+      "apellidos": "GONZALEZ",
+      "nombres": "JUAN FABRICIO RAMIRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2630,
+      "dni": "31XXXX81",
+      "apellidos": "GADEA",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2665,
+      "dni": "31XXXX23",
+      "apellidos": "LUPI SERRES",
+      "nombres": "SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2736,
+      "dni": "34XXXX30",
+      "apellidos": "PÉREZ",
+      "nombres": "MÓNICA VIVIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2748,
+      "dni": "32XXXX02",
+      "apellidos": "COSTILLA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2758,
+      "dni": "27XXXX81",
+      "apellidos": "GOMEZ PARICCE",
+      "nombres": "ALEJANDRA FATIMA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

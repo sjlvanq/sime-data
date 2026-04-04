@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51422,
+    "padron_id": 93229
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "20XXXX82",
+      "apellidos": "ALE",
+      "nombres": "SELMA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "32XXXX14",
+      "apellidos": "PEREZ",
+      "nombres": "LORENA VALERIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "18XXXX51",
+      "apellidos": "VIDAL",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 53677,
+    "padron_id": 95594
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "17XXXX97",
+      "apellidos": "NAVARRO",
+      "nombres": "JORGE DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 52,
+      "dni": "26XXXX04",
+      "apellidos": "HERRERA",
+      "nombres": "JESUS MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 53,
+      "dni": "23XXXX48",
+      "apellidos": "ARAOZ",
+      "nombres": "ESTELA PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

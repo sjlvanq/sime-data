@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51953,
+    "padron_id": 92908
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "35XXXX28",
+      "apellidos": "LOBO",
+      "nombres": "JESUS LUIS RODRIGO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "38XXXX82",
+      "apellidos": "BRITO",
+      "nombres": "CINTHIA JOHANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "24XXXX96",
+      "apellidos": "LEDESMA",
+      "nombres": "MARCOS ANTONIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

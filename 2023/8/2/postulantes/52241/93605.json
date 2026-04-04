@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 52241,
+    "padron_id": 93605
+  },
+  "postulantes": [
+    {
+      "orden": 48,
+      "dni": "36XXXX06",
+      "apellidos": "DIAZ",
+      "nombres": "EMILSE REBECA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 56,
+      "dni": "22XXXX30",
+      "apellidos": "DEPAOLI",
+      "nombres": "GABRIELA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

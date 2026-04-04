@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 53148,
+    "padron_id": 95826
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "38XXXX91",
+      "apellidos": "DELGADO",
+      "nombres": "ROCIO IRENE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "18XXXX51",
+      "apellidos": "ITURRE RIVERA",
+      "nombres": "OSCAR MANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "28XXXX92",
+      "apellidos": "GUTIERREZ",
+      "nombres": "RAUL SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

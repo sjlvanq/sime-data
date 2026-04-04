@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 53855,
+    "padron_id": 96024
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "20XXXX45",
+      "apellidos": "GUARAZ",
+      "nombres": "LILIANA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "26XXXX72",
+      "apellidos": "ORTIZ",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 51854,
+    "padron_id": 92741
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "14XXXX19",
+      "apellidos": "CACERES",
+      "nombres": "NELIDA ELENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "34XXXX17",
+      "apellidos": "DIAZ",
+      "nombres": "ISAIAS DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX29",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "CARLOS MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "18XXXX38",
+      "apellidos": "ATENCIO",
+      "nombres": "CLAUDIA INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

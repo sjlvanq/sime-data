@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 53674,
+    "padron_id": 95580
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "17XXXX97",
+      "apellidos": "NAVARRO",
+      "nombres": "JORGE DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 90,
+      "dni": "23XXXX20",
+      "apellidos": "CORTEZ",
+      "nombres": "ANALIA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 42599,
+    "padron_id": 96710
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "32XXXX35",
+      "apellidos": "ZELARAYAN",
+      "nombres": "SILVIA VALERIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "36XXXX38",
+      "apellidos": "CORONEL",
+      "nombres": "GENESIS DAIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "30XXXX24",
+      "apellidos": "LUNA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX86",
+      "apellidos": "ORDOÑEZ",
+      "nombres": "MARGARITA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "25XXXX50",
+      "apellidos": "ARROYO COSTA",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

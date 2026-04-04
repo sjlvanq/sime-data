@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 52309,
+    "padron_id": 93958
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "28XXXX85",
+      "apellidos": "SORAIRE",
+      "nombres": "ADRIANA JULIETA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "37XXXX03",
+      "apellidos": "PERERA",
+      "nombres": "JORGE ALEJANDRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

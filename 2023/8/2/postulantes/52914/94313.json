@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 52914,
+    "padron_id": 94313
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "22XXXX05",
+      "apellidos": "ZEBALLO",
+      "nombres": "MERCEDES RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "27XXXX12",
+      "apellidos": "CACERES",
+      "nombres": "CRISTIAN ANDRES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "32XXXX55",
+      "apellidos": "IBRAIM",
+      "nombres": "MARIA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

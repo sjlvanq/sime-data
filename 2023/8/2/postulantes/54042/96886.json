@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 54042,
+    "padron_id": 96886
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "27XXXX63",
+      "apellidos": "APAZA",
+      "nombres": "HILDA GRISELDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "37XXXX03",
+      "apellidos": "PERERA",
+      "nombres": "JORGE ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "27XXXX12",
+      "apellidos": "CACERES",
+      "nombres": "CRISTIAN ANDRES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

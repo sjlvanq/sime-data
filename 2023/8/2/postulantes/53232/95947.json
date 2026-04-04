@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 53232,
+    "padron_id": 95947
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "25XXXX78",
+      "apellidos": "TEMISE",
+      "nombres": "NANCY SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "39XXXX43",
+      "apellidos": "GARCÍA",
+      "nombres": "ROCÍO DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "23XXXX23",
+      "apellidos": "MELIAN                                  ",
+      "nombres": "VIVIANA ELIZABETH                       ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 53998,
+    "padron_id": 96935
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "27XXXX20",
+      "apellidos": "ALVARADO",
+      "nombres": "EDUARDO HERNAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "24XXXX04",
+      "apellidos": "CALDELARI",
+      "nombres": "MARÍA JOAQUINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "38XXXX23",
+      "apellidos": "SALUM ARQUEZ",
+      "nombres": "EZEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 54121,
+    "padron_id": 97236
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX63",
+      "apellidos": "YSAYA",
+      "nombres": "DAVID CESAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "21XXXX85",
+      "apellidos": "VILLARREAL",
+      "nombres": "ENRIQUETA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "20XXXX22",
+      "apellidos": "ONTIVERO",
+      "nombres": "MYRIAM FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

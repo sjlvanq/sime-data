@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 45636,
+    "padron_id": 92599
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "35XXXX87",
+      "apellidos": "ASIS",
+      "nombres": "PAOLA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "36XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "LUCAS MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "33XXXX35",
+      "apellidos": "ROQUÉ",
+      "nombres": "YESSICA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "31XXXX42",
+      "apellidos": "MARTINEZ",
+      "nombres": "KARINA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "30XXXX38",
+      "apellidos": "COLQUE",
+      "nombres": "GASTON EMANUEL ANTONIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

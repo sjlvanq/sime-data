@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 52274,
+    "padron_id": 93640
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "35XXXX42",
+      "apellidos": "FRÍAS",
+      "nombres": "ELIANA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "34XXXX17",
+      "apellidos": "DIAZ",
+      "nombres": "ISAIAS DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX36",
+      "apellidos": "JIMENEZ",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "30XXXX20",
+      "apellidos": "MAMANI",
+      "nombres": "MARIANO RAMON",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "14XXXX34",
+      "apellidos": "CISNEROS",
+      "nombres": "RUBEN PABLO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

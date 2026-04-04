@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 52011,
+    "padron_id": 93101
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "37XXXX98",
+      "apellidos": "GANI",
+      "nombres": "JUAN AGUSTÍN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "33XXXX40",
+      "apellidos": "PEREYRA",
+      "nombres": "IGNACIO JAVIER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "38XXXX23",
+      "apellidos": "SALUM ARQUEZ",
+      "nombres": "EZEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
