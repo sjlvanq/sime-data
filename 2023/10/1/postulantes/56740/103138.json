@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 56740,
+    "padron_id": 103138
+  },
+  "postulantes": [
+    {
+      "orden": 48,
+      "dni": "30XXXX69",
+      "apellidos": "VIDAURRE VEQUI",
+      "nombres": "GASTON FABRICIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 73,
+      "dni": "41XXXX77",
+      "apellidos": "SORIA",
+      "nombres": "FRANCISCO NORBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "41XXXX76",
+      "apellidos": "SORIA",
+      "nombres": "VIRGINIA ANALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "39XXXX06",
+      "apellidos": "PEREA",
+      "nombres": "FACUNDO NICOLAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

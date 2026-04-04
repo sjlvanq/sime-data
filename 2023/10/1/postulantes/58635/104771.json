@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 58635,
+    "padron_id": 104771
+  },
+  "postulantes": [
+    {
+      "orden": 57,
+      "dni": "20XXXX18",
+      "apellidos": "TULA",
+      "nombres": "SONIA FABIANA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "18XXXX21",
+      "apellidos": "GUZMAN",
+      "nombres": "NORMA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 193,
+      "dni": "22XXXX18",
+      "apellidos": "SANCHEZ",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

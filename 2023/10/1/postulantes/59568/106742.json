@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 59568,
+    "padron_id": 106742
+  },
+  "postulantes": [
+    {
+      "orden": 117,
+      "dni": "21XXXX56",
+      "apellidos": "FIGUEROA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "20XXXX18",
+      "apellidos": "TULA",
+      "nombres": "SONIA FABIANA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

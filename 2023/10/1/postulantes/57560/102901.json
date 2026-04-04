@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 57560,
+    "padron_id": 102901
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "40XXXX66",
+      "apellidos": "NIEVA",
+      "nombres": "SOFIA DEL MILAGRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "32XXXX87",
+      "apellidos": "CONDE",
+      "nombres": "CARLOS JOSE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

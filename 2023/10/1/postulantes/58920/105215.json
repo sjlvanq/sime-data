@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 58920,
+    "padron_id": 105215
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "34XXXX12",
+      "apellidos": "CORDOBA",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "39XXXX49",
+      "apellidos": "SCHETTINI",
+      "nombres": "FACUNDO NICOLAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

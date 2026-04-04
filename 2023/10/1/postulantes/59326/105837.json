@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 59326,
+    "padron_id": 105837
+  },
+  "postulantes": [
+    {
+      "orden": 95,
+      "dni": "22XXXX53",
+      "apellidos": "CAMPOS",
+      "nombres": "ANGELA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 201,
+      "dni": "22XXXX55",
+      "apellidos": "ROMANO                                  ",
+      "nombres": "LILIA PAOLA KARINA                      ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "34XXXX34",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "RITA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

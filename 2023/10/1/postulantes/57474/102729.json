@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57474,
+    "padron_id": 102729
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "30XXXX65",
+      "apellidos": "ROLDAN",
+      "nombres": "NICOLAS ALEJANDRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "39XXXX79",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARIEL ELEONORA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "38XXXX92",
+      "apellidos": "SOSA",
+      "nombres": "SANTIAGO MIGUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

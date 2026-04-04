@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57504,
+    "padron_id": 102703
+  },
+  "postulantes": [
+    {
+      "orden": 742,
+      "dni": "26XXXX66",
+      "apellidos": "ESCOBAR",
+      "nombres": "VALERIA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1012,
+      "dni": "23XXXX46",
+      "apellidos": "HERRERA",
+      "nombres": "MARIA LUJAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1386,
+      "dni": "38XXXX03",
+      "apellidos": "TEJADA",
+      "nombres": "KATHERINE MARIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

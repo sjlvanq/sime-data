@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 57617,
+    "padron_id": 102841
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX29",
+      "apellidos": "VALDES",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX89",
+      "apellidos": "MENEGUZZI",
+      "nombres": "ABIGAIL ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "30XXXX27",
+      "apellidos": "ORTIZ",
+      "nombres": "CELIA GABRIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "26XXXX01",
+      "apellidos": "GARCIA ",
+      "nombres": "MIGUEL ANGEL JESÚS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

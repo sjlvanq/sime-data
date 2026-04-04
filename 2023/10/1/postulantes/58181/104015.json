@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 58181,
+    "padron_id": 104015
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 154,
+      "dni": "30XXXX97",
+      "apellidos": "ACUÑA",
+      "nombres": "PATRICIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "23XXXX65",
+      "apellidos": "GOMEZ",
+      "nombres": "NATALIA JESUS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
