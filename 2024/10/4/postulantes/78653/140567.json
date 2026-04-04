@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 78653,
+    "padron_id": 140567
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX08",
+      "apellidos": "AVILA",
+      "nombres": "CLAUDIO GUSTAVO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX06",
+      "apellidos": "NARVAJA",
+      "nombres": "PABLO JOSE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX81",
+      "apellidos": "MORENO",
+      "nombres": "MATIAS FERNANDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 79021,
+    "padron_id": 140327
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "31XXXX08",
+      "apellidos": "NAVARRO",
+      "nombres": "LEONOR ELENA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "33XXXX43",
+      "apellidos": "ARRIETA",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "28XXXX71",
+      "apellidos": "DÍAZ",
+      "nombres": "SILVIA ELENA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
