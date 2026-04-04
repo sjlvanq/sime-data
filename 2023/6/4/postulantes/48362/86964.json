@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 48362,
+    "padron_id": 86964
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX54",
+      "apellidos": "FIGUEROA",
+      "nombres": "PEDRO ALBERTO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX82",
+      "apellidos": "NUÑEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "23XXXX15",
+      "apellidos": "FERNANDEZ PASCUAL",
+      "nombres": "LUIS FELIPE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX51",
+      "apellidos": "HEREDIA",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
