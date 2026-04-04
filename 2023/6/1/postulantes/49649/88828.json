@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 49649,
+    "padron_id": 88828
+  },
+  "postulantes": [
+    {
+      "orden": 59,
+      "dni": "28XXXX66",
+      "apellidos": "ZELARAYAN",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "25XXXX19",
+      "apellidos": "VIERA SOSA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 56,
+      "dni": "17XXXX71",
+      "apellidos": "DAJIR",
+      "nombres": "MARTA FATIMA LILIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

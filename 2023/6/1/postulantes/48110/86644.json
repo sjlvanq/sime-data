@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 48110,
+    "padron_id": 86644
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "29XXXX68",
+      "apellidos": "LUNA",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "30XXXX93",
+      "apellidos": "JUAREZ",
+      "nombres": "DORA EDITH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "20XXXX52",
+      "apellidos": "VEGA",
+      "nombres": "MYRIAM ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "35XXXX01",
+      "apellidos": "MARTINEZ",
+      "nombres": "LAURA VIVIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

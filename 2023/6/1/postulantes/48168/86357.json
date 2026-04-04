@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48168,
+    "padron_id": 86357
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "39XXXX27",
+      "apellidos": "FLORES HERNANDEZ",
+      "nombres": "CLAUDIA ANABELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "24XXXX35",
+      "apellidos": "VEGA",
+      "nombres": "MARIA LUZ DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "40XXXX59",
+      "apellidos": "OLEA",
+      "nombres": "MARCELA YUDY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

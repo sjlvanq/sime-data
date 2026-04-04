@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 46983,
+    "padron_id": 84551
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "28XXXX26",
+      "apellidos": "GOMEZ",
+      "nombres": "EDGAR ROLAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "39XXXX15",
+      "apellidos": "ROSSINI",
+      "nombres": "CARLA LUCIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 102,
+      "dni": "39XXXX55",
+      "apellidos": "TORRES",
+      "nombres": "HUGO EMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

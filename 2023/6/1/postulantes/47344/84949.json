@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 47344,
+    "padron_id": 84949
+  },
+  "postulantes": [
+    {
+      "orden": 96,
+      "dni": "24XXXX76",
+      "apellidos": "CAJAL",
+      "nombres": "NORMA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 86,
+      "dni": "25XXXX24",
+      "apellidos": "MIRANDA",
+      "nombres": "PATRICIA INES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 135,
+      "dni": "22XXXX04",
+      "apellidos": "JEREZ",
+      "nombres": "ANA MARCELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

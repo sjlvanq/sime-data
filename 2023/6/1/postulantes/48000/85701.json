@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 48000,
+    "padron_id": 85701
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "35XXXX45",
+      "apellidos": "VARGAS",
+      "nombres": "KAREN ANALIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "30XXXX60",
+      "apellidos": "JUAREZ",
+      "nombres": "GABRIEL FERNANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

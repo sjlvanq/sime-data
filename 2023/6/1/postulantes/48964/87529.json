@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48964,
+    "padron_id": 87529
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX86",
+      "apellidos": "PEREZ",
+      "nombres": "PAOLA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "21XXXX11",
+      "apellidos": "OJEDA",
+      "nombres": "NORA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "27XXXX27",
+      "apellidos": "ANGEL",
+      "nombres": "PRISCILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

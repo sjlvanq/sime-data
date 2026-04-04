@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 49954,
+    "padron_id": 88949
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "37XXXX37",
+      "apellidos": "CEJAS",
+      "nombres": "LEANDRO IVAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX30",
+      "apellidos": "ESCALANTE",
+      "nombres": "DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

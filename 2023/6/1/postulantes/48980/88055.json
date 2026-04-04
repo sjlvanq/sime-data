@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48980,
+    "padron_id": 88055
+  },
+  "postulantes": [
+    {
+      "orden": 497,
+      "dni": "38XXXX30",
+      "apellidos": "FLORES",
+      "nombres": "RITA NOEMÍ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 587,
+      "dni": "38XXXX75",
+      "apellidos": "CRUZ",
+      "nombres": "NOELIA ADRIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 56,
+      "dni": "27XXXX04",
+      "apellidos": "PÉREZ",
+      "nombres": "MARÍA BELÉN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

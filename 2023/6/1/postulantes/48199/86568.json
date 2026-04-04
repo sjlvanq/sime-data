@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48199,
+    "padron_id": 86568
+  },
+  "postulantes": [
+    {
+      "orden": 635,
+      "dni": "37XXXX45",
+      "apellidos": "JUAREZ",
+      "nombres": "ELIANA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 867,
+      "dni": "27XXXX16",
+      "apellidos": "QUINTERO",
+      "nombres": "MARIA FANNY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 525,
+      "dni": "20XXXX53",
+      "apellidos": "ALMARAZ",
+      "nombres": "SANDRA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

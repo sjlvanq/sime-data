@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48532,
+    "padron_id": 86793
+  },
+  "postulantes": [
+    {
+      "orden": 801,
+      "dni": "38XXXX90",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 867,
+      "dni": "27XXXX16",
+      "apellidos": "QUINTERO",
+      "nombres": "MARIA FANNY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 525,
+      "dni": "20XXXX53",
+      "apellidos": "ALMARAZ",
+      "nombres": "SANDRA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

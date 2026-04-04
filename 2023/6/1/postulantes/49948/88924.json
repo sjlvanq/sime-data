@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 49948,
+    "padron_id": 88924
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "28XXXX54",
+      "apellidos": "PEREZ",
+      "nombres": "DANIEL GUSTAVO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "26XXXX01",
+      "apellidos": "GARCIA ",
+      "nombres": "MIGUEL ANGEL JESÚS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "34XXXX72",
+      "apellidos": "BARRIENTOS NORRY",
+      "nombres": "FLORENCIA SOLANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

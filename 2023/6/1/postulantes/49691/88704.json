@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 49691,
+    "padron_id": 88704
+  },
+  "postulantes": [
+    {
+      "orden": 87,
+      "dni": "25XXXX24",
+      "apellidos": "FRIAS",
+      "nombres": "NANCY MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 134,
+      "dni": "18XXXX85",
+      "apellidos": "FERNANDEZ",
+      "nombres": "MABEL DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

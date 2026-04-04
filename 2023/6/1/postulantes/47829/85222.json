@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 47829,
+    "padron_id": 85222
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "37XXXX65",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "ENZO HECTOR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "41XXXX76",
+      "apellidos": "SORIA",
+      "nombres": "VIRGINIA ANALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 97,
+      "dni": "38XXXX71",
+      "apellidos": "LIZÁRRAGA",
+      "nombres": "LUCÍA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

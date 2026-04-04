@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 47265,
+    "padron_id": 85694
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "23XXXX86",
+      "apellidos": "TOLEDO",
+      "nombres": "MARCOS LEONARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX90",
+      "apellidos": "DIAZ GAITAN",
+      "nombres": "MARIA NAZARETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 47898,
+    "padron_id": 85617
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX64",
+      "apellidos": "ACOSTA",
+      "nombres": "NADIA ANABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "36XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "LUCAS MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "37XXXX79",
+      "apellidos": "ZORRILLA HOYOS",
+      "nombres": "YANET MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 48647,
+    "padron_id": 87034
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "38XXXX69",
+      "apellidos": "MILIOTO",
+      "nombres": "MARIA ALFONSINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 112,
+      "dni": "33XXXX73",
+      "apellidos": "MEMA",
+      "nombres": "SANTIAGO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 124,
+      "dni": "41XXXX73",
+      "apellidos": "ORONA",
+      "nombres": "PAMELA AGOSTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "37XXXX36",
+      "apellidos": "PARRA PASCOAL",
+      "nombres": "REBECA VICTORIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

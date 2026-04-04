@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48179,
+    "padron_id": 86608
+  },
+  "postulantes": [
+    {
+      "orden": 153,
+      "dni": "26XXXX65",
+      "apellidos": "BELLIDO",
+      "nombres": "ALEJANDRA KARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 201,
+      "dni": "22XXXX55",
+      "apellidos": "ROMANO                                  ",
+      "nombres": "LILIA PAOLA KARINA                      ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 120,
+      "dni": "17XXXX02",
+      "apellidos": "DIAZ SIERRA",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

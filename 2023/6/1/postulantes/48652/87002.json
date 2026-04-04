@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 48652,
+    "padron_id": 87002
+  },
+  "postulantes": [
+    {
+      "orden": 655,
+      "dni": "20XXXX53",
+      "apellidos": "ALMARAZ",
+      "nombres": "SANDRA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 721,
+      "dni": "37XXXX56",
+      "apellidos": "CORREA",
+      "nombres": "JOHANA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 913,
+      "dni": "27XXXX50",
+      "apellidos": "ARMENDIA",
+      "nombres": "ANGELA MARCELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 980,
+      "dni": "17XXXX55",
+      "apellidos": "TORRES",
+      "nombres": "ALICIA NOEMI",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 47631,
+    "padron_id": 85053
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "18XXXX19",
+      "apellidos": "AGÜERO",
+      "nombres": "PATRICIA MONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "25XXXX19",
+      "apellidos": "VIERA SOSA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 188,
+      "dni": "22XXXX81",
+      "apellidos": "CAJAL",
+      "nombres": "MYRIAM ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 192,
+      "dni": "24XXXX61",
+      "apellidos": "CHAVEZ",
+      "nombres": "PETRONA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

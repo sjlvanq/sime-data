@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 50210,
+    "padron_id": 89368
+  },
+  "postulantes": [
+    {
+      "orden": 124,
+      "dni": "20XXXX82",
+      "apellidos": "AMENTTA",
+      "nombres": "MONICA ESTELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 110,
+      "dni": "30XXXX28",
+      "apellidos": "SANDILLI",
+      "nombres": "NOELIA FABIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

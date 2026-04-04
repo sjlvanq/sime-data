@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50212,
+    "padron_id": 89362
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "26XXXX05",
+      "apellidos": "ROLDAN",
+      "nombres": "NELIDA ADRIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 373,
+      "dni": "26XXXX75",
+      "apellidos": "LEDESMA",
+      "nombres": "GRISELDA LUJAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 809,
+      "dni": "34XXXX83",
+      "apellidos": "VALDIVIA",
+      "nombres": "BARBARA VANESA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
