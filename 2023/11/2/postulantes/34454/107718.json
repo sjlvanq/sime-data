@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 34454,
+    "padron_id": 107718
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "29XXXX13",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA ESTER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "37XXXX85",
+      "apellidos": "RUIZ",
+      "nombres": "ISMAEL ISAIAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "36XXXX67",
+      "apellidos": "SALAZAR",
+      "nombres": "ARGENTINA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "37XXXX85",
+      "apellidos": "FUENZALIDA",
+      "nombres": "MARCELA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "38XXXX39",
+      "apellidos": "BUSTAMANTE",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 61709,
+    "padron_id": 109856
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX71",
+      "apellidos": "CORREA",
+      "nombres": "MIRIAM DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX76",
+      "apellidos": "CRUZ",
+      "nombres": "FERNANDO ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "17XXXX05",
+      "apellidos": "ROGELIO",
+      "nombres": "MANUEL RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

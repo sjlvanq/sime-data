@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 60308,
+    "padron_id": 107742
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "35XXXX44",
+      "apellidos": "ARROYO",
+      "nombres": "ALICIA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "36XXXX06",
+      "apellidos": "DIAZ",
+      "nombres": "EMILSE REBECA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

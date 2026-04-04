@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 60903,
+    "padron_id": 108506
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "36XXXX54",
+      "apellidos": "MAHMUD",
+      "nombres": "MARIANO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "41XXXX98",
+      "apellidos": "RUIZ",
+      "nombres": "ISMAEL HERNAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "35XXXX19",
+      "apellidos": "MOLINA",
+      "nombres": "RODRIGO JESUS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

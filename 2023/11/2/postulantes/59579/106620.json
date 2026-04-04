@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 59579,
+    "padron_id": 106620
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX43",
+      "apellidos": "CAMBULE",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "33XXXX46",
+      "apellidos": "RUIZ",
+      "nombres": "SILVIA LILIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "24XXXX19",
+      "apellidos": "GONZALEZ",
+      "nombres": "CARMEN PATRICIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "37XXXX25",
+      "apellidos": "DELGADO",
+      "nombres": "LUCIANA ANTONIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX18",
+      "apellidos": "SERRANO",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

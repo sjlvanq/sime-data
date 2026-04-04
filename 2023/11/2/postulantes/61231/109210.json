@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 61231,
+    "padron_id": 109210
+  },
+  "postulantes": [
+    {
+      "orden": 54,
+      "dni": "20XXXX45",
+      "apellidos": "VELLIDO",
+      "nombres": "NORMA CRISTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 73,
+      "dni": "25XXXX01",
+      "apellidos": "ORRILLO",
+      "nombres": "MARCELA INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 60783,
+    "padron_id": 108790
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX38",
+      "apellidos": "BEVILACQUA",
+      "nombres": "LUCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "30XXXX58",
+      "apellidos": "DIARTE",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

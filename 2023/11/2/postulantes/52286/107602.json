@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 52286,
+    "padron_id": 107602
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "36XXXX54",
+      "apellidos": "MAHMUD",
+      "nombres": "MARIANO AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "29XXXX81",
+      "apellidos": "MORALES",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "41XXXX98",
+      "apellidos": "RUIZ",
+      "nombres": "ISMAEL HERNAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

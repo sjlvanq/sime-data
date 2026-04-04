@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 61316,
+    "padron_id": 109501
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "22XXXX47",
+      "apellidos": "HANSEN",
+      "nombres": "FREDY",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX49",
+      "apellidos": "MENA",
+      "nombres": "FEDERICO DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "33XXXX66",
+      "apellidos": "ROMANO",
+      "nombres": "ROXANA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "26XXXX07",
+      "apellidos": "BALCARCE",
+      "nombres": "VANESA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

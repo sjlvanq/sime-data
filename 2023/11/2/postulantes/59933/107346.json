@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 59933,
+    "padron_id": 107346
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "22XXXX38",
+      "apellidos": "TELLO",
+      "nombres": "LAURA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "29XXXX48",
+      "apellidos": "ZAMBRANO",
+      "nombres": "ELSA PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

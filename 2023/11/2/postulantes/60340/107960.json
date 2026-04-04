@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 60340,
+    "padron_id": 107960
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX99",
+      "apellidos": "HERRERA",
+      "nombres": "JUAN ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX28",
+      "apellidos": "PERALTA",
+      "nombres": "MARÍA LURDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
