@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 60223,
+    "padron_id": 107673
+  },
+  "postulantes": [
+    {
+      "orden": 42,
+      "dni": "18XXXX86",
+      "apellidos": "SALGUERO",
+      "nombres": "ESTELA RAMONA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "27XXXX63",
+      "apellidos": "VEGA",
+      "nombres": "FERNANDA GRACIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "30XXXX73",
+      "apellidos": "TRAVAINI",
+      "nombres": "CARLA FABIOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

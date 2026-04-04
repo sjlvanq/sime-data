@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 61299,
+    "padron_id": 109269
+  },
+  "postulantes": [
+    {
+      "orden": 333,
+      "dni": "38XXXX67",
+      "apellidos": "NUÑEZ",
+      "nombres": "SOLEDAD GRACIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 619,
+      "dni": "35XXXX22",
+      "apellidos": "IBAÑEZ",
+      "nombres": "MARIA EVA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 202,
+      "dni": "29XXXX71",
+      "apellidos": "MEDINA BONAHORA",
+      "nombres": "PABLO ENRIQUE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

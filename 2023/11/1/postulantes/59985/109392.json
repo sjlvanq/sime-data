@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 59985,
+    "padron_id": 109392
+  },
+  "postulantes": [
+    {
+      "orden": 120,
+      "dni": "21XXXX77",
+      "apellidos": "VILLAGRA",
+      "nombres": "PAOLA LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 157,
+      "dni": "22XXXX86",
+      "apellidos": "SALCEDO",
+      "nombres": "LILIANA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "22XXXX00",
+      "apellidos": "LAZARTE",
+      "nombres": "MARIA EDITH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

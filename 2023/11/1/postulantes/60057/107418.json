@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 60057,
+    "padron_id": 107418
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "33XXXX72",
+      "apellidos": "PEREYRA",
+      "nombres": "CINTHIA MARICEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "27XXXX73",
+      "apellidos": "MILOC",
+      "nombres": "WANDA GABRIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "18XXXX86",
+      "apellidos": "SALGUERO",
+      "nombres": "ESTELA RAMONA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

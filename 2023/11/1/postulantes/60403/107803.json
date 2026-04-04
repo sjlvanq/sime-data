@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 60403,
+    "padron_id": 107803
+  },
+  "postulantes": [
+    {
+      "orden": 284,
+      "dni": "27XXXX18",
+      "apellidos": "CORVALAN",
+      "nombres": "ZULEMA GUILLERMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1024,
+      "dni": "21XXXX30",
+      "apellidos": "RAMIREZ",
+      "nombres": "ISABEL SATURNINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 286,
+      "dni": "33XXXX58",
+      "apellidos": "ROBLES",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
