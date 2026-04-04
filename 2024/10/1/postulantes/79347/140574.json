@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 79347,
+    "padron_id": 140574
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "24XXXX93",
+      "apellidos": "SANTILLAN",
+      "nombres": "CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 82,
+      "dni": "25XXXX40",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE MIGUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "22XXXX38",
+      "apellidos": "CARRIZO",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

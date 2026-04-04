@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 78904,
+    "padron_id": 139804
+  },
+  "postulantes": [
+    {
+      "orden": 289,
+      "dni": "20XXXX49",
+      "apellidos": "FRANCO",
+      "nombres": "CLAUDIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 310,
+      "dni": "22XXXX96",
+      "apellidos": "ELIAS",
+      "nombres": "CLAUDIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "34XXXX00",
+      "apellidos": "ROMANO",
+      "nombres": "JOSE MAXIMILIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

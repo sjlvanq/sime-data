@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 77886,
+    "padron_id": 140596
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "23XXXX33",
+      "apellidos": "PEREZ",
+      "nombres": "VERONICA MARIA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "22XXXX74",
+      "apellidos": "CHAZARRETA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "23XXXX61",
+      "apellidos": "VERA",
+      "nombres": "ESTELA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 80316,
+    "padron_id": 141877
+  },
+  "postulantes": [
+    {
+      "orden": 43,
+      "dni": "37XXXX22",
+      "apellidos": "GEREZ MENDEZ",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "23XXXX34",
+      "apellidos": "ABREGU",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 155,
+      "dni": "31XXXX05",
+      "apellidos": "RIVERA",
+      "nombres": "JUAN PABLO EDUARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

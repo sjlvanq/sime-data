@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 79437,
+    "padron_id": 140724
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "37XXXX51",
+      "apellidos": "MEDINA",
+      "nombres": "RICARDO EMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "25XXXX92",
+      "apellidos": "CHAVEZ",
+      "nombres": "MARÍA VERÓNICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "32XXXX65",
+      "apellidos": "GONZALEZ",
+      "nombres": "CLAUDIA ELIZABELH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "31XXXX56",
+      "apellidos": "SOSA",
+      "nombres": "ELINA EDITH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

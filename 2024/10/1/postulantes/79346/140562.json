@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 79346,
+    "padron_id": 140562
+  },
+  "postulantes": [
+    {
+      "orden": 76,
+      "dni": "25XXXX19",
+      "apellidos": "VIERA SOSA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 310,
+      "dni": "22XXXX96",
+      "apellidos": "ELIAS",
+      "nombres": "CLAUDIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "34XXXX00",
+      "apellidos": "ROMANO",
+      "nombres": "JOSE MAXIMILIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

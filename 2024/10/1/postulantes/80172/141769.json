@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 80172,
+    "padron_id": 141769
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "26XXXX74",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "MARIA DEL MILAGRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "27XXXX38",
+      "apellidos": "UNCOS",
+      "nombres": "OLGA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

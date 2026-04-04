@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 80260,
+    "padron_id": 141836
+  },
+  "postulantes": [
+    {
+      "orden": 125,
+      "dni": "27XXXX47",
+      "apellidos": "AGUIRRE",
+      "nombres": "CECILIA MARIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "35XXXX56",
+      "apellidos": "VALENCIA DUGACHES",
+      "nombres": "RODRIGO ALFREDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

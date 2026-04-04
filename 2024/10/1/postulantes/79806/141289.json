@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 79806,
+    "padron_id": 141289
+  },
+  "postulantes": [
+    {
+      "orden": 166,
+      "dni": "36XXXX57",
+      "apellidos": "ARIAS",
+      "nombres": "RITA PAMELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 237,
+      "dni": "32XXXX57",
+      "apellidos": "CAJAL",
+      "nombres": "KARINA VERONICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 338,
+      "dni": "33XXXX68",
+      "apellidos": "D`URSO",
+      "nombres": "AGOSTINA MARIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
