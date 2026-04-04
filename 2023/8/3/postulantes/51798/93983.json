@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51798,
+    "padron_id": 93983
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX84",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "CLAUDIA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "18XXXX90",
+      "apellidos": "ROBLES",
+      "nombres": "JUSTA MARCELA LUCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "40XXXX09",
+      "apellidos": "COSTILLA",
+      "nombres": "MARÍA EMILSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

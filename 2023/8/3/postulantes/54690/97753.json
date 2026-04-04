@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 54690,
+    "padron_id": 97753
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "28XXXX03",
+      "apellidos": "CANSECO",
+      "nombres": "EDITH MAGDALENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "28XXXX57",
+      "apellidos": "PIZARRO",
+      "nombres": "NANCY DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "30XXXX61",
+      "apellidos": "JOSSO",
+      "nombres": "CARLOS RAMIRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

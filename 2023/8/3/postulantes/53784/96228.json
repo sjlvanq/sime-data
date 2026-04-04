@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 53784,
+    "padron_id": 96228
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "23XXXX84",
+      "apellidos": "LIZARRAGA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX44",
+      "apellidos": "SANTILLAN",
+      "nombres": "MARCOS DIEGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP TITULAR"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX48",
+      "apellidos": "SERRANO",
+      "nombres": "JOSE FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP TITULAR"
+    }
+  ]
+}

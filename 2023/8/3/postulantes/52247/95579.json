@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 52247,
+    "padron_id": 95579
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "28XXXX06",
+      "apellidos": "ZURITA",
+      "nombres": "JORGE MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "41XXXX94",
+      "apellidos": "CENTURION",
+      "nombres": "BRUNO AGUSTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "41XXXX47",
+      "apellidos": "SORIA",
+      "nombres": "CAMILA ANTONELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "37XXXX91",
+      "apellidos": "CATA CRUZ",
+      "nombres": "PAOLA ANTONELLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

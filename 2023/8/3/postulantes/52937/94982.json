@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 52937,
+    "padron_id": 94982
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "33XXXX49",
+      "apellidos": "LEAL",
+      "nombres": "FATIMA GRACIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX95",
+      "apellidos": "LOPEZ",
+      "nombres": "PABLO EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX46",
+      "apellidos": "SANTELLAN",
+      "nombres": "SERGIO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

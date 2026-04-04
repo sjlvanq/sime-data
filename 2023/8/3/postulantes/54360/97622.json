@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 54360,
+    "padron_id": 97622
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX39",
+      "apellidos": "PEREZ",
+      "nombres": "CESAR LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX02",
+      "apellidos": "SUAREZ",
+      "nombres": "GUILLERMO DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX42",
+      "apellidos": "ALVAREZ",
+      "nombres": "ANGEL DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX29",
+      "apellidos": "ZURITA",
+      "nombres": "DAVID LEONARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "36XXXX26",
+      "apellidos": "DIAZ",
+      "nombres": "IVO GASTON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

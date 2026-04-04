@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 52539,
+    "padron_id": 94321
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "24XXXX55",
+      "apellidos": "LOPEZ",
+      "nombres": "ANALIA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "36XXXX86",
+      "apellidos": "SALINAS",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX80",
+      "apellidos": "VIVANCO",
+      "nombres": "VIVIANA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

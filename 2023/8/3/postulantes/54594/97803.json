@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 54594,
+    "padron_id": 97803
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX07",
+      "apellidos": "CACERES",
+      "nombres": "MARÍA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX79",
+      "apellidos": "FERNANDEZ",
+      "nombres": "CARLOS FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX62",
+      "apellidos": "ROMERO",
+      "nombres": "JUAN ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

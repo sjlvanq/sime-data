@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 53581,
+    "padron_id": 97246
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX57",
+      "apellidos": "CORREA",
+      "nombres": "JUAN JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX22",
+      "apellidos": "ABREGU",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

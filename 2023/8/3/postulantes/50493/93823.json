@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 50493,
+    "padron_id": 93823
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX41",
+      "apellidos": "VIDAL",
+      "nombres": "HUGO FABRICIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX47",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "EXEQUIEL ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

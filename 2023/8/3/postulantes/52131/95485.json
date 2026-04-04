@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 52131,
+    "padron_id": 95485
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX90",
+      "apellidos": "PONCE",
+      "nombres": "VANESA EVANGELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "30XXXX94",
+      "apellidos": "SANCHEZ TELLO",
+      "nombres": "ROSANA PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "33XXXX78",
+      "apellidos": "ROMAN LOPEZ",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

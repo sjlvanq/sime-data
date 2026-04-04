@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 53239,
+    "padron_id": 95091
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "35XXXX96",
+      "apellidos": "GUTIERREZ",
+      "nombres": "DANIEL ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "21XXXX87",
+      "apellidos": "TORRES",
+      "nombres": "MARTA ALICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX06",
+      "apellidos": "ORTIZ",
+      "nombres": "RODRIGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

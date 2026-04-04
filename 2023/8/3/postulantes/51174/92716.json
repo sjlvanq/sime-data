@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51174,
+    "padron_id": 92716
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "28XXXX88",
+      "apellidos": "VERA",
+      "nombres": "RAMON ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "30XXXX31",
+      "apellidos": "BARRAGAN",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "23XXXX86",
+      "apellidos": "PAZ",
+      "nombres": "FLAVIA MERCEDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

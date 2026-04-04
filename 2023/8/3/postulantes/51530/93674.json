@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51530,
+    "padron_id": 93674
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "20XXXX22",
+      "apellidos": "BARROSO",
+      "nombres": "ELSA ANALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 8,
+      "dni": "23XXXX61",
+      "apellidos": "VERA",
+      "nombres": "ESTELA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX79",
+      "apellidos": "GARCIA",
+      "nombres": "ROSA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "vacante_id": 54543,
+    "padron_id": 97432
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "20XXXX06",
+      "apellidos": "GONZALEZ",
+      "nombres": "CLAUDIA MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "18XXXX80",
+      "apellidos": "CORREA",
+      "nombres": "FRANCISCA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "14XXXX19",
+      "apellidos": "CACERES",
+      "nombres": "NELIDA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX17",
+      "apellidos": "GARCIA",
+      "nombres": "MIRIAM ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX39",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MIRIAN ROXANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "26XXXX24",
+      "apellidos": "AGUILAR",
+      "nombres": "ELIANA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX43",
+      "apellidos": "LIZARRAGA",
+      "nombres": "ESTELA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
