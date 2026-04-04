@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56725,
+    "padron_id": 101178
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "38XXXX97",
+      "apellidos": "RODRIGUEZ ROSSI",
+      "nombres": "MAURO EMMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "39XXXX68",
+      "apellidos": "GUERRA",
+      "nombres": "KAREN MICAELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 55,
+      "dni": "39XXXX29",
+      "apellidos": "LUCERO",
+      "nombres": "LUZ MARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

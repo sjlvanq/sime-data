@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 55747,
+    "padron_id": 99684
+  },
+  "postulantes": [
+    {
+      "orden": 200,
+      "dni": "33XXXX27",
+      "apellidos": "ZÁRATE",
+      "nombres": "MARILINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "24XXXX75",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ALBEANA DEL TRANSITO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 276,
+      "dni": "30XXXX04",
+      "apellidos": "SANCHEZ",
+      "nombres": "FATIMA KARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 379,
+      "dni": "39XXXX26",
+      "apellidos": "PALOMA",
+      "nombres": "SHEILA ROCIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

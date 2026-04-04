@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 57125,
+    "padron_id": 102061
+  },
+  "postulantes": [
+    {
+      "orden": 128,
+      "dni": "25XXXX49",
+      "apellidos": "JIMENEZ",
+      "nombres": "WALTER ARIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "24XXXX08",
+      "apellidos": "BOBBA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

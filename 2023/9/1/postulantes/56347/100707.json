@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56347,
+    "padron_id": 100707
+  },
+  "postulantes": [
+    {
+      "orden": 395,
+      "dni": "24XXXX76",
+      "apellidos": "BRANDAN",
+      "nombres": "ELENA MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 678,
+      "dni": "40XXXX81",
+      "apellidos": "CORDOBA",
+      "nombres": "VICTORIA ANABELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 781,
+      "dni": "35XXXX88",
+      "apellidos": "DIAZ",
+      "nombres": "SIMONA ORMECINDA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

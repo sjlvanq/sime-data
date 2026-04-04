@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 55609,
+    "padron_id": 99256
+  },
+  "postulantes": [
+    {
+      "orden": 123,
+      "dni": "29XXXX87",
+      "apellidos": "ALVAREZ",
+      "nombres": "DEBORAH MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 128,
+      "dni": "25XXXX49",
+      "apellidos": "JIMENEZ",
+      "nombres": "WALTER ARIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

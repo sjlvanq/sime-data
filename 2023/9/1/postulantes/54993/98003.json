@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 54993,
+    "padron_id": 98003
+  },
+  "postulantes": [
+    {
+      "orden": 68,
+      "dni": "30XXXX42",
+      "apellidos": "SOSA",
+      "nombres": "MARIELA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "24XXXX77",
+      "apellidos": "TAPIA",
+      "nombres": "PAOLA ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

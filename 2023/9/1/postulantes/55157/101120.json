@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 55157,
+    "padron_id": 101120
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX94",
+      "apellidos": "ACOSTA",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX13",
+      "apellidos": "AVELLANEDA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

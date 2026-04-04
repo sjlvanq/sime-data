@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57278,
+    "padron_id": 102118
+  },
+  "postulantes": [
+    {
+      "orden": 94,
+      "dni": "33XXXX62",
+      "apellidos": "MEDINA",
+      "nombres": "CESAR DANIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 124,
+      "dni": "41XXXX73",
+      "apellidos": "ORONA",
+      "nombres": "PAMELA AGOSTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "38XXXX92",
+      "apellidos": "SOSA",
+      "nombres": "SANTIAGO MIGUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

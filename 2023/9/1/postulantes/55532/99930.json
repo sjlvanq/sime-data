@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55532,
+    "padron_id": 99930
+  },
+  "postulantes": [
+    {
+      "orden": 54,
+      "dni": "40XXXX44",
+      "apellidos": "SALAZAR RODRIGUEZ",
+      "nombres": "FRANCISCO GUSTAVO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 67,
+      "dni": "39XXXX16",
+      "apellidos": "AVALO RAMOS",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 119,
+      "dni": "37XXXX00",
+      "apellidos": "BOIDO",
+      "nombres": "ROCIO MELANI",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

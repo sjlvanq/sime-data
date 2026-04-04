@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 56629,
+    "padron_id": 101231
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "33XXXX46",
+      "apellidos": "VARONE",
+      "nombres": "CATRIEL LUCAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "31XXXX10",
+      "apellidos": "GRANITO",
+      "nombres": "MARIA CELINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 56090,
+    "padron_id": 100126
+  },
+  "postulantes": [
+    {
+      "orden": 76,
+      "dni": "23XXXX71",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "32XXXX24",
+      "apellidos": "AGUIRRE",
+      "nombres": "YANINA PAOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

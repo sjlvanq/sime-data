@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56272,
+    "padron_id": 100447
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "38XXXX97",
+      "apellidos": "RODRIGUEZ ROSSI",
+      "nombres": "MAURO EMMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "37XXXX70",
+      "apellidos": "VIES",
+      "nombres": "FRANCISCO MAXIMILIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "39XXXX49",
+      "apellidos": "SCHETTINI",
+      "nombres": "FACUNDO NICOLAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

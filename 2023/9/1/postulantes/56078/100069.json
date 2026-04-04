@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 56078,
+    "padron_id": 100069
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "20XXXX16",
+      "apellidos": "ACOSTA",
+      "nombres": "MARIA ELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

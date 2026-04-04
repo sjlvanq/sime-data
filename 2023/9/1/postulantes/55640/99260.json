@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55640,
+    "padron_id": 99260
+  },
+  "postulantes": [
+    {
+      "orden": 142,
+      "dni": "22XXXX75",
+      "apellidos": "VEGA",
+      "nombres": "MARIA NANCY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 152,
+      "dni": "18XXXX04",
+      "apellidos": "GOMEZ",
+      "nombres": "CECILIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "23XXXX50",
+      "apellidos": "NUÑEZ",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

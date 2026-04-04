@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57106,
+    "padron_id": 101584
+  },
+  "postulantes": [
+    {
+      "orden": 102,
+      "dni": "22XXXX38",
+      "apellidos": "SALAZAR",
+      "nombres": "CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 120,
+      "dni": "22XXXX37",
+      "apellidos": "ALTAMIRANDA",
+      "nombres": "SERGIO ORLANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 154,
+      "dni": "22XXXX17",
+      "apellidos": "LIZONDO",
+      "nombres": "ROSSANA KARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

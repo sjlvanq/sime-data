@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56873,
+    "padron_id": 101267
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "25XXXX21",
+      "apellidos": "ERAZO",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 123,
+      "dni": "29XXXX87",
+      "apellidos": "ALVAREZ",
+      "nombres": "DEBORAH MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 222,
+      "dni": "22XXXX81",
+      "apellidos": "CAJAL",
+      "nombres": "MYRIAM ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

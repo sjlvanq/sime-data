@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56043,
+    "padron_id": 99925
+  },
+  "postulantes": [
+    {
+      "orden": 196,
+      "dni": "22XXXX54",
+      "apellidos": "MENA",
+      "nombres": "ANDREA FABIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 120,
+      "dni": "22XXXX37",
+      "apellidos": "ALTAMIRANDA",
+      "nombres": "SERGIO ORLANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 147,
+      "dni": "18XXXX07",
+      "apellidos": "MEDINA",
+      "nombres": "ALICIA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

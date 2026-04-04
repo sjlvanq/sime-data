@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55376,
+    "padron_id": 100269
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "23XXXX44",
+      "apellidos": "BRAHIM",
+      "nombres": "FERNANDA CARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "24XXXX08",
+      "apellidos": "BOBBA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 127,
+      "dni": "24XXXX13",
+      "apellidos": "HUMARAN",
+      "nombres": "SUSANA ESTER",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

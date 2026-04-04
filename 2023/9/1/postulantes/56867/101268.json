@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56867,
+    "padron_id": 101268
+  },
+  "postulantes": [
+    {
+      "orden": 93,
+      "dni": "24XXXX56",
+      "apellidos": "LEZCANO",
+      "nombres": "LELIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 154,
+      "dni": "30XXXX97",
+      "apellidos": "ACUÑA",
+      "nombres": "PATRICIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "24XXXX08",
+      "apellidos": "BOBBA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

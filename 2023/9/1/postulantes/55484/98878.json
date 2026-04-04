@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "vacante_id": 55484,
+    "padron_id": 98878
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "38XXXX37",
+      "apellidos": "JUAREZ",
+      "nombres": "BELEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "38XXXX30",
+      "apellidos": "ESCALANTE",
+      "nombres": "DANIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "30XXXX65",
+      "apellidos": "ROLDAN",
+      "nombres": "NICOLAS ALEJANDRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "39XXXX79",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARIEL ELEONORA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 74,
+      "dni": "45XXXX83",
+      "apellidos": "TORRES ACOSTA",
+      "nombres": "ROSA FIORELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX24",
+      "apellidos": "ROJO REALES",
+      "nombres": "GUILLERMO HORACIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "34XXXX11",
+      "apellidos": "CATALAN",
+      "nombres": "PABLO EXEQUIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

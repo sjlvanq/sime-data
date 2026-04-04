@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 55775,
+    "padron_id": 99895
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "25XXXX80",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVANA NATALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "32XXXX73",
+      "apellidos": "DECIMA",
+      "nombres": "JORGE ANDRES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "31XXXX74",
+      "apellidos": "CANO NOVOTNY",
+      "nombres": "MAXIMILIANO OLDRICH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 63,
+      "dni": "42XXXX01",
+      "apellidos": "MANCERA",
+      "nombres": "TOMAS AARON",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

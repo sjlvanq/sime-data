@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 56933,
+    "padron_id": 101298
+  },
+  "postulantes": [
+    {
+      "orden": 123,
+      "dni": "29XXXX87",
+      "apellidos": "ALVAREZ",
+      "nombres": "DEBORAH MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 222,
+      "dni": "22XXXX81",
+      "apellidos": "CAJAL",
+      "nombres": "MYRIAM ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

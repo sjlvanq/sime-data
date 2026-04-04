@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 56544,
+    "padron_id": 100810
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX78",
+      "apellidos": "CAMPERO",
+      "nombres": "MARTA LEONOR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX13",
+      "apellidos": "HUMARAN",
+      "nombres": "SUSANA ESTER",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56642,
+    "padron_id": 101208
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "24XXXX13",
+      "apellidos": "HUMARAN",
+      "nombres": "SUSANA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "33XXXX01",
+      "apellidos": "PAEZ ALDERETES",
+      "nombres": "JOSE ANDRES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "27XXXX82",
+      "apellidos": "FRIAS PAZ",
+      "nombres": "ALEJANDRA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

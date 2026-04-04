@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56288,
+    "padron_id": 101099
+  },
+  "postulantes": [
+    {
+      "orden": 178,
+      "dni": "24XXXX13",
+      "apellidos": "HUMARAN",
+      "nombres": "SUSANA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 191,
+      "dni": "23XXXX88",
+      "apellidos": "VILLARREAL",
+      "nombres": "MARISA ALEJANDRA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "24XXXX08",
+      "apellidos": "BOBBA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

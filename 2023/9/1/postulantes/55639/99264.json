@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55639,
+    "padron_id": 99264
+  },
+  "postulantes": [
+    {
+      "orden": 126,
+      "dni": "21XXXX48",
+      "apellidos": "FIGUEROA",
+      "nombres": "JULIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 152,
+      "dni": "18XXXX04",
+      "apellidos": "GOMEZ",
+      "nombres": "CECILIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "23XXXX50",
+      "apellidos": "NUÑEZ",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

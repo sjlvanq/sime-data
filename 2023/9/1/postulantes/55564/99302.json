@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55564,
+    "padron_id": 99302
+  },
+  "postulantes": [
+    {
+      "orden": 129,
+      "dni": "22XXXX75",
+      "apellidos": "VEGA",
+      "nombres": "MARIA NANCY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 137,
+      "dni": "18XXXX04",
+      "apellidos": "GOMEZ",
+      "nombres": "CECILIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "22XXXX23",
+      "apellidos": "DUMO",
+      "nombres": "SANDRA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

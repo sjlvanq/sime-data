@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 56649,
+    "padron_id": 101123
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX94",
+      "apellidos": "ACOSTA",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX56",
+      "apellidos": "GEREZ",
+      "nombres": "EMILIA DANIELA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX42",
+      "apellidos": "REYES",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX72",
+      "apellidos": "VISCARRA",
+      "nombres": "OSCAR RUBÉN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

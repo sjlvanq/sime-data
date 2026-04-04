@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 55384,
+    "padron_id": 98906
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "17XXXX17",
+      "apellidos": "SAADE",
+      "nombres": "JULIO EDUARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "39XXXX18",
+      "apellidos": "CAFFARENA",
+      "nombres": "FEDERICO MARTIN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

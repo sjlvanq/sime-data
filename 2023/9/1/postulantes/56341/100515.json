@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56341,
+    "padron_id": 100515
+  },
+  "postulantes": [
+    {
+      "orden": 125,
+      "dni": "31XXXX69",
+      "apellidos": "CHAIO",
+      "nombres": "SILVANA DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 154,
+      "dni": "22XXXX17",
+      "apellidos": "LIZONDO",
+      "nombres": "ROSSANA KARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 251,
+      "dni": "20XXXX82",
+      "apellidos": "AMENTTA",
+      "nombres": "MONICA ESTELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

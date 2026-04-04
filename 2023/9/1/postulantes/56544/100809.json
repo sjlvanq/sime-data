@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 56544,
+    "padron_id": 100809
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "29XXXX24",
+      "apellidos": "ROJO REALES",
+      "nombres": "GUILLERMO HORACIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "32XXXX45",
+      "apellidos": "CARONA",
+      "nombres": "NOELIA  FABIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "40XXXX69",
+      "apellidos": "MORENO",
+      "nombres": "MARTIN FACUNDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 55,
+      "dni": "37XXXX78",
+      "apellidos": "ALVAREZ",
+      "nombres": "LUIS MARIANO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "33XXXX05",
+      "apellidos": "VARVARO",
+      "nombres": "VICTOR ADOLFO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

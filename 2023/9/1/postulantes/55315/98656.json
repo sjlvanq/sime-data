@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 55315,
+    "padron_id": 98656
+  },
+  "postulantes": [
+    {
+      "orden": 134,
+      "dni": "27XXXX90",
+      "apellidos": "FIGUEROA",
+      "nombres": "NELIDA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 192,
+      "dni": "25XXXX62",
+      "apellidos": "GUERRERO",
+      "nombres": "MONICA GRACIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 277,
+      "dni": "34XXXX77",
+      "apellidos": "PONCE",
+      "nombres": "NORMA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 379,
+      "dni": "39XXXX26",
+      "apellidos": "PALOMA",
+      "nombres": "SHEILA ROCIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

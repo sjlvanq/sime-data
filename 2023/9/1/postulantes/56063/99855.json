@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56063,
+    "padron_id": 99855
+  },
+  "postulantes": [
+    {
+      "orden": 93,
+      "dni": "25XXXX75",
+      "apellidos": "GUERRERO",
+      "nombres": "LELIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "24XXXX08",
+      "apellidos": "BOBBA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 103,
+      "dni": "29XXXX18",
+      "apellidos": "PEDRAZA",
+      "nombres": "VERONICA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

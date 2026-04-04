@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55733,
+    "padron_id": 100198
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "27XXXX61",
+      "apellidos": "FERRO",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "30XXXX73",
+      "apellidos": "TRAVAINI",
+      "nombres": "CARLA FABIOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "27XXXX73",
+      "apellidos": "MILOC",
+      "nombres": "WANDA GABRIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

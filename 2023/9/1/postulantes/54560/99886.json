@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 54560,
+    "padron_id": 99886
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "35XXXX27",
+      "apellidos": "PEREZ",
+      "nombres": "ZAIRA LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX34",
+      "apellidos": "JUAREZ",
+      "nombres": "HERNAN GONZALO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

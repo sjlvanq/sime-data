@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57252,
+    "padron_id": 102126
+  },
+  "postulantes": [
+    {
+      "orden": 528,
+      "dni": "37XXXX50",
+      "apellidos": "ALMIRON",
+      "nombres": "VANESA SOLEDAD DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 666,
+      "dni": "38XXXX09",
+      "apellidos": "DIAZ",
+      "nombres": "MARIA FABIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 667,
+      "dni": "38XXXX74",
+      "apellidos": "MAMANI",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

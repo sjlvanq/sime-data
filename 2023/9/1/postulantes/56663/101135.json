@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 56663,
+    "padron_id": 101135
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX94",
+      "apellidos": "ACOSTA",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "42XXXX93",
+      "apellidos": "ALANIS",
+      "nombres": "AGUSTIN MAXIMILIANO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "39XXXX07",
+      "apellidos": "ROTGER ZAMORA",
+      "nombres": "GABRIEL HORACIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX73",
+      "apellidos": "TULA",
+      "nombres": "MERCEDES DEL CARMEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    }
+  ]
+}
