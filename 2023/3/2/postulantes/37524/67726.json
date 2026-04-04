@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 37524,
+    "padron_id": 67726
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX47",
+      "apellidos": "FARIAS",
+      "nombres": "LUISA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "27XXXX19",
+      "apellidos": "PALLARES",
+      "nombres": "ELIANA CORINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "39XXXX43",
+      "apellidos": "GARCÍA",
+      "nombres": "ROCÍO DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

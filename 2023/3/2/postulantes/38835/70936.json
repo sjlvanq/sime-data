@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 38835,
+    "padron_id": 70936
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX20",
+      "apellidos": "GARCIA",
+      "nombres": "LUIS FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX92",
+      "apellidos": "TOSCANO",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

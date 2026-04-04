@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 37204,
+    "padron_id": 67299
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX21",
+      "apellidos": "ELENA",
+      "nombres": "CINTHYA MARCELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX60",
+      "apellidos": "MARQUEZ",
+      "nombres": "ADOLFO ELIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX69",
+      "apellidos": "LEIVA",
+      "nombres": "VERONICA NOEMI DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 38711,
+    "padron_id": 69853
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "31XXXX65",
+      "apellidos": "FUENTES",
+      "nombres": "SILVANA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "21XXXX39",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX03",
+      "apellidos": "GUZMAN",
+      "nombres": "KARINA SANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX44",
+      "apellidos": "ELIAS",
+      "nombres": "ESTEBAN DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

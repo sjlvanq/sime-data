@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 39787,
+    "padron_id": 71435
+  },
+  "postulantes": [
+    {
+      "orden": 77,
+      "dni": "21XXXX01",
+      "apellidos": "CONTRERAS",
+      "nombres": "RAUL JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 104,
+      "dni": "25XXXX18",
+      "apellidos": "SOTELO",
+      "nombres": "VERONICA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 114,
+      "dni": "25XXXX42",
+      "apellidos": "TOSCANO",
+      "nombres": "MARIELA JESUS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

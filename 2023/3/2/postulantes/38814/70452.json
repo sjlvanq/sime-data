@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 38814,
+    "padron_id": 70452
+  },
+  "postulantes": [
+    {
+      "orden": 42,
+      "dni": "23XXXX19",
+      "apellidos": "ORTEGA",
+      "nombres": "GUSTAVO ADRIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 70,
+      "dni": "24XXXX53",
+      "apellidos": "CHICO",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

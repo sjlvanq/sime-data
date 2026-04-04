@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 37828,
+    "padron_id": 68401
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "36XXXX66",
+      "apellidos": "ARUE OCAMPO",
+      "nombres": "GRISELDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "38XXXX00",
+      "apellidos": "YBALO",
+      "nombres": "ESTEFANIA BELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "37XXXX98",
+      "apellidos": "GANI",
+      "nombres": "JUAN AGUSTÍN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "33XXXX40",
+      "apellidos": "PEREYRA",
+      "nombres": "IGNACIO JAVIER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

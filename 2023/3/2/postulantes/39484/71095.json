@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 39484,
+    "padron_id": 71095
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX66",
+      "apellidos": "GONZALEZ",
+      "nombres": "JUAN MARTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "32XXXX75",
+      "apellidos": "MENENDEZ ROLDAN",
+      "nombres": "MARIA LUZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

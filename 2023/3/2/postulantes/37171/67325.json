@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 37171,
+    "padron_id": 67325
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "25XXXX49",
+      "apellidos": "ALBANO SZANTO",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "28XXXX80",
+      "apellidos": "SCHWEITZER",
+      "nombres": "TOMAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "33XXXX40",
+      "apellidos": "PEREYRA",
+      "nombres": "IGNACIO JAVIER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

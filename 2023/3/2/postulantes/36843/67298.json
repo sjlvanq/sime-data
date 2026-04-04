@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 36843,
+    "padron_id": 67298
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "25XXXX62",
+      "apellidos": "ACUÑA",
+      "nombres": "NATALIA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 60,
+      "dni": "20XXXX50",
+      "apellidos": "GRANDE",
+      "nombres": "SILVINA DE FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 66,
+      "dni": "17XXXX68",
+      "apellidos": "VARELA",
+      "nombres": "SILVIA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 77,
+      "dni": "18XXXX41",
+      "apellidos": "AMDOR",
+      "nombres": "MYRIAM FABIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "18XXXX69",
+      "apellidos": "SAFIR",
+      "nombres": "JORGE ANTONIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

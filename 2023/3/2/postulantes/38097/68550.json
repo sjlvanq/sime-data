@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 38097,
+    "padron_id": 68550
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX66",
+      "apellidos": "GONZALEZ",
+      "nombres": "JUAN MARTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "29XXXX47",
+      "apellidos": "CACERES LUCENA",
+      "nombres": "CRISTIAN EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

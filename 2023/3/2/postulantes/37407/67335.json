@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 37407,
+    "padron_id": 67335
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX74",
+      "apellidos": "OLMOS",
+      "nombres": "ELENA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX56",
+      "apellidos": "ARANDA",
+      "nombres": "TERESITA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX51",
+      "apellidos": "ROLDAN",
+      "nombres": "JULIA PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
