@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 65280,
+    "padron_id": 116107
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "34XXXX55",
+      "apellidos": "OSORIO ORELLANA",
+      "nombres": "GLADYS ANAHI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "36XXXX48",
+      "apellidos": "HERRERA",
+      "nombres": "HECTOR GABRIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "26XXXX19",
+      "apellidos": "PEREZ",
+      "nombres": "CLAUDIA MARIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "29XXXX39",
+      "apellidos": "VALENZUELA",
+      "nombres": "ANDRES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

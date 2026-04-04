@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65609,
+    "padron_id": 116633
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "25XXXX81",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "CLAUDIA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "36XXXX48",
+      "apellidos": "HERRERA",
+      "nombres": "HECTOR GABRIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "26XXXX19",
+      "apellidos": "PEREZ",
+      "nombres": "CLAUDIA MARIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

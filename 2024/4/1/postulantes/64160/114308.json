@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64160,
+    "padron_id": 114308
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "32XXXX24",
+      "apellidos": "AGUIRRE",
+      "nombres": "YANINA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NANCY CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 72,
+      "dni": "24XXXX21",
+      "apellidos": "PONCE",
+      "nombres": "MARCELA LIDIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

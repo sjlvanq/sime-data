@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 64313,
+    "padron_id": 114372
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "39XXXX18",
+      "apellidos": "CAFFARENA",
+      "nombres": "FEDERICO MARTIN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX09",
+      "apellidos": "MUSACCHIA",
+      "nombres": "MARIELA RAQUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "33XXXX84",
+      "apellidos": "SORROZA",
+      "nombres": "EDUARDO ERNESTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "39XXXX43",
+      "apellidos": "GARCÍA",
+      "nombres": "ROCÍO DEL MILAGRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

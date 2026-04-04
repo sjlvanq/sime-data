@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 66152,
+    "padron_id": 117448
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "41XXXX65",
+      "apellidos": "NYCEK",
+      "nombres": "ALEX IVAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "41XXXX98",
+      "apellidos": "RUIZ",
+      "nombres": "ISMAEL HERNAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "31XXXX74",
+      "apellidos": "CANO NOVOTNY",
+      "nombres": "MAXIMILIANO OLDRICH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "40XXXX61",
+      "apellidos": "ROMERO",
+      "nombres": "ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

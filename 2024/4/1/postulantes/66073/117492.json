@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 66073,
+    "padron_id": 117492
+  },
+  "postulantes": [
+    {
+      "orden": 70,
+      "dni": "22XXXX88",
+      "apellidos": "LOBO",
+      "nombres": "SILVIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "25XXXX18",
+      "apellidos": "BURGOS",
+      "nombres": "LILIANA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

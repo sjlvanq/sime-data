@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65167,
+    "padron_id": 117775
+  },
+  "postulantes": [
+    {
+      "orden": 55,
+      "dni": "35XXXX58",
+      "apellidos": "MARTINEZ",
+      "nombres": "LAURA ROMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "23XXXX13",
+      "apellidos": "ISAS",
+      "nombres": "CRISTOBAL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "28XXXX78",
+      "apellidos": "ORELLANA",
+      "nombres": "CAROLINA SOLEDAD",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

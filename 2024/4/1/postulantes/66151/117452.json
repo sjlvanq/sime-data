@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 66151,
+    "padron_id": 117452
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "41XXXX65",
+      "apellidos": "NYCEK",
+      "nombres": "ALEX IVAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "38XXXX97",
+      "apellidos": "RODRIGUEZ ROSSI",
+      "nombres": "MAURO EMMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX38",
+      "apellidos": "DIAZ MONACHESI",
+      "nombres": "CARLA NAHIR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "29XXXX34",
+      "apellidos": "LLANOS",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

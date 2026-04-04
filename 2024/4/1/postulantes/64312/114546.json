@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 64312,
+    "padron_id": 114546
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "38XXXX97",
+      "apellidos": "RODRIGUEZ ROSSI",
+      "nombres": "MAURO EMMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX77",
+      "apellidos": "GUERRERO",
+      "nombres": "JUAN EXEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 64670,
+    "padron_id": 114997
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "38XXXX97",
+      "apellidos": "RODRIGUEZ ROSSI",
+      "nombres": "MAURO EMMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX77",
+      "apellidos": "GUERRERO",
+      "nombres": "JUAN EXEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "38XXXX91",
+      "apellidos": "MARTINEZ",
+      "nombres": "JOSE LUIS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "45XXXX84",
+      "apellidos": "TORRES ACOSTA",
+      "nombres": "SOFIA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "45XXXX83",
+      "apellidos": "TORRES ACOSTA",
+      "nombres": "ROSA FIORELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65900,
+    "padron_id": 117152
+  },
+  "postulantes": [
+    {
+      "orden": 46,
+      "dni": "29XXXX98",
+      "apellidos": "NUÑEZ",
+      "nombres": "ALICIA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NANCY CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 72,
+      "dni": "24XXXX21",
+      "apellidos": "PONCE",
+      "nombres": "MARCELA LIDIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

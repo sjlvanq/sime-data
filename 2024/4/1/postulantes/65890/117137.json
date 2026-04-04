@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65890,
+    "padron_id": 117137
+  },
+  "postulantes": [
+    {
+      "orden": 725,
+      "dni": "35XXXX35",
+      "apellidos": "GONZALEZ",
+      "nombres": "NANCY ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 798,
+      "dni": "33XXXX98",
+      "apellidos": "NORIEGA",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1317,
+      "dni": "17XXXX22",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARCO ANTONIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
