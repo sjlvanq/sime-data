@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40266,
+    "padron_id": 73531
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "26XXXX18",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "33XXXX02",
+      "apellidos": "DIAZ",
+      "nombres": "MAIRA LEONELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

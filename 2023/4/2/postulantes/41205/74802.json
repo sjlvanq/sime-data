@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 41205,
+    "padron_id": 74802
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX49",
+      "apellidos": "ROBLES",
+      "nombres": "MARIA NICOLASA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "36XXXX50",
+      "apellidos": "MONTEROS AGUILERA",
+      "nombres": "ROMINA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "24XXXX58",
+      "apellidos": "ROMERO",
+      "nombres": "RICARDO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

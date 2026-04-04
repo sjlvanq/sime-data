@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42136,
+    "padron_id": 76185
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX53",
+      "apellidos": "ACOSTA DUSZENKO",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX23",
+      "apellidos": "ROMANO",
+      "nombres": "PATRICIA CRISTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

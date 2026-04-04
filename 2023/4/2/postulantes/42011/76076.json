@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42011,
+    "padron_id": 76076
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX58",
+      "apellidos": "CORBALAN",
+      "nombres": "JORGE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX93",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

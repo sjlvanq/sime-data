@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 40847,
+    "padron_id": 74809
+  },
+  "postulantes": [
+    {
+      "orden": 44,
+      "dni": "27XXXX81",
+      "apellidos": "ZAMORANO",
+      "nombres": "JULIA ROSA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 65,
+      "dni": "35XXXX63",
+      "apellidos": "VALDEZ",
+      "nombres": "LUIS ALFREDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 77,
+      "dni": "32XXXX97",
+      "apellidos": "COSTILLA",
+      "nombres": "PEDRO MANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 104,
+      "dni": "34XXXX34",
+      "apellidos": "SERRANO",
+      "nombres": "ROCIO DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

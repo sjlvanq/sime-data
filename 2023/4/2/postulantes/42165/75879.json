@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42165,
+    "padron_id": 75879
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX71",
+      "apellidos": "VERON",
+      "nombres": "ISABEL GRISELDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX62",
+      "apellidos": "CRUZ",
+      "nombres": "BRUNO CARLOS SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

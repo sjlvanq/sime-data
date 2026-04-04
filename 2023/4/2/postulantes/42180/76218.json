@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 42180,
+    "padron_id": 76218
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "38XXXX08",
+      "apellidos": "ALBARRACIN",
+      "nombres": "VALERIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "22XXXX50",
+      "apellidos": "RUIZ",
+      "nombres": "KARINA EDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "35XXXX50",
+      "apellidos": "ARIAS",
+      "nombres": "DAIANA EDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "34XXXX16",
+      "apellidos": "FRANCO",
+      "nombres": "NATALIA PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX25",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

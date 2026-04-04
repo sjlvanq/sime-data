@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 41420,
+    "padron_id": 74825
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX55",
+      "apellidos": "GARCIA FERNANDEZ",
+      "nombres": "GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX23",
+      "apellidos": "SILVA",
+      "nombres": "ADRIANA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

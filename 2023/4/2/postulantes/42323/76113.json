@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42323,
+    "padron_id": 76113
+  },
+  "postulantes": [
+    {
+      "orden": 59,
+      "dni": "25XXXX13",
+      "apellidos": "BRITO",
+      "nombres": "MARTA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 42,
+      "dni": "21XXXX78",
+      "apellidos": "SORIA",
+      "nombres": "JULIO MARCELO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

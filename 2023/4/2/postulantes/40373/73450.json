@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 40373,
+    "padron_id": 73450
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX95",
+      "apellidos": "ALCARAZ",
+      "nombres": "JORGE ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX98",
+      "apellidos": "QUINTEROS",
+      "nombres": "LINA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

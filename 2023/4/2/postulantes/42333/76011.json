@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 42333,
+    "padron_id": 76011
+  },
+  "postulantes": [
+    {
+      "orden": 79,
+      "dni": "39XXXX85",
+      "apellidos": "MIRANDA",
+      "nombres": "FLORENCIA NAHIR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "35XXXX31",
+      "apellidos": "SALINA",
+      "nombres": "PABLO MIGUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 119,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 167,
+      "dni": "26XXXX91",
+      "apellidos": "SEQUEIRA",
+      "nombres": "NANCY MARIELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

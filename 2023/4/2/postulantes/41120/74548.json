@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 41120,
+    "padron_id": 74548
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX07",
+      "apellidos": "MORENO",
+      "nombres": "CECILIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX32",
+      "apellidos": "FIGUEROA",
+      "nombres": "MARIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

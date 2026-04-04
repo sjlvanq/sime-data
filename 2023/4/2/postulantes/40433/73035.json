@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40433,
+    "padron_id": 73035
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "32XXXX42",
+      "apellidos": "REYES",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX07",
+      "apellidos": "VERA JALUF",
+      "nombres": "FLORENCIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "29XXXX48",
+      "apellidos": "ZAMBRANO",
+      "nombres": "ELSA PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

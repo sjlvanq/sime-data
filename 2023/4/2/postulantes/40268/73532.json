@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 40268,
+    "padron_id": 73532
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX18",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "34XXXX78",
+      "apellidos": "LUNA",
+      "nombres": "CARMEN ESTHER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "33XXXX71",
+      "apellidos": "RIVADENEIRA",
+      "nombres": "LAURA SILVANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "28XXXX85",
+      "apellidos": "SORAIRE",
+      "nombres": "ADRIANA JULIETA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

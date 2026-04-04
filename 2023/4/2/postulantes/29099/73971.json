@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 29099,
+    "padron_id": 73971
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "22XXXX99",
+      "apellidos": "CORVALAN",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "31XXXX47",
+      "apellidos": "MANSILLA",
+      "nombres": "SEBASTIAN GERARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "30XXXX93",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX65",
+      "apellidos": "ROLDAN",
+      "nombres": "NICOLAS ALEJANDRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

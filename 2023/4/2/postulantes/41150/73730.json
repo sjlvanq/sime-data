@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 41150,
+    "padron_id": 73730
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX78",
+      "apellidos": "DIAZ",
+      "nombres": "ELIZABETH PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX63",
+      "apellidos": "SOBERON",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX78",
+      "apellidos": "UÑATES",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

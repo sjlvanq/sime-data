@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 39445,
+    "padron_id": 71533
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "18XXXX51",
+      "apellidos": "VIDAL",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX79",
+      "apellidos": "DE LA VEGA",
+      "nombres": "MARCELA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX02",
+      "apellidos": "GIL",
+      "nombres": "NOELIA MARIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

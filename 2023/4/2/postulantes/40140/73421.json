@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 40140,
+    "padron_id": 73421
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX91",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX57",
+      "apellidos": "PINTOS",
+      "nombres": "VANESA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

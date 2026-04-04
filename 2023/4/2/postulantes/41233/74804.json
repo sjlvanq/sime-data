@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 41233,
+    "padron_id": 74804
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "22XXXX99",
+      "apellidos": "CORVALAN",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX00",
+      "apellidos": "DECIMA",
+      "nombres": "JUAN LEANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "30XXXX93",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

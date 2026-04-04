@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "vacante_id": 42281,
+    "padron_id": 76368
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "39XXXX26",
+      "apellidos": "MONTERO",
+      "nombres": "ENZO FACUNDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX50",
+      "apellidos": "CORDOBA",
+      "nombres": "GUILLERMO DAMIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX84",
+      "apellidos": "MARQUESTO",
+      "nombres": "MARIO ANIBAL FRANCISCO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "36XXXX54",
+      "apellidos": "MAHMUD",
+      "nombres": "MARIANO AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "36XXXX18",
+      "apellidos": "GONZALEZ",
+      "nombres": "FABIAN ESTEBAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "29XXXX81",
+      "apellidos": "MORALES",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

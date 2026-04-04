@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 39353,
+    "padron_id": 74807
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX92",
+      "apellidos": "BALDERRAMA",
+      "nombres": "MARIELA LUCIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "31XXXX22",
+      "apellidos": "ROSALES",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX54",
+      "apellidos": "ROMERO GUNSET",
+      "nombres": "ANA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

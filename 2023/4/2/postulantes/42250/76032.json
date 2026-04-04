@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42250,
+    "padron_id": 76032
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX69",
+      "apellidos": "LAZARTE",
+      "nombres": "MARGARITA DE JESUS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX01",
+      "apellidos": "OCAMPO",
+      "nombres": "HECTOR RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

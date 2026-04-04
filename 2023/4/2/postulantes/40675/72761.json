@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 40675,
+    "padron_id": 72761
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "20XXXX95",
+      "apellidos": "VICTORIA",
+      "nombres": "JUAN MANUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 92,
+      "dni": "27XXXX17",
+      "apellidos": "VARELA MERCADO",
+      "nombres": "FABIANA ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

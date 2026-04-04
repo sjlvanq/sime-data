@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40583,
+    "padron_id": 73424
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX00",
+      "apellidos": "LEDESMA",
+      "nombres": "GRISELDA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "34XXXX75",
+      "apellidos": "RUIZ",
+      "nombres": "CRISTIAN GONZALO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40141,
+    "padron_id": 73524
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX84",
+      "apellidos": "MARQUESTO",
+      "nombres": "MARIO ANIBAL FRANCISCO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "29XXXX81",
+      "apellidos": "MORALES",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "41XXXX98",
+      "apellidos": "RUIZ",
+      "nombres": "ISMAEL HERNAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

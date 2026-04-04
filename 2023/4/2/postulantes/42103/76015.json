@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42103,
+    "padron_id": 76015
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "31XXXX04",
+      "apellidos": "SORIA",
+      "nombres": "MARIANA MICAELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "35XXXX50",
+      "apellidos": "ARIAS",
+      "nombres": "DAIANA EDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX25",
+      "apellidos": "COSTILLA PLES",
+      "nombres": "GABRIELA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
