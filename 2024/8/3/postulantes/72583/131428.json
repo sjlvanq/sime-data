@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72583,
+    "padron_id": 131428
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX63",
+      "apellidos": "BARON",
+      "nombres": "CAROLINA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX02",
+      "apellidos": "ALDANA",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "41XXXX69",
+      "apellidos": "ZELAYA",
+      "nombres": "NICOLAS AGUSTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

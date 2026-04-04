@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 75102,
+    "padron_id": 133853
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "27XXXX31",
+      "apellidos": "ROCA",
+      "nombres": "HECTOR ATILIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX22",
+      "apellidos": "PAEZ",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX29",
+      "apellidos": "GIMENA                                  ",
+      "nombres": "GABRIEL ANTONIO                         ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

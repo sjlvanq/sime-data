@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72620,
+    "padron_id": 130999
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "25XXXX95",
+      "apellidos": "BACAS",
+      "nombres": "GUSTAVO JAVIER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "38XXXX33",
+      "apellidos": "VERA",
+      "nombres": "ALEJANDRA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "36XXXX53",
+      "apellidos": "ADBES",
+      "nombres": "ANDREA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

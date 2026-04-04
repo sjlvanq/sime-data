@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 75166,
+    "padron_id": 133857
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX92",
+      "apellidos": "GONZALEZ",
+      "nombres": "HECTOR EMMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX38",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "LUIS FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "40XXXX14",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANTIAGO ELIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 74006,
+    "padron_id": 132104
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "36XXXX86",
+      "apellidos": "SALINAS",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "20XXXX33",
+      "apellidos": "CELIZ",
+      "nombres": "MARÍA TERESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX49",
+      "apellidos": "GUTIERREZ",
+      "nombres": "PABLO ULISES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

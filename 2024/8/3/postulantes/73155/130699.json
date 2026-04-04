@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 73155,
+    "padron_id": 130699
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX13",
+      "apellidos": "PAZ",
+      "nombres": "JULIO RENE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX92",
+      "apellidos": "VILLA",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "17XXXX84",
+      "apellidos": "SALVATIERRA",
+      "nombres": "RUBEN ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

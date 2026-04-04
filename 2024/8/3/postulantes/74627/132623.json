@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 74627,
+    "padron_id": 132623
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "20XXXX80",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX46",
+      "apellidos": "MODAD",
+      "nombres": "VERONICA EUGENIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX19",
+      "apellidos": "VERÓN",
+      "nombres": "ADELA PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 75100,
+    "padron_id": 133834
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX22",
+      "apellidos": "PAEZ",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX29",
+      "apellidos": "GIMENA                                  ",
+      "nombres": "GABRIEL ANTONIO                         ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
