@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50989,
+    "padron_id": 92260
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "31XXXX95",
+      "apellidos": "VICTORIA",
+      "nombres": "JUAN OSCAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX46",
+      "apellidos": "GRANDE",
+      "nombres": "NAHUEL RODRIGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "24XXXX95",
+      "apellidos": "CANCINOS",
+      "nombres": "JESUS ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

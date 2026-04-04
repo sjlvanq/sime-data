@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 51358,
+    "padron_id": 91424
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "26XXXX19",
+      "apellidos": "VEJAR MOYA",
+      "nombres": "ARIEL MAURICIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "32XXXX32",
+      "apellidos": "DEMONTE",
+      "nombres": "FRANCISCO JESÚS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "28XXXX29",
+      "apellidos": "CEPEDA",
+      "nombres": "JORGE LUIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "37XXXX51",
+      "apellidos": "MEDINA",
+      "nombres": "RICARDO EMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

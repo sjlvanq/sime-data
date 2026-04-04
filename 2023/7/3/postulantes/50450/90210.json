@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50450,
+    "padron_id": 90210
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX49",
+      "apellidos": "ROMERO",
+      "nombres": "NATALIA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX73",
+      "apellidos": "DIAZ",
+      "nombres": "RAUL FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX29",
+      "apellidos": "JUAREZ",
+      "nombres": "NILDA EDITH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

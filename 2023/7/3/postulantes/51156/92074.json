@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51156,
+    "padron_id": 92074
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "24XXXX78",
+      "apellidos": "MAURO",
+      "nombres": "CARLOS DEOLINDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX60",
+      "apellidos": "AGUERO",
+      "nombres": "EFRAIN MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX46",
+      "apellidos": "VIERA",
+      "nombres": "LUIS CESAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

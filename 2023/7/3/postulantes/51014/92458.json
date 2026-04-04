@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 51014,
+    "padron_id": 92458
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX01",
+      "apellidos": "ARCE ARRIOLA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX72",
+      "apellidos": "LUCCA",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX70",
+      "apellidos": "ORTIZ",
+      "nombres": "CHRISTIAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "41XXXX35",
+      "apellidos": "PICÓN MONTENEGRO",
+      "nombres": "ERNESTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "41XXXX23",
+      "apellidos": "ALBORNOZ RAMOS",
+      "nombres": "KATHERINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

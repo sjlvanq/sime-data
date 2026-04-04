@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 51018,
+    "padron_id": 92572
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX95",
+      "apellidos": "LOPEZ",
+      "nombres": "PABLO EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX28",
+      "apellidos": "LA BRUNA",
+      "nombres": "JORGE SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "42XXXX42",
+      "apellidos": "NAVARRO DI MARCO",
+      "nombres": "JÉSSICA PRISCILLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

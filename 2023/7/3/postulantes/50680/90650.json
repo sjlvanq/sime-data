@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 50680,
+    "padron_id": 90650
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX60",
+      "apellidos": "POZYVILKO",
+      "nombres": "MIRIAM GRICELDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "16XXXX87",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ADRIANA MARIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX88",
+      "apellidos": "CANSECO",
+      "nombres": "VERONICA ELISABET",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

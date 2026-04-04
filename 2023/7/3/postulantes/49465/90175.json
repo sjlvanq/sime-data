@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 49465,
+    "padron_id": 90175
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX89",
+      "apellidos": "PEREZ",
+      "nombres": "HECTOR MARIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX21",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "DIEGO MATIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX79",
+      "apellidos": "REY",
+      "nombres": "KAREN MARCELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

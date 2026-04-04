@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 51359,
+    "padron_id": 91427
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "18XXXX70",
+      "apellidos": "VALDIVIA GONZALEZ",
+      "nombres": "ADRIANA OLGA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "39XXXX38",
+      "apellidos": "AGUIRRE",
+      "nombres": "WALTER ALEJANDRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX55",
+      "apellidos": "CABRERA PEDERNERA",
+      "nombres": "ENZO GONZALO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "25XXXX80",
+      "apellidos": "BARRAZA",
+      "nombres": "ADRIANA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
