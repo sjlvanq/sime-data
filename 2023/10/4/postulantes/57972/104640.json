@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 57972,
+    "padron_id": 104640
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "28XXXX15",
+      "apellidos": "ABRAHAM",
+      "nombres": "CECILIA ADRIANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX90",
+      "apellidos": "ALARCON",
+      "nombres": "FERNANDA YOLANDA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX67",
+      "apellidos": "TOLEDO",
+      "nombres": "CLAUDIO DANIEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    }
+  ]
+}

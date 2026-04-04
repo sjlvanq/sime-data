@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 58908,
+    "padron_id": 105429
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX74",
+      "apellidos": "NIETO",
+      "nombres": "FABIANA DE LOS ANGELES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "DIRECTOR TITULAR"
+    },
+    {
+      "orden": 4,
+      "dni": "17XXXX18",
+      "apellidos": "GARCIA",
+      "nombres": "GRACIELA ENRIQUETA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "DIRECTOR TITULAR"
+    },
+    {
+      "orden": 6,
+      "dni": "20XXXX76",
+      "apellidos": "PULIDO",
+      "nombres": "CLAUDIA VERONICA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "DIRECTOR TITULAR"
+    }
+  ]
+}
