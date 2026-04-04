@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 49265,
+    "padron_id": 88200
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "17XXXX97",
+      "apellidos": "NAVARRO",
+      "nombres": "JORGE DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 19,
+      "dni": "21XXXX22",
+      "apellidos": "TULA",
+      "nombres": "MARIA LELIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 48,
+      "dni": "23XXXX54",
+      "apellidos": "RIOS",
+      "nombres": "CLAUDIA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 61,
+      "dni": "24XXXX00",
+      "apellidos": "BARBOSA",
+      "nombres": "ANDREA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 46141,
+    "padron_id": 86599
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "13XXXX21",
+      "apellidos": "ARIAS GUTIERREZ",
+      "nombres": "PATRICIA CRISTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "30XXXX84",
+      "apellidos": "AMADOR",
+      "nombres": "EZEQUIEL FRANCO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX29",
+      "apellidos": "ALBORNOZ",
+      "nombres": "CECILIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "22XXXX13",
+      "apellidos": "RAMÍREZ BUSTOS",
+      "nombres": "LAURA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

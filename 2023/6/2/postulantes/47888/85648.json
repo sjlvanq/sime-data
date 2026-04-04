@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 47888,
+    "padron_id": 85648
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "27XXXX84",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "MARCOS GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "28XXXX46",
+      "apellidos": "OVEJERO",
+      "nombres": "NOELIA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX84",
+      "apellidos": "MARQUESTO",
+      "nombres": "MARIO ANIBAL FRANCISCO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

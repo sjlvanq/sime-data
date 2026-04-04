@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 49293,
+    "padron_id": 88384
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "33XXXX59",
+      "apellidos": "QUERCI",
+      "nombres": "JOSÉ AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX10",
+      "apellidos": "BIANCHI",
+      "nombres": "MARIA DEL HUERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

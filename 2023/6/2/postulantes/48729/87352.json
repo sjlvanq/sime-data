@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48729,
+    "padron_id": 87352
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX00",
+      "apellidos": "BALDERRAMA",
+      "nombres": "GUILLERMO ARNALDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX17",
+      "apellidos": "PAZ",
+      "nombres": "JOHANA ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "32XXXX04",
+      "apellidos": "CAMPOS ANASTACIO",
+      "nombres": "VERÓNICA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

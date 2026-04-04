@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 49305,
+    "padron_id": 88433
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "33XXXX31",
+      "apellidos": "LEAL",
+      "nombres": "SONIA DEL ROSARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "26XXXX58",
+      "apellidos": "CALDERON",
+      "nombres": "MARIA EUGENIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "32XXXX13",
+      "apellidos": "LESCANO",
+      "nombres": "GRACIELA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

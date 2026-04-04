@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48876,
+    "padron_id": 87481
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "29XXXX88",
+      "apellidos": "OSCARI",
+      "nombres": "VERONICA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX51",
+      "apellidos": "VELASQUEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "23XXXX23",
+      "apellidos": "MELIAN                                  ",
+      "nombres": "VIVIANA ELIZABETH                       ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

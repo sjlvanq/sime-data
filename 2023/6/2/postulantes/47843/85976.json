@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 47843,
+    "padron_id": 85976
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "30XXXX84",
+      "apellidos": "AMADOR",
+      "nombres": "EZEQUIEL FRANCO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "21XXXX68",
+      "apellidos": "JUAREZ",
+      "nombres": "LIA VIVIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX33",
+      "apellidos": "MONZÓN",
+      "nombres": "VICTORIA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

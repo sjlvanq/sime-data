@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48998,
+    "padron_id": 88340
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX35",
+      "apellidos": "LAURIA",
+      "nombres": "VERENA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX36",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "HERNÁN NAZARENO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX16",
+      "apellidos": "SILVA",
+      "nombres": "KARINA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

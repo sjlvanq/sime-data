@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 47308,
+    "padron_id": 84927
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "30XXXX10",
+      "apellidos": "GALINDO",
+      "nombres": "SOFIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX85",
+      "apellidos": "SEIFER",
+      "nombres": "MYRIAM CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX79",
+      "apellidos": "DE LA VEGA",
+      "nombres": "MARCELA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "21XXXX56",
+      "apellidos": "JALIL",
+      "nombres": "ESTRELLA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "28XXXX60",
+      "apellidos": "CORREA LEROUX",
+      "nombres": "VERONICA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

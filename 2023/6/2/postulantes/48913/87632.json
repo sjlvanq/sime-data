@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 48913,
+    "padron_id": 87632
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "21XXXX85",
+      "apellidos": "SEIFER",
+      "nombres": "MYRIAM CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX79",
+      "apellidos": "DE LA VEGA",
+      "nombres": "MARCELA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "34XXXX52",
+      "apellidos": "NIEVA MURONI",
+      "nombres": "SOFIA AGOSTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

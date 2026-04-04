@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 48469,
+    "padron_id": 87512
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "31XXXX85",
+      "apellidos": "GOMEZ",
+      "nombres": "PAOLA ELISA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX15",
+      "apellidos": "FERNANDEZ",
+      "nombres": "JAVIER ADOLFO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "34XXXX41",
+      "apellidos": "LUCENA",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "33XXXX68",
+      "apellidos": "GALLARDO",
+      "nombres": "PATRICIA DANIELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 49474,
+    "padron_id": 88460
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX26",
+      "apellidos": "MORENO",
+      "nombres": "CARLOS EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX26",
+      "apellidos": "VERA",
+      "nombres": "ENRIQUE EZEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "17XXXX05",
+      "apellidos": "MORALES",
+      "nombres": "JOSE MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

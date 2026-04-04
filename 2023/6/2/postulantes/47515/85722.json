@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 47515,
+    "padron_id": 85722
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX50",
+      "apellidos": "MENDEZ",
+      "nombres": "PATRICIO LEONARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX71",
+      "apellidos": "CORONEL",
+      "nombres": "JUAN VICTOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX50",
+      "apellidos": "VERGARA",
+      "nombres": "CESAR VALENTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

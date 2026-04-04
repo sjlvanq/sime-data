@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 50360,
+    "padron_id": 89535
+  },
+  "postulantes": [
+    {
+      "orden": 40,
+      "dni": "21XXXX35",
+      "apellidos": "ROBLES",
+      "nombres": "MONICA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 42,
+      "dni": "23XXXX19",
+      "apellidos": "ORTEGA",
+      "nombres": "GUSTAVO ADRIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 50,
+      "dni": "22XXXX15",
+      "apellidos": "IBARRA",
+      "nombres": "SONIA MABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 51,
+      "dni": "26XXXX59",
+      "apellidos": "CAMPOS",
+      "nombres": "MARIA DOLORES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 119,
+      "dni": "21XXXX00",
+      "apellidos": "MEDINA",
+      "nombres": "FABIANA GUILLERMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

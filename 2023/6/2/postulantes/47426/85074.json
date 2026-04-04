@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 47426,
+    "padron_id": 85074
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "21XXXX15",
+      "apellidos": "MONASTERIO",
+      "nombres": "MONICA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 40,
+      "dni": "21XXXX35",
+      "apellidos": "ROBLES",
+      "nombres": "MONICA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 41,
+      "dni": "22XXXX88",
+      "apellidos": "MORENO",
+      "nombres": "BLANCA ADRIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

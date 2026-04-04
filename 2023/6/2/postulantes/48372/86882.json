@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 48372,
+    "padron_id": 86882
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "14XXXX19",
+      "apellidos": "CACERES",
+      "nombres": "NELIDA ELENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "35XXXX19",
+      "apellidos": "CENTENO",
+      "nombres": "HECTOR ALEJANDRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

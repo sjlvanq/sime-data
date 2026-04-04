@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 46789,
+    "padron_id": 84192
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "32XXXX42",
+      "apellidos": "REYES",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "29XXXX36",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARÍA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "36XXXX02",
+      "apellidos": "MUÑOZ CENTENO",
+      "nombres": "ANTONELA TAMARA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

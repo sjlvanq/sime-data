@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 49950,
+    "padron_id": 89398
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "20XXXX21",
+      "apellidos": "LEDESMA",
+      "nombres": "ROBERTO ROQUE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 15,
+      "dni": "24XXXX82",
+      "apellidos": "SALAZAR",
+      "nombres": "LIDIA MERCEDES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 19,
+      "dni": "21XXXX22",
+      "apellidos": "TULA",
+      "nombres": "MARIA LELIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

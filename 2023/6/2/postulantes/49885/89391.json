@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 49885,
+    "padron_id": 89391
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "17XXXX97",
+      "apellidos": "NAVARRO",
+      "nombres": "JORGE DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 19,
+      "dni": "21XXXX22",
+      "apellidos": "TULA",
+      "nombres": "MARIA LELIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

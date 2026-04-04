@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 46591,
+    "padron_id": 86152
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "33XXXX38",
+      "apellidos": "JUÁREZ",
+      "nombres": "DANIEL EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "29XXXX36",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARÍA EUGENIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

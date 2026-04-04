@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 48080,
+    "padron_id": 86470
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX90",
+      "apellidos": "CARRIZO",
+      "nombres": "VERONICA GABRIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX51",
+      "apellidos": "ALVARADO",
+      "nombres": "CRISTIAN MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

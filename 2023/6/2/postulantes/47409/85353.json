@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 47409,
+    "padron_id": 85353
+  },
+  "postulantes": [
+    {
+      "orden": 36,
+      "dni": "30XXXX24",
+      "apellidos": "MARTIN",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "27XXXX12",
+      "apellidos": "GALOVARD",
+      "nombres": "FRANCISCA PAULA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
