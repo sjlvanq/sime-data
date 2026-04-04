@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 73067,
+    "padron_id": 135122
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "25XXXX81",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "CLAUDIA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "27XXXX64",
+      "apellidos": "GUELARDI",
+      "nombres": "EDUARDO DANIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

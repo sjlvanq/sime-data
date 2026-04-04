@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 73557,
+    "padron_id": 130941
+  },
+  "postulantes": [
+    {
+      "orden": 49,
+      "dni": "20XXXX87",
+      "apellidos": "CRUZ",
+      "nombres": "SONIA FATIMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 307,
+      "dni": "22XXXX81",
+      "apellidos": "CAJAL",
+      "nombres": "MYRIAM ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "30XXXX06",
+      "apellidos": "LEIVA",
+      "nombres": "ESTEFANIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 73453,
+    "padron_id": 130640
+  },
+  "postulantes": [
+    {
+      "orden": 160,
+      "dni": "21XXXX17",
+      "apellidos": "VILLARREAL",
+      "nombres": "SILVINA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 179,
+      "dni": "21XXXX82",
+      "apellidos": "PALINA",
+      "nombres": "JUAN RAMON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "22XXXX11",
+      "apellidos": "ABRAHAM",
+      "nombres": "MARTA GLADYS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

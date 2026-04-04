@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 75931,
+    "padron_id": 134982
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "31XXXX51",
+      "apellidos": "CALVO",
+      "nombres": "CARLOS MARTIN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "23XXXX13",
+      "apellidos": "ISAS",
+      "nombres": "CRISTOBAL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "27XXXX00",
+      "apellidos": "ACOSTA",
+      "nombres": "CAROLINA SILVANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 75646,
+    "padron_id": 134553
+  },
+  "postulantes": [
+    {
+      "orden": 402,
+      "dni": "38XXXX83",
+      "apellidos": "FRIAS",
+      "nombres": "JOSE MARIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 517,
+      "dni": "23XXXX34",
+      "apellidos": "NIEVA",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 705,
+      "dni": "24XXXX85",
+      "apellidos": "ORTIZ",
+      "nombres": "PATRICIA ANGELICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1301,
+      "dni": "38XXXX67",
+      "apellidos": "MEDRANO",
+      "nombres": "SOFÍA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

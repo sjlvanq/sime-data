@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 75569,
+    "padron_id": 134168
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "39XXXX59",
+      "apellidos": "PAZ",
+      "nombres": "LUCIANO GABRIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "22XXXX25",
+      "apellidos": "PINILLA",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "39XXXX99",
+      "apellidos": "CABRERA",
+      "nombres": "MARIA DELIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

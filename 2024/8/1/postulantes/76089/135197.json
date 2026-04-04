@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 76089,
+    "padron_id": 135197
+  },
+  "postulantes": [
+    {
+      "orden": 41,
+      "dni": "28XXXX05",
+      "apellidos": "YERNA",
+      "nombres": "JORGE DAVID",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 171,
+      "dni": "24XXXX37",
+      "apellidos": "LEZCANO                                 ",
+      "nombres": "BLANCA GEORGINA                         ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 217,
+      "dni": "23XXXX22",
+      "apellidos": "ERAZO",
+      "nombres": "ALEJANDRA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

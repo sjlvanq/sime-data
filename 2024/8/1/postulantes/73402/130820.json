@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 73402,
+    "padron_id": 130820
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "22XXXX31",
+      "apellidos": "DE LA CRUZ",
+      "nombres": "CLAUDIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX38",
+      "apellidos": "JUÁREZ",
+      "nombres": "DANIEL EDUARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

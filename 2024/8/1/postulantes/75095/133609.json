@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 75095,
+    "padron_id": 133609
+  },
+  "postulantes": [
+    {
+      "orden": 357,
+      "dni": "20XXXX80",
+      "apellidos": "VALLEJO",
+      "nombres": "ALICIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 685,
+      "dni": "23XXXX86",
+      "apellidos": "PALACIOS",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1047,
+      "dni": "37XXXX67",
+      "apellidos": "VELEZ",
+      "nombres": "MARIA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

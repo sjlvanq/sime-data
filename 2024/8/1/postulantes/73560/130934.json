@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 73560,
+    "padron_id": 130934
+  },
+  "postulantes": [
+    {
+      "orden": 203,
+      "dni": "29XXXX87",
+      "apellidos": "ALVAREZ",
+      "nombres": "DEBORAH MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 275,
+      "dni": "20XXXX08",
+      "apellidos": "MERCADO",
+      "nombres": "ROSA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 266,
+      "dni": "28XXXX44",
+      "apellidos": "GARNICA",
+      "nombres": "LORENA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 75910,
+    "padron_id": 135132
+  },
+  "postulantes": [
+    {
+      "orden": 1041,
+      "dni": "38XXXX19",
+      "apellidos": "OJEDA",
+      "nombres": "RUTH DAIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 161,
+      "dni": "29XXXX71",
+      "apellidos": "MEDINA BONAHORA",
+      "nombres": "PABLO ENRIQUE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1138,
+      "dni": "42XXXX52",
+      "apellidos": "FARIAS",
+      "nombres": "FLORENCIA MACARENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

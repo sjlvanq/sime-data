@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 73540,
+    "padron_id": 130896
+  },
+  "postulantes": [
+    {
+      "orden": 81,
+      "dni": "28XXXX14",
+      "apellidos": "SALVATIERRA NAVARRO",
+      "nombres": "CINTHYA ANABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 275,
+      "dni": "20XXXX08",
+      "apellidos": "MERCADO",
+      "nombres": "ROSA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 139,
+      "dni": "34XXXX34",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "RITA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

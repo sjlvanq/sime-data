@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 75559,
+    "padron_id": 134234
+  },
+  "postulantes": [
+    {
+      "orden": 179,
+      "dni": "23XXXX48",
+      "apellidos": "MORENO RUIZ",
+      "nombres": "MARCELA ROXANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 355,
+      "dni": "25XXXX49",
+      "apellidos": "ABDALA FORTE",
+      "nombres": "SILVINA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 266,
+      "dni": "28XXXX44",
+      "apellidos": "GARNICA",
+      "nombres": "LORENA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

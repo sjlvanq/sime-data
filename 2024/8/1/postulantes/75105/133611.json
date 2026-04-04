@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 75105,
+    "padron_id": 133611
+  },
+  "postulantes": [
+    {
+      "orden": 696,
+      "dni": "35XXXX98",
+      "apellidos": "VALLEJO",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 925,
+      "dni": "37XXXX21",
+      "apellidos": "AGUILERA",
+      "nombres": "FABIANA EDITH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 682,
+      "dni": "35XXXX98",
+      "apellidos": "GEREZ",
+      "nombres": "NADIR EMILSE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1047,
+      "dni": "37XXXX67",
+      "apellidos": "VELEZ",
+      "nombres": "MARIA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 75781,
+    "padron_id": 134777
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "32XXXX12",
+      "apellidos": "PALOMEQUE",
+      "nombres": "MELINA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "22XXXX84",
+      "apellidos": "VERA",
+      "nombres": "PATRICIA ROXANA FATIMA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "29XXXX76",
+      "apellidos": "VARELA",
+      "nombres": "VANESA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

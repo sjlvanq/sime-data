@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 73900,
+    "padron_id": 131605
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "23XXXX61",
+      "apellidos": "VERA",
+      "nombres": "ESTELA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "18XXXX74",
+      "apellidos": "CARDENA",
+      "nombres": "RAMONA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX68",
+      "apellidos": "NUÑEZ",
+      "nombres": "ALICIA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

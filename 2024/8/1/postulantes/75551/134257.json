@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 75551,
+    "padron_id": 134257
+  },
+  "postulantes": [
+    {
+      "orden": 75,
+      "dni": "30XXXX01",
+      "apellidos": "CASTRO",
+      "nombres": "ALICIA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 132,
+      "dni": "23XXXX48",
+      "apellidos": "MORENO RUIZ",
+      "nombres": "MARCELA ROXANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

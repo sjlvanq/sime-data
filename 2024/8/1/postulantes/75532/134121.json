@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 75532,
+    "padron_id": 134121
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "33XXXX57",
+      "apellidos": "BARROS",
+      "nombres": "OSCAR DARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "32XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "BETTIANA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

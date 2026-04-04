@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 76128,
+    "padron_id": 135209
+  },
+  "postulantes": [
+    {
+      "orden": 28,
+      "dni": "32XXXX07",
+      "apellidos": "LESCANO",
+      "nombres": "GABRIELA OLGA GISELLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "29XXXX68",
+      "apellidos": "CABRERA",
+      "nombres": "ANGELA RUTH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "27XXXX84",
+      "apellidos": "SAL",
+      "nombres": "MAGDALENA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "31XXXX56",
+      "apellidos": "SOSA",
+      "nombres": "ELINA EDITH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 75041,
+    "padron_id": 133343
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "27XXXX73",
+      "apellidos": "BULACIO",
+      "nombres": "JOSE ARMANDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "29XXXX02",
+      "apellidos": "BESERRA",
+      "nombres": "JOSE FERNANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

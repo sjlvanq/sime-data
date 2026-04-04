@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 73962,
+    "padron_id": 133556
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "21XXXX74",
+      "apellidos": "CHAZARRETA",
+      "nombres": "PATRICIA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 160,
+      "dni": "21XXXX17",
+      "apellidos": "VILLARREAL",
+      "nombres": "SILVINA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 63,
+      "dni": "22XXXX89",
+      "apellidos": "MENTZ",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

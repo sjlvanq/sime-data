@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 75760,
+    "padron_id": 134695
+  },
+  "postulantes": [
+    {
+      "orden": 450,
+      "dni": "26XXXX66",
+      "apellidos": "ESCOBAR",
+      "nombres": "VALERIA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 705,
+      "dni": "24XXXX85",
+      "apellidos": "ORTIZ",
+      "nombres": "PATRICIA ANGELICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1131,
+      "dni": "34XXXX06",
+      "apellidos": "BURGOS",
+      "nombres": "YOHANA ROMINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

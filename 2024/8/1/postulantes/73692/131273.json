@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 73692,
+    "padron_id": 131273
+  },
+  "postulantes": [
+    {
+      "orden": 211,
+      "dni": "27XXXX37",
+      "apellidos": "LOPEZ",
+      "nombres": "VERONICA ELBA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 139,
+      "dni": "34XXXX34",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "RITA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 146,
+      "dni": "29XXXX43",
+      "apellidos": "CAMPOS",
+      "nombres": "EUGENIA DEL ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
