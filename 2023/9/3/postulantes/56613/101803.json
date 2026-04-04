@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56613,
+    "padron_id": 101803
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX99",
+      "apellidos": "GOMEZ",
+      "nombres": "MENINA LUCIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX25",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "35XXXX18",
+      "apellidos": "JUAREZ                                  ",
+      "nombres": "JOSE EMILIANO                           ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

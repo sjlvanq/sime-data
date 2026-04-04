@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 55343,
+    "padron_id": 101622
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX98",
+      "apellidos": "TOLEDO",
+      "nombres": "JOAQUIN DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "18XXXX76",
+      "apellidos": "SANCHEZ",
+      "nombres": "CESAR MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

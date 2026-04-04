@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "vacante_id": 55796,
+    "padron_id": 100112
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "22XXXX25",
+      "apellidos": "BRIZUELA",
+      "nombres": "ÉRICA RENÉE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "16XXXX09",
+      "apellidos": "HERRERA",
+      "nombres": "ADELA FATIMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX55",
+      "apellidos": "CABRERA PEDERNERA",
+      "nombres": "ENZO GONZALO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "24XXXX99",
+      "apellidos": "QUINTERO",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX47",
+      "apellidos": "ORTEGA",
+      "nombres": "SHIRLEY MARIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "33XXXX48",
+      "apellidos": "ARANDA",
+      "nombres": "MARTA EMILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX03",
+      "apellidos": "CAMPERO",
+      "nombres": "ROSANA ELIZABET",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX48",
+      "apellidos": "LEIVA",
+      "nombres": "SILVIA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

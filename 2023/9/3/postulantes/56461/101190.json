@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 56461,
+    "padron_id": 101190
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX44",
+      "apellidos": "GUINDAN",
+      "nombres": "CARLOS ERNESTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP TITULAR"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX97",
+      "apellidos": "TOLEDO",
+      "nombres": "ARIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "MEP TITULAR"
+    }
+  ]
+}

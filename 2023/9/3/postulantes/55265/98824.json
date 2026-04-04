@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 55265,
+    "padron_id": 98824
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "41XXXX36",
+      "apellidos": "ALBORNOZ",
+      "nombres": "RODRIGO NAZARENO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX62",
+      "apellidos": "BENDIK",
+      "nombres": "ADRIAN OMAR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55271,
+    "padron_id": 98801
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "37XXXX73",
+      "apellidos": "HERRERA",
+      "nombres": "RITA NOEMÍ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "28XXXX82",
+      "apellidos": "RIVERA",
+      "nombres": "RUBEN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "26XXXX51",
+      "apellidos": "ZELAYA",
+      "nombres": "ROBERTO GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

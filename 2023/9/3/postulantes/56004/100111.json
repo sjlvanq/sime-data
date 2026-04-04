@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56004,
+    "padron_id": 100111
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "41XXXX31",
+      "apellidos": "QUINTEROS",
+      "nombres": "JULIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "32XXXX49",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "NORA GISEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "37XXXX88",
+      "apellidos": "ALBORNOZ ORTIZ",
+      "nombres": "MARIA MAJELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

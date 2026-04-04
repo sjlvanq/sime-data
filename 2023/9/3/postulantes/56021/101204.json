@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56021,
+    "padron_id": 101204
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX40",
+      "apellidos": "HADAD",
+      "nombres": "MAURICIO GUILLERMO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "28XXXX62",
+      "apellidos": "VELARDEZ",
+      "nombres": "SEBASTIAN HORACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX66",
+      "apellidos": "GONZALEZ",
+      "nombres": "RAUL ESTEBAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

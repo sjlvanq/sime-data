@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 56116,
+    "padron_id": 100289
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX46",
+      "apellidos": "TOLEDO",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "17XXXX21",
+      "apellidos": "PACHECO",
+      "nombres": "FABIAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

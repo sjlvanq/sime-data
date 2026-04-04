@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 54288,
+    "padron_id": 97861
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "37XXXX74",
+      "apellidos": "SANCHEZ",
+      "nombres": "PAOLA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "39XXXX34",
+      "apellidos": "JUAREZ",
+      "nombres": "LOURDES LUCIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "32XXXX40",
+      "apellidos": "OSORES",
+      "nombres": "VALERIA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

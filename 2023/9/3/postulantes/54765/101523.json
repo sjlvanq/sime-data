@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 54765,
+    "padron_id": 101523
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX39",
+      "apellidos": "VEGA",
+      "nombres": "JAVIER MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX29",
+      "apellidos": "MAMONTE",
+      "nombres": "ROQUE FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

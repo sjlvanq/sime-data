@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55343,
+    "padron_id": 101623
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "31XXXX41",
+      "apellidos": "GIANFELICI",
+      "nombres": "NOELIA MARISA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX52",
+      "apellidos": "BIANCHI",
+      "nombres": "SEBASTIAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "14XXXX34",
+      "apellidos": "CISNEROS",
+      "nombres": "RUBEN PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

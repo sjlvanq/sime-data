@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "vacante_id": 56116,
+    "padron_id": 100290
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX60",
+      "apellidos": "OYOLA",
+      "nombres": "RAMON ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX10",
+      "apellidos": "PERDIGUERO",
+      "nombres": "ANDRES ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX46",
+      "apellidos": "TOLEDO",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "32XXXX54",
+      "apellidos": "PALMA",
+      "nombres": "EDGAR ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "28XXXX62",
+      "apellidos": "VELARDEZ",
+      "nombres": "SEBASTIAN HORACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX07",
+      "apellidos": "ASSAD",
+      "nombres": "JESUS EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "21XXXX94",
+      "apellidos": "TAPIA",
+      "nombres": "CESAR ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

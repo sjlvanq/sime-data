@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55419,
+    "padron_id": 99186
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "35XXXX49",
+      "apellidos": "CORBALAN",
+      "nombres": "CARLOS ABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX57",
+      "apellidos": "VILLAGRA",
+      "nombres": "DELIA ISABEL DEL ROSARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX08",
+      "apellidos": "ORELLANA",
+      "nombres": "MARIA ESTHER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

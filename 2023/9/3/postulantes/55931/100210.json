@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55931,
+    "padron_id": 100210
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX00",
+      "apellidos": "GARCIA",
+      "nombres": "ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX03",
+      "apellidos": "GARCIA",
+      "nombres": "OMAR MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "17XXXX00",
+      "apellidos": "SAENZ                                   ",
+      "nombres": "ROQUE AGUSTIN                           ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

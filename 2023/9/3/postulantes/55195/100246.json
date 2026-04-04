@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55195,
+    "padron_id": 100246
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "21XXXX38",
+      "apellidos": "IBRAHIM",
+      "nombres": "SERGIO GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX90",
+      "apellidos": "DIAZ",
+      "nombres": "IVAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "17XXXX23",
+      "apellidos": "RASGIDO",
+      "nombres": "OSVALDO EUGENIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 50004,
+    "padron_id": 101191
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX66",
+      "apellidos": "FIGUEROA",
+      "nombres": "MARCELO FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX29",
+      "apellidos": "RUIZ",
+      "nombres": "ARNALDO ANIBAL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

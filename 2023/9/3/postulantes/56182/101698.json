@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56182,
+    "padron_id": 101698
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX54",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA ROXANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "27XXXX71",
+      "apellidos": "PEREZ",
+      "nombres": "MARIO GASTON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX31",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIELA NOELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 56378,
+    "padron_id": 102093
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX21",
+      "apellidos": "JEREZ",
+      "nombres": "JOSE ROLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX38",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "LUIS FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
