@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 54392,
+    "padron_id": 99732
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX23",
+      "apellidos": "ABREGU",
+      "nombres": "RITA DEL CARMEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX10",
+      "apellidos": "JUÁREZ",
+      "nombres": "ANDREA SOFIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX75",
+      "apellidos": "PADOVANI",
+      "nombres": "PATRICIA SUSANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX46",
+      "apellidos": "SANDOVAL",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    }
+  ]
+}

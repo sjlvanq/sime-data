@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 55761,
+    "padron_id": 100145
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX92",
+      "apellidos": "AVILA",
+      "nombres": "SANDRA MARCELA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX47",
+      "apellidos": "MARTINEZ",
+      "nombres": "ELIANA MICAELA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX12",
+      "apellidos": "SALAZAR PAZ",
+      "nombres": "VANINA MERCEDES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    }
+  ]
+}

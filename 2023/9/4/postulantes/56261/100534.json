@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 56261,
+    "padron_id": 100534
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "31XXXX30",
+      "apellidos": "PICCO",
+      "nombres": "RAUL EDUARDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "22XXXX99",
+      "apellidos": "CORVALAN",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX46",
+      "apellidos": "LOPEZ",
+      "nombres": "JULIETA MARIA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX79",
+      "apellidos": "CENA",
+      "nombres": "CARLA CECILIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

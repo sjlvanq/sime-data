@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 56322,
+    "padron_id": 100826
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX39",
+      "apellidos": "SOTO",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "29XXXX07",
+      "apellidos": "LEDESMA",
+      "nombres": "JAVIER MATIAS",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "38XXXX60",
+      "apellidos": "RIVERO",
+      "nombres": "CARLOS PATRICIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
