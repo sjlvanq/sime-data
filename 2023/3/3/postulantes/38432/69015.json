@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 38432,
+    "padron_id": 69015
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX21",
+      "apellidos": "LEIVA",
+      "nombres": "MARIO JAVIER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "25XXXX12",
+      "apellidos": "DE MINGO",
+      "nombres": "SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "37XXXX74",
+      "apellidos": "PONCE",
+      "nombres": "JAVIER EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

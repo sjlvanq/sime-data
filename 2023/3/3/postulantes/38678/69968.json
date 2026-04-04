@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 38678,
+    "padron_id": 69968
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX74",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARCELO ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX74",
+      "apellidos": "VARELA",
+      "nombres": "JOSE ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

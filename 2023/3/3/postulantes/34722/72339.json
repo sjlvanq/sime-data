@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34722,
+    "padron_id": 72339
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "37XXXX99",
+      "apellidos": "LENCINA",
+      "nombres": "RODRIGO NAHUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX48",
+      "apellidos": "SUAREZ",
+      "nombres": "CELESTE STEFANIA DEL MILAGRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "36XXXX21",
+      "apellidos": "BRITEZ",
+      "nombres": "MATIAS ALEXIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

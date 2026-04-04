@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 38758,
+    "padron_id": 70063
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX14",
+      "apellidos": "JUAREZ",
+      "nombres": "VERONICA NATALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "37XXXX59",
+      "apellidos": "OCAMPO",
+      "nombres": "RUTH ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX20",
+      "apellidos": "BRAVO IÑIGUEZ",
+      "nombres": "CARLOS NELSON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

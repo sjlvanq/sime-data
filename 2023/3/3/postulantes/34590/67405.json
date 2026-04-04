@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34590,
+    "padron_id": 67405
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX24",
+      "apellidos": "DIAZ                                    ",
+      "nombres": "RICARDO JOSE                            ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX78",
+      "apellidos": "MARQUEZ",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX07",
+      "apellidos": "VEGA",
+      "nombres": "JOSE LEONARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 38658,
+    "padron_id": 71419
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "24XXXX21",
+      "apellidos": "DIAZ",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX45",
+      "apellidos": "OCAMPO",
+      "nombres": "CARLA ELIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

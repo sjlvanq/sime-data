@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 38368,
+    "padron_id": 68993
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "17XXXX10",
+      "apellidos": "DEL MORAL",
+      "nombres": "MARIO EDGARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "38XXXX20",
+      "apellidos": "MORAN",
+      "nombres": "BRUNO GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "35XXXX35",
+      "apellidos": "ALBORNOZ",
+      "nombres": "JIMENA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

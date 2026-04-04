@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 37151,
+    "padron_id": 67291
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX42",
+      "apellidos": "FIGUEROA",
+      "nombres": "DIEGO ARMANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX78",
+      "apellidos": "MARQUEZ",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

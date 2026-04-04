@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 18270,
+    "padron_id": 67932
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX26",
+      "apellidos": "SOTO",
+      "nombres": "OVIDIO WENCESLAO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX28",
+      "apellidos": "GONZALEZ",
+      "nombres": "OSCAR DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "26XXXX53",
+      "apellidos": "DIAZ",
+      "nombres": "NELSON EDGARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

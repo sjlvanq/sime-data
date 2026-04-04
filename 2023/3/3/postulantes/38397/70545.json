@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 38397,
+    "padron_id": 70545
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "35XXXX46",
+      "apellidos": "GRANDE",
+      "nombres": "NAHUEL RODRIGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX90",
+      "apellidos": "COSTA",
+      "nombres": "ISMAEL DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

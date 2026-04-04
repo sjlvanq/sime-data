@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 37915,
+    "padron_id": 68542
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "16XXXX73",
+      "apellidos": "BORQUEZ",
+      "nombres": "JUAN OMAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX29",
+      "apellidos": "LANCELLA",
+      "nombres": "YULIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

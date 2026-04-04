@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 39754,
+    "padron_id": 72375
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX89",
+      "apellidos": "DIEZ",
+      "nombres": "OSCAR DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "41XXXX78",
+      "apellidos": "BULACIO",
+      "nombres": "BRUNO ISAAC",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "39XXXX12",
+      "apellidos": "MURUA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

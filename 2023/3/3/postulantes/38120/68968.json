@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 38120,
+    "padron_id": 68968
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX71",
+      "apellidos": "JUAREZ",
+      "nombres": "JOSE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX96",
+      "apellidos": "ROMANO",
+      "nombres": "MANUEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 4,
+      "dni": "18XXXX24",
+      "apellidos": "ALMARAZ",
+      "nombres": "BONIFACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 5,
+      "dni": "18XXXX03",
+      "apellidos": "DORADO",
+      "nombres": "MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

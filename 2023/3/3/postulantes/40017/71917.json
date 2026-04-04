@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40017,
+    "padron_id": 71917
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "16XXXX67",
+      "apellidos": "SOSA",
+      "nombres": "MARCOS RUBÉN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX92",
+      "apellidos": "GONZALEZ",
+      "nombres": "HECTOR EMMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX28",
+      "apellidos": "CARDOZO",
+      "nombres": "CRISTIAN WALTER DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
