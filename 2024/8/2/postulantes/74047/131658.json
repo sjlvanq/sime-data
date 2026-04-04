@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 74047,
+    "padron_id": 131658
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX45",
+      "apellidos": "ROMERO",
+      "nombres": "BENJAMIN JOSE ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX08",
+      "apellidos": "GRAMAJO",
+      "nombres": "ALEJANDRA ANALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX95",
+      "apellidos": "ZELAYA",
+      "nombres": "ALICIA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

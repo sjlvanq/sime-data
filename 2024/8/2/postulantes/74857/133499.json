@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 74857,
+    "padron_id": 133499
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "32XXXX38",
+      "apellidos": "ESCALANTE                               ",
+      "nombres": "LUCIA INES                              ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "36XXXX02",
+      "apellidos": "MUÑOZ CENTENO",
+      "nombres": "ANTONELA TAMARA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "34XXXX57",
+      "apellidos": "NUÑEZ                                   ",
+      "nombres": "MARIA DEL MILAGRO                       ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

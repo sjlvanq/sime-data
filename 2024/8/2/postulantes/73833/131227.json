@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 73833,
+    "padron_id": 131227
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "17XXXX14",
+      "apellidos": "KUCHUK",
+      "nombres": "HORACIO RAUL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "28XXXX68",
+      "apellidos": "VALDIVIESO",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX04",
+      "apellidos": "SALAS",
+      "nombres": "LUZ MARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

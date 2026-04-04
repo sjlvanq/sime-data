@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 74537,
+    "padron_id": 132989
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "34XXXX97",
+      "apellidos": "JOSE",
+      "nombres": "JOHANA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "34XXXX65",
+      "apellidos": "VILLARES CORBALAN",
+      "nombres": "MARTIN RODRIGO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "36XXXX94",
+      "apellidos": "CANSECO",
+      "nombres": "FRANCO EMANUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

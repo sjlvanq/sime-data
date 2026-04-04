@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 71499,
+    "padron_id": 132472
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "36XXXX27",
+      "apellidos": "FELIPE MAZA",
+      "nombres": "MARIANA YANEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "36XXXX83",
+      "apellidos": "BONILLA",
+      "nombres": "BRUNO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX54",
+      "apellidos": "OLMEDO",
+      "nombres": "JUAN  JOSÉ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "41XXXX83",
+      "apellidos": "DELGADO",
+      "nombres": "CAMILA ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

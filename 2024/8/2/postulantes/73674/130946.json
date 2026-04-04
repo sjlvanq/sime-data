@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 73674,
+    "padron_id": 130946
+  },
+  "postulantes": [
+    {
+      "orden": 74,
+      "dni": "38XXXX71",
+      "apellidos": "MEDINA",
+      "nombres": "GABRIEL NICOLAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "17XXXX20",
+      "apellidos": "MADRAZO",
+      "nombres": "JOSE ZENON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 63,
+      "dni": "28XXXX31",
+      "apellidos": "CALDERON",
+      "nombres": "PATRICIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

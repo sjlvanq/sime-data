@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 75063,
+    "padron_id": 134328
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "27XXXX84",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "MARCOS GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "38XXXX51",
+      "apellidos": "ALVAREZ",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "41XXXX74",
+      "apellidos": "CORONEL",
+      "nombres": "EXEQUIEL DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "31XXXX21",
+      "apellidos": "CASARES",
+      "nombres": "MARIO GUILLERMO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

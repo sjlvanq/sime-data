@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 73518,
+    "padron_id": 130761
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX36",
+      "apellidos": "DECIMA",
+      "nombres": "JORGE GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX70",
+      "apellidos": "PERAL",
+      "nombres": "SUSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

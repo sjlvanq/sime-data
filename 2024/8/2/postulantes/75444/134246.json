@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 75444,
+    "padron_id": 134246
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX17",
+      "apellidos": "DIAZ SALAZAR",
+      "nombres": "JUAN GUILLERMO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "25XXXX66",
+      "apellidos": "CARDOZO",
+      "nombres": "LAURA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "26XXXX47",
+      "apellidos": "DRUBE",
+      "nombres": "PABLO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

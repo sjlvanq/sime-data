@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 75645,
+    "padron_id": 134275
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "24XXXX73",
+      "apellidos": "ORTIZ",
+      "nombres": "JOSÉ LUIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "26XXXX99",
+      "apellidos": "CABRERA",
+      "nombres": "RAUL ORLANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX35",
+      "apellidos": "LONZALLE",
+      "nombres": "LURDES JIMENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX89",
+      "apellidos": "SORIA",
+      "nombres": "NELIDA PAMELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX80",
+      "apellidos": "MORENO LEDESMA",
+      "nombres": "LUCIANO ALBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

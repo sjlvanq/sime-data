@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 74214,
+    "padron_id": 131964
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX18",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "28XXXX59",
+      "apellidos": "OCAMPO",
+      "nombres": "ESTELA ROSA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "28XXXX61",
+      "apellidos": "SANCHEZ",
+      "nombres": "EMMA NATIVIDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

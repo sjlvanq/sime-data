@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 72845,
+    "padron_id": 131287
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "38XXXX51",
+      "apellidos": "ALVAREZ",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

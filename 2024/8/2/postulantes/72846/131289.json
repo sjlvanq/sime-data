@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 72846,
+    "padron_id": 131289
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "21XXXX87",
+      "apellidos": "PERALTA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

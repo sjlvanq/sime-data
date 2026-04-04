@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 73608,
+    "padron_id": 131112
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "28XXXX39",
+      "apellidos": "ZELARAYAN",
+      "nombres": "HERNAN ANTONIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "38XXXX31",
+      "apellidos": "HERRERA",
+      "nombres": "NOELIA MARIA RITA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "30XXXX05",
+      "apellidos": "PUJOL",
+      "nombres": "MARIA DE LAS MERCEDES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

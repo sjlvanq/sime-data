@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 74181,
+    "padron_id": 132271
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "28XXXX46",
+      "apellidos": "ORTEGA",
+      "nombres": "LUCIANA GISELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "34XXXX17",
+      "apellidos": "FERNÁNDEZ",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX72",
+      "apellidos": "CORBALAN ROMANO",
+      "nombres": "BERENICE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

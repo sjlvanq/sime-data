@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 74212,
+    "padron_id": 131983
+  },
+  "postulantes": [
+    {
+      "orden": 102,
+      "dni": "32XXXX00",
+      "apellidos": "MONTOYA",
+      "nombres": "RICARDO DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 169,
+      "dni": "23XXXX70",
+      "apellidos": "ARRIETA",
+      "nombres": "ARIEL OMAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 174,
+      "dni": "41XXXX60",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE LUIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 146,
+      "dni": "33XXXX99",
+      "apellidos": "BULACIO FIGUEROA",
+      "nombres": "FLORENCIA IBANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 75149,
+    "padron_id": 133576
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX72",
+      "apellidos": "VAQUERA",
+      "nombres": "MARIA DEL PILAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX50",
+      "apellidos": "MENDEZ",
+      "nombres": "PATRICIO LEONARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
