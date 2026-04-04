@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42344,
+    "padron_id": 75744
+  },
+  "postulantes": [
+    {
+      "orden": 275,
+      "dni": "37XXXX79",
+      "apellidos": "ROJAS ALONSO",
+      "nombres": "IRIS GABRIELA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 442,
+      "dni": "25XXXX05",
+      "apellidos": "LOBO",
+      "nombres": "JUDITH VERONICA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 550,
+      "dni": "35XXXX48",
+      "apellidos": "ROBLES",
+      "nombres": "JULIETA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

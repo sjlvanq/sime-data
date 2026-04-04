@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40385,
+    "padron_id": 73277
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "27XXXX34",
+      "apellidos": "ARIAS",
+      "nombres": "FABIO ARGENTINO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX72",
+      "apellidos": "DIAZ",
+      "nombres": "JOSÉ RICARDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX75",
+      "apellidos": "MAXUD",
+      "nombres": "JULIO FERNANDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

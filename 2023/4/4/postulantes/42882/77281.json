@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 42882,
+    "padron_id": 77281
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX35",
+      "apellidos": "LIAS",
+      "nombres": "MARÍA BETIANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "24XXXX03",
+      "apellidos": "VEGA BESTANI",
+      "nombres": "VERONICA SOLEDAD",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

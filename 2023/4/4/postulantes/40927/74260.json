@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40927,
+    "padron_id": 74260
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "37XXXX33",
+      "apellidos": "SOTELO",
+      "nombres": "IVANA MABEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX65",
+      "apellidos": "MUSSA",
+      "nombres": "MAIRA EDITH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX44",
+      "apellidos": "GUARAS",
+      "nombres": "DORA IRENE DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

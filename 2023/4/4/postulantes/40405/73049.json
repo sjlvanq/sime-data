@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 40405,
+    "padron_id": 73049
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX91",
+      "apellidos": "ZELARAYAN",
+      "nombres": "JOSE MARIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX59",
+      "apellidos": "BAZAN",
+      "nombres": "NICOLAS HERNAN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX29",
+      "apellidos": "MERCADO",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 42956,
+    "padron_id": 77319
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "30XXXX15",
+      "apellidos": "MEDINA",
+      "nombres": "GUILLERMO FERNANDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "35XXXX87",
+      "apellidos": "GUTIERREZ",
+      "nombres": "DANIEL ANGEL ELIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "39XXXX93",
+      "apellidos": "MELIÁN",
+      "nombres": "MARIA AGOSTINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
