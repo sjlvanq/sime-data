@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 82250,
+    "padron_id": 147191
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX56",
+      "apellidos": "CRUZ",
+      "nombres": "EMILIO MIGUEL ANGEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 139,
+      "dni": "37XXXX62",
+      "apellidos": "MEDINA",
+      "nombres": "JOSE ENRIQUE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "38XXXX17",
+      "apellidos": "VEGA",
+      "nombres": "ROBERTO RAMON",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

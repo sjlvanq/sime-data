@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 82409,
+    "padron_id": 145431
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX67",
+      "apellidos": "MACHUCA",
+      "nombres": "JULIAN MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX77",
+      "apellidos": "REARTE",
+      "nombres": "DAVID ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX93",
+      "apellidos": "RUIZ",
+      "nombres": "RODOLFO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX47",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "EXEQUIEL ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

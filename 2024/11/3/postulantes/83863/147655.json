@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 83863,
+    "padron_id": 147655
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX84",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "IGNACIO HUGO RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "20XXXX17",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "RODOLFO ALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX50",
+      "apellidos": "PEREZ                                   ",
+      "nombres": "LUCIANO HERNAN                          ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 83265,
+    "padron_id": 147074
+  },
+  "postulantes": [
+    {
+      "orden": 39,
+      "dni": "34XXXX05",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA LUCIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "40XXXX18",
+      "apellidos": "GUZMAN",
+      "nombres": "ANA GABRIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 56,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

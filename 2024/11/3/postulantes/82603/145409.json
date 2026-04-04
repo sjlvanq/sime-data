@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 82603,
+    "padron_id": 145409
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "36XXXX38",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANDREA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "35XXXX63",
+      "apellidos": "VALDEZ",
+      "nombres": "LUIS ALFREDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "34XXXX41",
+      "apellidos": "HERRERA",
+      "nombres": "MYRIAM NATALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "20XXXX49",
+      "apellidos": "TAPIA",
+      "nombres": "HUGO CEFERINO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

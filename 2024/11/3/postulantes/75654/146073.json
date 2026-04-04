@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 75654,
+    "padron_id": 146073
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX20",
+      "apellidos": "MARTINEZ",
+      "nombres": "HECTOR RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX62",
+      "apellidos": "VELARDEZ",
+      "nombres": "SEBASTIAN HORACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX83",
+      "apellidos": "DIAZ",
+      "nombres": "RICARDO ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

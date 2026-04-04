@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 81835,
+    "padron_id": 144425
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX62",
+      "apellidos": "JUAREZ",
+      "nombres": "TOMAS AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX31",
+      "apellidos": "MIRANDA",
+      "nombres": "JUAN ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

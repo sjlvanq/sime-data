@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 82417,
+    "padron_id": 145461
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX15",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "YANINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX35",
+      "apellidos": "PEREZ",
+      "nombres": "JULIETA EVANGELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "41XXXX29",
+      "apellidos": "CARRIZO",
+      "nombres": "RITA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

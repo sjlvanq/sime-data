@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 82877,
+    "padron_id": 146898
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX04",
+      "apellidos": "ALBORNOZ",
+      "nombres": "LUIS ARTURO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX22",
+      "apellidos": "FLORES",
+      "nombres": "LUIS PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

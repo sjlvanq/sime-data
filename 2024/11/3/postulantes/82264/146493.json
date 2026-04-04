@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 82264,
+    "padron_id": 146493
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "37XXXX90",
+      "apellidos": "ABREGU",
+      "nombres": "VANESA CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 95,
+      "dni": "40XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "PAMELA CONSTANZA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 87,
+      "dni": "33XXXX95",
+      "apellidos": "VOIGT COMAN",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

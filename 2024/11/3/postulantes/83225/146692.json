@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 83225,
+    "padron_id": 146692
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "33XXXX55",
+      "apellidos": "GARAY",
+      "nombres": "CESAR GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX16",
+      "apellidos": "GARAY",
+      "nombres": "LIDIO MATIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

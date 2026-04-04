@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 81602,
+    "padron_id": 144183
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "21XXXX20",
+      "apellidos": "TAURIZANO",
+      "nombres": "HUGO FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "17XXXX49",
+      "apellidos": "CHAYLE",
+      "nombres": "CLAUDIA VIVIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "22XXXX63",
+      "apellidos": "TORENA",
+      "nombres": "DANIEL MIRCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

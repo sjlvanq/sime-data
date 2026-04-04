@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 82308,
+    "padron_id": 146958
+  },
+  "postulantes": [
+    {
+      "orden": 40,
+      "dni": "40XXXX97",
+      "apellidos": "VILLAVERDE GOMEZ",
+      "nombres": "MARIANELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 110,
+      "dni": "41XXXX89",
+      "apellidos": "EUGSTER",
+      "nombres": "SANDRA  MARILIN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "38XXXX58",
+      "apellidos": "BULACIO",
+      "nombres": "LUCIANA AGUSTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

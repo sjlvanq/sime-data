@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 82012,
+    "padron_id": 145190
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX22",
+      "apellidos": "CAJAL",
+      "nombres": "MARIO SERGIO JESUS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX95",
+      "apellidos": "PACHECO",
+      "nombres": "LEONARDO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

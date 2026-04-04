@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 83124,
+    "padron_id": 146703
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX02",
+      "apellidos": "MONTEROS",
+      "nombres": "SERGIO MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX05",
+      "apellidos": "ALVAREZ",
+      "nombres": "IVANNA MELISA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "93XXXX20",
+      "apellidos": "MOLINA CARRIZALES",
+      "nombres": "BRIGITTE MELIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

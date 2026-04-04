@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 81630,
+    "padron_id": 144489
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX72",
+      "apellidos": "VELIZ",
+      "nombres": "ROSA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX51",
+      "apellidos": "FERNANDEZ",
+      "nombres": "LUCIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "13XXXX56",
+      "apellidos": "MELO",
+      "nombres": "ANGEL OSCAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

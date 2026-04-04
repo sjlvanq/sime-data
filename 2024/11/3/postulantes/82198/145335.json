@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 82198,
+    "padron_id": 145335
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "20XXXX09",
+      "apellidos": "DE MIRAT",
+      "nombres": "GABRIEL ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX02",
+      "apellidos": "MONTEROS",
+      "nombres": "SERGIO MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "25XXXX80",
+      "apellidos": "ESQUIVEL",
+      "nombres": "JOSE IGNACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "26XXXX55",
+      "apellidos": "BUSTAMANTE",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "40XXXX68",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "PABLO EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

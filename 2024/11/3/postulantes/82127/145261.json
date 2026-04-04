@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 82127,
+    "padron_id": 145261
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX67",
+      "apellidos": "MACHUCA",
+      "nombres": "JULIAN MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "22XXXX68",
+      "apellidos": "JEREZ",
+      "nombres": "EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX29",
+      "apellidos": "VALDEZ",
+      "nombres": "MARIA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

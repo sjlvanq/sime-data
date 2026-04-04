@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 83386,
+    "padron_id": 147088
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX74",
+      "apellidos": "FUENSALIDA",
+      "nombres": "SOFIA JOSEFINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX81",
+      "apellidos": "MEDINA",
+      "nombres": "JORGE ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX54",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

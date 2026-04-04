@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 81500,
+    "padron_id": 143926
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX31",
+      "apellidos": "MACIEL",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "37XXXX07",
+      "apellidos": "LAZARTE",
+      "nombres": "JANET ESTEFANIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "43XXXX46",
+      "apellidos": "MOREIRA",
+      "nombres": "VICTORIA IVANA MERCEDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "44XXXX25",
+      "apellidos": "REYNOSO",
+      "nombres": "ROBERT RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

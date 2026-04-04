@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 81397,
+    "padron_id": 143964
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX05",
+      "apellidos": "DELGADO",
+      "nombres": "ALBA LUZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX29",
+      "apellidos": "ALBORNOZ",
+      "nombres": "LUIS FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 81710,
+    "padron_id": 145110
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX95",
+      "apellidos": "ALBARRACIN",
+      "nombres": "FRANCO RAMON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX14",
+      "apellidos": "PAZ",
+      "nombres": "SEBASTIAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

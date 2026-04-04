@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 82087,
+    "padron_id": 144462
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "35XXXX22",
+      "apellidos": "CARDOZO LAVIN",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "32XXXX12",
+      "apellidos": "ZARATE",
+      "nombres": "HERNAN PATRICIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "37XXXX62",
+      "apellidos": "MEDINA",
+      "nombres": "JOSE ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

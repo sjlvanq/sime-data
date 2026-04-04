@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 83681,
+    "padron_id": 147406
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX30",
+      "apellidos": "OYOLA",
+      "nombres": "PABLO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX22",
+      "apellidos": "CARABAJAL",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

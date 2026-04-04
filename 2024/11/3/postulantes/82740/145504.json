@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 82740,
+    "padron_id": 145504
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX05",
+      "apellidos": "ARAOZ",
+      "nombres": "MANUEL NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "VICE DIRECTOR INTERINO"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX88",
+      "apellidos": "BRITO",
+      "nombres": "JOSE RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX73",
+      "apellidos": "FRIAS",
+      "nombres": "DANIEL AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 6,
+      "dni": "20XXXX42",
+      "apellidos": "MOYA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

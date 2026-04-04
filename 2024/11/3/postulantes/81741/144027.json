@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 81741,
+    "padron_id": 144027
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "37XXXX71",
+      "apellidos": "ANDRADA",
+      "nombres": "CONSTANZA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "43XXXX46",
+      "apellidos": "MOREIRA",
+      "nombres": "VICTORIA IVANA MERCEDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "44XXXX25",
+      "apellidos": "REYNOSO",
+      "nombres": "ROBERT RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

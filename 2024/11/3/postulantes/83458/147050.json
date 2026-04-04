@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 83458,
+    "padron_id": 147050
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX55",
+      "apellidos": "ALE",
+      "nombres": "MIRTA LILIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX51",
+      "apellidos": "HERRERA",
+      "nombres": "PATRICIA FERNANDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "32XXXX51",
+      "apellidos": "SEMAN",
+      "nombres": "ALEJANDRA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "32XXXX12",
+      "apellidos": "MARTINEZ",
+      "nombres": "SAMUEL MAXIMO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

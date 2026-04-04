@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 82601,
+    "padron_id": 145408
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "35XXXX98",
+      "apellidos": "FUNES",
+      "nombres": "HÉCTOR MAXIMILIANO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "32XXXX30",
+      "apellidos": "MAMANÍ",
+      "nombres": "MARCELO HUGO ALEJANDRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "32XXXX56",
+      "apellidos": "BORDALLO",
+      "nombres": "SANTIAGO LUIS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "26XXXX21",
+      "apellidos": "GODOY",
+      "nombres": "HECTOR RENE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

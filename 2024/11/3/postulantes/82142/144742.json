@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 82142,
+    "padron_id": 144742
+  },
+  "postulantes": [
+    {
+      "orden": 113,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 122,
+      "dni": "28XXXX33",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "34XXXX19",
+      "apellidos": "DEL VALLE",
+      "nombres": "GISELA CELESTE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

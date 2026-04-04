@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 83337,
+    "padron_id": 146835
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX66",
+      "apellidos": "PAZ",
+      "nombres": "VICTOR ADOLFO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "31XXXX57",
+      "apellidos": "MARQUEZ",
+      "nombres": "GUSTAVO ADOLFO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
