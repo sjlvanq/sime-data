@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104816,
+    "padron_id": 182698
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "36XXXX86",
+      "apellidos": "GIORGIS",
+      "nombres": "ANTONELLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "23XXXX17",
+      "apellidos": "JOFRE URZAGASTI",
+      "nombres": "LARISA MARIA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "23XXXX09",
+      "apellidos": "BELMONTE",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

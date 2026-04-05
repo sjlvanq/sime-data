@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103497,
+    "padron_id": 180668
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX14",
+      "apellidos": "SANTILLAN",
+      "nombres": "ADRIANA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX36",
+      "apellidos": "AREDEZ",
+      "nombres": "HECTOR ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "29XXXX14",
+      "apellidos": "SOSA JUAREZ",
+      "nombres": "MARIA VICTORIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

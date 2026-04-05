@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103498,
+    "padron_id": 180690
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX60",
+      "apellidos": "VERGES",
+      "nombres": "CLAUDIO MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "38XXXX20",
+      "apellidos": "MARRADES",
+      "nombres": "EMILSE MARIBEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "37XXXX70",
+      "apellidos": "PEREZ",
+      "nombres": "ROCIO ANAHI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

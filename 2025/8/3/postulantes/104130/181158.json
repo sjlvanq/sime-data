@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104130,
+    "padron_id": 181158
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX97",
+      "apellidos": "TOLEDO",
+      "nombres": "ARIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX19",
+      "apellidos": "ROJAS",
+      "nombres": "MATIAS ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX54",
+      "apellidos": "ARROYO",
+      "nombres": "NAZARENO ALVARO ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

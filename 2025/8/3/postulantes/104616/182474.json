@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 104616,
+    "padron_id": 182474
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX23",
+      "apellidos": "ALBORNOZ CARRION",
+      "nombres": "BRUNO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX88",
+      "apellidos": "VENCHIARUTTI",
+      "nombres": "RODOLFO MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX15",
+      "apellidos": "ROMANO                                  ",
+      "nombres": "CARLOS OSCAR                            ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX45",
+      "apellidos": "SALAZAR",
+      "nombres": "JORGE MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

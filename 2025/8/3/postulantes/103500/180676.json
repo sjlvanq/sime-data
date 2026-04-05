@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 103500,
+    "padron_id": 180676
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "39XXXX90",
+      "apellidos": "SUAREZ",
+      "nombres": "MELISA SABRINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "31XXXX08",
+      "apellidos": "PEDERNERA",
+      "nombres": "GABRIELA LEONOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "29XXXX36",
+      "apellidos": "BARROJO",
+      "nombres": "TEOFILO ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "41XXXX80",
+      "apellidos": "TEJERINA",
+      "nombres": "ROCIO MERCEDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

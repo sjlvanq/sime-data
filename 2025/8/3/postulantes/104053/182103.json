@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 104053,
+    "padron_id": 182103
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "35XXXX01",
+      "apellidos": "LOPEZ GORDILLO",
+      "nombres": "PEDRO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX55",
+      "apellidos": "TEJEDA",
+      "nombres": "DANIELA YAQUELINE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX34",
+      "apellidos": "SOSA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "39XXXX58",
+      "apellidos": "PONCE",
+      "nombres": "SOL AGUSTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

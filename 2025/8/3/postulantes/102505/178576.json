@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 102505,
+    "padron_id": 178576
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX26",
+      "apellidos": "BURGOS",
+      "nombres": "CLAUDIO AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX14",
+      "apellidos": "RIVERO",
+      "nombres": "LUCIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

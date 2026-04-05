@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 102154,
+    "padron_id": 178589
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "21XXXX81",
+      "apellidos": "RUIZ",
+      "nombres": "SERGIO OSCAR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX22",
+      "apellidos": "JIMENEZ",
+      "nombres": "DIEGO ALEJANDRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

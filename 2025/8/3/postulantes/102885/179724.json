@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102885,
+    "padron_id": 179724
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "27XXXX69",
+      "apellidos": "GIMENEZ",
+      "nombres": "ROSA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "28XXXX74",
+      "apellidos": "BORDON",
+      "nombres": "ALDO CRISTHIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "24XXXX39",
+      "apellidos": "PEREZ",
+      "nombres": "SILVINA ELEONORA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

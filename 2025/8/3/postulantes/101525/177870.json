@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "vacante_id": 101525,
+    "padron_id": 177870
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX00",
+      "apellidos": "GARCIA",
+      "nombres": "ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX94",
+      "apellidos": "TAPIA",
+      "nombres": "CESAR ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX05",
+      "apellidos": "AGUILERA",
+      "nombres": "SEBASTIAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "32XXXX75",
+      "apellidos": "CORNEJO",
+      "nombres": "FABIO GREGORIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX73",
+      "apellidos": "GIGENA GOMEZ",
+      "nombres": "GONZALO RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "40XXXX63",
+      "apellidos": "ARREGUEZ                                ",
+      "nombres": "SERGIO LEANDRO NICOLAS                  ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "43XXXX00",
+      "apellidos": "MONTERO",
+      "nombres": "JESUS NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
