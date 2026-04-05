@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 62763,
+    "padron_id": 112048
+  },
+  "postulantes": [
+    {
+      "orden": 59,
+      "dni": "22XXXX22",
+      "apellidos": "LIZARRAGA",
+      "nombres": "MARIA SILVIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 56,
+      "dni": "24XXXX22",
+      "apellidos": "VEGA",
+      "nombres": "NANCY ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

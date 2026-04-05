@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 62667,
+    "padron_id": 111631
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "29XXXX50",
+      "apellidos": "CORDOBA",
+      "nombres": "GUILLERMO DAMIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX14",
+      "apellidos": "VAQUERA MALAGOLI",
+      "nombres": "DARIO OSVALDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

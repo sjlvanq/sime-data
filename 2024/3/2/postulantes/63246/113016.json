@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 63246,
+    "padron_id": 113016
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "31XXXX33",
+      "apellidos": "ALBARRACÍN",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "29XXXX41",
+      "apellidos": "TOSCANO",
+      "nombres": "MARGARITA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "37XXXX69",
+      "apellidos": "AGUIRRE",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "33XXXX16",
+      "apellidos": "CHICO ",
+      "nombres": "ELEONORA GISELLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

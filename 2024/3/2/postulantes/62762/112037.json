@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 62762,
+    "padron_id": 112037
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "24XXXX87",
+      "apellidos": "IBRAHIM",
+      "nombres": "MARIELA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 66,
+      "dni": "25XXXX15",
+      "apellidos": "BACHUR",
+      "nombres": "PABLO ABRAHAM",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 23,
+      "dni": "24XXXX04",
+      "apellidos": "ANDRADE",
+      "nombres": "CLAUDIA FABIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

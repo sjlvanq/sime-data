@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 63375,
+    "padron_id": 112919
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "30XXXX24",
+      "apellidos": "MARTIN",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "33XXXX40",
+      "apellidos": "PEREYRA",
+      "nombres": "IGNACIO JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "24XXXX04",
+      "apellidos": "CALDELARI",
+      "nombres": "MARÍA JOAQUINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "18XXXX52",
+      "apellidos": "AQUINO",
+      "nombres": "RUBEN ANTONIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX11",
+      "apellidos": "ALE",
+      "nombres": "MARIA AURORA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

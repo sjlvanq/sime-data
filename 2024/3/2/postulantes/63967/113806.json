@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 63967,
+    "padron_id": 113806
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX22",
+      "apellidos": "PAEZ",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "27XXXX53",
+      "apellidos": "EMGE",
+      "nombres": "MARTIN LORENZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

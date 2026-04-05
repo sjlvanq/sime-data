@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 62231,
+    "padron_id": 111711
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX25",
+      "apellidos": "GONZALEZ",
+      "nombres": "VICTOR ARCADIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX95",
+      "apellidos": "JALIL QUIROGA",
+      "nombres": "LUISA ESTELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

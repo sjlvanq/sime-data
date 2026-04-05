@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63318,
+    "padron_id": 112738
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX15",
+      "apellidos": "SANTILLAN",
+      "nombres": "MARCOS AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX77",
+      "apellidos": "GONZALEZ",
+      "nombres": "SILVANA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX06",
+      "apellidos": "MURUA",
+      "nombres": "FLORENCIA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

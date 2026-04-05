@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63115,
+    "padron_id": 112665
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "16XXXX36",
+      "apellidos": "JUAREZ",
+      "nombres": "ALBA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "33XXXX12",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOSE MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "29XXXX84",
+      "apellidos": "MENGUAL",
+      "nombres": "VERONICA PRISCILA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63477,
+    "padron_id": 113788
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "21XXXX06",
+      "apellidos": "GASCO",
+      "nombres": "SANDRA ELENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX72",
+      "apellidos": "SUAREZ",
+      "nombres": "FATIMA ANGELICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "27XXXX95",
+      "apellidos": "GARAY",
+      "nombres": "VICTOR OSVALDO EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

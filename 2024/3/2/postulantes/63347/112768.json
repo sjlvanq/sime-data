@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63347,
+    "padron_id": 112768
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "20XXXX80",
+      "apellidos": "LOPEZ",
+      "nombres": "MARIELA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 86,
+      "dni": "17XXXX31",
+      "apellidos": "PETRONI MUSTAFA",
+      "nombres": "JORGE BERNARDINO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 20,
+      "dni": "25XXXX95",
+      "apellidos": "ALCARAZ",
+      "nombres": "JORGE ARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

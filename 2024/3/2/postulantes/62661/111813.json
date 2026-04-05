@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 62661,
+    "padron_id": 111813
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX65",
+      "apellidos": "JIMENEZ",
+      "nombres": "PATRICIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "24XXXX82",
+      "apellidos": "ALARCON",
+      "nombres": "MYRIAN ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

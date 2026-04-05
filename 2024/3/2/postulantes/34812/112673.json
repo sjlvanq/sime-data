@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "vacante_id": 34812,
+    "padron_id": 112673
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX22",
+      "apellidos": "PAEZ",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX23",
+      "apellidos": "FERREYRA",
+      "nombres": "JULIETA  INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX49",
+      "apellidos": "COSIANSI",
+      "nombres": "CARLOS DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX08",
+      "apellidos": "REY",
+      "nombres": "NATALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "27XXXX53",
+      "apellidos": "EMGE",
+      "nombres": "MARTIN LORENZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX65",
+      "apellidos": "VILLARES CORBALAN",
+      "nombres": "MARTIN RODRIGO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

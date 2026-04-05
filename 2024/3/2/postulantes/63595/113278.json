@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63595,
+    "padron_id": 113278
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "26XXXX58",
+      "apellidos": "CALDERON",
+      "nombres": "MARIA EUGENIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "29XXXX36",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARÍA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX07",
+      "apellidos": "VERA JALUF",
+      "nombres": "FLORENCIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 62664,
+    "padron_id": 111839
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "24XXXX82",
+      "apellidos": "ALARCON",
+      "nombres": "MYRIAN ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "33XXXX71",
+      "apellidos": "RIVADENEIRA",
+      "nombres": "LAURA SILVANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
