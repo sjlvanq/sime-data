@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23076,
+    "padron_id": 41968
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "25XXXX00",
+      "apellidos": "DIAZ SARTINI",
+      "nombres": "JORDAN AROLDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

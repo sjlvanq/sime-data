@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23000,
+    "padron_id": 42655
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "27XXXX95",
+      "apellidos": "CECILIA",
+      "nombres": "MARIA VANESA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "36XXXX88",
+      "apellidos": "VERA",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "29XXXX20",
+      "apellidos": "ROSALES",
+      "nombres": "NATALIA SILVANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

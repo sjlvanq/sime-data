@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23574,
+    "padron_id": 42625
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "37XXXX40",
+      "apellidos": "SANTILLAN",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "36XXXX14",
+      "apellidos": "DIAZ",
+      "nombres": "NATALIA ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "31XXXX64",
+      "apellidos": "PAEZ",
+      "nombres": "GISELA NOEMI",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
