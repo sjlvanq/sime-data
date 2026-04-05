@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 8928,
+    "padron_id": 15150
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "23XXXX15",
+      "apellidos": "FERNANDEZ PASCUAL",
+      "nombres": "LUIS FELIPE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "28XXXX34",
+      "apellidos": "PAZ",
+      "nombres": "RAMONA LILIANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "30XXXX05",
+      "apellidos": "VERA",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
