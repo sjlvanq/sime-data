@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 116532,
+    "padron_id": 202078
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "23XXXX53",
+      "apellidos": "WASSUF",
+      "nombres": "MARTHA LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "25XXXX01",
+      "apellidos": "GONZALEZ",
+      "nombres": "KARINA DANIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "21XXXX28",
+      "apellidos": "MANSILLA",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "21XXXX52",
+      "apellidos": "CORNEJO",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

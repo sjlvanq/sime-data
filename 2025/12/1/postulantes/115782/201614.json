@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115782,
+    "padron_id": 201614
+  },
+  "postulantes": [
+    {
+      "orden": 51,
+      "dni": "25XXXX99",
+      "apellidos": "VILLA",
+      "nombres": "PAOLA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 430,
+      "dni": "23XXXX47",
+      "apellidos": "JAVIER",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 206,
+      "dni": "33XXXX12",
+      "apellidos": "ARIAS",
+      "nombres": "CLAUDIA GABRIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

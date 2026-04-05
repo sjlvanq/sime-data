@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 116176,
+    "padron_id": 201399
+  },
+  "postulantes": [
+    {
+      "orden": 398,
+      "dni": "26XXXX11",
+      "apellidos": "FIGUEROA",
+      "nombres": "MARIA SILVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 495,
+      "dni": "22XXXX18",
+      "apellidos": "MIAU",
+      "nombres": "SILVIA GRACIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 110,
+      "dni": "27XXXX93",
+      "apellidos": "JUAREZ",
+      "nombres": "ANDREA FABIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

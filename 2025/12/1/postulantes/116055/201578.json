@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 116055,
+    "padron_id": 201578
+  },
+  "postulantes": [
+    {
+      "orden": 258,
+      "dni": "25XXXX91",
+      "apellidos": "DIAZ",
+      "nombres": "SILVIA SUSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 360,
+      "dni": "22XXXX58",
+      "apellidos": "ROMANO",
+      "nombres": "ADRIANA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 118,
+      "dni": "26XXXX66",
+      "apellidos": "ORELLANA",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

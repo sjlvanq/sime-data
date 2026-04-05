@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 114867,
+    "padron_id": 201222
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "39XXXX16",
+      "apellidos": "BARBA",
+      "nombres": "MICAELA AYELEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "34XXXX38",
+      "apellidos": "LOPEZ MORALES",
+      "nombres": "JULIO CESAR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 68,
+      "dni": "34XXXX50",
+      "apellidos": "CEBALLOS",
+      "nombres": "LOURDES DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 83,
+      "dni": "30XXXX46",
+      "apellidos": "XAMENA",
+      "nombres": "DARIO MARCELO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
