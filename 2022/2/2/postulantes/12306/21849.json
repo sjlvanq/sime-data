@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12306,
+    "padron_id": 21849
+  },
+  "postulantes": [
+    {
+      "orden": 106,
+      "dni": "33XXXX53",
+      "apellidos": "ARCE",
+      "nombres": "LUIS EMILIANO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 116,
+      "dni": "36XXXX18",
+      "apellidos": "TOLEDO",
+      "nombres": "BRENDA GISELL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 109,
+      "dni": "36XXXX16",
+      "apellidos": "ARNAU",
+      "nombres": "MARIA PAULA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

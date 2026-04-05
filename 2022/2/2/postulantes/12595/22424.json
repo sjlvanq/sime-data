@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 12595,
+    "padron_id": 22424
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "22XXXX37",
+      "apellidos": "ITUARTE",
+      "nombres": "ROMINA MARIA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 29,
+      "dni": "17XXXX25",
+      "apellidos": "JUAREZ",
+      "nombres": "ALBERTO NICOLAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 61,
+      "dni": "23XXXX19",
+      "apellidos": "ORTEGA",
+      "nombres": "GUSTAVO ADRIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 108,
+      "dni": "25XXXX68",
+      "apellidos": "SEGURA",
+      "nombres": "SERGIO ALBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 120,
+      "dni": "24XXXX91",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "MONICA CARINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

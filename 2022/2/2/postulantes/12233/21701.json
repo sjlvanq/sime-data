@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12233,
+    "padron_id": 21701
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "32XXXX74",
+      "apellidos": "LAZARINO",
+      "nombres": "FATIMA GIANINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "29XXXX89",
+      "apellidos": "JUAREZ",
+      "nombres": "RAMÓN ADRIÁN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "36XXXX09",
+      "apellidos": "DIAZ",
+      "nombres": "NADIA BELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

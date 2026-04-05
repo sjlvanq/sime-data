@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11522,
+    "padron_id": 22051
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "27XXXX49",
+      "apellidos": "VARELA",
+      "nombres": "CAROLA EDIT",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 78,
+      "dni": "39XXXX45",
+      "apellidos": "SILVA",
+      "nombres": "PAULA SOLANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 105,
+      "dni": "37XXXX94",
+      "apellidos": "SAPULA",
+      "nombres": "NOELIA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

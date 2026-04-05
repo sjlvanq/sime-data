@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11256,
+    "padron_id": 22133
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "33XXXX01",
+      "apellidos": "PAEZ ALDERETES",
+      "nombres": "JOSE ANDRES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX98",
+      "apellidos": "FIGUEREDO",
+      "nombres": "SILVIA VANESA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

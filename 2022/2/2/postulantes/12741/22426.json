@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 12741,
+    "padron_id": 22426
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "20XXXX78",
+      "apellidos": "SANCHEZ",
+      "nombres": "CLARA ALCIRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "24XXXX19",
+      "apellidos": "GONZALEZ",
+      "nombres": "CARMEN PATRICIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

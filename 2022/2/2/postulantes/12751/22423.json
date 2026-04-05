@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 12751,
+    "padron_id": 22423
+  },
+  "postulantes": [
+    {
+      "orden": 22,
+      "dni": "33XXXX99",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA NOELIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "37XXXX44",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "DAIANA GISEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "29XXXX17",
+      "apellidos": "PRATS",
+      "nombres": "SILVIA LUCIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "35XXXX56",
+      "apellidos": "SANCHEZ RAMIREZ",
+      "nombres": "WALTER GABRIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

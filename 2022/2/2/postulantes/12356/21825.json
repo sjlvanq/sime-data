@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 12356,
+    "padron_id": 21825
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "21XXXX94",
+      "apellidos": "GALAZAN",
+      "nombres": "NICOLAS CARIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 46,
+      "dni": "20XXXX40",
+      "apellidos": "AGUDO",
+      "nombres": "JULIO ARGENTINO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 62,
+      "dni": "21XXXX25",
+      "apellidos": "HERNANDEZ",
+      "nombres": "DORA VIVIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 93,
+      "dni": "23XXXX25",
+      "apellidos": "MEDINA",
+      "nombres": "LUISA ISABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 19,
+      "dni": "22XXXX88",
+      "apellidos": "MORENO",
+      "nombres": "BLANCA ADRIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

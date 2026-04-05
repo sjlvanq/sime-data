@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11379,
+    "padron_id": 22119
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "34XXXX12",
+      "apellidos": "ALBORNOZ RIVERO",
+      "nombres": "CAMILA VERÓNICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "17XXXX34",
+      "apellidos": "PODINGA",
+      "nombres": "ANABELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
