@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13007,
+    "padron_id": 23223
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "36XXXX96",
+      "apellidos": "NAZAR",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "32XXXX47",
+      "apellidos": "PORTUGAL",
+      "nombres": "VICTORIA ANAHI",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "35XXXX23",
+      "apellidos": "MAGARIÑOS",
+      "nombres": "CARLOS OSCAR",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

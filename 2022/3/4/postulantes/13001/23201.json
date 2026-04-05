@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13001,
+    "padron_id": 23201
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "31XXXX43",
+      "apellidos": "SUELDO",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX67",
+      "apellidos": "ABELLA",
+      "nombres": "LUCIANA JUDITH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "28XXXX88",
+      "apellidos": "IGNE",
+      "nombres": "CYNTHIA ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
