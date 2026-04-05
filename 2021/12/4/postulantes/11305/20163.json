@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11305,
+    "padron_id": 20163
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "36XXXX45",
+      "apellidos": "DIP",
+      "nombres": "JORGE LUIS",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "24XXXX59",
+      "apellidos": "JUAREZ",
+      "nombres": "ANGEL GUSTAVO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
