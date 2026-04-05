@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 13132,
+    "padron_id": 29622
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX74",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "GUSTAVO ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "JEFE GENERAL / JEFE TALLER / JEFE SECTORIAL INTERINO"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX79",
+      "apellidos": "FIGUEROA",
+      "nombres": "FABIAN HUGO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "JEFE GENERAL / JEFE TALLER / JEFE SECTORIAL INTERINO"
+    },
+    {
+      "orden": 7,
+      "dni": "17XXXX87",
+      "apellidos": "ORELLANA",
+      "nombres": "AMERICO GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 10,
+      "dni": "26XXXX44",
+      "apellidos": "SANTILLAN",
+      "nombres": "MARCOS DIEGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

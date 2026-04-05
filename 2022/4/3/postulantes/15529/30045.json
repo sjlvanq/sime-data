@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15529,
+    "padron_id": 30045
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "36XXXX30",
+      "apellidos": "CEQUI",
+      "nombres": "PEDRO MIGUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "17XXXX25",
+      "apellidos": "OCAMPO",
+      "nombres": "SALVADOR ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "38XXXX62",
+      "apellidos": "GOMEZ",
+      "nombres": "EMILCE PAMELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

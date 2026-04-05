@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 14114,
+    "padron_id": 26994
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX01",
+      "apellidos": "ZELAYA",
+      "nombres": "MARIO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX84",
+      "apellidos": "ARRIAZU",
+      "nombres": "EZEQUIEL HOMERO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15943,
+    "padron_id": 28698
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX99",
+      "apellidos": "MEDINA",
+      "nombres": "DARIO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX06",
+      "apellidos": "GARCIA",
+      "nombres": "RODRIGO ADOLFO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX50",
+      "apellidos": "GELSI                                   ",
+      "nombres": "MATIAS                                  ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17030,
+    "padron_id": 30707
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX73",
+      "apellidos": "BUSTAMANTE",
+      "nombres": "ROSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "37XXXX73",
+      "apellidos": "HERRERA",
+      "nombres": "RITA NOEMÍ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX11",
+      "apellidos": "RAT",
+      "nombres": "JOSE JONATAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

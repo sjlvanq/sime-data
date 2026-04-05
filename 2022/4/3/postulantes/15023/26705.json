@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15023,
+    "padron_id": 26705
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX45",
+      "apellidos": "LAZO",
+      "nombres": "MARIELA VIVIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX12",
+      "apellidos": "NARANJO",
+      "nombres": "CLAUDIA NATALI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX95",
+      "apellidos": "LATERE",
+      "nombres": "RITA LILIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

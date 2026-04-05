@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 14447,
+    "padron_id": 26879
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "25XXXX28",
+      "apellidos": "D AMATO",
+      "nombres": "GIOCONDA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "21XXXX33",
+      "apellidos": "RIVADENEIRA",
+      "nombres": "BLANCA ANTONIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX75",
+      "apellidos": "GARCIA",
+      "nombres": "VIRGINIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "22XXXX94",
+      "apellidos": "GONZALEZ",
+      "nombres": "JULIA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "25XXXX86",
+      "apellidos": "SORIA",
+      "nombres": "SUSANA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

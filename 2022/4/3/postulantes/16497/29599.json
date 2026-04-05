@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 16497,
+    "padron_id": 29599
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX54",
+      "apellidos": "PALMA",
+      "nombres": "EDGAR ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX34",
+      "apellidos": "CASTILLO",
+      "nombres": "NATALIA LILIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "28XXXX37",
+      "apellidos": "FRIAS",
+      "nombres": "MIGUEL SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

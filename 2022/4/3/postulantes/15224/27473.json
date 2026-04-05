@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 15224,
+    "padron_id": 27473
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX57",
+      "apellidos": "LOPEZ",
+      "nombres": "FABIANA NICOLASA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX35",
+      "apellidos": "GUTIERREZ",
+      "nombres": "ENRIQUE GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 8050,
+    "padron_id": 26990
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX71",
+      "apellidos": "ALURRALDE",
+      "nombres": "ADOLFO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX76",
+      "apellidos": "SALAS",
+      "nombres": "CLAUDIA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX73",
+      "apellidos": "VIDES",
+      "nombres": "RUBEN EMILIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14307,
+    "padron_id": 27528
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX11",
+      "apellidos": "LLAMAL",
+      "nombres": "ROMINA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX50",
+      "apellidos": "DIAZ SHEHADI",
+      "nombres": "ANA VICTORIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "28XXXX11",
+      "apellidos": "OCAMPOS",
+      "nombres": "GUILLERMO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

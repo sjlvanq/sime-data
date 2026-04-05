@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14735,
+    "padron_id": 27758
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX31",
+      "apellidos": "MACIEL",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX36",
+      "apellidos": "CORREA",
+      "nombres": "DEOLINDA MERCEDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX89",
+      "apellidos": "TREJO",
+      "nombres": "GRACIELA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

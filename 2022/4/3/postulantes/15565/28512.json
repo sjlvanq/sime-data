@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 15565,
+    "padron_id": 28512
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX42",
+      "apellidos": "MOYA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "25XXXX28",
+      "apellidos": "MANSILLA ROMANO",
+      "nombres": "ALBERTO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

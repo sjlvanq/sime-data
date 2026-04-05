@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 15220,
+    "padron_id": 28285
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX14",
+      "apellidos": "PAZ",
+      "nombres": "SEBASTIAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX60",
+      "apellidos": "MEDINA JIMENEZ",
+      "nombres": "CARLOS DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX98",
+      "apellidos": "TOLEDO",
+      "nombres": "JOAQUIN DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "39XXXX04",
+      "apellidos": "SOSA",
+      "nombres": "GONZALO RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

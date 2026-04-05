@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 16630,
+    "padron_id": 30558
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX04",
+      "apellidos": "LÓPEZ",
+      "nombres": "CRISTIAN FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX70",
+      "apellidos": "MONJE CAMPOS",
+      "nombres": "BLANCA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "39XXXX76",
+      "apellidos": "ROLDAN",
+      "nombres": "LUCIANA ZULEMA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "30XXXX13",
+      "apellidos": "HEREDIA",
+      "nombres": "JUAN JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

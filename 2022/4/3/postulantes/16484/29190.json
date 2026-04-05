@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 16484,
+    "padron_id": 29190
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX78",
+      "apellidos": "MARQUEZ",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX65",
+      "apellidos": "GOMEZ",
+      "nombres": "MARCOS DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

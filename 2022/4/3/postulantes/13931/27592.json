@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13931,
+    "padron_id": 27592
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "14XXXX66",
+      "apellidos": "GINE",
+      "nombres": "RAMON ERNESTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "JEFE GENERAL / JEFE TALLER / JEFE SECTORIAL INTERINO"
+    },
+    {
+      "orden": 1,
+      "dni": "20XXXX71",
+      "apellidos": "JUAREZ",
+      "nombres": "JOSE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX96",
+      "apellidos": "ROMANO",
+      "nombres": "MANUEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

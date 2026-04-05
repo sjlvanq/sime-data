@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17216,
+    "padron_id": 30572
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX39",
+      "apellidos": "SUELDO",
+      "nombres": "REINALDO EMILIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX09",
+      "apellidos": "DIAZ FARIAS",
+      "nombres": "LEANDRO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX57",
+      "apellidos": "JUAREZ",
+      "nombres": "MAURICIO EMILIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

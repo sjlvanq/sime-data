@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "vacante_id": 8337,
+    "padron_id": 29237
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX74",
+      "apellidos": "JUAREZ",
+      "nombres": "TERESA DE JESUS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "23XXXX20",
+      "apellidos": "CORREA",
+      "nombres": "ROXANA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "14XXXX19",
+      "apellidos": "CACERES",
+      "nombres": "NELIDA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "22XXXX15",
+      "apellidos": "DARUICH",
+      "nombres": "MONICA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "32XXXX39",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MIRIAN ROXANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "26XXXX24",
+      "apellidos": "AGUILAR",
+      "nombres": "ELIANA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "34XXXX13",
+      "apellidos": "GARNICA",
+      "nombres": "MARIA ANTONELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "21XXXX56",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "ESTHER ZULEMA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

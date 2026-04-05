@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 16817,
+    "padron_id": 30721
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX98",
+      "apellidos": "TOLEDO",
+      "nombres": "JOAQUIN DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "39XXXX04",
+      "apellidos": "SOSA",
+      "nombres": "GONZALO RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

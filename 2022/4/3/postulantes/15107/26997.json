@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 15107,
+    "padron_id": 26997
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX56",
+      "apellidos": "PEREIRA",
+      "nombres": "JOSE MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX99",
+      "apellidos": "ALDERETE",
+      "nombres": "JOSE ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

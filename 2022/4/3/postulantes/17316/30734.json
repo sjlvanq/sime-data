@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17316,
+    "padron_id": 30734
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "14XXXX19",
+      "apellidos": "CACERES",
+      "nombres": "NELIDA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX24",
+      "apellidos": "AGUILAR",
+      "nombres": "ELIANA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "39XXXX06",
+      "apellidos": "ALIAS",
+      "nombres": "MIRIAM MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

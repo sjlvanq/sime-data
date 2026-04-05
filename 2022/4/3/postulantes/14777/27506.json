@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14777,
+    "padron_id": 27506
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "22XXXX48",
+      "apellidos": "GOMEZ",
+      "nombres": "LILIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "36XXXX60",
+      "apellidos": "MORO",
+      "nombres": "SILVANA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX42",
+      "apellidos": "GUILLO",
+      "nombres": "GISELLE CYNTHIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
