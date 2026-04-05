@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25850,
+    "padron_id": 46149
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "28XXXX00",
+      "apellidos": "BELO",
+      "nombres": "DIEGO LEONARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "18XXXX04",
+      "apellidos": "GOMEZ",
+      "nombres": "CECILIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

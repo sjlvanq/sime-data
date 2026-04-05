@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 27588,
+    "padron_id": 49088
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "36XXXX48",
+      "apellidos": "MORALES LOBO",
+      "nombres": "LAURA MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "42XXXX82",
+      "apellidos": "VILLARROEL",
+      "nombres": "MATIAS ABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "37XXXX70",
+      "apellidos": "VIES",
+      "nombres": "FRANCISCO MAXIMILIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "31XXXX89",
+      "apellidos": "SERRANO",
+      "nombres": "RENZO JAVIER ANTONIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

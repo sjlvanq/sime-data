@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 27858,
+    "padron_id": 49466
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "38XXXX86",
+      "apellidos": "DURAN ESTRADA",
+      "nombres": "LUCIANA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "26XXXX98",
+      "apellidos": "GUANUCO",
+      "nombres": "VERONICA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "33XXXX90",
+      "apellidos": "DIAZ GAITAN",
+      "nombres": "MARIA NAZARETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "37XXXX75",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "NATALIA MICAELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

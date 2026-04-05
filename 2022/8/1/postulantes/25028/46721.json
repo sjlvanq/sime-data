@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25028,
+    "padron_id": 46721
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "26XXXX75",
+      "apellidos": "PEREZ",
+      "nombres": "HECTOR AUGUSTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "18XXXX86",
+      "apellidos": "SALGUERO",
+      "nombres": "ESTELA RAMONA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "25XXXX59",
+      "apellidos": "CERVANTES SAEZ",
+      "nombres": "NANCY CATALINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

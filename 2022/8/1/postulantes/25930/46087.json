@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25930,
+    "padron_id": 46087
+  },
+  "postulantes": [
+    {
+      "orden": 63,
+      "dni": "29XXXX69",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "JAQUELINE DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "29XXXX12",
+      "apellidos": "GAUNA",
+      "nombres": "CECILIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 118,
+      "dni": "20XXXX82",
+      "apellidos": "AMENTTA",
+      "nombres": "MONICA ESTELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

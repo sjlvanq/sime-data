@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 26544,
+    "padron_id": 48101
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "25XXXX91",
+      "apellidos": "RIVADEO",
+      "nombres": "SONIA MARINA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "40XXXX71",
+      "apellidos": "FERNANDEZ",
+      "nombres": "FLORENCIA MILAGROS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "38XXXX51",
+      "apellidos": "MALDONADO",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

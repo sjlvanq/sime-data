@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 26929,
+    "padron_id": 48920
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "24XXXX09",
+      "apellidos": "MARTINEZ",
+      "nombres": "SILVIA CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "28XXXX19",
+      "apellidos": "PENA",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "24XXXX66",
+      "apellidos": "ALDERETE",
+      "nombres": "ELIANA KARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

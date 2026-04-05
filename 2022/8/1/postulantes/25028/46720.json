@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 25028,
+    "padron_id": 46720
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "33XXXX59",
+      "apellidos": "QUERCI",
+      "nombres": "JOSÉ AUGUSTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "25XXXX91",
+      "apellidos": "RIVADEO",
+      "nombres": "SONIA MARINA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "29XXXX56",
+      "apellidos": "IBARRA",
+      "nombres": "NESTOR ADRIÁN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "36XXXX34",
+      "apellidos": "HERRERO JAIME",
+      "nombres": "MARÍA VICTORIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 25982,
+    "padron_id": 46139
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX37",
+      "apellidos": "BORQUEZ",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX67",
+      "apellidos": "COSTILLA",
+      "nombres": "YOHANA DESIRE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "27XXXX87",
+      "apellidos": "ROMERO",
+      "nombres": "DEBORA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "40XXXX00",
+      "apellidos": "DIAZ",
+      "nombres": "JOSE GABRIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "33XXXX75",
+      "apellidos": "TOLEDO",
+      "nombres": "MAXIMILIANO MIGUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

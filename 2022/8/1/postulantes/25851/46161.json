@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25851,
+    "padron_id": 46161
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "39XXXX94",
+      "apellidos": "SELLA",
+      "nombres": "FLORENCIA AYLEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX17",
+      "apellidos": "JUAREZ",
+      "nombres": "TELMA CARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "26XXXX01",
+      "apellidos": "GARCIA ",
+      "nombres": "MIGUEL ANGEL JESÚS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 26544,
+    "padron_id": 48102
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "26XXXX75",
+      "apellidos": "PEREZ",
+      "nombres": "HECTOR AUGUSTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "25XXXX57",
+      "apellidos": "VAQUERO",
+      "nombres": "CECILIA MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "23XXXX92",
+      "apellidos": "SOLORZANO",
+      "nombres": "SONIA SILVINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

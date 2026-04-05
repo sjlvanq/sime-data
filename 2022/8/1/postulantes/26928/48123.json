@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 26928,
+    "padron_id": 48123
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "20XXXX04",
+      "apellidos": "HERNANDEZ",
+      "nombres": "ANA LAURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "21XXXX76",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

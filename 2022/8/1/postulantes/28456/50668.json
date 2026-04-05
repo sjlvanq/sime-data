@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28456,
+    "padron_id": 50668
+  },
+  "postulantes": [
+    {
+      "orden": 245,
+      "dni": "32XXXX43",
+      "apellidos": "PEREZ",
+      "nombres": "SILVIA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 955,
+      "dni": "27XXXX76",
+      "apellidos": "RAFAEL",
+      "nombres": "MARIA JOSEFA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 721,
+      "dni": "39XXXX48",
+      "apellidos": "DEL CASTILLO                            ",
+      "nombres": "MARIA FLORENCIA                         ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

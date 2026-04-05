@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23014,
+    "padron_id": 47612
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "25XXXX34",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "SILVINA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "27XXXX59",
+      "apellidos": "DUMAS PELLETTI",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

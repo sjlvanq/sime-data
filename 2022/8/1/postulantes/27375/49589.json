@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 27375,
+    "padron_id": 49589
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX00",
+      "apellidos": "LEDESMA",
+      "nombres": "GRISELDA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "22XXXX15",
+      "apellidos": "VILLAGRA",
+      "nombres": "SILVIA SUSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "20XXXX41",
+      "apellidos": "CARDOZO",
+      "nombres": "MARIA ASUNCION",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

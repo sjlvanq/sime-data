@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28299,
+    "padron_id": 50546
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "29XXXX27",
+      "apellidos": "TAVERNA",
+      "nombres": "CECILIA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "24XXXX09",
+      "apellidos": "MARTINEZ",
+      "nombres": "SILVIA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "27XXXX63",
+      "apellidos": "VEGA",
+      "nombres": "FERNANDA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

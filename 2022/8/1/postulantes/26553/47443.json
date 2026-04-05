@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 26553,
+    "padron_id": 47443
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX81",
+      "apellidos": "MORALES",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "38XXXX89",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIA MICAELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
