@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 27861,
+    "padron_id": 49810
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX37",
+      "apellidos": "SIR",
+      "nombres": "JESSICA JOHANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX42",
+      "apellidos": "PACHECO",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 27689,
+    "padron_id": 49170
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "32XXXX89",
+      "apellidos": "IBARRA",
+      "nombres": "LEONELA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX46",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX32",
+      "apellidos": "BORQUEZ MOLINA",
+      "nombres": "SONIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

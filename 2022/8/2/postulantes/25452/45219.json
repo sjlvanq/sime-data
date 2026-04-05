@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25452,
+    "padron_id": 45219
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "37XXXX79",
+      "apellidos": "SALÓN",
+      "nombres": "CRISTIAN HUMBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "38XXXX00",
+      "apellidos": "RUIZ",
+      "nombres": "CONSTANZA BELEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 63,
+      "dni": "38XXXX20",
+      "apellidos": "RUBINI ZAMORA",
+      "nombres": "PAULA ADRIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

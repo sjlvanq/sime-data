@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 26434,
+    "padron_id": 47165
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX10",
+      "apellidos": "RUIZ",
+      "nombres": "SEBASTIAN ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX85",
+      "apellidos": "CHRISTIANI",
+      "nombres": "MARIA DE LOURDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

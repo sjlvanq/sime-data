@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 25064,
+    "padron_id": 45456
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "27XXXX52",
+      "apellidos": "VIDES",
+      "nombres": "ANA VALERIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "33XXXX46",
+      "apellidos": "GOMEZ",
+      "nombres": "REBECA ESTELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "35XXXX27",
+      "apellidos": "CORBALÁN",
+      "nombres": "NADIA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "36XXXX48",
+      "apellidos": "RISSO PATRON",
+      "nombres": "MARIA GUADALUPE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

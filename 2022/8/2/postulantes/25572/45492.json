@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25572,
+    "padron_id": 45492
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "27XXXX06",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "JOSE LUIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "30XXXX78",
+      "apellidos": "ALDERETES",
+      "nombres": "JACKELINE NOELIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "28XXXX81",
+      "apellidos": "CARRIZO",
+      "nombres": "JULIETA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

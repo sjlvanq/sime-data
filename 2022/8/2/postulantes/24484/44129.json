@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 24484,
+    "padron_id": 44129
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "36XXXX60",
+      "apellidos": "MARTINEZ ROBLES",
+      "nombres": "MARIA DEL ROSARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX59",
+      "apellidos": "QUERCI",
+      "nombres": "JOSÉ AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "23XXXX03",
+      "apellidos": "GARCIA",
+      "nombres": "OMAR MARCELO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

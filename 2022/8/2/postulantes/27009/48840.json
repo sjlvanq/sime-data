@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 27009,
+    "padron_id": 48840
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "27XXXX26",
+      "apellidos": "SOSA",
+      "nombres": "DIEGO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX38",
+      "apellidos": "DIAZ",
+      "nombres": "AUGUSTO GUILLERMO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

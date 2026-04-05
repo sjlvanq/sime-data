@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 26563,
+    "padron_id": 48208
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "31XXXX77",
+      "apellidos": "GORDILLO",
+      "nombres": "MARÍA DE LOURDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "34XXXX96",
+      "apellidos": "OLARTE",
+      "nombres": "GABRIEL EMILIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 90,
+      "dni": "33XXXX46",
+      "apellidos": "GOMEZ",
+      "nombres": "REBECA ESTELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

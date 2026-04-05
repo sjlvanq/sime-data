@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25334,
+    "padron_id": 44592
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX06",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANDRA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX53",
+      "apellidos": "APARICIO",
+      "nombres": "ESTELA MARY",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX69",
+      "apellidos": "JEREZ",
+      "nombres": "FATIMA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

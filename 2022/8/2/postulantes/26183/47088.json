@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 26183,
+    "padron_id": 47088
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "26XXXX73",
+      "apellidos": "DIAZ",
+      "nombres": "RAUL FEDERICO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "33XXXX75",
+      "apellidos": "NOGUEDA",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "34XXXX52",
+      "apellidos": "CONCHA",
+      "nombres": "LUIS MATIAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "32XXXX77",
+      "apellidos": "TORRES",
+      "nombres": "VERONICA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

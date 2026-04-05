@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25031,
+    "padron_id": 45853
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "34XXXX57",
+      "apellidos": "NUÑEZ                                   ",
+      "nombres": "MARIA DEL MILAGRO                       ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "33XXXX70",
+      "apellidos": "ROLDAN FIZ",
+      "nombres": "RUTH MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "25XXXX78",
+      "apellidos": "TEMISE",
+      "nombres": "NANCY SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

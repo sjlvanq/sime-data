@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 24523,
+    "padron_id": 43524
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "32XXXX44",
+      "apellidos": "SERRANO",
+      "nombres": "RAUL NICOLAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "32XXXX05",
+      "apellidos": "GUAITIMA",
+      "nombres": "FRANCO RAPHAEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

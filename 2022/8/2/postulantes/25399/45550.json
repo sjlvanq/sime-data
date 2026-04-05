@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25399,
+    "padron_id": 45550
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "33XXXX27",
+      "apellidos": "ALARCON",
+      "nombres": "VERONICA AZUCENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "31XXXX30",
+      "apellidos": "LAZARTE",
+      "nombres": "ORNELLA ROMINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "29XXXX00",
+      "apellidos": "MONTEROS",
+      "nombres": "ANALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

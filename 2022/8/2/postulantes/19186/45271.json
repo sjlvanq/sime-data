@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 19186,
+    "padron_id": 45271
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "34XXXX47",
+      "apellidos": "GARCIA",
+      "nombres": "VICTORIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "36XXXX06",
+      "apellidos": "QUIROGA",
+      "nombres": "YANET EVELIN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "35XXXX16",
+      "apellidos": "ALBORNOZ",
+      "nombres": "JOHANA CRISTAL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

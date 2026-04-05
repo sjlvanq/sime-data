@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 27256,
+    "padron_id": 48921
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX53",
+      "apellidos": "CHICO",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX91",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NURIA SALOME",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

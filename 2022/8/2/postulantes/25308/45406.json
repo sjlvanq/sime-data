@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25308,
+    "padron_id": 45406
+  },
+  "postulantes": [
+    {
+      "orden": 43,
+      "dni": "29XXXX19",
+      "apellidos": "MARTINEZ",
+      "nombres": "JOSÉ FELIPE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "30XXXX53",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 57,
+      "dni": "26XXXX37",
+      "apellidos": "AURANE",
+      "nombres": "MARIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

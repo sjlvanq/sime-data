@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 24882,
+    "padron_id": 47090
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "28XXXX56",
+      "apellidos": "VITAR",
+      "nombres": "GEORGINA LEONOR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX24",
+      "apellidos": "PUCHETA HEILBRON",
+      "nombres": "LEYLA NELLY",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "33XXXX12",
+      "apellidos": "VILLAGRA",
+      "nombres": "SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

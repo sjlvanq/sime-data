@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 26787,
+    "padron_id": 47207
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "29XXXX05",
+      "apellidos": "VELAZQUEZ",
+      "nombres": "RUBEN EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "27XXXX41",
+      "apellidos": "ORELLANA",
+      "nombres": "RICARDO ALBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

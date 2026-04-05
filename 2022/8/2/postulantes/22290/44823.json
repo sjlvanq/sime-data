@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 22290,
+    "padron_id": 44823
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX76",
+      "apellidos": "CRUZ",
+      "nombres": "FERNANDO ENRIQUE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX69",
+      "apellidos": "ALVAREZ",
+      "nombres": "CRISTIAN JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23456,
+    "padron_id": 46975
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX41",
+      "apellidos": "VILLAGRA",
+      "nombres": "JUAN ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "26XXXX11",
+      "apellidos": "GRAMAJO",
+      "nombres": "GUILLERMINA ESTELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

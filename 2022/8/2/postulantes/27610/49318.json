@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 27610,
+    "padron_id": 49318
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX76",
+      "apellidos": "MAMANI",
+      "nombres": "MELINA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "26XXXX38",
+      "apellidos": "BEVILACQUA",
+      "nombres": "LUCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "34XXXX20",
+      "apellidos": "HUERTA",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "26XXXX18",
+      "apellidos": "PEREA",
+      "nombres": "PABLO ARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

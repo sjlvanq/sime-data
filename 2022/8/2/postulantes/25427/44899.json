@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 25427,
+    "padron_id": 44899
+  },
+  "postulantes": [
+    {
+      "orden": 28,
+      "dni": "31XXXX92",
+      "apellidos": "PEREZ",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "21XXXX85",
+      "apellidos": "VILLARREAL",
+      "nombres": "ENRIQUETA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "21XXXX38",
+      "apellidos": "BUSTAMANTE",
+      "nombres": "JORGE ALFREDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "28XXXX88",
+      "apellidos": "VERA",
+      "nombres": "RAMON ENRIQUE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "39XXXX88",
+      "apellidos": "JEREZ",
+      "nombres": "CYNTHIA ANAHI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

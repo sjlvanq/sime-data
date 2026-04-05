@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23223,
+    "padron_id": 44350
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "31XXXX36",
+      "apellidos": "FRIAS",
+      "nombres": "PATRICIA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "24XXXX72",
+      "apellidos": "CORTES ISSI",
+      "nombres": "CLARA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "34XXXX75",
+      "apellidos": "RUIZ",
+      "nombres": "CRISTIAN GONZALO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

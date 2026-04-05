@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25921,
+    "padron_id": 46534
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "31XXXX56",
+      "apellidos": "NIEVA",
+      "nombres": "DEBORA LUCIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "26XXXX43",
+      "apellidos": "ARELLANO",
+      "nombres": "SERGIO ALFREDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "32XXXX43",
+      "apellidos": "VELARDEZ",
+      "nombres": "RUTH PATRICIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

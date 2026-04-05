@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28006,
+    "padron_id": 49790
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "34XXXX47",
+      "apellidos": "GARCIA",
+      "nombres": "VICTORIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 95,
+      "dni": "25XXXX41",
+      "apellidos": "SUAREZ",
+      "nombres": "NILDA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "36XXXX89",
+      "apellidos": "VILLAGRA",
+      "nombres": "FERNANDO GABRIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

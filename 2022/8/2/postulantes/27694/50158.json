@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 27694,
+    "padron_id": 50158
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "25XXXX80",
+      "apellidos": "REAL",
+      "nombres": "KARINA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "36XXXX74",
+      "apellidos": "SANDOVAL",
+      "nombres": "ANDREA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 69,
+      "dni": "21XXXX39",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 100,
+      "dni": "35XXXX55",
+      "apellidos": "GIMENEZ ARROYO",
+      "nombres": "IVANA GISELLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

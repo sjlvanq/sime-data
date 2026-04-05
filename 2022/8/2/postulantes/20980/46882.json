@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 20980,
+    "padron_id": 46882
+  },
+  "postulantes": [
+    {
+      "orden": 90,
+      "dni": "38XXXX20",
+      "apellidos": "RUBINI ZAMORA",
+      "nombres": "PAULA ADRIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 119,
+      "dni": "33XXXX10",
+      "apellidos": "CUEVAS",
+      "nombres": "KARINA MABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "25XXXX55",
+      "apellidos": "REDING",
+      "nombres": "MIRTA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX86",
+      "apellidos": "ORDOÑEZ",
+      "nombres": "MARGARITA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 108,
+      "dni": "26XXXX21",
+      "apellidos": "ALBORNOZ",
+      "nombres": "NATALIA MARIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 27988,
+    "padron_id": 50234
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "26XXXX41",
+      "apellidos": "MEDINA",
+      "nombres": "LAURA ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "27XXXX27",
+      "apellidos": "MARCHESE",
+      "nombres": "ROSANA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "17XXXX79",
+      "apellidos": "BURGOS                                  ",
+      "nombres": "ESTER ZULEMA                            ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22555,
+    "padron_id": 45502
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX75",
+      "apellidos": "BOYDO",
+      "nombres": "FABIOLA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "28XXXX81",
+      "apellidos": "CARRIZO",
+      "nombres": "JULIETA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

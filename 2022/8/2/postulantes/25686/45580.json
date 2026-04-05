@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25686,
+    "padron_id": 45580
+  },
+  "postulantes": [
+    {
+      "orden": 22,
+      "dni": "20XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX64",
+      "apellidos": "CORREA",
+      "nombres": "LAURA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX85",
+      "apellidos": "SEIFER",
+      "nombres": "MYRIAM CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

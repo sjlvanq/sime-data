@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25229,
+    "padron_id": 45032
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX51",
+      "apellidos": "SILVA",
+      "nombres": "ADRIANA PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX83",
+      "apellidos": "BAZAN",
+      "nombres": "MARGARITA ROSA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX18",
+      "apellidos": "LAZARTE",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

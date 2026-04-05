@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 25452,
+    "padron_id": 45215
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "18XXXX67",
+      "apellidos": "SOVERON",
+      "nombres": "ADRIANA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "20XXXX01",
+      "apellidos": "MEDINA",
+      "nombres": "CECILIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "29XXXX51",
+      "apellidos": "ALVARADO",
+      "nombres": "CRISTIAN MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX39",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

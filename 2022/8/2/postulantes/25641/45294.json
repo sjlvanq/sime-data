@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25641,
+    "padron_id": 45294
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "18XXXX77",
+      "apellidos": "HUAYTA FLORES",
+      "nombres": "GILDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX99",
+      "apellidos": "SORIA",
+      "nombres": "KARINA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX40",
+      "apellidos": "VIZCARRA",
+      "nombres": "LUCRECIA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 27596,
+    "padron_id": 49298
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "24XXXX47",
+      "apellidos": "DECIMA SALAZAR",
+      "nombres": "RUBEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "36XXXX48",
+      "apellidos": "RISSO PATRON",
+      "nombres": "MARIA GUADALUPE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "27XXXX27",
+      "apellidos": "MARCHESE",
+      "nombres": "ROSANA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "35XXXX27",
+      "apellidos": "CORBALÁN",
+      "nombres": "NADIA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

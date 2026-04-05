@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 27773,
+    "padron_id": 50006
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "13XXXX21",
+      "apellidos": "ARIAS GUTIERREZ",
+      "nombres": "PATRICIA CRISTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX57",
+      "apellidos": "ARNEDO",
+      "nombres": "VALERIA SUSANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

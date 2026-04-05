@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 24792,
+    "padron_id": 44437
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "33XXXX00",
+      "apellidos": "DIARTE",
+      "nombres": "ELVIO RAÚL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "28XXXX90",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "CRISTIAN REINALDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX50",
+      "apellidos": "AGUILAR",
+      "nombres": "SARA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

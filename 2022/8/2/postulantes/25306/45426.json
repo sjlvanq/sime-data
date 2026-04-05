@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25306,
+    "padron_id": 45426
+  },
+  "postulantes": [
+    {
+      "orden": 178,
+      "dni": "35XXXX00",
+      "apellidos": "MORENO",
+      "nombres": "RAUL ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 191,
+      "dni": "38XXXX17",
+      "apellidos": "VEGA",
+      "nombres": "ROBERTO RAMON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "32XXXX51",
+      "apellidos": "SEMAN",
+      "nombres": "ALEJANDRA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

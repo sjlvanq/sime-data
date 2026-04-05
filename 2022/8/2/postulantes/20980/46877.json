@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 20980,
+    "padron_id": 46877
+  },
+  "postulantes": [
+    {
+      "orden": 28,
+      "dni": "33XXXX10",
+      "apellidos": "CUEVAS",
+      "nombres": "KARINA MABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "36XXXX04",
+      "apellidos": "VERA LOPEZ",
+      "nombres": "FRANCO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "25XXXX55",
+      "apellidos": "REDING",
+      "nombres": "MIRTA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX86",
+      "apellidos": "ORDOÑEZ",
+      "nombres": "MARGARITA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "26XXXX21",
+      "apellidos": "ALBORNOZ",
+      "nombres": "NATALIA MARIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

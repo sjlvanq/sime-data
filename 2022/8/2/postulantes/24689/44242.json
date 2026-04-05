@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 24689,
+    "padron_id": 44242
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "25XXXX95",
+      "apellidos": "BACAS",
+      "nombres": "GUSTAVO JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "24XXXX46",
+      "apellidos": "ELIAS",
+      "nombres": "CECILIA NICOLASA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "27XXXX09",
+      "apellidos": "IBRAHIM",
+      "nombres": "CLAUDIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

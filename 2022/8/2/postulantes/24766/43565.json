@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 24766,
+    "padron_id": 43565
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX60",
+      "apellidos": "VACA",
+      "nombres": "CECILIA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "32XXXX13",
+      "apellidos": "LESCANO",
+      "nombres": "GRACIELA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "26XXXX58",
+      "apellidos": "CALDERON",
+      "nombres": "MARIA EUGENIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

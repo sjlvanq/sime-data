@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 27939,
+    "padron_id": 49728
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX84",
+      "apellidos": "MARQUESTO",
+      "nombres": "MARIO ANIBAL FRANCISCO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "27XXXX29",
+      "apellidos": "REARTE",
+      "nombres": "RAUL AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "34XXXX98",
+      "apellidos": "MAYOL",
+      "nombres": "JIMENA GISEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28006,
+    "padron_id": 49789
+  },
+  "postulantes": [
+    {
+      "orden": 52,
+      "dni": "34XXXX47",
+      "apellidos": "GARCIA",
+      "nombres": "VICTORIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 90,
+      "dni": "37XXXX47",
+      "apellidos": "SIERRA",
+      "nombres": "SARA ABIGAIL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "36XXXX26",
+      "apellidos": "VALDEZ",
+      "nombres": "ANABELL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 24224,
+    "padron_id": 43625
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "35XXXX39",
+      "apellidos": "JUAREZ",
+      "nombres": "LUCAS ESTEBAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "35XXXX37",
+      "apellidos": "VALDEZ",
+      "nombres": "PRISCILA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "33XXXX59",
+      "apellidos": "QUERCI",
+      "nombres": "JOSÉ AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "18XXXX55",
+      "apellidos": "PEREYRA ISA",
+      "nombres": "NORMA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

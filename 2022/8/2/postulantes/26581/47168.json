@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 26581,
+    "padron_id": 47168
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "31XXXX65",
+      "apellidos": "LEDESMA",
+      "nombres": "JESSICA LUJAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "26XXXX58",
+      "apellidos": "CALDERON",
+      "nombres": "MARIA EUGENIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "33XXXX70",
+      "apellidos": "ROLDAN FIZ",
+      "nombres": "RUTH MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "33XXXX38",
+      "apellidos": "JUÁREZ",
+      "nombres": "DANIEL EDUARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

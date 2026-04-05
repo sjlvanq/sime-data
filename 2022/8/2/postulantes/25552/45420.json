@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 25552,
+    "padron_id": 45420
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX24",
+      "apellidos": "GONZALEZ",
+      "nombres": "ADRIAN EUDORO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX28",
+      "apellidos": "BRANDAN CORREA",
+      "nombres": "CESAR JORGE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX75",
+      "apellidos": "RUIZ",
+      "nombres": "CRISTIAN GONZALO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "29XXXX01",
+      "apellidos": "ABASCAL",
+      "nombres": "CARLOS GERMAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

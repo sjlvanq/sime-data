@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 26108,
+    "padron_id": 45934
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "24XXXX42",
+      "apellidos": "CARRIZO",
+      "nombres": "MARTA ROSA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "37XXXX80",
+      "apellidos": "LEZCANO GARCIA",
+      "nombres": "LUCILA NEREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

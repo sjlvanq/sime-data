@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 26574,
+    "padron_id": 48217
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX66",
+      "apellidos": "DIAZ",
+      "nombres": "VERONICA NOELIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX53",
+      "apellidos": "CORDOBA",
+      "nombres": "NATALIA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "30XXXX84",
+      "apellidos": "AMADOR",
+      "nombres": "EZEQUIEL FRANCO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX57",
+      "apellidos": "ARNEDO",
+      "nombres": "VALERIA SUSANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

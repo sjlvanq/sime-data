@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23955,
+    "padron_id": 45653
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "20XXXX27",
+      "apellidos": "CASTAÑO",
+      "nombres": "RAFAEL MARCELO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "30XXXX93",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

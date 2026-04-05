@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 25479,
+    "padron_id": 44888
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX38",
+      "apellidos": "BEVILACQUA",
+      "nombres": "LUCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "20XXXX78",
+      "apellidos": "OLIVARES",
+      "nombres": "CARLOS RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

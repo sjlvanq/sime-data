@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 25790,
+    "padron_id": 45685
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX05",
+      "apellidos": "ACOSTA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX09",
+      "apellidos": "MORIS",
+      "nombres": "LARISA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

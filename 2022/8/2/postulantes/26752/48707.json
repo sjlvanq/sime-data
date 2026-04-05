@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 26752,
+    "padron_id": 48707
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "35XXXX13",
+      "apellidos": "SILVA",
+      "nombres": "ROMINA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX72",
+      "apellidos": "CORBALAN ROMANO",
+      "nombres": "BERENICE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "16XXXX51",
+      "apellidos": "GIMENEZ DIXON",
+      "nombres": "ANDRES FEDERICO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

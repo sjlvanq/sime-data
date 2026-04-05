@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 26114,
+    "padron_id": 46932
+  },
+  "postulantes": [
+    {
+      "orden": 76,
+      "dni": "27XXXX09",
+      "apellidos": "IBRAHIM",
+      "nombres": "CLAUDIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 229,
+      "dni": "36XXXX42",
+      "apellidos": "ORELLANA",
+      "nombres": "CAROLINA ESTEFANIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "25XXXX92",
+      "apellidos": "ARMAS",
+      "nombres": "CECILIA RAQUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

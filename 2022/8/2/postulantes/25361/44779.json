@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25361,
+    "padron_id": 44779
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "20XXXX26",
+      "apellidos": "BARBOZA",
+      "nombres": "MIRTA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 90,
+      "dni": "21XXXX56",
+      "apellidos": "AREVALO",
+      "nombres": "ROXANA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 103,
+      "dni": "26XXXX19",
+      "apellidos": "GOMEZ",
+      "nombres": "ROSA ELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

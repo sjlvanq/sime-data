@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 25847,
+    "padron_id": 48940
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "38XXXX55",
+      "apellidos": "ROLDAN CORREA",
+      "nombres": "MONICA ALICIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "35XXXX70",
+      "apellidos": "LÓPEZ",
+      "nombres": "ARACELI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "35XXXX88",
+      "apellidos": "VARGAS",
+      "nombres": "JUAN JOSÉ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "31XXXX97",
+      "apellidos": "TEVEZ",
+      "nombres": "HAYDEE DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

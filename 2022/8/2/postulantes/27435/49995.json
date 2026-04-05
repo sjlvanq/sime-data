@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 27435,
+    "padron_id": 49995
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "33XXXX00",
+      "apellidos": "DIARTE",
+      "nombres": "ELVIO RAÚL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX50",
+      "apellidos": "AGUILAR",
+      "nombres": "SARA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
