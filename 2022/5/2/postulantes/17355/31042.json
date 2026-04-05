@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17355,
+    "padron_id": 31042
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX43",
+      "apellidos": "PAEZ",
+      "nombres": "NOEMI ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX84",
+      "apellidos": "GOMEZ",
+      "nombres": "TERESA ELVIRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX42",
+      "apellidos": "ZELARAYAN",
+      "nombres": "LUIS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17019,
+    "padron_id": 30637
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "26XXXX36",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "HERNÁN NAZARENO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "27XXXX57",
+      "apellidos": "CORONEL",
+      "nombres": "VALERIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "13XXXX07",
+      "apellidos": "PISTAN",
+      "nombres": "VICTOR ORLANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

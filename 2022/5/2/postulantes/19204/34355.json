@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 19204,
+    "padron_id": 34355
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX12",
+      "apellidos": "MALDONADO",
+      "nombres": "JUAN ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX15",
+      "apellidos": "LAGARDE",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

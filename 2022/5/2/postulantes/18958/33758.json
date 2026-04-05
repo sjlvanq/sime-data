@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 18958,
+    "padron_id": 33758
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX14",
+      "apellidos": "BRANDÁN",
+      "nombres": "CYNTHIA GUADALUPE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 86,
+      "dni": "21XXXX39",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 121,
+      "dni": "25XXXX41",
+      "apellidos": "SUAREZ",
+      "nombres": "NILDA NOEMI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

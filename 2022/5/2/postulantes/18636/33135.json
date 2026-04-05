@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 18636,
+    "padron_id": 33135
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "20XXXX16",
+      "apellidos": "BARRERA",
+      "nombres": "ROSA CRISTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "38XXXX54",
+      "apellidos": "OLMEDO",
+      "nombres": "JUAN  JOSÉ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "31XXXX09",
+      "apellidos": "GARCIA",
+      "nombres": "OLGA MARÍA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "30XXXX20",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

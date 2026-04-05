@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17749,
+    "padron_id": 32353
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX76",
+      "apellidos": "MAMANI",
+      "nombres": "MELINA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX75",
+      "apellidos": "DIAZ",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "36XXXX00",
+      "apellidos": "ROBLEDO",
+      "nombres": "AGUSTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

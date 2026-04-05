@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17315,
+    "padron_id": 31105
+  },
+  "postulantes": [
+    {
+      "orden": 34,
+      "dni": "34XXXX02",
+      "apellidos": "MUÑOZ",
+      "nombres": "ROMINA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "37XXXX94",
+      "apellidos": "SAPULA",
+      "nombres": "NOELIA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "32XXXX60",
+      "apellidos": "JODAR JAIME",
+      "nombres": "IVANNA ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

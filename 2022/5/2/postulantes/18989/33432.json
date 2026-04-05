@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 18989,
+    "padron_id": 33432
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX53",
+      "apellidos": "ORELLANA",
+      "nombres": "MYRIAM VIRGINIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "18XXXX38",
+      "apellidos": "ROJAS HUANCA",
+      "nombres": "MARIA DANIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "29XXXX32",
+      "apellidos": "BOTTONE",
+      "nombres": "PABLO GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20026,
+    "padron_id": 34985
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "32XXXX05",
+      "apellidos": "ANDOLE",
+      "nombres": "MARIA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 84,
+      "dni": "33XXXX46",
+      "apellidos": "OLIVA",
+      "nombres": "DANIELA BELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "21XXXX75",
+      "apellidos": "ARRAYA",
+      "nombres": "EUGENIO ARTURO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

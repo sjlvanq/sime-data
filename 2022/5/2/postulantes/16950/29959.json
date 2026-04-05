@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 16950,
+    "padron_id": 29959
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX25",
+      "apellidos": "ALFARO",
+      "nombres": "HECTOR DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX94",
+      "apellidos": "ROLDAN",
+      "nombres": "GABRIELA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX05",
+      "apellidos": "ZELARAYAN",
+      "nombres": "LORENA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20001,
+    "padron_id": 35323
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX37",
+      "apellidos": "IBAÑEZ",
+      "nombres": "EUGENIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "24XXXX42",
+      "apellidos": "MERCADO",
+      "nombres": "KARINA VERONICA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

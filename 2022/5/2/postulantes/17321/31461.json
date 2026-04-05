@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 17321,
+    "padron_id": 31461
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX59",
+      "apellidos": "MOVANE",
+      "nombres": "DELICIA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX02",
+      "apellidos": "GUZANATTO",
+      "nombres": "DANIELA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX47",
+      "apellidos": "AGUIRRE",
+      "nombres": "ROMINA INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "21XXXX00",
+      "apellidos": "NAVARRO",
+      "nombres": "SANDRA MARIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

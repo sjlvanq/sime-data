@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 16622,
+    "padron_id": 30905
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX28",
+      "apellidos": "BRANDAN CORREA",
+      "nombres": "CESAR JORGE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "25XXXX96",
+      "apellidos": "ANDRES",
+      "nombres": "ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

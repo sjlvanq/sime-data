@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 18294,
+    "padron_id": 32198
+  },
+  "postulantes": [
+    {
+      "orden": 34,
+      "dni": "28XXXX94",
+      "apellidos": "ORTIZ",
+      "nombres": "ELINA TERESA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 72,
+      "dni": "20XXXX50",
+      "apellidos": "GRANDE",
+      "nombres": "SILVINA DE FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 91,
+      "dni": "25XXXX80",
+      "apellidos": "MORENO",
+      "nombres": "ANDREA TERESA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

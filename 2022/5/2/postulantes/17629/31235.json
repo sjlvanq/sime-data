@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 17629,
+    "padron_id": 31235
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "16XXXX39",
+      "apellidos": "BIAGIOLI",
+      "nombres": "LUIS PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "20XXXX15",
+      "apellidos": "NAVARRO",
+      "nombres": "SILVANA DELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX68",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "GABRIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "22XXXX68",
+      "apellidos": "JEREZ",
+      "nombres": "EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

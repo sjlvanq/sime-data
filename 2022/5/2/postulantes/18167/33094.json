@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 18167,
+    "padron_id": 33094
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "36XXXX38",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANDREA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "32XXXX75",
+      "apellidos": "JIMENEZ",
+      "nombres": "EMMANUEL JOEL ORLANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "25XXXX55",
+      "apellidos": "REINOSO",
+      "nombres": "GUSTAVO ALEJANDRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX09",
+      "apellidos": "ZAMORA",
+      "nombres": "AGUSTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

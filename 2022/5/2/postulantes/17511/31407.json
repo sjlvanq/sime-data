@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 17511,
+    "padron_id": 31407
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX39",
+      "apellidos": "DÍAZ",
+      "nombres": "MARÍA EMILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX93",
+      "apellidos": "ZELARAYAN",
+      "nombres": "NOELIA LUCIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

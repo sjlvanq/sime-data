@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 17350,
+    "padron_id": 31017
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "25XXXX08",
+      "apellidos": "ACOSTA",
+      "nombres": "DANIEL WALTER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "21XXXX85",
+      "apellidos": "VILLARREAL",
+      "nombres": "ENRIQUETA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

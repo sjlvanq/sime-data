@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 17160,
+    "padron_id": 30389
+  },
+  "postulantes": [
+    {
+      "orden": 67,
+      "dni": "29XXXX57",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "PABLO MAURICIO ANIBAL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "23XXXX78",
+      "apellidos": "BRUNET",
+      "nombres": "ANA FLORENCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "21XXXX96",
+      "apellidos": "CORVALAN SINGH",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "34XXXX80",
+      "apellidos": "SAL",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

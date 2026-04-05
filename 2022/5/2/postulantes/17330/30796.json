@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 17330,
+    "padron_id": 30796
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX80",
+      "apellidos": "SAL",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX79",
+      "apellidos": "DE LA VEGA",
+      "nombres": "MARCELA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

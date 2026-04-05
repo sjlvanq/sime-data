@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 18536,
+    "padron_id": 34547
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "25XXXX36",
+      "apellidos": "MOLINA",
+      "nombres": "CLAUDIA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX80",
+      "apellidos": "SAL",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "17XXXX34",
+      "apellidos": "PODINGA",
+      "nombres": "ANABELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 19012,
+    "padron_id": 33854
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "20XXXX02",
+      "apellidos": "BERRONDO",
+      "nombres": "SILVIA CRISTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 37,
+      "dni": "24XXXX82",
+      "apellidos": "SALAZAR",
+      "nombres": "LIDIA MERCEDES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 62,
+      "dni": "24XXXX22",
+      "apellidos": "VEGA",
+      "nombres": "NANCY ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 123,
+      "dni": "23XXXX50",
+      "apellidos": "VAQUERO",
+      "nombres": "ALEJANDRA RAQUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

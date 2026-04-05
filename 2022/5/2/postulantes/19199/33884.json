@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 19199,
+    "padron_id": 33884
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "16XXXX39",
+      "apellidos": "BIAGIOLI",
+      "nombres": "LUIS PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX81",
+      "apellidos": "VALENZUELA",
+      "nombres": "GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 16884,
+    "padron_id": 31843
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX85",
+      "apellidos": "POSSE",
+      "nombres": "SERGIO RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX88",
+      "apellidos": "VELIZ CORDOBA",
+      "nombres": "JOSE AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

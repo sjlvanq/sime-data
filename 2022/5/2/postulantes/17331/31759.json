@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17331,
+    "padron_id": 31759
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX65",
+      "apellidos": "GAMBARTE",
+      "nombres": "JUDIT ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "25XXXX08",
+      "apellidos": "ACOSTA",
+      "nombres": "DANIEL WALTER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "29XXXX12",
+      "apellidos": "MAYOL",
+      "nombres": "CAROLINA ISABEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

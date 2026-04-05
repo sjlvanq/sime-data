@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 20083,
+    "padron_id": 35570
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "32XXXX05",
+      "apellidos": "ANDOLE",
+      "nombres": "MARIA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 71,
+      "dni": "34XXXX88",
+      "apellidos": "MANAY",
+      "nombres": "CONSTANZA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 84,
+      "dni": "33XXXX46",
+      "apellidos": "OLIVA",
+      "nombres": "DANIELA BELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "21XXXX13",
+      "apellidos": "ARANDA",
+      "nombres": "CLAUDIA ISABEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

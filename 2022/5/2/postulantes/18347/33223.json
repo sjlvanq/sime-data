@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 18347,
+    "padron_id": 33223
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "23XXXX91",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIELA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX63",
+      "apellidos": "PONCE",
+      "nombres": "FATIMA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "25XXXX78",
+      "apellidos": "PEREZ",
+      "nombres": "LAURA EVANGELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

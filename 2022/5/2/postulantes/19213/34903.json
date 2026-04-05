@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 19213,
+    "padron_id": 34903
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "20XXXX88",
+      "apellidos": "MORALES",
+      "nombres": "SANDRA FABIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX43",
+      "apellidos": "ZARATE",
+      "nombres": "PATRICIA LILIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "22XXXX14",
+      "apellidos": "SVALDI",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

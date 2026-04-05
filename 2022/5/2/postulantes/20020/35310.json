@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20020,
+    "padron_id": 35310
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "30XXXX85",
+      "apellidos": "YAÑEZ",
+      "nombres": "CRISTIAN FERNANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "27XXXX02",
+      "apellidos": "D'ELIA",
+      "nombres": "MARIA ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "32XXXX13",
+      "apellidos": "LESCANO",
+      "nombres": "GRACIELA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

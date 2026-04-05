@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17840,
+    "padron_id": 31728
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "21XXXX38",
+      "apellidos": "IBRAHIM",
+      "nombres": "SERGIO GUSTAVO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "26XXXX20",
+      "apellidos": "ZAMORANO",
+      "nombres": "MARIO DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX50",
+      "apellidos": "AGUILAR",
+      "nombres": "SARA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20252,
+    "padron_id": 35428
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "23XXXX95",
+      "apellidos": "BRITO",
+      "nombres": "DOMINGO HECTOR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "21XXXX85",
+      "apellidos": "VILLARREAL",
+      "nombres": "ENRIQUETA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

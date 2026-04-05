@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 19399,
+    "padron_id": 35145
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "27XXXX83",
+      "apellidos": "MAGNO",
+      "nombres": "CARLOS ERNESTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "17XXXX79",
+      "apellidos": "BURGOS                                  ",
+      "nombres": "ESTER ZULEMA                            ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "24XXXX58",
+      "apellidos": "VARELA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

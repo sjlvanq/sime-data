@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 19085,
+    "padron_id": 33769
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "20XXXX01",
+      "apellidos": "MEDINA",
+      "nombres": "CECILIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "29XXXX12",
+      "apellidos": "MAYOL",
+      "nombres": "CAROLINA ISABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX03",
+      "apellidos": "GUZMAN",
+      "nombres": "KARINA SANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX35",
+      "apellidos": "GAMBOA LOPEZ",
+      "nombres": "ESTELLA MARYS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "18XXXX41",
+      "apellidos": "SOSA",
+      "nombres": "JORGE ARMANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

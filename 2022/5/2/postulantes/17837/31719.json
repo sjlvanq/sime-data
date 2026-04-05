@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 17837,
+    "padron_id": 31719
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "28XXXX90",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "CRISTIAN REINALDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX79",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "IVANA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "32XXXX04",
+      "apellidos": "GRAGEDA",
+      "nombres": "ELSA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "24XXXX31",
+      "apellidos": "DAMM RUIZ",
+      "nombres": "GUILLERMO FEDERICO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

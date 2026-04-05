@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 15695,
+    "padron_id": 30126
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX64",
+      "apellidos": "SANCHEZ",
+      "nombres": "WALTER ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX74",
+      "apellidos": "ARGENTINO",
+      "nombres": "CARLOS EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

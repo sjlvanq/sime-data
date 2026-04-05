@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 19211,
+    "padron_id": 34514
+  },
+  "postulantes": [
+    {
+      "orden": 61,
+      "dni": "35XXXX49",
+      "apellidos": "CORBALAN",
+      "nombres": "CARLOS ABEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 142,
+      "dni": "35XXXX53",
+      "apellidos": "JUAREZ",
+      "nombres": "MAYRA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 215,
+      "dni": "25XXXX48",
+      "apellidos": "DIAZ",
+      "nombres": "HECTOR FABIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

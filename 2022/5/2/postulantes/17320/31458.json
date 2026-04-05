@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17320,
+    "padron_id": 31458
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX02",
+      "apellidos": "GUZANATTO",
+      "nombres": "DANIELA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX76",
+      "apellidos": "OCAMPO",
+      "nombres": "CLAUDIA ELENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX38",
+      "apellidos": "FERNANDEZ",
+      "nombres": "YESSICA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
