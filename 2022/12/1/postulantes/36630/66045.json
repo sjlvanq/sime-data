@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36630,
+    "padron_id": 66045
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "33XXXX76",
+      "apellidos": "TREJO",
+      "nombres": "RUTH EVELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "39XXXX59",
+      "apellidos": "TERRON",
+      "nombres": "MARI VIRGINIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "45XXXX83",
+      "apellidos": "TORRES ACOSTA",
+      "nombres": "ROSA FIORELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

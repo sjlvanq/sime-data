@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 36450,
+    "padron_id": 65421
+  },
+  "postulantes": [
+    {
+      "orden": 99,
+      "dni": "24XXXX52",
+      "apellidos": "GOMEZ",
+      "nombres": "ROSANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 107,
+      "dni": "24XXXX08",
+      "apellidos": "BOBBA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 36647,
+    "padron_id": 66066
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "26XXXX14",
+      "apellidos": "ANDRADA",
+      "nombres": "NANCY LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "24XXXX01",
+      "apellidos": "SORIA CASTILLO",
+      "nombres": "ELIZABETH VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX70",
+      "apellidos": "LAZARTE",
+      "nombres": "MARIO FACUNDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "27XXXX61",
+      "apellidos": "FERRO",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

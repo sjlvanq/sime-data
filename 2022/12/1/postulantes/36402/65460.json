@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36402,
+    "padron_id": 65460
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "29XXXX42",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA DANIELA ANTONIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "30XXXX60",
+      "apellidos": "JUAREZ",
+      "nombres": "GABRIEL FERNANDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "39XXXX88",
+      "apellidos": "ESCOBEDO  ALVAREZ",
+      "nombres": "LUCIANO MARTÍN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
