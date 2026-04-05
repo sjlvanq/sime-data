@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 5240,
+    "padron_id": 9899
+  },
+  "postulantes": [
+    {
+      "orden": 49,
+      "dni": "31XXXX21",
+      "apellidos": "CASTRO",
+      "nombres": "MARIA VICTORIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "36XXXX89",
+      "apellidos": "MALDONADO",
+      "nombres": "FLAVIA RAQUEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "33XXXX46",
+      "apellidos": "OLIVA",
+      "nombres": "DANIELA BELEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "21XXXX20",
+      "apellidos": "PAZ",
+      "nombres": "PAOLA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

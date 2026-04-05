@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5665,
+    "padron_id": 10318
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX80",
+      "apellidos": "VERGES",
+      "nombres": "MARIA TERESA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "21XXXX20",
+      "apellidos": "PAZ",
+      "nombres": "PAOLA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "31XXXX07",
+      "apellidos": "FERNANDEZ",
+      "nombres": "ALICIA MARIA DEL ROSARIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

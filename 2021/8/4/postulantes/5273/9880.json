@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5273,
+    "padron_id": 9880
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX67",
+      "apellidos": "MEDINA",
+      "nombres": "ELIANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "23XXXX76",
+      "apellidos": "BURGOS",
+      "nombres": "CLAUDIA PATRICIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX68",
+      "apellidos": "DESIDERIO",
+      "nombres": "EUGENIA LAURA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

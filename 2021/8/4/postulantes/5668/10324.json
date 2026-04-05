@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5668,
+    "padron_id": 10324
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "27XXXX17",
+      "apellidos": "GONZALEZ",
+      "nombres": "ROQUE ALEJANDRO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "31XXXX32",
+      "apellidos": "GRAMAJO",
+      "nombres": "NOELIA SILVINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "30XXXX46",
+      "apellidos": "XAMENA",
+      "nombres": "DARIO MARCELO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

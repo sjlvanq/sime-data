@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 5300,
+    "padron_id": 9366
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX52",
+      "apellidos": "LUNA",
+      "nombres": "BEATRIZ FABIOLA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX88",
+      "apellidos": "JAIME",
+      "nombres": "ROSSANA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "31XXXX43",
+      "apellidos": "SUELDO",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "30XXXX65",
+      "apellidos": "PALLARES",
+      "nombres": "FATIMA RAQUEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
