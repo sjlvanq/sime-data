@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 959,
+    "padron_id": 1927
+  },
+  "postulantes": [
+    {
+      "orden": 34,
+      "dni": "23XXXX51",
+      "apellidos": "VELASQUEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "36XXXX02",
+      "apellidos": "MUÑOZ CENTENO",
+      "nombres": "ANTONELA TAMARA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1215,
+    "padron_id": 2174
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX84",
+      "apellidos": "GOMEZ",
+      "nombres": "TERESA ELVIRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "17XXXX43",
+      "apellidos": "PAEZ",
+      "nombres": "NOEMI ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

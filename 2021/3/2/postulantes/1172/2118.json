@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1172,
+    "padron_id": 2118
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "28XXXX07",
+      "apellidos": "VARELA",
+      "nombres": "MARIA NATALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX01",
+      "apellidos": "ROBLES",
+      "nombres": "RAQUEL DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

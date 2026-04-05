@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1244,
+    "padron_id": 2315
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX61",
+      "apellidos": "CAMPOS",
+      "nombres": "JESUS MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "23XXXX44",
+      "apellidos": "RAMIREZ",
+      "nombres": "ISABEL ANGELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX92",
+      "apellidos": "URUEÑA",
+      "nombres": "AMELIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

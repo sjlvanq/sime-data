@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 1164,
+    "padron_id": 2095
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "29XXXX49",
+      "apellidos": "GALLARDO",
+      "nombres": "FERNANDO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 83,
+      "dni": "25XXXX55",
+      "apellidos": "REINOSO",
+      "nombres": "GUSTAVO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "26XXXX01",
+      "apellidos": "GARCIA ",
+      "nombres": "MIGUEL ANGEL JESÚS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "33XXXX57",
+      "apellidos": "LOBO",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

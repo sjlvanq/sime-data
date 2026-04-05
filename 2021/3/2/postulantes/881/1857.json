@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 881,
+    "padron_id": 1857
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "29XXXX20",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "17XXXX32",
+      "apellidos": "FIGUEROA",
+      "nombres": "SEGUNDO FERMIN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

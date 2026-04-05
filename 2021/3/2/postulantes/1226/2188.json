@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 1226,
+    "padron_id": 2188
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX44",
+      "apellidos": "ARROYO",
+      "nombres": "JULIETA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "16XXXX36",
+      "apellidos": "JUAREZ",
+      "nombres": "ALBA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "37XXXX67",
+      "apellidos": "SOSA",
+      "nombres": "ADRIAN ENRIQUE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "26XXXX82",
+      "apellidos": "PENA",
+      "nombres": "PEDRO EUGENIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

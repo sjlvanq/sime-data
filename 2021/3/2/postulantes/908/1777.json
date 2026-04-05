@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 908,
+    "padron_id": 1777
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX64",
+      "apellidos": "LESCANO",
+      "nombres": "GUSTAVO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX36",
+      "apellidos": "MEDINA",
+      "nombres": "JOSE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

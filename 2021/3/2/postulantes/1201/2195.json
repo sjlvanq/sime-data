@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1201,
+    "padron_id": 2195
+  },
+  "postulantes": [
+    {
+      "orden": 62,
+      "dni": "38XXXX13",
+      "apellidos": "FERREYRA",
+      "nombres": "RODRIGO NOE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "33XXXX43",
+      "apellidos": "ARRIETA",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

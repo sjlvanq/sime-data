@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 1232,
+    "padron_id": 2296
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "35XXXX75",
+      "apellidos": "DIAZ",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "27XXXX15",
+      "apellidos": "SALVATIERRA",
+      "nombres": "CLAUDIA ERNESTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "27XXXX13",
+      "apellidos": "KANAN",
+      "nombres": "LORENA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "24XXXX54",
+      "apellidos": "GEREZ",
+      "nombres": "ZULMA ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "38XXXX38",
+      "apellidos": "DELGADO",
+      "nombres": "LAURA ANTONELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 975,
+    "padron_id": 1803
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "20XXXX08",
+      "apellidos": "LENCINA",
+      "nombres": "JESUS ROXANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 65,
+      "dni": "17XXXX68",
+      "apellidos": "VARELA",
+      "nombres": "SILVIA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 82,
+      "dni": "20XXXX39",
+      "apellidos": "RAMIREZ",
+      "nombres": "FERNANDO DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

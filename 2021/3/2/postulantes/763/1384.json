@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 763,
+    "padron_id": 1384
+  },
+  "postulantes": [
+    {
+      "orden": 60,
+      "dni": "35XXXX86",
+      "apellidos": "PONCE",
+      "nombres": "JUAN MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

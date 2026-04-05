@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 901,
+    "padron_id": 1781
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "26XXXX14",
+      "apellidos": "ROBLES",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "30XXXX23",
+      "apellidos": "PAREDES",
+      "nombres": "NOELIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

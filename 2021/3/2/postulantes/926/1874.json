@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 926,
+    "padron_id": 1874
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX90",
+      "apellidos": "CARRIZO",
+      "nombres": "VERONICA GABRIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX69",
+      "apellidos": "RAMOS",
+      "nombres": "LUCIANA YANINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 1242,
+    "padron_id": 2332
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "34XXXX02",
+      "apellidos": "SUAREZ",
+      "nombres": "GUILLERMO DARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "34XXXX97",
+      "apellidos": "REYNOSO SORIA",
+      "nombres": "SEBASTIAN ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "35XXXX69",
+      "apellidos": "JUÁREZ",
+      "nombres": "LUISA NATALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "26XXXX36",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "HERNÁN NAZARENO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "12XXXX67",
+      "apellidos": "MARQUEZ SANCHEZ",
+      "nombres": "JUAN CARLOS HUMBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

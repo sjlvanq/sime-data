@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1231,
+    "padron_id": 2295
+  },
+  "postulantes": [
+    {
+      "orden": 46,
+      "dni": "38XXXX38",
+      "apellidos": "DELGADO",
+      "nombres": "LAURA ANTONELLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "35XXXX39",
+      "apellidos": "JUAREZ",
+      "nombres": "LUCAS ESTEBAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

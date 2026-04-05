@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 965,
+    "padron_id": 1952
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX95",
+      "apellidos": "ROJAS",
+      "nombres": "NATALIA AGUSTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX87",
+      "apellidos": "LINDON",
+      "nombres": "SILVANA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

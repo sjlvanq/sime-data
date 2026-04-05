@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1243,
+    "padron_id": 2311
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "23XXXX44",
+      "apellidos": "RAMIREZ",
+      "nombres": "ISABEL ANGELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX92",
+      "apellidos": "URUEÑA",
+      "nombres": "AMELIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

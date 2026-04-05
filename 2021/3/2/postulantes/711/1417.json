@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 711,
+    "padron_id": 1417
+  },
+  "postulantes": [
+    {
+      "orden": 28,
+      "dni": "26XXXX21",
+      "apellidos": "AREDEZ",
+      "nombres": "NATALIA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX19",
+      "apellidos": "GONZALEZ",
+      "nombres": "CARMEN PATRICIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "21XXXX47",
+      "apellidos": "DE LA VEGA",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

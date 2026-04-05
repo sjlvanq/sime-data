@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1177,
+    "padron_id": 2128
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX57",
+      "apellidos": "HASURE                                  ",
+      "nombres": "ANA VALERIA                             ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX09",
+      "apellidos": "CORVALAN",
+      "nombres": "CLAUDIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "18XXXX07",
+      "apellidos": "HERNANDEZ",
+      "nombres": "LUCIA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

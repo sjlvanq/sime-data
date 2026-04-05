@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 1166,
+    "padron_id": 2101
+  },
+  "postulantes": [
+    {
+      "orden": 44,
+      "dni": "38XXXX26",
+      "apellidos": "OTTINO",
+      "nombres": "FRANCO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "33XXXX12",
+      "apellidos": "NAVELINO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "39XXXX93",
+      "apellidos": "COCCO FERNANDEZ                         ",
+      "nombres": "DANNIA ANATAHI                          ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 111,
+      "dni": "39XXXX45",
+      "apellidos": "SILVA",
+      "nombres": "PAULA SOLANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1241,
+    "padron_id": 2306
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "30XXXX79",
+      "apellidos": "HERRERA",
+      "nombres": "JUAN ELIAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX27",
+      "apellidos": "TORCHAN",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

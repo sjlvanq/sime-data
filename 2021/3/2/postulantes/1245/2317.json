@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1245,
+    "padron_id": 2317
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "28XXXX92",
+      "apellidos": "URUEÑA",
+      "nombres": "AMELIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "24XXXX46",
+      "apellidos": "MOYANO",
+      "nombres": "YENI VILMA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

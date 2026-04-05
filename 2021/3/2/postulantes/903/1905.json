@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 903,
+    "padron_id": 1905
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX71",
+      "apellidos": "SERRANO",
+      "nombres": "GLADYS GABRIELA DEOLINDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX65",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "LIDIA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

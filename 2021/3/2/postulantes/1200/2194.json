@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 1200,
+    "padron_id": 2194
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "33XXXX04",
+      "apellidos": "LOPEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "29XXXX93",
+      "apellidos": "ZELARAYAN",
+      "nombres": "NOELIA LUCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "16XXXX43",
+      "apellidos": "PALACIOS",
+      "nombres": "CLAUDIA TERESA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "16XXXX77",
+      "apellidos": "GOMEZ",
+      "nombres": "NANCY BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX81",
+      "apellidos": "LECCESE",
+      "nombres": "LILIA MARILINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

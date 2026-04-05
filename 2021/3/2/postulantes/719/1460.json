@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 719,
+    "padron_id": 1460
+  },
+  "postulantes": [
+    {
+      "orden": 97,
+      "dni": "36XXXX20",
+      "apellidos": "VALDEZ",
+      "nombres": "ANDREA DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "35XXXX30",
+      "apellidos": "CORREA",
+      "nombres": "YANEL DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 162,
+      "dni": "31XXXX79",
+      "apellidos": "DIAZ",
+      "nombres": "VERONICA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "vacante_id": 899,
+    "padron_id": 1785
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "25XXXX21",
+      "apellidos": "CHICO",
+      "nombres": "MATIAS OSCAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "13XXXX43",
+      "apellidos": "LASTRA",
+      "nombres": "LUIS EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX57",
+      "apellidos": "ARNEDO",
+      "nombres": "VALERIA SUSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "26XXXX14",
+      "apellidos": "ROBLES",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "26XXXX95",
+      "apellidos": "DELGADO",
+      "nombres": "MARIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "30XXXX23",
+      "apellidos": "PAREDES",
+      "nombres": "NOELIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

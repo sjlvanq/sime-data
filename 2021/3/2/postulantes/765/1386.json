@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 765,
+    "padron_id": 1386
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "27XXXX89",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ELIANA ELVIRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "34XXXX99",
+      "apellidos": "IMPA ZARATE",
+      "nombres": "ABEL HORACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
