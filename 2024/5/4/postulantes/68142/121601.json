@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68142,
+    "padron_id": 121601
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX87",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOHANA ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "23XXXX75",
+      "apellidos": "MENA NAVARRO",
+      "nombres": "MARIA PAOLA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX56",
+      "apellidos": "SERRANO",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
