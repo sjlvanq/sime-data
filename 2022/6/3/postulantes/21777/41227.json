@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 21777,
+    "padron_id": 41227
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX61",
+      "apellidos": "IBRAHIM",
+      "nombres": "FABIAN MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX24",
+      "apellidos": "MOREIRA",
+      "nombres": "EDUARDO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 20207,
+    "padron_id": 38121
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "30XXXX13",
+      "apellidos": "GALVAN REY",
+      "nombres": "EMMANUEL CELSO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "21XXXX75",
+      "apellidos": "SANCHEZ",
+      "nombres": "ANTONIO MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "30XXXX07",
+      "apellidos": "VEGA",
+      "nombres": "JOSE LEONARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "42XXXX30",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "DALMA ESTEFANIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

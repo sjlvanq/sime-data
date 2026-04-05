@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17411,
+    "padron_id": 36405
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "35XXXX03",
+      "apellidos": "LOPEZ",
+      "nombres": "EMANUEL ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "35XXXX27",
+      "apellidos": "CRUZ",
+      "nombres": "TANIA REBECA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "35XXXX15",
+      "apellidos": "BARQUET",
+      "nombres": "RODRIGO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

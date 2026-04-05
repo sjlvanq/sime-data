@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 20035,
+    "padron_id": 39636
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX96",
+      "apellidos": "VILLAGRAN LAZZARONE",
+      "nombres": "JOSE DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX17",
+      "apellidos": "ZANOTTA",
+      "nombres": "FRANCO MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX03",
+      "apellidos": "GARCIA",
+      "nombres": "OMAR MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX15",
+      "apellidos": "ROMANO                                  ",
+      "nombres": "CARLOS OSCAR                            ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

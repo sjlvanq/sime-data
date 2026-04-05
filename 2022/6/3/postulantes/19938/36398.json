@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 19938,
+    "padron_id": 36398
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX31",
+      "apellidos": "LOPEZ",
+      "nombres": "ANAHI LUZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "16XXXX33",
+      "apellidos": "CENTENO",
+      "nombres": "JORDAN BENITO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "37XXXX90",
+      "apellidos": "SANTILLAN",
+      "nombres": "NESTOR IGNACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20551,
+    "padron_id": 38441
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "28XXXX93",
+      "apellidos": "ARNEDO",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX86",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ISAIAS HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

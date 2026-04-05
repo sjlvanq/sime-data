@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 21444,
+    "padron_id": 40352
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX22",
+      "apellidos": "CORDOBA",
+      "nombres": "MIGUEL MAURICIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX53",
+      "apellidos": "MEDRANO",
+      "nombres": "CHRISTIAN RENE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

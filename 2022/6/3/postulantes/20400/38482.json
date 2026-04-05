@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20400,
+    "padron_id": 38482
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "30XXXX60",
+      "apellidos": "MANSILLA",
+      "nombres": "DANIELA ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "25XXXX40",
+      "apellidos": "ARNEDO",
+      "nombres": "YOLANDA NOEMI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

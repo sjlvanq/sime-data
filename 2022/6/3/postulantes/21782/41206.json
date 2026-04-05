@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21782,
+    "padron_id": 41206
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "25XXXX78",
+      "apellidos": "AGÜERO",
+      "nombres": "LUIS CRISTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "23XXXX22",
+      "apellidos": "ZUÑIGA",
+      "nombres": "ANTONIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "29XXXX52",
+      "apellidos": "GUTIERREZ",
+      "nombres": "GUSTAVO ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20899,
+    "padron_id": 41207
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX98",
+      "apellidos": "TOLEDO",
+      "nombres": "JOAQUIN DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX92",
+      "apellidos": "LUNA",
+      "nombres": "MARTIN JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "39XXXX04",
+      "apellidos": "SOSA",
+      "nombres": "GONZALO RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

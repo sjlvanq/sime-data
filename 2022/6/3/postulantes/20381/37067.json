@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20381,
+    "padron_id": 37067
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "29XXXX63",
+      "apellidos": "SQUILLARIO",
+      "nombres": "SERGIO JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX99",
+      "apellidos": "LENCINA",
+      "nombres": "RODRIGO NAHUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "17XXXX99",
+      "apellidos": "BERRONDO",
+      "nombres": "LUIS EULOGIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17669,
+    "padron_id": 37835
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "36XXXX44",
+      "apellidos": "LEAL",
+      "nombres": "ESTELA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX01",
+      "apellidos": "MORALES",
+      "nombres": "JUAN SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX23",
+      "apellidos": "MENA",
+      "nombres": "LILIA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

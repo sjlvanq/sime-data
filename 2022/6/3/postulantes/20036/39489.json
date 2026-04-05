@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 20036,
+    "padron_id": 39489
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX80",
+      "apellidos": "GARCIA",
+      "nombres": "GLADYS LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX42",
+      "apellidos": "GONZALEZ",
+      "nombres": "CAROLINA EDITH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 4,
+      "dni": "20XXXX21",
+      "apellidos": "MARCIAL",
+      "nombres": "JULIA EVANGELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX79",
+      "apellidos": "GARCIA",
+      "nombres": "ROSA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 8,
+      "dni": "20XXXX67",
+      "apellidos": "IBAÑEZ",
+      "nombres": "SANDRA MONICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

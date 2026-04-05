@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 22157,
+    "padron_id": 39479
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX43",
+      "apellidos": "TOLEDO",
+      "nombres": "ADRIANA EVANGELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX62",
+      "apellidos": "ARRIOLA SALINAS",
+      "nombres": "MARIA JOSE ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX36",
+      "apellidos": "CORREA",
+      "nombres": "DEOLINDA MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "31XXXX01",
+      "apellidos": "IBARRA",
+      "nombres": "DEBORATH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

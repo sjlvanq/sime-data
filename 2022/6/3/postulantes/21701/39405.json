@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21701,
+    "padron_id": 39405
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "22XXXX14",
+      "apellidos": "SVALDI",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "20XXXX68",
+      "apellidos": "GRANEROS",
+      "nombres": "ALICIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX52",
+      "apellidos": "MEDINA",
+      "nombres": "ENRIQUETA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

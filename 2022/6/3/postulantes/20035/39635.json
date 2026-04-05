@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20035,
+    "padron_id": 39635
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX95",
+      "apellidos": "ALBARRACIN",
+      "nombres": "FRANCO RAMON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX62",
+      "apellidos": "ACUÑA",
+      "nombres": "RODRIGO ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

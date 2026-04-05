@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 21084,
+    "padron_id": 41085
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX97",
+      "apellidos": "GOMEZ",
+      "nombres": "DIEGO RODRIGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX75",
+      "apellidos": "GAMBARTE",
+      "nombres": "ELIO JOSE MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20049,
+    "padron_id": 39340
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX87",
+      "apellidos": "ORELLANA",
+      "nombres": "AMERICO GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP JEFE DE SECCION INTERINO"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX48",
+      "apellidos": "SERRANO",
+      "nombres": "JOSE FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP TITULAR"
+    },
+    {
+      "orden": 7,
+      "dni": "28XXXX65",
+      "apellidos": "MARTINEZ",
+      "nombres": "CRISTIAN ARMANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP TITULAR"
+    }
+  ]
+}

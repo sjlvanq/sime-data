@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 22310,
+    "padron_id": 39484
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "33XXXX19",
+      "apellidos": "VALDEZ",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "28XXXX89",
+      "apellidos": "LESMO",
+      "nombres": "LORENA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX45",
+      "apellidos": "NIEVA",
+      "nombres": "MARIA MARTA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX67",
+      "apellidos": "LAZARTE",
+      "nombres": "NOELÍ GISELLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "27XXXX27",
+      "apellidos": "MARCHESE",
+      "nombres": "ROSANA SOLEDAD",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

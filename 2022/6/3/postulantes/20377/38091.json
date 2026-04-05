@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 20377,
+    "padron_id": 38091
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX56",
+      "apellidos": "MAHMUD",
+      "nombres": "FATIMA MARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX17",
+      "apellidos": "AVELLANEDA",
+      "nombres": "NESTOR DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX01",
+      "apellidos": "SALGADO",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "20XXXX47",
+      "apellidos": "AGUILERA",
+      "nombres": "JOSE ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

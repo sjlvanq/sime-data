@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20831,
+    "padron_id": 37846
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX35",
+      "apellidos": "CORONEL",
+      "nombres": "MANUEL FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX58",
+      "apellidos": "VARELA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "37XXXX98",
+      "apellidos": "EZQUER",
+      "nombres": "MARIO NAHUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 20874,
+    "padron_id": 37463
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX71",
+      "apellidos": "PORCEL",
+      "nombres": "UBALDO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX25",
+      "apellidos": "SABALZA",
+      "nombres": "DANIELA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "22XXXX03",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "RAUL FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "36XXXX71",
+      "apellidos": "VARELA",
+      "nombres": "MAYRA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

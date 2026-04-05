@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20530,
+    "padron_id": 36496
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX00",
+      "apellidos": "MONTEROS",
+      "nombres": "ANALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX81",
+      "apellidos": "PULIDO",
+      "nombres": "CINTIA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX68",
+      "apellidos": "RUIZ",
+      "nombres": "SANDRA LIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
