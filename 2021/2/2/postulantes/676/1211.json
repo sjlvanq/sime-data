@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 676,
+    "padron_id": 1211
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX96",
+      "apellidos": "RAMOS",
+      "nombres": "PATRICIA VERÓNICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "20XXXX75",
+      "apellidos": "VILARIÑO",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

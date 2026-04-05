@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 639,
+    "padron_id": 1181
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "26XXXX03",
+      "apellidos": "VERGARA",
+      "nombres": "EDITH MARGARITA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "35XXXX61",
+      "apellidos": "CONTRERAS",
+      "nombres": "MARIELA SILVANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "20XXXX89",
+      "apellidos": "SALVATIERRA                             ",
+      "nombres": "JOSEFINA DEL VALLE                      ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX47",
+      "apellidos": "HANSEN",
+      "nombres": "FREDY",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

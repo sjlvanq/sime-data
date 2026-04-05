@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 652,
+    "padron_id": 1238
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX95",
+      "apellidos": "JIMENEZ",
+      "nombres": "PAOLA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX70",
+      "apellidos": "CHAVES",
+      "nombres": "FATIMA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
