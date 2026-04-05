@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22010,
+    "padron_id": 39899
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "31XXXX34",
+      "apellidos": "QUINTERO",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "37XXXX64",
+      "apellidos": "MENDEZ",
+      "nombres": "VERONICA GISELA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "24XXXX45",
+      "apellidos": "TROVO",
+      "nombres": "HUGO DAVID",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 22300,
+    "padron_id": 39138
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX56",
+      "apellidos": "SOSA DI GREGORIO",
+      "nombres": "RUBEN MARCELO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN CARACTER",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "23XXXX45",
+      "apellidos": "RUIZ",
+      "nombres": "HUGO DANIEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN CARACTER",
+      "CargoInferior": "-"
+    }
+  ]
+}

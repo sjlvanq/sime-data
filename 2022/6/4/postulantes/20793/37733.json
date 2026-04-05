@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20793,
+    "padron_id": 37733
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "30XXXX63",
+      "apellidos": "DIAZ",
+      "nombres": "JUAN CRUZ",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "35XXXX83",
+      "apellidos": "AGUERO",
+      "nombres": "JORGE GERARDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "27XXXX17",
+      "apellidos": "OJEDA",
+      "nombres": "CARLOS ARIEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

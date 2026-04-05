@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 23234,
+    "padron_id": 41098
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "31XXXX51",
+      "apellidos": "CALVO",
+      "nombres": "CARLOS MARTIN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "29XXXX38",
+      "apellidos": "DIAZ",
+      "nombres": "AUGUSTO GUILLERMO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "28XXXX58",
+      "apellidos": "SANCHEZ",
+      "nombres": "ROQUE ALFREDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "39XXXX23",
+      "apellidos": "ZERDA",
+      "nombres": "JUAN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
