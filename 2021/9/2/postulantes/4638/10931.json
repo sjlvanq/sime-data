@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4638,
+    "padron_id": 10931
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX06",
+      "apellidos": "NOGUERA                                 ",
+      "nombres": "ANDREA CECILIA                          ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX42",
+      "apellidos": "RODRIGUEZ SALCEDO",
+      "nombres": "DEBORAH JUDITH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "22XXXX15",
+      "apellidos": "IBARRA",
+      "nombres": "SONIA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

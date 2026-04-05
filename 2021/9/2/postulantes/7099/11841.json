@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 7099,
+    "padron_id": 11841
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "26XXXX21",
+      "apellidos": "AREDEZ",
+      "nombres": "NATALIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "29XXXX89",
+      "apellidos": "CASTRO",
+      "nombres": "NORMA JORGELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "21XXXX20",
+      "apellidos": "PAZ",
+      "nombres": "PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "29XXXX60",
+      "apellidos": "GIMENEZ",
+      "nombres": "EUGENIA ANALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 7292,
+    "padron_id": 12527
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "35XXXX57",
+      "apellidos": "JIMENEZ",
+      "nombres": "DANA XIMENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "34XXXX49",
+      "apellidos": "GALLARDO",
+      "nombres": "GASTON ALEXANDER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "30XXXX36",
+      "apellidos": "SORIA",
+      "nombres": "MARIA CLARA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "32XXXX16",
+      "apellidos": "BARROS",
+      "nombres": "EDUARDO CRISTIAN JAVIER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

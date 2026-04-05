@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 6971,
+    "padron_id": 11468
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "36XXXX72",
+      "apellidos": "ALBORNOZ MONTECINO",
+      "nombres": "PEDRO MIGUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX45",
+      "apellidos": "PASTRANA",
+      "nombres": "CLARA ROCIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX43",
+      "apellidos": "MOCOROA",
+      "nombres": "PAULA MARIA DEL ROSARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

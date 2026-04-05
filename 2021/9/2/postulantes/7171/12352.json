@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7171,
+    "padron_id": 12352
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX42",
+      "apellidos": "RODRIGUEZ SALCEDO",
+      "nombres": "DEBORAH JUDITH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX83",
+      "apellidos": "NIEVA",
+      "nombres": "ERICA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX05",
+      "apellidos": "LIZARRAGA",
+      "nombres": "ANAHI NOELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

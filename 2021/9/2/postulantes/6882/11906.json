@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 6882,
+    "padron_id": 11906
+  },
+  "postulantes": [
+    {
+      "orden": 33,
+      "dni": "23XXXX65",
+      "apellidos": "GAMBARTE",
+      "nombres": "JUDIT ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "27XXXX08",
+      "apellidos": "ACOSTA",
+      "nombres": "MARTA SOFIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "24XXXX19",
+      "apellidos": "GONZALEZ",
+      "nombres": "CARMEN PATRICIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

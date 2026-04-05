@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7011,
+    "padron_id": 11527
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "27XXXX64",
+      "apellidos": "ACOSTA",
+      "nombres": "ANDREA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "24XXXX42",
+      "apellidos": "TORRES",
+      "nombres": "ANGELA AIDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "28XXXX87",
+      "apellidos": "JEREZ",
+      "nombres": "ESTER LEONOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
