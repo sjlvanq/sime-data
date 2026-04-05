@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15647,
+    "padron_id": 27840
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "33XXXX39",
+      "apellidos": "LO SARDO",
+      "nombres": "SERGIO CRISTÓBAL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "22XXXX50",
+      "apellidos": "JEREZ",
+      "nombres": "VICTOR JESUS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "22XXXX38",
+      "apellidos": "TELLO",
+      "nombres": "LAURA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

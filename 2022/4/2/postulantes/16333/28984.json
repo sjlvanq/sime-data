@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 16333,
+    "padron_id": 28984
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "21XXXX85",
+      "apellidos": "VILLARREAL",
+      "nombres": "ENRIQUETA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "20XXXX07",
+      "apellidos": "ORDOÑEZ",
+      "nombres": "AZUCENA LEONOR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX65",
+      "apellidos": "GAMBARTE",
+      "nombres": "JUDIT ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

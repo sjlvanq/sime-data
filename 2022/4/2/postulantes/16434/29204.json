@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 16434,
+    "padron_id": 29204
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "26XXXX41",
+      "apellidos": "MEDINA",
+      "nombres": "LAURA ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "18XXXX07",
+      "apellidos": "HERNANDEZ",
+      "nombres": "LUCIA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "14XXXX34",
+      "apellidos": "CISNEROS",
+      "nombres": "RUBEN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "13XXXX07",
+      "apellidos": "PISTAN",
+      "nombres": "VICTOR ORLANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "24XXXX58",
+      "apellidos": "VARELA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

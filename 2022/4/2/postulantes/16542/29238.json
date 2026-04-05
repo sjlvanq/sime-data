@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 16542,
+    "padron_id": 29238
+  },
+  "postulantes": [
+    {
+      "orden": 34,
+      "dni": "28XXXX94",
+      "apellidos": "ORTIZ",
+      "nombres": "ELINA TERESA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 89,
+      "dni": "20XXXX39",
+      "apellidos": "RAMIREZ",
+      "nombres": "FERNANDO DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 98,
+      "dni": "28XXXX27",
+      "apellidos": "DANDREA",
+      "nombres": "JESUS ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 56,
+      "dni": "20XXXX21",
+      "apellidos": "LEDESMA",
+      "nombres": "ROBERTO ROQUE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 4,
+      "dni": "18XXXX69",
+      "apellidos": "SAFIR",
+      "nombres": "JORGE ANTONIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

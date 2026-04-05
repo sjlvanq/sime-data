@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 15729,
+    "padron_id": 28610
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX87",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOHANA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "36XXXX32",
+      "apellidos": "SAFE CAPISANO",
+      "nombres": "YENIFER STEFANIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX82",
+      "apellidos": "SEMINARA FARIAS                         ",
+      "nombres": "BEATRIZ ANTONIETA                       ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX80",
+      "apellidos": "SAL",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "17XXXX34",
+      "apellidos": "PODINGA",
+      "nombres": "ANABELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

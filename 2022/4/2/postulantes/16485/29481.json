@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 16485,
+    "padron_id": 29481
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX96",
+      "apellidos": "EZQUER",
+      "nombres": "CRISTIAN DIEGO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "25XXXX58",
+      "apellidos": "AGUERO",
+      "nombres": "FABIANA ISABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 100,
+      "dni": "35XXXX55",
+      "apellidos": "GIMENEZ ARROYO",
+      "nombres": "IVANA GISELLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

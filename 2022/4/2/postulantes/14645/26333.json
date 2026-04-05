@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14645,
+    "padron_id": 26333
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX77",
+      "apellidos": "MARCOS",
+      "nombres": "MARIA DEL MILAGRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX50",
+      "apellidos": "MEDINA",
+      "nombres": "NADIA NATALY",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX16",
+      "apellidos": "DECIMA",
+      "nombres": "BEATRIZ ADRIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

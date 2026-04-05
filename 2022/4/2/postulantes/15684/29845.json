@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 15684,
+    "padron_id": 29845
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "35XXXX57",
+      "apellidos": "JIMENEZ",
+      "nombres": "DANA XIMENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "35XXXX19",
+      "apellidos": "CENTENO",
+      "nombres": "HECTOR ALEJANDRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "13XXXX62",
+      "apellidos": "LERA",
+      "nombres": "ESTELA AMANDA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

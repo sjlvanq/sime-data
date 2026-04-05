@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 16778,
+    "padron_id": 29754
+  },
+  "postulantes": [
+    {
+      "orden": 37,
+      "dni": "17XXXX86",
+      "apellidos": "DIAZ",
+      "nombres": "MARGARITA AZUCENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 37,
+      "dni": "25XXXX67",
+      "apellidos": "NICKLER",
+      "nombres": "ALDO DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15845,
+    "padron_id": 29464
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "36XXXX06",
+      "apellidos": "QUIROGA",
+      "nombres": "YANET EVELIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "39XXXX11",
+      "apellidos": "ROBLEDO VARELA",
+      "nombres": "ANDREA BIANCA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 55,
+      "dni": "35XXXX16",
+      "apellidos": "ALBORNOZ",
+      "nombres": "JOHANA CRISTAL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

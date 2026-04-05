@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15606,
+    "padron_id": 27779
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX14",
+      "apellidos": "DIAZ VENTURINO",
+      "nombres": "NORA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX09",
+      "apellidos": "BELTRAN",
+      "nombres": "CECILIA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX12",
+      "apellidos": "PERALTA",
+      "nombres": "SILVANA DIANELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 16674,
+    "padron_id": 29330
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "35XXXX75",
+      "apellidos": "DIAZ",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "33XXXX35",
+      "apellidos": "ROQUÉ",
+      "nombres": "YESSICA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

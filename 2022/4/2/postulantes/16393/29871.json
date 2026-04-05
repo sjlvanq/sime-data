@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 16393,
+    "padron_id": 29871
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX86",
+      "apellidos": "RUBIO",
+      "nombres": "DANIEL ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "36XXXX94",
+      "apellidos": "MARTINEZ",
+      "nombres": "SABRINA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX01",
+      "apellidos": "CUELLO",
+      "nombres": "DAVID ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

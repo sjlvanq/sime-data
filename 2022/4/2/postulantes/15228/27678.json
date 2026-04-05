@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 15228,
+    "padron_id": 27678
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "37XXXX83",
+      "apellidos": "TREJO JUAREZ",
+      "nombres": "FLORENCIA DE JESÚS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "36XXXX73",
+      "apellidos": "OVEJERO SALLES",
+      "nombres": "MARIANELA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "33XXXX58",
+      "apellidos": "FIGUEROA",
+      "nombres": "MELISA MARIANELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "31XXXX20",
+      "apellidos": "LAZARTE",
+      "nombres": "PEDRO JAVIER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "31XXXX56",
+      "apellidos": "AGUILAR",
+      "nombres": "JULIAN EDGARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

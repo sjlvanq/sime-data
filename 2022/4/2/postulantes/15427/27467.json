@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 15427,
+    "padron_id": 27467
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX03",
+      "apellidos": "LAHITTE",
+      "nombres": "EMILIO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX34",
+      "apellidos": "PASTRANA",
+      "nombres": "HERNAN MARCOS EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

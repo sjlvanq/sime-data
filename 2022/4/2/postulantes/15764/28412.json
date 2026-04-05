@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15764,
+    "padron_id": 28412
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "27XXXX91",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "34XXXX47",
+      "apellidos": "GARCIA",
+      "nombres": "VICTORIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "27XXXX99",
+      "apellidos": "TULA",
+      "nombres": "PATRICIA SUSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

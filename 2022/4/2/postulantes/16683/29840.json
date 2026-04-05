@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 16683,
+    "padron_id": 29840
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "31XXXX65",
+      "apellidos": "FUENTES",
+      "nombres": "SILVANA LORENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX44",
+      "apellidos": "ELIAS",
+      "nombres": "ESTEBAN DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "22XXXX24",
+      "apellidos": "AREDEZ",
+      "nombres": "GABRIELA RUTH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15403,
+    "padron_id": 27359
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "30XXXX85",
+      "apellidos": "YAÑEZ",
+      "nombres": "CRISTIAN FERNANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "22XXXX38",
+      "apellidos": "TELLO",
+      "nombres": "LAURA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "25XXXX87",
+      "apellidos": "ALE",
+      "nombres": "ANDRES DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

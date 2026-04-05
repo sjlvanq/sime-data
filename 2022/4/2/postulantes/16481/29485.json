@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 16481,
+    "padron_id": 29485
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "21XXXX85",
+      "apellidos": "SEIFER",
+      "nombres": "MYRIAM CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "34XXXX88",
+      "apellidos": "MANAY",
+      "nombres": "CONSTANZA MARIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX78",
+      "apellidos": "BRUNET",
+      "nombres": "ANA FLORENCIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "18XXXX53",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "CLAUDIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

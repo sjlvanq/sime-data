@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15487,
+    "padron_id": 27389
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX06",
+      "apellidos": "MENDOZA",
+      "nombres": "SERGIO FRANCISCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX32",
+      "apellidos": "ESTOICA",
+      "nombres": "YANINA MAGALÍ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX90",
+      "apellidos": "MAMANI",
+      "nombres": "ALEJANDRA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

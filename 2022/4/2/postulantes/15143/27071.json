@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15143,
+    "padron_id": 27071
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX47",
+      "apellidos": "ROMERO",
+      "nombres": "DANIEL FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX90",
+      "apellidos": "COSTILLA",
+      "nombres": "MARIA VALENCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX94",
+      "apellidos": "MONROY",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

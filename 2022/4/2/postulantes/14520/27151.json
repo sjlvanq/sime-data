@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14520,
+    "padron_id": 27151
+  },
+  "postulantes": [
+    {
+      "orden": 49,
+      "dni": "22XXXX54",
+      "apellidos": "SORIA",
+      "nombres": "SILVIA SUSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 50,
+      "dni": "21XXXX91",
+      "apellidos": "RUIZ",
+      "nombres": "LILIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 97,
+      "dni": "25XXXX68",
+      "apellidos": "SEGURA",
+      "nombres": "SERGIO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

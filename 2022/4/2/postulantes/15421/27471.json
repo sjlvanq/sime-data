@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 15421,
+    "padron_id": 27471
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX03",
+      "apellidos": "LAHITTE",
+      "nombres": "EMILIO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX79",
+      "apellidos": "HERRERA",
+      "nombres": "JUAN ELIAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX27",
+      "apellidos": "TORCHAN",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX34",
+      "apellidos": "PASTRANA",
+      "nombres": "HERNAN MARCOS EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX55",
+      "apellidos": "BENENCIA",
+      "nombres": "JOSE ANTONIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

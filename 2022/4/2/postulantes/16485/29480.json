@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 16485,
+    "padron_id": 29480
+  },
+  "postulantes": [
+    {
+      "orden": 45,
+      "dni": "36XXXX15",
+      "apellidos": "BALDERRAMA",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "36XXXX05",
+      "apellidos": "RICCI",
+      "nombres": "MARCOS JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "30XXXX51",
+      "apellidos": "ALVAREZ COSTAS",
+      "nombres": "ANDREA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

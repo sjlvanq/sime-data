@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 16485,
+    "padron_id": 29482
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "32XXXX21",
+      "apellidos": "LUNA",
+      "nombres": "ANAHI SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "30XXXX51",
+      "apellidos": "ALVAREZ COSTAS",
+      "nombres": "ANDREA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 68,
+      "dni": "35XXXX55",
+      "apellidos": "GIMENEZ ARROYO",
+      "nombres": "IVANA GISELLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

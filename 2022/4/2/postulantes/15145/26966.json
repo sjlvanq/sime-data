@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15145,
+    "padron_id": 26966
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "33XXXX47",
+      "apellidos": "ROMERO",
+      "nombres": "DANIEL FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "26XXXX90",
+      "apellidos": "COSTILLA",
+      "nombres": "MARIA VALENCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "17XXXX91",
+      "apellidos": "FRONTINI",
+      "nombres": "LUCAS HECTOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

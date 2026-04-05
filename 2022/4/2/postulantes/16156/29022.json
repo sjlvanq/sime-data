@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 16156,
+    "padron_id": 29022
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX34",
+      "apellidos": "GIMENEZ",
+      "nombres": "JULIO CESAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX01",
+      "apellidos": "CANO",
+      "nombres": "RICARDO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

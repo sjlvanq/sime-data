@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 15236,
+    "padron_id": 27686
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX55",
+      "apellidos": "GONZALEZ",
+      "nombres": "JORGE RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX61",
+      "apellidos": "BRITO",
+      "nombres": "MARIELA ROXANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

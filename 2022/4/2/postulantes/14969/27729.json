@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 14969,
+    "padron_id": 27729
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX57",
+      "apellidos": "VAQUERO",
+      "nombres": "CECILIA MERCEDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "36XXXX73",
+      "apellidos": "OVEJERO SALLES",
+      "nombres": "MARIANELA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "31XXXX56",
+      "apellidos": "AGUILAR",
+      "nombres": "JULIAN EDGARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "18XXXX55",
+      "apellidos": "PEREYRA ISA",
+      "nombres": "NORMA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
