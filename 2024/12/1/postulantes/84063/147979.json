@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 84063,
+    "padron_id": 147979
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "38XXXX53",
+      "apellidos": "PAZ",
+      "nombres": "JULIANA ROMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "33XXXX11",
+      "apellidos": "DIAZ",
+      "nombres": "FATIMA NOELIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

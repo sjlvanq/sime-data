@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 83762,
+    "padron_id": 147825
+  },
+  "postulantes": [
+    {
+      "orden": 89,
+      "dni": "24XXXX87",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "BLANCA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 232,
+      "dni": "20XXXX73",
+      "apellidos": "JORJIEFF",
+      "nombres": "MARIA JUDITH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 94,
+      "dni": "31XXXX47",
+      "apellidos": "GUZMAN",
+      "nombres": "CAROLINA VERONICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

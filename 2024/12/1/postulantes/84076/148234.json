@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 84076,
+    "padron_id": 148234
+  },
+  "postulantes": [
+    {
+      "orden": 128,
+      "dni": "24XXXX19",
+      "apellidos": "ALURRALDE",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 200,
+      "dni": "22XXXX42",
+      "apellidos": "RIVAS",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 323,
+      "dni": "21XXXX82",
+      "apellidos": "PALINA",
+      "nombres": "JUAN RAMON",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
