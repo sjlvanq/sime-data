@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 105303,
+    "padron_id": 183218
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "35XXXX70",
+      "apellidos": "CERVANTES",
+      "nombres": "GASTON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "32XXXX45",
+      "apellidos": "GONZALEZ",
+      "nombres": "NATALIA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "29XXXX73",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA DE LUJAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "30XXXX21",
+      "apellidos": "MARQUEZ",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

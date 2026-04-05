@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103225,
+    "padron_id": 179456
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "24XXXX30",
+      "apellidos": "HEREDIA",
+      "nombres": "CLAUDIA GRACIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "34XXXX89",
+      "apellidos": "GONZALEZ",
+      "nombres": "CECILIA DOLORES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 170,
+      "dni": "26XXXX45",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

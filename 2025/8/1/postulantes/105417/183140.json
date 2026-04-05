@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 105417,
+    "padron_id": 183140
+  },
+  "postulantes": [
+    {
+      "orden": 450,
+      "dni": "26XXXX66",
+      "apellidos": "ESCOBAR",
+      "nombres": "VALERIA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1234,
+      "dni": "41XXXX51",
+      "apellidos": "ANTELO",
+      "nombres": "ANA GABRIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 101205,
+    "padron_id": 178476
+  },
+  "postulantes": [
+    {
+      "orden": 317,
+      "dni": "32XXXX66",
+      "apellidos": "AYUSA",
+      "nombres": "IRIS JACQUELINE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 636,
+      "dni": "36XXXX80",
+      "apellidos": "REYNOSO",
+      "nombres": "MARIA CARLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 657,
+      "dni": "36XXXX83",
+      "apellidos": "AGUILAR",
+      "nombres": "DORA MARILYN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

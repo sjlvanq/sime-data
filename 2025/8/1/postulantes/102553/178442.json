@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102553,
+    "padron_id": 178442
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "37XXXX81",
+      "apellidos": "RIVERA",
+      "nombres": "LUZ MACARENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "36XXXX80",
+      "apellidos": "MAZA",
+      "nombres": "LUCIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "37XXXX79",
+      "apellidos": "ZORRILLA HOYOS",
+      "nombres": "YANET MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

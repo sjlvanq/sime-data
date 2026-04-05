@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102630,
+    "padron_id": 179537
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "27XXXX77",
+      "apellidos": "DOMINGUEZ",
+      "nombres": "CAROLINA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 73,
+      "dni": "27XXXX63",
+      "apellidos": "VEGA",
+      "nombres": "FERNANDA GRACIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "21XXXX10",
+      "apellidos": "CRESPIN",
+      "nombres": "ADRIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

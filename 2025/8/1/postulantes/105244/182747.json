@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 105244,
+    "padron_id": 182747
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "28XXXX60",
+      "apellidos": "VEGA",
+      "nombres": "EUGENIA JOSEFA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "23XXXX08",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

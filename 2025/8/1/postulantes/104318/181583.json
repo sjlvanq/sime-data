@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 104318,
+    "padron_id": 181583
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "41XXXX36",
+      "apellidos": "VENZAL",
+      "nombres": "ANDREA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "40XXXX42",
+      "apellidos": "ORIETA",
+      "nombres": "FLORENCIA GABRIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "23XXXX00",
+      "apellidos": "CASTRO",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

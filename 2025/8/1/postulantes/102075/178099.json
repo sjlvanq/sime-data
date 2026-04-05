@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102075,
+    "padron_id": 178099
+  },
+  "postulantes": [
+    {
+      "orden": 235,
+      "dni": "27XXXX86",
+      "apellidos": "LOPEZ",
+      "nombres": "LUCIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 231,
+      "dni": "23XXXX57",
+      "apellidos": "BARRERA",
+      "nombres": "ROSA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 737,
+      "dni": "20XXXX18",
+      "apellidos": "BUSTOS                                  ",
+      "nombres": "CLAUDIA MARCELA                         ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

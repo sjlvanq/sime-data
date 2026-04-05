@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 103429,
+    "padron_id": 179812
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "27XXXX00",
+      "apellidos": "ACOSTA",
+      "nombres": "CAROLINA SILVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "33XXXX13",
+      "apellidos": "ACOSTA",
+      "nombres": "AMALIA JORGELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX86",
+      "apellidos": "PEREZ",
+      "nombres": "PAOLA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "28XXXX69",
+      "apellidos": "MOLINA",
+      "nombres": "MARIA CELIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

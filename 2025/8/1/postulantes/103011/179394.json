@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103011,
+    "padron_id": 179394
+  },
+  "postulantes": [
+    {
+      "orden": 339,
+      "dni": "34XXXX79",
+      "apellidos": "TROPIANO",
+      "nombres": "PAMELA YUDITH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 399,
+      "dni": "25XXXX30",
+      "apellidos": "MARTIN",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 231,
+      "dni": "23XXXX57",
+      "apellidos": "BARRERA",
+      "nombres": "ROSA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

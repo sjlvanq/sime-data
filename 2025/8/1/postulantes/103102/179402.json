@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103102,
+    "padron_id": 179402
+  },
+  "postulantes": [
+    {
+      "orden": 112,
+      "dni": "23XXXX11",
+      "apellidos": "MAZZA",
+      "nombres": "CLAUDIA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 195,
+      "dni": "25XXXX28",
+      "apellidos": "GIL",
+      "nombres": "GABRIELA JEANETT",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

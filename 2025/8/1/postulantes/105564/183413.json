@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 105564,
+    "padron_id": 183413
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX39",
+      "apellidos": "AVILA",
+      "nombres": "GUSTAVO GONZALO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX43",
+      "apellidos": "CORDOBA",
+      "nombres": "MATIAS GABRIEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX83",
+      "apellidos": "GARNICA",
+      "nombres": "IRENE ANDREA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

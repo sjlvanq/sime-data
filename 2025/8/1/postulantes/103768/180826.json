@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103768,
+    "padron_id": 180826
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "22XXXX73",
+      "apellidos": "MARKO",
+      "nombres": "ANA KARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "33XXXX35",
+      "apellidos": "ROQUÉ",
+      "nombres": "YESSICA ROMINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "32XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "BETTIANA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103224,
+    "padron_id": 179473
+  },
+  "postulantes": [
+    {
+      "orden": 636,
+      "dni": "36XXXX80",
+      "apellidos": "REYNOSO",
+      "nombres": "MARIA CARLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 715,
+      "dni": "27XXXX66",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARÍA ROSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

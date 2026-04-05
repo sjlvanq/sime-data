@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104406,
+    "padron_id": 181484
+  },
+  "postulantes": [
+    {
+      "orden": 45,
+      "dni": "21XXXX39",
+      "apellidos": "ANDINA LIZARRAGA",
+      "nombres": "RAMONA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 159,
+      "dni": "24XXXX28",
+      "apellidos": "PASTORIZA",
+      "nombres": "GUILLERMO GUSTAVO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "32XXXX65",
+      "apellidos": "GONZALEZ",
+      "nombres": "CLAUDIA ELIZABELH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

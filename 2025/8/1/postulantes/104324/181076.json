@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 104324,
+    "padron_id": 181076
+  },
+  "postulantes": [
+    {
+      "orden": 66,
+      "dni": "33XXXX74",
+      "apellidos": "MACIAS",
+      "nombres": "GABRIELA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 976,
+      "dni": "34XXXX83",
+      "apellidos": "DIAZ",
+      "nombres": "MARÍA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 234,
+      "dni": "31XXXX42",
+      "apellidos": "SALAZAR",
+      "nombres": "CECILIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1072,
+      "dni": "38XXXX09",
+      "apellidos": "SIERRA",
+      "nombres": "JULIETA MACARENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

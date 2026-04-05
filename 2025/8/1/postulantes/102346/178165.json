@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 102346,
+    "padron_id": 178165
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "24XXXX27",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "17XXXX42",
+      "apellidos": "ZELAYA",
+      "nombres": "SONIA MONICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

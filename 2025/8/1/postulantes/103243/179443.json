@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 103243,
+    "padron_id": 179443
+  },
+  "postulantes": [
+    {
+      "orden": 22,
+      "dni": "28XXXX72",
+      "apellidos": "MAZAER",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "22XXXX21",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ELIZABETH DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "26XXXX37",
+      "apellidos": "VILLARREAL",
+      "nombres": "MARTA ROSANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "22XXXX01",
+      "apellidos": "VARELA",
+      "nombres": "CLARA TERESITA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

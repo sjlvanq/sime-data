@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 105707,
+    "padron_id": 183541
+  },
+  "postulantes": [
+    {
+      "orden": 132,
+      "dni": "29XXXX46",
+      "apellidos": "TOLEDO                                  ",
+      "nombres": "VALERIA ROMINA                          ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "27XXXX99",
+      "apellidos": "VALDEZ",
+      "nombres": "VERONICA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 192,
+      "dni": "22XXXX11",
+      "apellidos": "REYES                                   ",
+      "nombres": "MARIA GRACIELA                          ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

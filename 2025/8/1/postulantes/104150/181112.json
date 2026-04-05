@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104150,
+    "padron_id": 181112
+  },
+  "postulantes": [
+    {
+      "orden": 128,
+      "dni": "31XXXX87",
+      "apellidos": "PALACIOS",
+      "nombres": "CINTIA NOELIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 171,
+      "dni": "24XXXX37",
+      "apellidos": "LEZCANO                                 ",
+      "nombres": "BLANCA GEORGINA                         ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 217,
+      "dni": "23XXXX22",
+      "apellidos": "ERAZO",
+      "nombres": "ALEJANDRA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

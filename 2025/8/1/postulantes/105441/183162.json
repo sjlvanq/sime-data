@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 105441,
+    "padron_id": 183162
+  },
+  "postulantes": [
+    {
+      "orden": 475,
+      "dni": "34XXXX52",
+      "apellidos": "ROMERO",
+      "nombres": "ROXANA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 745,
+      "dni": "37XXXX60",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 231,
+      "dni": "23XXXX57",
+      "apellidos": "BARRERA",
+      "nombres": "ROSA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

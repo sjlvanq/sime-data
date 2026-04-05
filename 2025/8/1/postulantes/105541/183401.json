@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 105541,
+    "padron_id": 183401
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX82",
+      "apellidos": "MARCIAL",
+      "nombres": "CARINA NOEMI",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX43",
+      "apellidos": "MITTELMANN",
+      "nombres": "PRISCILLA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX49",
+      "apellidos": "PELLEGRINO",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

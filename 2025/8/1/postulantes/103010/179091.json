@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103010,
+    "padron_id": 179091
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX80",
+      "apellidos": "GEREZ",
+      "nombres": "MERCEDES ANTONIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "43XXXX60",
+      "apellidos": "GOSNE",
+      "nombres": "KAYLA ALINE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX25",
+      "apellidos": "VENARUZZO",
+      "nombres": "SILVANA VERONICA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    }
+  ]
+}

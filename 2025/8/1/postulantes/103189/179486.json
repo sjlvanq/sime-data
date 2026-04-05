@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103189,
+    "padron_id": 179486
+  },
+  "postulantes": [
+    {
+      "orden": 134,
+      "dni": "22XXXX96",
+      "apellidos": "JUAREZ",
+      "nombres": "SILVIA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 231,
+      "dni": "23XXXX57",
+      "apellidos": "BARRERA",
+      "nombres": "ROSA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 738,
+      "dni": "27XXXX66",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARÍA ROSANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

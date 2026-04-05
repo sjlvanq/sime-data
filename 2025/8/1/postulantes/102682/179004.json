@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 102682,
+    "padron_id": 179004
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "42XXXX68",
+      "apellidos": "NUÑEZ",
+      "nombres": "ANGEL NICOLAS",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX55",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "ROSARIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

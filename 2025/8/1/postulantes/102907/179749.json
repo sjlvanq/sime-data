@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102907,
+    "padron_id": 179749
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "40XXXX14",
+      "apellidos": "MAZA",
+      "nombres": "ANA LUCIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "33XXXX35",
+      "apellidos": "ROQUÉ",
+      "nombres": "YESSICA ROMINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "37XXXX07",
+      "apellidos": "SOMERA",
+      "nombres": "JIMENA ROCIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

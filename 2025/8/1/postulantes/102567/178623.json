@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 102567,
+    "padron_id": 178623
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "34XXXX96",
+      "apellidos": "OLARTE",
+      "nombres": "GABRIEL EMILIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "35XXXX70",
+      "apellidos": "CERVANTES",
+      "nombres": "GASTON",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "35XXXX01",
+      "apellidos": "MARTINEZ",
+      "nombres": "LAURA VIVIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "29XXXX68",
+      "apellidos": "LUNA",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102545,
+    "padron_id": 178615
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "21XXXX51",
+      "apellidos": "PAEZ",
+      "nombres": "SILVIA LAURA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "22XXXX74",
+      "apellidos": "CHAZARRETA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "22XXXX97",
+      "apellidos": "PEREZ",
+      "nombres": "MABEL DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

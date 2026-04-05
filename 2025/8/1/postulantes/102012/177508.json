@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102012,
+    "padron_id": 177508
+  },
+  "postulantes": [
+    {
+      "orden": 175,
+      "dni": "21XXXX64",
+      "apellidos": "MIRANDA",
+      "nombres": "CLAUDIA MARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "25XXXX18",
+      "apellidos": "LOPEZ CORREA",
+      "nombres": "GUILLERMINA DE LAS NIEVES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "21XXXX28",
+      "apellidos": "MANSILLA",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

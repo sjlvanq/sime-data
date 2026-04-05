@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103429,
+    "padron_id": 179810
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "34XXXX11",
+      "apellidos": "CATALAN",
+      "nombres": "PABLO EXEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "34XXXX94",
+      "apellidos": "PIREZ",
+      "nombres": "CRISTIAN GABRIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "22XXXX19",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "VIVIANA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

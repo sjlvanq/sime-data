@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 104204,
+    "padron_id": 181004
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "32XXXX37",
+      "apellidos": "ALVARO",
+      "nombres": "ERICA ROMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX91",
+      "apellidos": "GONZALEZ",
+      "nombres": "MAYRA FERNANDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "31XXXX75",
+      "apellidos": "DELGADO",
+      "nombres": "MATIAS GABRIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "28XXXX46",
+      "apellidos": "LAZO",
+      "nombres": "JULIO ALBERTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 101328,
+    "padron_id": 178229
+  },
+  "postulantes": [
+    {
+      "orden": 44,
+      "dni": "39XXXX16",
+      "apellidos": "BARBA",
+      "nombres": "MICAELA AYELEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 47,
+      "dni": "39XXXX85",
+      "apellidos": "MIRANDA",
+      "nombres": "FLORENCIA NAHIR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 102,
+      "dni": "42XXXX11",
+      "apellidos": "SUBELSA",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

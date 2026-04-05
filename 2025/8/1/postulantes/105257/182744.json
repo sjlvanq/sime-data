@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 105257,
+    "padron_id": 182744
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "22XXXX73",
+      "apellidos": "MARKO",
+      "nombres": "ANA KARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "27XXXX64",
+      "apellidos": "GUELARDI",
+      "nombres": "EDUARDO DANIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

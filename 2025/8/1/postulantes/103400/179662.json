@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 103400,
+    "padron_id": 179662
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "35XXXX05",
+      "apellidos": "ZAMORANO",
+      "nombres": "NANCY GABRIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 85,
+      "dni": "26XXXX43",
+      "apellidos": "ROMANO",
+      "nombres": "ALICIA VIVIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 104207,
+    "padron_id": 181038
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "32XXXX78",
+      "apellidos": "SANTILLÁN",
+      "nombres": "MONICA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "30XXXX32",
+      "apellidos": "LUNA",
+      "nombres": "CLAUDIA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "28XXXX38",
+      "apellidos": "SELMAN",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "29XXXX77",
+      "apellidos": "SANCHEZ",
+      "nombres": "EVANGELINA MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

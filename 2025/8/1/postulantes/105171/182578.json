@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 105171,
+    "padron_id": 182578
+  },
+  "postulantes": [
+    {
+      "orden": 643,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 480,
+      "dni": "23XXXX27",
+      "apellidos": "CASARES",
+      "nombres": "MARIELA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 952,
+      "dni": "27XXXX36",
+      "apellidos": "ORELLANA",
+      "nombres": "RUBEN ORLANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1320,
+      "dni": "20XXXX05",
+      "apellidos": "LUCENA",
+      "nombres": "JULIO FAVIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

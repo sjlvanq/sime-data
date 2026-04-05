@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 104044,
+    "padron_id": 180922
+  },
+  "postulantes": [
+    {
+      "orden": 623,
+      "dni": "26XXXX31",
+      "apellidos": "MARTIN",
+      "nombres": "DIEGO ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 708,
+      "dni": "40XXXX57",
+      "apellidos": "BELTRAN",
+      "nombres": "NOELIA MALVINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 709,
+      "dni": "20XXXX97",
+      "apellidos": "PEDRAZA",
+      "nombres": "ELSA MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1242,
+      "dni": "30XXXX51",
+      "apellidos": "DIAZ",
+      "nombres": "EDMUNDO JOSE EMMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

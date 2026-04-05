@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104317,
+    "padron_id": 181110
+  },
+  "postulantes": [
+    {
+      "orden": 89,
+      "dni": "29XXXX12",
+      "apellidos": "GAUNA",
+      "nombres": "CECILIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 170,
+      "dni": "23XXXX87",
+      "apellidos": "CASIVA",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "27XXXX90",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVANA VALERIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

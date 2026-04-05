@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 102590,
+    "padron_id": 178631
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "37XXXX33",
+      "apellidos": "VALDIVIEZO",
+      "nombres": "IGNACIO ANTONIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "37XXXX14",
+      "apellidos": "FRIAS",
+      "nombres": "LEONELA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "34XXXX11",
+      "apellidos": "CATALAN",
+      "nombres": "PABLO EXEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "30XXXX16",
+      "apellidos": "GUARDO",
+      "nombres": "MARÍA MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

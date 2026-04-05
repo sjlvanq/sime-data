@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103816,
+    "padron_id": 180605
+  },
+  "postulantes": [
+    {
+      "orden": 482,
+      "dni": "21XXXX09",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1131,
+      "dni": "34XXXX06",
+      "apellidos": "BURGOS",
+      "nombres": "YOHANA ROMINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1180,
+      "dni": "41XXXX25",
+      "apellidos": "LEDESMA",
+      "nombres": "MILAGROS DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

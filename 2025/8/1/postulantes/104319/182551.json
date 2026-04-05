@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 104319,
+    "padron_id": 182551
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "27XXXX77",
+      "apellidos": "DOMINGUEZ",
+      "nombres": "CAROLINA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 78,
+      "dni": "23XXXX29",
+      "apellidos": "VALOR",
+      "nombres": "MONICA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 98,
+      "dni": "25XXXX54",
+      "apellidos": "MOLE",
+      "nombres": "PATRICIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "25XXXX51",
+      "apellidos": "MARTINEZ",
+      "nombres": "ANA VALERIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

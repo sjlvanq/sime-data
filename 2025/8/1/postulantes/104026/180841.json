@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104026,
+    "padron_id": 180841
+  },
+  "postulantes": [
+    {
+      "orden": 124,
+      "dni": "26XXXX45",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 140,
+      "dni": "28XXXX47",
+      "apellidos": "CONTRERAS",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 171,
+      "dni": "24XXXX37",
+      "apellidos": "LEZCANO                                 ",
+      "nombres": "BLANCA GEORGINA                         ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

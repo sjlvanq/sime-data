@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 104595,
+    "padron_id": 181648
+  },
+  "postulantes": [
+    {
+      "orden": 89,
+      "dni": "21XXXX99",
+      "apellidos": "RIOS",
+      "nombres": "MARIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 257,
+      "dni": "20XXXX59",
+      "apellidos": "LEDESMA",
+      "nombres": "JOSE MANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
