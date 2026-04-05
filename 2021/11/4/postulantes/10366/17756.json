@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10366,
+    "padron_id": 17756
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "31XXXX43",
+      "apellidos": "PAZ",
+      "nombres": "CRISTIAN RUBÉN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "36XXXX48",
+      "apellidos": "RISSO PATRON",
+      "nombres": "MARIA GUADALUPE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "22XXXX73",
+      "apellidos": "NIETO",
+      "nombres": "JORGE FABRICIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
