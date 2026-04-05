@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 778,
+    "padron_id": 1339
+  },
+  "postulantes": [
+    {
+      "orden": 162,
+      "dni": "23XXXX96",
+      "apellidos": "DIAZ",
+      "nombres": "KARINA ADELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 231,
+      "dni": "18XXXX23",
+      "apellidos": "MEDINA",
+      "nombres": "MIRYAN MONICA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "18XXXX25",
+      "apellidos": "VASQUEZ",
+      "nombres": "MARIA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 209,
+      "dni": "18XXXX81",
+      "apellidos": "DIAZ",
+      "nombres": "ANA NOEMI",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

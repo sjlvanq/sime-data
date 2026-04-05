@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1264,
+    "padron_id": 2377
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX75",
+      "apellidos": "CASTILLO",
+      "nombres": "MIRIAM RITA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "16XXXX97",
+      "apellidos": "CASTRO",
+      "nombres": "NELIDA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "18XXXX26",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA DEL TRANSITO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
