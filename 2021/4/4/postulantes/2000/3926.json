@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 2000,
+    "padron_id": 3926
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "33XXXX37",
+      "apellidos": "SIR",
+      "nombres": "JESSICA JOHANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "39XXXX23",
+      "apellidos": "JUAREZ GASCO",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

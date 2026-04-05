@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 1973,
+    "padron_id": 3891
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "17XXXX40",
+      "apellidos": "SORIA",
+      "nombres": "MARIA SILVIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX74",
+      "apellidos": "LEDESMA",
+      "nombres": "MARCELA BEATRIZ",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "41XXXX74",
+      "apellidos": "CORONEL",
+      "nombres": "EXEQUIEL DAVID",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX64",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ENZO DAVID",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
