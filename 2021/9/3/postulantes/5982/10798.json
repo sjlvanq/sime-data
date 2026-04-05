@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5982,
+    "padron_id": 10798
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX90",
+      "apellidos": "SORIA",
+      "nombres": "LUIS RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "31XXXX51",
+      "apellidos": "AVELLANEDA",
+      "nombres": "ESTELA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

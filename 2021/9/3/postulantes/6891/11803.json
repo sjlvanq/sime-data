@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 6891,
+    "padron_id": 11803
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "30XXXX20",
+      "apellidos": "HERRERA",
+      "nombres": "PAULA VERÓNICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 56,
+      "dni": "24XXXX84",
+      "apellidos": "HERRERA",
+      "nombres": "SERGIO OMAR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 66,
+      "dni": "35XXXX27",
+      "apellidos": "PIZARRO",
+      "nombres": "NOELIA DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

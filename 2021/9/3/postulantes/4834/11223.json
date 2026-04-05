@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 4834,
+    "padron_id": 11223
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "36XXXX16",
+      "apellidos": "TORRES",
+      "nombres": "ELVIO LEONEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "33XXXX69",
+      "apellidos": "SALGUERO",
+      "nombres": "JESSICA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

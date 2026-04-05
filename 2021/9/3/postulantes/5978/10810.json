@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5978,
+    "padron_id": 10810
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX66",
+      "apellidos": "TORRES",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX12",
+      "apellidos": "VILLARREAL",
+      "nombres": "OMAR ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "29XXXX82",
+      "apellidos": "MANSILLA",
+      "nombres": "GERARDO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

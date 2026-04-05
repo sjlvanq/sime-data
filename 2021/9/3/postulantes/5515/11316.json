@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 5515,
+    "padron_id": 11316
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "13XXXX02",
+      "apellidos": "PONCE",
+      "nombres": "EDUARDO ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX28",
+      "apellidos": "DIAZ",
+      "nombres": "MARIA RAFAELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "28XXXX62",
+      "apellidos": "VELARDEZ",
+      "nombres": "SEBASTIAN HORACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "41XXXX88",
+      "apellidos": "ALDERETE",
+      "nombres": "GABRIEL ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 6513,
+    "padron_id": 11172
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX70",
+      "apellidos": "LUNA",
+      "nombres": "FEDERICO DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "30XXXX96",
+      "apellidos": "LOPEZ",
+      "nombres": "ADRIANA ROSALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "17XXXX25",
+      "apellidos": "OCAMPO",
+      "nombres": "SALVADOR ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

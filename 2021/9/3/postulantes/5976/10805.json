@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 5976,
+    "padron_id": 10805
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX31",
+      "apellidos": "GONZALEZ",
+      "nombres": "CRISTIAN ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX66",
+      "apellidos": "TORRES",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX47",
+      "apellidos": "GRANERO",
+      "nombres": "NATALIA ELISABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "20XXXX17",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "RODOLFO ALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

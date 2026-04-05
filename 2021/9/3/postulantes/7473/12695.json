@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 7473,
+    "padron_id": 12695
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX87",
+      "apellidos": "BRITO",
+      "nombres": "JORGE OSVALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "16XXXX67",
+      "apellidos": "SOSA",
+      "nombres": "MARCOS RUBÉN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

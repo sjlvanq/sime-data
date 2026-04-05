@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7092,
+    "padron_id": 12163
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX76",
+      "apellidos": "AHUMADA",
+      "nombres": "PAULA MARIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX81",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX20",
+      "apellidos": "LUNA",
+      "nombres": "LORENA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

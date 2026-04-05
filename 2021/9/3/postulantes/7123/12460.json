@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 7123,
+    "padron_id": 12460
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX10",
+      "apellidos": "RUIZ",
+      "nombres": "SEBASTIAN ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX75",
+      "apellidos": "FERNANDEZ",
+      "nombres": "MARIANA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX10",
+      "apellidos": "BRAVO",
+      "nombres": "MARIANA NOELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX19",
+      "apellidos": "INDI",
+      "nombres": "VIVIANA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

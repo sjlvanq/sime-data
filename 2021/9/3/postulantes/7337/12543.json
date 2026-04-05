@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7337,
+    "padron_id": 12543
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "21XXXX60",
+      "apellidos": "DRUBE",
+      "nombres": "CLAUDIA MARCELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "38XXXX39",
+      "apellidos": "BUSTAMANTE",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "17XXXX98",
+      "apellidos": "ATAY",
+      "nombres": "GUSTAVO ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
