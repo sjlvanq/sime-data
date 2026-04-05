@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 7762,
+    "padron_id": 13333
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX74",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "GUSTAVO ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "17XXXX06",
+      "apellidos": "CASARES",
+      "nombres": "JOSE RAUL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

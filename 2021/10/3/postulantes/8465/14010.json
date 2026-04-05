@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 8465,
+    "padron_id": 14010
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX07",
+      "apellidos": "GALLO",
+      "nombres": "MARIA JORGELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "36XXXX25",
+      "apellidos": "ALBORNOZ",
+      "nombres": "SILVINA ANABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "35XXXX09",
+      "apellidos": "ACOSTA",
+      "nombres": "ELIANA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "34XXXX68",
+      "apellidos": "NIEVA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

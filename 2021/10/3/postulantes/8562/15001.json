@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 8562,
+    "padron_id": 15001
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "38XXXX37",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "ELIANA GRACIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "30XXXX52",
+      "apellidos": "SANCHEZ",
+      "nombres": "GABRIELA ISABELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "29XXXX67",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "NANCY VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7575,
+    "padron_id": 13413
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "23XXXX77",
+      "apellidos": "GONZALEZ",
+      "nombres": "SILVANA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "37XXXX85",
+      "apellidos": "GÓMEZ",
+      "nombres": "CARLA VANESSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "37XXXX68",
+      "apellidos": "PEREYRA",
+      "nombres": "ANDREA GISELLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

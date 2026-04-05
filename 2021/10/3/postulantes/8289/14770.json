@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 8289,
+    "padron_id": 14770
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "36XXXX68",
+      "apellidos": "LOPEZ",
+      "nombres": "ANDRES NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX07",
+      "apellidos": "AMAYA",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "31XXXX08",
+      "apellidos": "VELARDEZ",
+      "nombres": "CESAR MAURICIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "28XXXX62",
+      "apellidos": "VELARDEZ",
+      "nombres": "SEBASTIAN HORACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

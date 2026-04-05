@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 8161,
+    "padron_id": 14856
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX51",
+      "apellidos": "CASARES",
+      "nombres": "RICARDO GUILLERMO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX73",
+      "apellidos": "MOREIRA",
+      "nombres": "CARLOS DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "16XXXX67",
+      "apellidos": "SOSA",
+      "nombres": "MARCOS RUBÉN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

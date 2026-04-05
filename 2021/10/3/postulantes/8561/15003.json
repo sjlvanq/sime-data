@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 8561,
+    "padron_id": 15003
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX27",
+      "apellidos": "ORTIZ",
+      "nombres": "ANDRES MATIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "30XXXX52",
+      "apellidos": "SANCHEZ",
+      "nombres": "GABRIELA ISABELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "29XXXX67",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "NANCY VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

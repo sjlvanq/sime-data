@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 8272,
+    "padron_id": 14990
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "20XXXX73",
+      "apellidos": "SOTTAZ",
+      "nombres": "LUISA ANGELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "35XXXX35",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "MARÍA JORGELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX71",
+      "apellidos": "VERGARA",
+      "nombres": "ALEXIS NORBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 8270,
+    "padron_id": 14992
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "35XXXX35",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "MARÍA JORGELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "31XXXX05",
+      "apellidos": "PORTAL",
+      "nombres": "CRISTIAN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "30XXXX63",
+      "apellidos": "BARON",
+      "nombres": "CAROLINA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX71",
+      "apellidos": "VERGARA",
+      "nombres": "ALEXIS NORBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

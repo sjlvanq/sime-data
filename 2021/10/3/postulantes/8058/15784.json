@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 8058,
+    "padron_id": 15784
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "20XXXX81",
+      "apellidos": "SILVA",
+      "nombres": "FATIMA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "20XXXX78",
+      "apellidos": "ALONSO",
+      "nombres": "MARGARITA NORMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "24XXXX74",
+      "apellidos": "ALBORNOZ",
+      "nombres": "FATIMA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "18XXXX80",
+      "apellidos": "CORREA",
+      "nombres": "FRANCISCA NOEMI",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

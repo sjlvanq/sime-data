@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7397,
+    "padron_id": 14502
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX80",
+      "apellidos": "CACERES",
+      "nombres": "FATIMA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX82",
+      "apellidos": "DIAZ",
+      "nombres": "ISABEL DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX66",
+      "apellidos": "ARREDONDO MOREIRA",
+      "nombres": "PABLO JOAQUIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

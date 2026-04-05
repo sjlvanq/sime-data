@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 7752,
+    "padron_id": 13328
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "22XXXX74",
+      "apellidos": "BAYURK",
+      "nombres": "RAMON ERNESTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "18XXXX38",
+      "apellidos": "ROJAS HUANCA",
+      "nombres": "MARIA DANIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "26XXXX25",
+      "apellidos": "ELÍAS",
+      "nombres": "ELIANA SORAYA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX70",
+      "apellidos": "DIAMANTE",
+      "nombres": "HECTOR DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

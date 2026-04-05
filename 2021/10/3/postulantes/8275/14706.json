@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 8275,
+    "padron_id": 14706
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX72",
+      "apellidos": "HERRERA NIEVA",
+      "nombres": "MARCELA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX96",
+      "apellidos": "LUNA GONZALEZ",
+      "nombres": "CECILIA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX43",
+      "apellidos": "MARTIN",
+      "nombres": "SILVIA DE FATIMA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
