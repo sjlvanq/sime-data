@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 3555,
+    "padron_id": 6102
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX90",
+      "apellidos": "NOGALES BAISSI",
+      "nombres": "GUSTAVO ADOLFO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX36",
+      "apellidos": "LEON",
+      "nombres": "NANCY ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

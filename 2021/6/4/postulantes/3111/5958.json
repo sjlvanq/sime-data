@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 3111,
+    "padron_id": 5958
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "34XXXX08",
+      "apellidos": "DIAZ",
+      "nombres": "ERNESTO EDMUNDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "34XXXX78",
+      "apellidos": "CORREA",
+      "nombres": "CARLA VANESSA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "28XXXX58",
+      "apellidos": "CEJAS",
+      "nombres": "ANDREA AVELINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

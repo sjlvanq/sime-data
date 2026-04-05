@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 3755,
+    "padron_id": 6567
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX45",
+      "apellidos": "PLAZA",
+      "nombres": "MARIA LUISA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "27XXXX27",
+      "apellidos": "TOLEDO",
+      "nombres": "CRISTIAN RAMON",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

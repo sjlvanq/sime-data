@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 3747,
+    "padron_id": 6532
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "32XXXX22",
+      "apellidos": "AGÜERO",
+      "nombres": "AUGUSTO JORGE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "36XXXX65",
+      "apellidos": "FERNANDEZ JURADO",
+      "nombres": "JOSE AUGUSTO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX00",
+      "apellidos": "ASAN",
+      "nombres": "MAXIMILIANO LUCAS MATÍAS",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
