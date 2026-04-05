@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 95843,
+    "padron_id": 168239
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX30",
+      "apellidos": "ROMANO",
+      "nombres": "MELISA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX61",
+      "apellidos": "MURUA",
+      "nombres": "JUAN IGNACIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

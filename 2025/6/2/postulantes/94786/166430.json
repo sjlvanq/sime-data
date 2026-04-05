@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 94786,
+    "padron_id": 166430
+  },
+  "postulantes": [
+    {
+      "orden": 41,
+      "dni": "27XXXX28",
+      "apellidos": "GUANCO",
+      "nombres": "SANTIAGO FABIÁN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 152,
+      "dni": "38XXXX71",
+      "apellidos": "MEDINA",
+      "nombres": "GABRIEL NICOLAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 134,
+      "dni": "38XXXX30",
+      "apellidos": "BRITO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

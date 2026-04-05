@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 97401,
+    "padron_id": 170015
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX10",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "PAOLA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX60",
+      "apellidos": "GONZALEZ",
+      "nombres": "IVANA CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

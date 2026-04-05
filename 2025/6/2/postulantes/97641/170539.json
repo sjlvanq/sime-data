@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 97641,
+    "padron_id": 170539
+  },
+  "postulantes": [
+    {
+      "orden": 89,
+      "dni": "33XXXX85",
+      "apellidos": "BIANCHINI",
+      "nombres": "ALEJANDRO DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 91,
+      "dni": "29XXXX50",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "VANESA LUCILA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX60",
+      "apellidos": "AGUERO",
+      "nombres": "EFRAIN MARCELO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

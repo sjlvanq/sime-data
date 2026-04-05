@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 94693,
+    "padron_id": 165805
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "28XXXX59",
+      "apellidos": "OCAMPO",
+      "nombres": "ESTELA ROSA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "18XXXX55",
+      "apellidos": "PEREYRA ISA",
+      "nombres": "NORMA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "33XXXX57",
+      "apellidos": "BARROS",
+      "nombres": "OSCAR DARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "39XXXX35",
+      "apellidos": "RELAÑEZ",
+      "nombres": "NADIA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

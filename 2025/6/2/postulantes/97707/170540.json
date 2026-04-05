@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 97707,
+    "padron_id": 170540
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "29XXXX76",
+      "apellidos": "HERMAN",
+      "nombres": "CLAUDIA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 91,
+      "dni": "29XXXX50",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "VANESA LUCILA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX60",
+      "apellidos": "AGUERO",
+      "nombres": "EFRAIN MARCELO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

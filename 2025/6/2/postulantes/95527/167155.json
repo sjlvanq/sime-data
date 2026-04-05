@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 95527,
+    "padron_id": 167155
+  },
+  "postulantes": [
+    {
+      "orden": 42,
+      "dni": "28XXXX37",
+      "apellidos": "CASTILLO",
+      "nombres": "PRISCILA MABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX06",
+      "apellidos": "ROMANO",
+      "nombres": "ADRIANA RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "33XXXX80",
+      "apellidos": "LOPEZ",
+      "nombres": "JIMENA MARCELINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

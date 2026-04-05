@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 93329,
+    "padron_id": 168437
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "29XXXX05",
+      "apellidos": "VELAZQUEZ",
+      "nombres": "RUBEN EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "22XXXX50",
+      "apellidos": "JEREZ",
+      "nombres": "VICTOR JESUS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

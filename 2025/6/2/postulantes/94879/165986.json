@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 94879,
+    "padron_id": 165986
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "34XXXX01",
+      "apellidos": "TOLRA",
+      "nombres": "AIME",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "39XXXX06",
+      "apellidos": "LOPEZ",
+      "nombres": "ANA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX78",
+      "apellidos": "CARREÑO",
+      "nombres": "YANINA VALERIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

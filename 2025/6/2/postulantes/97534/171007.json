@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 97534,
+    "padron_id": 171007
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "39XXXX86",
+      "apellidos": "HEREDIA",
+      "nombres": "DANIELA DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "27XXXX63",
+      "apellidos": "APAZA",
+      "nombres": "HILDA GRISELDA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "37XXXX79",
+      "apellidos": "ZORRILLA HOYOS",
+      "nombres": "YANET MERCEDES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "33XXXX12",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOSE MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

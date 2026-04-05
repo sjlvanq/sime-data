@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 98114,
+    "padron_id": 171615
+  },
+  "postulantes": [
+    {
+      "orden": 82,
+      "dni": "26XXXX19",
+      "apellidos": "GUZMAN",
+      "nombres": "CAROLINA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 102,
+      "dni": "17XXXX31",
+      "apellidos": "PETRONI MUSTAFA",
+      "nombres": "JORGE BERNARDINO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

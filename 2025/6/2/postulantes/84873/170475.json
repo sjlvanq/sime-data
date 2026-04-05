@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 84873,
+    "padron_id": 170475
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "31XXXX14",
+      "apellidos": "LOBO",
+      "nombres": "ALVARO SEBASTIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 91,
+      "dni": "29XXXX50",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "VANESA LUCILA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX60",
+      "apellidos": "AGUERO",
+      "nombres": "EFRAIN MARCELO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

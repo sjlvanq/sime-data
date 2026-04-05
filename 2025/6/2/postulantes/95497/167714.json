@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 95497,
+    "padron_id": 167714
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX00",
+      "apellidos": "DECIMA",
+      "nombres": "JUAN LEANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "23XXXX13",
+      "apellidos": "ISAS",
+      "nombres": "CRISTOBAL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

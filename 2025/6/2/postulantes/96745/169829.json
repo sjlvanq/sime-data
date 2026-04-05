@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 96745,
+    "padron_id": 169829
+  },
+  "postulantes": [
+    {
+      "orden": 41,
+      "dni": "33XXXX37",
+      "apellidos": "CASTRO SOSA",
+      "nombres": "IVANNA EDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 112,
+      "dni": "31XXXX69",
+      "apellidos": "SERRANO",
+      "nombres": "MARIA DEL ROSARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 132,
+      "dni": "34XXXX17",
+      "apellidos": "DIAZ",
+      "nombres": "ISAIAS DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

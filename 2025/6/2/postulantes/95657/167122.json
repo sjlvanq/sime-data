@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 95657,
+    "padron_id": 167122
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "36XXXX93",
+      "apellidos": "MEDINA",
+      "nombres": "MARA JORGELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "34XXXX58",
+      "apellidos": "HERRERA",
+      "nombres": "NADIA SOLANGE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "38XXXX30",
+      "apellidos": "BRITO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "30XXXX60",
+      "apellidos": "GONZALEZ",
+      "nombres": "IVANNA EVANGELINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "34XXXX37",
+      "apellidos": "GRANDE",
+      "nombres": "SONIA MARIA MERCEDES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 96724,
+    "padron_id": 169731
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "31XXXX14",
+      "apellidos": "LACHENICHT",
+      "nombres": "JORGE ANDRES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "33XXXX93",
+      "apellidos": "CHALCO VERA",
+      "nombres": "FABIANA NOEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "30XXXX07",
+      "apellidos": "JIMENEZ",
+      "nombres": "MARTA NATALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 95563,
+    "padron_id": 167972
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "27XXXX66",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "DELIA MATILDE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "32XXXX42",
+      "apellidos": "REYES",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "27XXXX74",
+      "apellidos": "ALFARO",
+      "nombres": "CARLOS ALEXI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

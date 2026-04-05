@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 86098,
+    "padron_id": 166290
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "36XXXX84",
+      "apellidos": "D OLIVEIRA",
+      "nombres": "ABRIL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "41XXXX83",
+      "apellidos": "DELGADO",
+      "nombres": "CAMILA ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

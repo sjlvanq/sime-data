@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 97390,
+    "padron_id": 169958
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "32XXXX08",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "FERNANDO NICOLAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "28XXXX85",
+      "apellidos": "SORAIRE",
+      "nombres": "ADRIANA JULIETA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "39XXXX06",
+      "apellidos": "LOPEZ",
+      "nombres": "ANA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

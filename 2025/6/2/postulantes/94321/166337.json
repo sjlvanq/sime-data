@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 94321,
+    "padron_id": 166337
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "23XXXX43",
+      "apellidos": "OTTINO",
+      "nombres": "ZULEMA ISABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "34XXXX01",
+      "apellidos": "TOLRA",
+      "nombres": "AIME",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX78",
+      "apellidos": "CARREÑO",
+      "nombres": "YANINA VALERIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 94314,
+    "padron_id": 166319
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "32XXXX18",
+      "apellidos": "BARROS",
+      "nombres": "DARIO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "25XXXX66",
+      "apellidos": "BRITO",
+      "nombres": "MIGUEL MARTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX74",
+      "apellidos": "GUTIERREZ",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

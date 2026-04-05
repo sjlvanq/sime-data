@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 94403,
+    "padron_id": 165806
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX22",
+      "apellidos": "ORMACHEA",
+      "nombres": "PABLO ROGELIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX03",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "PABLO GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX07",
+      "apellidos": "LASTRA",
+      "nombres": "JESÚS OMAR EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
