@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10676,
+    "padron_id": 23043
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX38",
+      "apellidos": "SANDOVAL",
+      "nombres": "CRISTIAN LUIS ERNESTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX39",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

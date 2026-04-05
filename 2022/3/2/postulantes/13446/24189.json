@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13446,
+    "padron_id": 24189
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX15",
+      "apellidos": "SANTILLAN",
+      "nombres": "MARCOS AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "36XXXX40",
+      "apellidos": "MOLINA",
+      "nombres": "CARLA MARIA GUADALUPE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX77",
+      "apellidos": "GONZALEZ",
+      "nombres": "SILVANA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

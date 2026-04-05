@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 13472,
+    "padron_id": 24223
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX22",
+      "apellidos": "LIZARRAGA",
+      "nombres": "MARIA SILVIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX62",
+      "apellidos": "JUAREZ",
+      "nombres": "LORENA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

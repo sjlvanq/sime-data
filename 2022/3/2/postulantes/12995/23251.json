@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 12995,
+    "padron_id": 23251
+  },
+  "postulantes": [
+    {
+      "orden": 163,
+      "dni": "25XXXX42",
+      "apellidos": "TOSCANO",
+      "nombres": "MARIELA JESUS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 9,
+      "dni": "20XXXX72",
+      "apellidos": "LEON DIAZ",
+      "nombres": "JORGE LUIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

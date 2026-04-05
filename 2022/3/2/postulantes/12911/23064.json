@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12911,
+    "padron_id": 23064
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "33XXXX30",
+      "apellidos": "DOMINGUEZ",
+      "nombres": "CRISTIAN ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "26XXXX43",
+      "apellidos": "ARELLANO",
+      "nombres": "SERGIO ALFREDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "25XXXX36",
+      "apellidos": "GALEANO TARSIA",
+      "nombres": "LAURA FERNANDA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

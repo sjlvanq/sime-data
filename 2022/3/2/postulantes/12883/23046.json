@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 12883,
+    "padron_id": 23046
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX62",
+      "apellidos": "CONTRERAS",
+      "nombres": "SERGIO ROLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "20XXXX45",
+      "apellidos": "LUCENA",
+      "nombres": "LILIANA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "14XXXX89",
+      "apellidos": "ARANDA",
+      "nombres": "CARMEN MERCEDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "16XXXX93",
+      "apellidos": "MONTALDO",
+      "nombres": "ANGELICA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

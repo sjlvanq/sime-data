@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 13054,
+    "padron_id": 23079
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX35",
+      "apellidos": "PEREZ",
+      "nombres": "MARÍA PÍA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX04",
+      "apellidos": "PEREYRA",
+      "nombres": "GONZALO SERGIO HERNAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

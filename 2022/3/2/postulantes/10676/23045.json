@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 10676,
+    "padron_id": 23045
+  },
+  "postulantes": [
+    {
+      "orden": 42,
+      "dni": "34XXXX56",
+      "apellidos": "ASLAN",
+      "nombres": "CLAUDIA JOANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "18XXXX78",
+      "apellidos": "GUERRERO",
+      "nombres": "MARIA JOSEFINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 57,
+      "dni": "29XXXX50",
+      "apellidos": "MAS",
+      "nombres": "VERÓNICA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 130,
+      "dni": "29XXXX23",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 131,
+      "dni": "34XXXX97",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

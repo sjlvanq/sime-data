@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13749,
+    "padron_id": 24841
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX38",
+      "apellidos": "VELARDEZ",
+      "nombres": "NADIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX70",
+      "apellidos": "MONTEROS",
+      "nombres": "MÓNICA ADRIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX63",
+      "apellidos": "BONIFATTI TERAN",
+      "nombres": "ANGEL GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

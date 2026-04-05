@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12859,
+    "padron_id": 22973
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "24XXXX60",
+      "apellidos": "BUSTO",
+      "nombres": "LUISA INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "32XXXX14",
+      "apellidos": "PEREZ",
+      "nombres": "LORENA VALERIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "24XXXX19",
+      "apellidos": "GONZALEZ",
+      "nombres": "CARMEN PATRICIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

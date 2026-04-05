@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 12742,
+    "padron_id": 23796
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "35XXXX44",
+      "apellidos": "JIMÉNEZ",
+      "nombres": "LEONARDO MIGUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 160,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

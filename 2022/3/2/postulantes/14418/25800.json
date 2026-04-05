@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 14418,
+    "padron_id": 25800
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "23XXXX04",
+      "apellidos": "PEREZ",
+      "nombres": "ELEONORA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX04",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "MARTIN EDUARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 13901,
+    "padron_id": 24859
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX22",
+      "apellidos": "MEDINA",
+      "nombres": "MAURICIO JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX52",
+      "apellidos": "PEREZ",
+      "nombres": "CARLOS EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

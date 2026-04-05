@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 12951,
+    "padron_id": 23221
+  },
+  "postulantes": [
+    {
+      "orden": 42,
+      "dni": "34XXXX56",
+      "apellidos": "ASLAN",
+      "nombres": "CLAUDIA JOANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 130,
+      "dni": "29XXXX23",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "34XXXX91",
+      "apellidos": "CHOCO ACOSTA CAYO",
+      "nombres": "EVELYN ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 100,
+      "dni": "24XXXX28",
+      "apellidos": "FARACI",
+      "nombres": "EDUARDO ADRIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 158,
+      "dni": "36XXXX20",
+      "apellidos": "VALDEZ",
+      "nombres": "ANDREA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

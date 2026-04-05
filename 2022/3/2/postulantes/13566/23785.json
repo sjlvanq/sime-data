@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 13566,
+    "padron_id": 23785
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX42",
+      "apellidos": "ALMARAZ",
+      "nombres": "MONICA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX52",
+      "apellidos": "PEREZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

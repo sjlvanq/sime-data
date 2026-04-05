@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13237,
+    "padron_id": 24350
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "32XXXX98",
+      "apellidos": "FIGUEREDO",
+      "nombres": "SILVIA VANESA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "31XXXX74",
+      "apellidos": "CANO NOVOTNY",
+      "nombres": "MAXIMILIANO OLDRICH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "36XXXX93",
+      "apellidos": "PAZ",
+      "nombres": "MAURO ISMAEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

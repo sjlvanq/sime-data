@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 13452,
+    "padron_id": 24372
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "33XXXX84",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "IGNACIO HUGO RICARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "33XXXX30",
+      "apellidos": "GRAMAJO",
+      "nombres": "ANA LÍA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "22XXXX72",
+      "apellidos": "VALDEZ OCAMPO",
+      "nombres": "TERESA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "22XXXX72",
+      "apellidos": "VALDEZ OCAMPO",
+      "nombres": "TERESA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

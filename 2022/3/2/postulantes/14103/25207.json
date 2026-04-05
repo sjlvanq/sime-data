@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14103,
+    "padron_id": 25207
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX77",
+      "apellidos": "DIAZ",
+      "nombres": "LUCRECIA EVANGELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "24XXXX86",
+      "apellidos": "ZELAYA",
+      "nombres": "JORGE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "18XXXX80",
+      "apellidos": "SILVENSES",
+      "nombres": "SILVIA LEONOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

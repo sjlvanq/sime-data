@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13896,
+    "padron_id": 24989
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX47",
+      "apellidos": "ORDOÑEZ",
+      "nombres": "SAUL RAMON BAUTISTA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX03",
+      "apellidos": "VERGARA",
+      "nombres": "EDITH MARGARITA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX22",
+      "apellidos": "MEDINA",
+      "nombres": "MAURICIO JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

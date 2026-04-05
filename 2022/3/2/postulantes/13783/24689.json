@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 13783,
+    "padron_id": 24689
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX41",
+      "apellidos": "SOSA AHMAD",
+      "nombres": "CINTHIA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "37XXXX80",
+      "apellidos": "LEZCANO GARCIA",
+      "nombres": "LUCILA NEREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

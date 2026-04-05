@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 13473,
+    "padron_id": 24225
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX90",
+      "apellidos": "GONZALEZ",
+      "nombres": "KARINA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX80",
+      "apellidos": "ZEBALLOS",
+      "nombres": "MARIA JESUS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

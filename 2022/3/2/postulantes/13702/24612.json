@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 13702,
+    "padron_id": 24612
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX52",
+      "apellidos": "MARCELO",
+      "nombres": "ADRIANA JESUS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX96",
+      "apellidos": "ANDRES",
+      "nombres": "ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

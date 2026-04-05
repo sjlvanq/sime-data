@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14142,
+    "padron_id": 25215
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX77",
+      "apellidos": "DIAZ",
+      "nombres": "LUCRECIA EVANGELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX89",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ELIANA ELVIRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX38",
+      "apellidos": "DELGADO",
+      "nombres": "FATIMA VANESSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

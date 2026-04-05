@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13678,
+    "padron_id": 24747
+  },
+  "postulantes": [
+    {
+      "orden": 82,
+      "dni": "33XXXX39",
+      "apellidos": "MONASTERIO",
+      "nombres": "SAMANTA IRENE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 123,
+      "dni": "34XXXX78",
+      "apellidos": "PERALTA",
+      "nombres": "CONSTANZA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "29XXXX23",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

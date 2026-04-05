@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14212,
+    "padron_id": 25307
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX78",
+      "apellidos": "ALTAMIRANDA",
+      "nombres": "SUSANA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX47",
+      "apellidos": "CORIA",
+      "nombres": "FLAVIA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX68",
+      "apellidos": "MASMUT QUINTANA",
+      "nombres": "MARCELA GISELLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

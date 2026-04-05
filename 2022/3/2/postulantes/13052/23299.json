@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13052,
+    "padron_id": 23299
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "32XXXX44",
+      "apellidos": "SERRANO",
+      "nombres": "RAUL NICOLAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "36XXXX47",
+      "apellidos": "LORETO CAPPELLINI           ",
+      "nombres": "ANTONELLA BELEN                         ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 47,
+      "dni": "32XXXX82",
+      "apellidos": "JUAREZ",
+      "nombres": "GABRIELA JESUS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

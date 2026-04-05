@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12917,
+    "padron_id": 22935
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX57",
+      "apellidos": "ALDERETE",
+      "nombres": "ESTER ALICIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "25XXXX95",
+      "apellidos": "BACAS",
+      "nombres": "GUSTAVO JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "27XXXX09",
+      "apellidos": "IBRAHIM",
+      "nombres": "CLAUDIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

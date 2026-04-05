@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13888,
+    "padron_id": 24917
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "32XXXX21",
+      "apellidos": "LUNA",
+      "nombres": "ANAHI SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "35XXXX55",
+      "apellidos": "GIMENEZ ARROYO",
+      "nombres": "IVANA GISELLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "37XXXX97",
+      "apellidos": "GIMENEZ ORTIZ",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

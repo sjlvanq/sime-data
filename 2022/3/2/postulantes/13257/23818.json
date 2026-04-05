@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13257,
+    "padron_id": 23818
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX90",
+      "apellidos": "CARRIZO",
+      "nombres": "VERONICA GABRIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX65",
+      "apellidos": "FUENTES",
+      "nombres": "SILVANA LORENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "17XXXX86",
+      "apellidos": "BRANDAN",
+      "nombres": "JORGE EDUARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

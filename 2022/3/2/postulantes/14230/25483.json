@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14230,
+    "padron_id": 25483
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "32XXXX39",
+      "apellidos": "RAMIREZ",
+      "nombres": "NADIA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "30XXXX60",
+      "apellidos": "JUAREZ",
+      "nombres": "GABRIEL FERNANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "25XXXX87",
+      "apellidos": "ALE",
+      "nombres": "ANDRES DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
