@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 83763,
+    "padron_id": 147727
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "32XXXX34",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANAHI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "23XXXX03",
+      "apellidos": "LOPEZ",
+      "nombres": "SUSANA GRACIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX90",
+      "apellidos": "AGUIRRE RODRIGUEZ",
+      "nombres": "LOURDES ROCIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

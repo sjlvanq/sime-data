@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 84301,
+    "padron_id": 148141
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "20XXXX49",
+      "apellidos": "CIANCAGLINI",
+      "nombres": "MARTA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 22,
+      "dni": "24XXXX04",
+      "apellidos": "ANDRADE",
+      "nombres": "CLAUDIA FABIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

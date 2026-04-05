@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 83852,
+    "padron_id": 147747
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX20",
+      "apellidos": "DECIMA",
+      "nombres": "JOSE DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX87",
+      "apellidos": "SOSA",
+      "nombres": "MARIA ESTHER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 83634,
+    "padron_id": 147541
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX02",
+      "apellidos": "GUZANATTO",
+      "nombres": "DANIELA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "32XXXX49",
+      "apellidos": "FRANCESENA",
+      "nombres": "GLADYS DANIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "35XXXX47",
+      "apellidos": "AGUIRRE",
+      "nombres": "ROMINA INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 83569,
+    "padron_id": 147778
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "34XXXX78",
+      "apellidos": "LUNA",
+      "nombres": "CARMEN ESTHER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "37XXXX53",
+      "apellidos": "DÉCIMA",
+      "nombres": "DANIELA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "20XXXX08",
+      "apellidos": "FAGALDE",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

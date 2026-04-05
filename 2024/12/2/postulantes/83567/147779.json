@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 83567,
+    "padron_id": 147779
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "27XXXX84",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "MARCOS GABRIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX14",
+      "apellidos": "VAQUERA MALAGOLI",
+      "nombres": "DARIO OSVALDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "27XXXX66",
+      "apellidos": "SALAZAR",
+      "nombres": "LUCRECIA DEL HUERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "27XXXX78",
+      "apellidos": "BASUALDO CORISI",
+      "nombres": "HUGO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

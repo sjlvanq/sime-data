@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 84293,
+    "padron_id": 148167
+  },
+  "postulantes": [
+    {
+      "orden": 28,
+      "dni": "23XXXX52",
+      "apellidos": "MERHE",
+      "nombres": "ADRIANA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "16XXXX84",
+      "apellidos": "ZURITA",
+      "nombres": "SONIA MERCEDES DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

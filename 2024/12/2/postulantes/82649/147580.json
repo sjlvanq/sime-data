@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 82649,
+    "padron_id": 147580
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "18XXXX97",
+      "apellidos": "JUAREZ",
+      "nombres": "NESTOR RAUL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "33XXXX39",
+      "apellidos": "LO SARDO",
+      "nombres": "SERGIO CRISTÓBAL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

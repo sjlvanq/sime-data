@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 83700,
+    "padron_id": 148020
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "12XXXX16",
+      "apellidos": "SANDOVAL",
+      "nombres": "OSCAR ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX83",
+      "apellidos": "VILLALBA",
+      "nombres": "DELIA FLORENCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "29XXXX15",
+      "apellidos": "BRITO",
+      "nombres": "PABLO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
