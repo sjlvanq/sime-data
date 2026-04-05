@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 15960,
+    "padron_id": 28210
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX51",
+      "apellidos": "SANDEZ",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX29",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "CARLOS MIGUEL ANGEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

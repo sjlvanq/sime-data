@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 15609,
+    "padron_id": 28045
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "31XXXX56",
+      "apellidos": "MENDIA",
+      "nombres": "MARIA DEL PILAR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "28XXXX42",
+      "apellidos": "GONZALEZ",
+      "nombres": "CYNTHIA LORENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

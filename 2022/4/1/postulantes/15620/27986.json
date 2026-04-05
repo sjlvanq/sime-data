@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15620,
+    "padron_id": 27986
+  },
+  "postulantes": [
+    {
+      "orden": 28,
+      "dni": "38XXXX90",
+      "apellidos": "MEDINA",
+      "nombres": "LUCAS EMMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "31XXXX42",
+      "apellidos": "MARTINEZ",
+      "nombres": "KARINA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "18XXXX55",
+      "apellidos": "PEREYRA ISA",
+      "nombres": "NORMA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

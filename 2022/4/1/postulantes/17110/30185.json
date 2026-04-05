@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17110,
+    "padron_id": 30185
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "27XXXX50",
+      "apellidos": "CORREA",
+      "nombres": "NADIA ANALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX71",
+      "apellidos": "FERNANDEZ",
+      "nombres": "DANIELA IVANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "27XXXX63",
+      "apellidos": "VEGA",
+      "nombres": "FERNANDA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

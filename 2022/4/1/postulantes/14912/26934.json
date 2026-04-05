@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14912,
+    "padron_id": 26934
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "30XXXX60",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ROBERTO CARLOS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "22XXXX13",
+      "apellidos": "SANCHEZ",
+      "nombres": "RUBEN DARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "33XXXX02",
+      "apellidos": "DIAZ",
+      "nombres": "MAIRA LEONELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

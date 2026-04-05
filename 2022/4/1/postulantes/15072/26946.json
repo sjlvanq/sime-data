@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 15072,
+    "padron_id": 26946
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "28XXXX44",
+      "apellidos": "ALEGRE",
+      "nombres": "LIDIA MARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

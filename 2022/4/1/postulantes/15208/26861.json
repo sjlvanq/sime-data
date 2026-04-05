@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15208,
+    "padron_id": 26861
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "23XXXX05",
+      "apellidos": "RUEDA",
+      "nombres": "SILVIA MARCELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "20XXXX04",
+      "apellidos": "HERNANDEZ",
+      "nombres": "ANA LAURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "21XXXX76",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

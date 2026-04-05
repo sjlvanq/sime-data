@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 16210,
+    "padron_id": 28764
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "25XXXX87",
+      "apellidos": "ALE",
+      "nombres": "ANDRES DEL MILAGRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "39XXXX37",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "36XXXX02",
+      "apellidos": "MUÑOZ CENTENO",
+      "nombres": "ANTONELA TAMARA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

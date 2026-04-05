@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15585,
+    "padron_id": 28083
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX44",
+      "apellidos": "LEIVA",
+      "nombres": "SILVANA AZUCENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "20XXXX13",
+      "apellidos": "IBAÑEZ",
+      "nombres": "AIDA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "25XXXX14",
+      "apellidos": "ZELAYA",
+      "nombres": "MARIA ANGELICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

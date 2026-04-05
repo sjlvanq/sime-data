@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 16635,
+    "padron_id": 29435
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX44",
+      "apellidos": "ARROYO",
+      "nombres": "JULIETA MARIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
