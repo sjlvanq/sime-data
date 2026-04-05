@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 31182,
+    "padron_id": 55819
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "27XXXX71",
+      "apellidos": "PEREZ",
+      "nombres": "MARIO GASTON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX83",
+      "apellidos": "MAGNO",
+      "nombres": "CARLOS ERNESTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "21XXXX23",
+      "apellidos": "MARQUEZ",
+      "nombres": "SERGIO IVAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

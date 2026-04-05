@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 30502,
+    "padron_id": 55886
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX55",
+      "apellidos": "SANCHEZ",
+      "nombres": "ROMAN MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "21XXXX26",
+      "apellidos": "PACHECO",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

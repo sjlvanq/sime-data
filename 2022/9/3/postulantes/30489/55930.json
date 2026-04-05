@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 30489,
+    "padron_id": 55930
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX45",
+      "apellidos": "LEDESMA",
+      "nombres": "FACUNDO HECTOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "25XXXX12",
+      "apellidos": "FIGUEROA",
+      "nombres": "FELIX MARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "17XXXX02",
+      "apellidos": "SUAREZ",
+      "nombres": "JULIO ARNALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX91",
+      "apellidos": "LUNA",
+      "nombres": "ARNALDO ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX74",
+      "apellidos": "LAZARTE LOPEZ",
+      "nombres": "RAUL ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

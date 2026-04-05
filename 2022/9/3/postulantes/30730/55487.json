@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30730,
+    "padron_id": 55487
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX11",
+      "apellidos": "GONZALEZ",
+      "nombres": "RODOLFO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX06",
+      "apellidos": "GARCIA",
+      "nombres": "RODRIGO ADOLFO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX43",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "PAOLA FABIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

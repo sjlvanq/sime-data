@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 30859,
+    "padron_id": 55869
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "36XXXX01",
+      "apellidos": "FEREYRA",
+      "nombres": "GIULIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "24XXXX28",
+      "apellidos": "FARACI",
+      "nombres": "EDUARDO ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "30XXXX13",
+      "apellidos": "DIAZ",
+      "nombres": "LILIANA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX36",
+      "apellidos": "AREDEZ",
+      "nombres": "HECTOR ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

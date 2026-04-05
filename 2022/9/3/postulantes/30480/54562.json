@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 30480,
+    "padron_id": 54562
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX53",
+      "apellidos": "FARIAS",
+      "nombres": "JOSE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX38",
+      "apellidos": "CAMPOS",
+      "nombres": "CARLOS GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

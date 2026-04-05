@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 28112,
+    "padron_id": 53302
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX42",
+      "apellidos": "VEGA",
+      "nombres": "LORENA ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "20XXXX59",
+      "apellidos": "SOSA",
+      "nombres": "CLAUDIA FATIMA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

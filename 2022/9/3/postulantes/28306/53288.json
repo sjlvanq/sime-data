@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 28306,
+    "padron_id": 53288
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "22XXXX66",
+      "apellidos": "LEIVA",
+      "nombres": "CARLOS ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX81",
+      "apellidos": "ARZE DIAZ",
+      "nombres": "GUILLERMO NIVARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "18XXXX78",
+      "apellidos": "ANCASI",
+      "nombres": "LIDIA CRISTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX34",
+      "apellidos": "COSTILLA",
+      "nombres": "NELSON RODRIGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

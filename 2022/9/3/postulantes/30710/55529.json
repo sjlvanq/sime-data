@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30710,
+    "padron_id": 55529
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX75",
+      "apellidos": "GOMEZ TORRES",
+      "nombres": "JUAN MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX67",
+      "apellidos": "DIAZ",
+      "nombres": "GABINO RODOLFO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "20XXXX71",
+      "apellidos": "GOMEZ",
+      "nombres": "NESTOR ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 28682,
+    "padron_id": 52510
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX84",
+      "apellidos": "JEREZ",
+      "nombres": "SERGIO GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX95",
+      "apellidos": "FREIJO",
+      "nombres": "PATRICIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX05",
+      "apellidos": "GONZALEZ",
+      "nombres": "JOSE MIGUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX52",
+      "apellidos": "BIANCHI",
+      "nombres": "SEBASTIAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

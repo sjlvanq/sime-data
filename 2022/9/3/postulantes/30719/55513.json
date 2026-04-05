@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30719,
+    "padron_id": 55513
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX33",
+      "apellidos": "CORDOBA",
+      "nombres": "CYNTHIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX88",
+      "apellidos": "SEGURA",
+      "nombres": "JOSE EMILIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "22XXXX61",
+      "apellidos": "LONZALLES",
+      "nombres": "MARTA DEOLINDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

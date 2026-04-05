@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 28430,
+    "padron_id": 51315
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "28XXXX06",
+      "apellidos": "ZURITA",
+      "nombres": "JORGE MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX51",
+      "apellidos": "GONZALEZ",
+      "nombres": "JOSE AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "36XXXX29",
+      "apellidos": "GIMENEZ",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "41XXXX75",
+      "apellidos": "CARABAJAL",
+      "nombres": "FLORENCIA AGUSTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

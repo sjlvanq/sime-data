@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30244,
+    "padron_id": 54531
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "35XXXX35",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "MARÍA JORGELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "31XXXX26",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "NANCY KARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX70",
+      "apellidos": "DIAMANTE",
+      "nombres": "HECTOR DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

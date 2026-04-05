@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 28221,
+    "padron_id": 51747
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "38XXXX33",
+      "apellidos": "CASADO",
+      "nombres": "JOAQUIN ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX50",
+      "apellidos": "ALVAREZ",
+      "nombres": "LUCIO OSVALDO FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

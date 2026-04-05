@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30215,
+    "padron_id": 54518
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX55",
+      "apellidos": "ALE",
+      "nombres": "MIRTA LILIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX61",
+      "apellidos": "GORDILLO",
+      "nombres": "KARINA GISSEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "18XXXX31",
+      "apellidos": "CAMPOS",
+      "nombres": "GLADIS NICOLASA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

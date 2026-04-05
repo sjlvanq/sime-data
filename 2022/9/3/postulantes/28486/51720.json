@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28486,
+    "padron_id": 51720
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX74",
+      "apellidos": "GARCIA",
+      "nombres": "JOSE ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX20",
+      "apellidos": "JIMENEZ",
+      "nombres": "FRANCO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX30",
+      "apellidos": "OCAMPO",
+      "nombres": "MARIO ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

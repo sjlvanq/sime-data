@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 30130,
+    "padron_id": 54481
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX24",
+      "apellidos": "MOLINA",
+      "nombres": "LUCAS MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX55",
+      "apellidos": "CARRIZO",
+      "nombres": "NANCY CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

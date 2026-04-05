@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30154,
+    "padron_id": 54588
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX86",
+      "apellidos": "FLORES",
+      "nombres": "DARIO ROLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX62",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "LORENA GRISEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX81",
+      "apellidos": "DECIMA",
+      "nombres": "CAROLINA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

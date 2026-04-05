@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 31549,
+    "padron_id": 55937
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX84",
+      "apellidos": "LIZARRAGA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX55",
+      "apellidos": "GARAY",
+      "nombres": "CESAR GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

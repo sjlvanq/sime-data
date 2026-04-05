@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 29178,
+    "padron_id": 52452
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "30XXXX89",
+      "apellidos": "PACHECO",
+      "nombres": "ROMINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "31XXXX96",
+      "apellidos": "VELIZ",
+      "nombres": "ROBERTO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "29XXXX82",
+      "apellidos": "MANSILLA",
+      "nombres": "GERARDO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

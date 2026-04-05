@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 30715,
+    "padron_id": 55522
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "23XXXX22",
+      "apellidos": "ZUÑIGA",
+      "nombres": "ANTONIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "32XXXX12",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NATALIA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

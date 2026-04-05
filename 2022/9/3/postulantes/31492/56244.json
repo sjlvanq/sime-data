@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 31492,
+    "padron_id": 56244
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX81",
+      "apellidos": "HERNANDEZ",
+      "nombres": "SANDRA PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX62",
+      "apellidos": "JUAREZ",
+      "nombres": "TOMAS AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
