@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25136,
+    "padron_id": 43892
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX44",
+      "apellidos": "JIMÉNEZ",
+      "nombres": "LEONARDO MIGUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 84,
+      "dni": "35XXXX27",
+      "apellidos": "PIZARRO",
+      "nombres": "NOELIA DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 117,
+      "dni": "28XXXX00",
+      "apellidos": "ACOSTA",
+      "nombres": "GABRIELA DE LUJAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

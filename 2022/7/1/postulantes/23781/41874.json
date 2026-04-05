@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23781,
+    "padron_id": 41874
+  },
+  "postulantes": [
+    {
+      "orden": 100,
+      "dni": "21XXXX37",
+      "apellidos": "AVILA",
+      "nombres": "DELINA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 136,
+      "dni": "24XXXX76",
+      "apellidos": "GARGIULO",
+      "nombres": "ZAIRA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

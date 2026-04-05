@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 22509,
+    "padron_id": 42330
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "20XXXX61",
+      "apellidos": "SORIA",
+      "nombres": "LINA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "24XXXX78",
+      "apellidos": "ANTUNEZ",
+      "nombres": "DOMINGO ANTONIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "23XXXX22",
+      "apellidos": "FLORES",
+      "nombres": "ADRIANA GERONIMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "21XXXX44",
+      "apellidos": "FERNANDEZ",
+      "nombres": "MIRTA HAYDE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

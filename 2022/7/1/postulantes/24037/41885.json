@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 24037,
+    "padron_id": 41885
+  },
+  "postulantes": [
+    {
+      "orden": 160,
+      "dni": "20XXXX63",
+      "apellidos": "OLARTE",
+      "nombres": "MARTA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 162,
+      "dni": "20XXXX58",
+      "apellidos": "VILACHI",
+      "nombres": "CECILIA BERSABET",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 195,
+      "dni": "18XXXX05",
+      "apellidos": "MERCHAN",
+      "nombres": "MARCELO OSCAR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "23XXXX70",
+      "apellidos": "ROBLES",
+      "nombres": "MIRTA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

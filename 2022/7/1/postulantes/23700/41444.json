@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23700,
+    "padron_id": 41444
+  },
+  "postulantes": [
+    {
+      "orden": 819,
+      "dni": "39XXXX32",
+      "apellidos": "PACHECO",
+      "nombres": "KAREN GISELLE DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 938,
+      "dni": "31XXXX80",
+      "apellidos": "BRITO",
+      "nombres": "SANDRA CARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 952,
+      "dni": "25XXXX62",
+      "apellidos": "IBAÑEZ",
+      "nombres": "MARCELA VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

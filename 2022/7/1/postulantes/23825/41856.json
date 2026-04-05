@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 23825,
+    "padron_id": 41856
+  },
+  "postulantes": [
+    {
+      "orden": 266,
+      "dni": "32XXXX05",
+      "apellidos": "PONCE",
+      "nombres": "MARIA GABRIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 323,
+      "dni": "24XXXX79",
+      "apellidos": "PARRA",
+      "nombres": "MARIANA DANIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 462,
+      "dni": "34XXXX32",
+      "apellidos": "YAMPA",
+      "nombres": "MERCEDES PRIMITIVA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 513,
+      "dni": "37XXXX74",
+      "apellidos": "PINTO GALLARDO",
+      "nombres": "ROMINA PAOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

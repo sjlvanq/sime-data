@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 24637,
+    "padron_id": 43857
+  },
+  "postulantes": [
+    {
+      "orden": 45,
+      "dni": "36XXXX77",
+      "apellidos": "IBAÑEZ",
+      "nombres": "VICTORIA FERNANDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 84,
+      "dni": "35XXXX27",
+      "apellidos": "PIZARRO",
+      "nombres": "NOELIA DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 117,
+      "dni": "28XXXX00",
+      "apellidos": "ACOSTA",
+      "nombres": "GABRIELA DE LUJAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

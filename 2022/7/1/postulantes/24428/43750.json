@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 24428,
+    "padron_id": 43750
+  },
+  "postulantes": [
+    {
+      "orden": 64,
+      "dni": "36XXXX21",
+      "apellidos": "MADRID",
+      "nombres": "ALEJANDRO EZEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "33XXXX15",
+      "apellidos": "HERRERA",
+      "nombres": "NELSON LEANDRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "36XXXX48",
+      "apellidos": "MORALES LOBO",
+      "nombres": "LAURA MAGDALENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "37XXXX75",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "NATALIA MICAELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

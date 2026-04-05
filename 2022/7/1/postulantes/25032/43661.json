@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 25032,
+    "padron_id": 43661
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "20XXXX89",
+      "apellidos": "CHALIN",
+      "nombres": "SILVIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 120,
+      "dni": "26XXXX14",
+      "apellidos": "CARRIZO",
+      "nombres": "ISABEL MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 193,
+      "dni": "22XXXX75",
+      "apellidos": "VEGA",
+      "nombres": "MARIA NANCY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "23XXXX70",
+      "apellidos": "ROBLES",
+      "nombres": "MIRTA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
