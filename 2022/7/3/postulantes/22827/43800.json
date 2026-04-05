@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 22827,
+    "padron_id": 43800
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX04",
+      "apellidos": "POMO",
+      "nombres": "SONIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX34",
+      "apellidos": "ARIZA",
+      "nombres": "CLAUDIA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX79",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA IVANNA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX68",
+      "apellidos": "JEREZ",
+      "nombres": "EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

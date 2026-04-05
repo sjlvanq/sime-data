@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 24079,
+    "padron_id": 42416
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "32XXXX21",
+      "apellidos": "ROLDAN",
+      "nombres": "RAUL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "41XXXX36",
+      "apellidos": "ALBORNOZ",
+      "nombres": "RODRIGO NAZARENO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

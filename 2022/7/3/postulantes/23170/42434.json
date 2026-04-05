@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23170,
+    "padron_id": 42434
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "35XXXX50",
+      "apellidos": "SUAREZ",
+      "nombres": "PAMELA NOEMI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "35XXXX24",
+      "apellidos": "MEDINA",
+      "nombres": "LISETH YANINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "39XXXX25",
+      "apellidos": "FERNANDEZ",
+      "nombres": "YANINA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22258,
+    "padron_id": 42041
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX89",
+      "apellidos": "ALVAREZ",
+      "nombres": "SILVIA ROSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX01",
+      "apellidos": "FEREYRA",
+      "nombres": "GIULIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX77",
+      "apellidos": "DEL CASTILLO",
+      "nombres": "PABLO GUILLERMO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

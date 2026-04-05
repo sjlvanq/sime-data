@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 25020,
+    "padron_id": 44333
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX36",
+      "apellidos": "MACIAS",
+      "nombres": "MARCELA VIVIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 9,
+      "dni": "20XXXX55",
+      "apellidos": "CARABAJAL",
+      "nombres": "CONRADO RICARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

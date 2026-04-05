@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 21713,
+    "padron_id": 42003
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX40",
+      "apellidos": "SOSA",
+      "nombres": "DIEGO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "37XXXX02",
+      "apellidos": "ORELLANA",
+      "nombres": "ULISES JOSE MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "26XXXX63",
+      "apellidos": "RESOLA",
+      "nombres": "JULIO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "28XXXX91",
+      "apellidos": "MORENO",
+      "nombres": "DANIEL GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

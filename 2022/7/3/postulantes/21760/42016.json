@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 21760,
+    "padron_id": 42016
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX99",
+      "apellidos": "APUD",
+      "nombres": "MIRIAM DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "34XXXX99",
+      "apellidos": "RUESJA",
+      "nombres": "MARIA DEL MILAGRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "24XXXX53",
+      "apellidos": "CRUZ",
+      "nombres": "CLAUDIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX28",
+      "apellidos": "LA BRUNA",
+      "nombres": "JORGE SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

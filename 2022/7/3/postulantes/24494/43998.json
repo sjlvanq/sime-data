@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 24494,
+    "padron_id": 43998
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX22",
+      "apellidos": "MEDINA",
+      "nombres": "MAURICIO JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX62",
+      "apellidos": "VENCHIARUTTI",
+      "nombres": "DANIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "22XXXX57",
+      "apellidos": "VILLAGRA",
+      "nombres": "DELIA ISABEL DEL ROSARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

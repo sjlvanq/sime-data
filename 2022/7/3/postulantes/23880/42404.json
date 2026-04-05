@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 23880,
+    "padron_id": 42404
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX70",
+      "apellidos": "ORTIZ",
+      "nombres": "CHRISTIAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX70",
+      "apellidos": "BRANDAN",
+      "nombres": "CRISTIAN EMMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX65",
+      "apellidos": "NIEVA                                   ",
+      "nombres": "JUAN ISMAEL                             ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "34XXXX95",
+      "apellidos": "RUIZ",
+      "nombres": "NELSON DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

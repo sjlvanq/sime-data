@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23167,
+    "padron_id": 42438
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "24XXXX90",
+      "apellidos": "GOMEZ",
+      "nombres": "CARINA ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "20XXXX36",
+      "apellidos": "PERALTA",
+      "nombres": "HUGO VITALINO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX70",
+      "apellidos": "ROJAS",
+      "nombres": "JOSÉ HERNÁN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

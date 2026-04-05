@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21863,
+    "padron_id": 41411
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "22XXXX13",
+      "apellidos": "CUELLAR",
+      "nombres": "RAQUEL DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "38XXXX43",
+      "apellidos": "JUAREZ",
+      "nombres": "LUCIANO HERNAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX28",
+      "apellidos": "BRANDAN CORREA",
+      "nombres": "CESAR JORGE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

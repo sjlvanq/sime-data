@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22620,
+    "padron_id": 41253
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX30",
+      "apellidos": "BERRONDO",
+      "nombres": "NESTOR PEDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "25XXXX88",
+      "apellidos": "CANSECO",
+      "nombres": "VERONICA ELISABET",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "16XXXX87",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ADRIANA MARIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23654,
+    "padron_id": 42399
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX37",
+      "apellidos": "ESCACENA",
+      "nombres": "PAMELA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "27XXXX04",
+      "apellidos": "FRIAS ARAOZ",
+      "nombres": "MARIA VIRGINIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "29XXXX82",
+      "apellidos": "MANSILLA",
+      "nombres": "GERARDO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

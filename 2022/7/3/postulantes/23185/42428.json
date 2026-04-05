@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 23185,
+    "padron_id": 42428
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "20XXXX09",
+      "apellidos": "DE MIRAT",
+      "nombres": "GABRIEL ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "21XXXX48",
+      "apellidos": "FIGUEROA",
+      "nombres": "DANIEL GERMAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "24XXXX42",
+      "apellidos": "VALLEJO",
+      "nombres": "ANTONIO EDGARDO RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "25XXXX80",
+      "apellidos": "ESQUIVEL",
+      "nombres": "JOSE IGNACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 23184,
+    "padron_id": 42425
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "35XXXX96",
+      "apellidos": "GUTIERREZ",
+      "nombres": "DANIEL ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX14",
+      "apellidos": "PAZ",
+      "nombres": "SEBASTIAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX62",
+      "apellidos": "ACUÑA",
+      "nombres": "RODRIGO ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "23XXXX16",
+      "apellidos": "CORDOBA ZELARAYAN",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "39XXXX04",
+      "apellidos": "SOSA",
+      "nombres": "GONZALO RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

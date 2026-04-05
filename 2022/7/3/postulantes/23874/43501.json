@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23874,
+    "padron_id": 43501
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX74",
+      "apellidos": "BRITO",
+      "nombres": "DAVID HECTOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX52",
+      "apellidos": "BIANCHI",
+      "nombres": "SEBASTIAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 21712,
+    "padron_id": 42005
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "17XXXX10",
+      "apellidos": "DEL MORAL",
+      "nombres": "MARIO EDGARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX42",
+      "apellidos": "MEDINA",
+      "nombres": "NESTOR SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX28",
+      "apellidos": "BRANDAN CORREA",
+      "nombres": "CESAR JORGE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX30",
+      "apellidos": "TORASSO",
+      "nombres": "MAURICIO EZEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

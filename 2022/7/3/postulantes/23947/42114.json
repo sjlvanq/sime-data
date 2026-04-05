@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 23947,
+    "padron_id": 42114
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "20XXXX60",
+      "apellidos": "GATTI",
+      "nombres": "SUSANA INES DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "24XXXX65",
+      "apellidos": "LUCENA",
+      "nombres": "MIRTA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "34XXXX65",
+      "apellidos": "NEIRA",
+      "nombres": "MAYRA VANESSA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "29XXXX97",
+      "apellidos": "PASTRANA",
+      "nombres": "ALEJANDRA LUCRECIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

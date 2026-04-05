@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23239,
+    "padron_id": 41333
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX12",
+      "apellidos": "ROSSELL",
+      "nombres": "ANDREA VALERIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX59",
+      "apellidos": "ROBLEDO",
+      "nombres": "VANINA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

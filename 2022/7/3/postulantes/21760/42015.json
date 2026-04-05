@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 21760,
+    "padron_id": 42015
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX74",
+      "apellidos": "PAZ",
+      "nombres": "ANGELA ELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX13",
+      "apellidos": "MARTINEZ",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

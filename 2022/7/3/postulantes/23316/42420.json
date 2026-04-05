@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 23316,
+    "padron_id": 42420
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "30XXXX57",
+      "apellidos": "LOPEZ",
+      "nombres": "FABIANA NICOLASA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX39",
+      "apellidos": "PEREZ",
+      "nombres": "SILVINA ELEONORA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX24",
+      "apellidos": "ROBLE",
+      "nombres": "FACUNDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX11",
+      "apellidos": "ROMERO",
+      "nombres": "JOSE AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
