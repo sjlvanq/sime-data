@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 3427,
+    "padron_id": 6322
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "31XXXX90",
+      "apellidos": "PONCE",
+      "nombres": "VANESA EVANGELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "33XXXX99",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA NOELIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "27XXXX72",
+      "apellidos": "ONTIVERO                                ",
+      "nombres": "BEATRIZ NELMA                           ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 55,
+      "dni": "33XXXX84",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

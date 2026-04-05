@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 3665,
+    "padron_id": 6922
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX02",
+      "apellidos": "PAZ",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX52",
+      "apellidos": "LOPEZ",
+      "nombres": "MANUEL RAMON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 3709,
+    "padron_id": 6778
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "36XXXX26",
+      "apellidos": "VALDEZ",
+      "nombres": "ANABELL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "32XXXX19",
+      "apellidos": "QUESSA",
+      "nombres": "PABLO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "24XXXX03",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "TERESA ESTELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

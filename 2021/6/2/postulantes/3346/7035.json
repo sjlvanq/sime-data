@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 3346,
+    "padron_id": 7035
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "33XXXX28",
+      "apellidos": "BRANDAN CORREA",
+      "nombres": "CESAR JORGE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "27XXXX82",
+      "apellidos": "COLQUI",
+      "nombres": "LOURDES BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 3162,
+    "padron_id": 7012
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "27XXXX74",
+      "apellidos": "ALFARO",
+      "nombres": "CARLOS ALEXI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "25XXXX87",
+      "apellidos": "ALE",
+      "nombres": "ANDRES DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

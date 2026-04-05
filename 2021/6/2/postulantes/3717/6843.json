@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 3717,
+    "padron_id": 6843
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "36XXXX02",
+      "apellidos": "MUÑOZ CENTENO",
+      "nombres": "ANTONELA TAMARA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "25XXXX08",
+      "apellidos": "ACOSTA",
+      "nombres": "DANIEL WALTER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

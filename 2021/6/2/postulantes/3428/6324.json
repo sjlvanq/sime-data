@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 3428,
+    "padron_id": 6324
+  },
+  "postulantes": [
+    {
+      "orden": 53,
+      "dni": "25XXXX40",
+      "apellidos": "ARNEDO",
+      "nombres": "YOLANDA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 63,
+      "dni": "25XXXX84",
+      "apellidos": "FRESIA",
+      "nombres": "CAMILO EDUARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 86,
+      "dni": "38XXXX17",
+      "apellidos": "VEGA",
+      "nombres": "ROBERTO RAMON",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

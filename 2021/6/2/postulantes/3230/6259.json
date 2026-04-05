@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 3230,
+    "padron_id": 6259
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "26XXXX52",
+      "apellidos": "ACEVEDO",
+      "nombres": "CECILIA ROSALBA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "33XXXX93",
+      "apellidos": "ROBLES",
+      "nombres": "ANDREA CELESTE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "32XXXX54",
+      "apellidos": "ROMERO GUNSET",
+      "nombres": "ANA CELESTE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX36",
+      "apellidos": "ANASTASIO SALAS",
+      "nombres": "FABIANA JAQUELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 3192,
+    "padron_id": 6377
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "25XXXX85",
+      "apellidos": "ACIAR",
+      "nombres": "RAMON ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "24XXXX71",
+      "apellidos": "JUAREZ",
+      "nombres": "DANIELA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "16XXXX09",
+      "apellidos": "HERRERA",
+      "nombres": "ADELA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "26XXXX24",
+      "apellidos": "MARCOLIN",
+      "nombres": "DANIELA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

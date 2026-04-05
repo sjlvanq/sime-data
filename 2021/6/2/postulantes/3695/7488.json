@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 3695,
+    "padron_id": 7488
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX07",
+      "apellidos": "VERA JALUF",
+      "nombres": "FLORENCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "26XXXX58",
+      "apellidos": "CALDERON",
+      "nombres": "MARIA EUGENIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 3979,
+    "padron_id": 7449
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX38",
+      "apellidos": "SALINAS",
+      "nombres": "CLAUDIA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX11",
+      "apellidos": "PINTO",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX26",
+      "apellidos": "FERES",
+      "nombres": "NOELIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

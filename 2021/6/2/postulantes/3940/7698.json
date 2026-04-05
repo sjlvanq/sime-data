@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 3940,
+    "padron_id": 7698
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "28XXXX21",
+      "apellidos": "KOMAID",
+      "nombres": "ANDREA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "31XXXX02",
+      "apellidos": "ONDRY",
+      "nombres": "MARÍA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX13",
+      "apellidos": "ARANDA",
+      "nombres": "CLAUDIA ISABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "28XXXX03",
+      "apellidos": "MATESICH",
+      "nombres": "JULIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

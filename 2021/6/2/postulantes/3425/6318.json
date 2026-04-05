@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 3425,
+    "padron_id": 6318
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "34XXXX97",
+      "apellidos": "REYNOSO SORIA",
+      "nombres": "SEBASTIAN ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "35XXXX69",
+      "apellidos": "JUÁREZ",
+      "nombres": "LUISA NATALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "12XXXX67",
+      "apellidos": "MARQUEZ SANCHEZ",
+      "nombres": "JUAN CARLOS HUMBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

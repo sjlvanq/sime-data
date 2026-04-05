@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 4036,
+    "padron_id": 7610
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "35XXXX92",
+      "apellidos": "BALDERRAMA",
+      "nombres": "MARIELA LUCIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "29XXXX02",
+      "apellidos": "AUDI FALU",
+      "nombres": "MONICA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX54",
+      "apellidos": "ROMERO GUNSET",
+      "nombres": "ANA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX57",
+      "apellidos": "PEREYRA",
+      "nombres": "SOLEDAD LORENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

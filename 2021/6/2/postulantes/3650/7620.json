@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 3650,
+    "padron_id": 7620
+  },
+  "postulantes": [
+    {
+      "orden": 84,
+      "dni": "27XXXX08",
+      "apellidos": "ORELLANA",
+      "nombres": "MARIA ESTHER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 97,
+      "dni": "36XXXX20",
+      "apellidos": "VALDEZ",
+      "nombres": "ANDREA DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "29XXXX24",
+      "apellidos": "SANCHEZ",
+      "nombres": "MALVINA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 140,
+      "dni": "40XXXX88",
+      "apellidos": "GONZALEZ",
+      "nombres": "YONATHAN FABIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 143,
+      "dni": "37XXXX12",
+      "apellidos": "NAVARRO",
+      "nombres": "CESAR AGUSTIN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

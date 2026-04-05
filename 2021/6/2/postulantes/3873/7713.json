@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 3873,
+    "padron_id": 7713
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "23XXXX09",
+      "apellidos": "GAITAN",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "20XXXX47",
+      "apellidos": "ESPECHE",
+      "nombres": "SANDRA RAQUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX54",
+      "apellidos": "GEREZ",
+      "nombres": "ZULMA ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

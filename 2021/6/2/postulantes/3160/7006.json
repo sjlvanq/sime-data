@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 3160,
+    "padron_id": 7006
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "34XXXX91",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "JIMENA JOHANA DENIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "35XXXX61",
+      "apellidos": "CONTRERAS",
+      "nombres": "MARIELA SILVANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "38XXXX00",
+      "apellidos": "RUIZ",
+      "nombres": "CONSTANZA BELEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "37XXXX12",
+      "apellidos": "NAVARRO",
+      "nombres": "CESAR AGUSTIN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

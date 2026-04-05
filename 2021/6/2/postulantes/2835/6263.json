@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 2835,
+    "padron_id": 6263
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "31XXXX13",
+      "apellidos": "GRAMAJO",
+      "nombres": "ANGEL DARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "32XXXX75",
+      "apellidos": "JIMENEZ",
+      "nombres": "EMMANUEL JOEL ORLANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "24XXXX31",
+      "apellidos": "DAMM RUIZ",
+      "nombres": "GUILLERMO FEDERICO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

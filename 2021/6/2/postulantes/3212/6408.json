@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 3212,
+    "padron_id": 6408
+  },
+  "postulantes": [
+    {
+      "orden": 68,
+      "dni": "29XXXX63",
+      "apellidos": "CORONEL",
+      "nombres": "MARIA OLGA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX32",
+      "apellidos": "OVEJERO",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

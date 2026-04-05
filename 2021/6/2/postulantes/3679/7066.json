@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 3679,
+    "padron_id": 7066
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "26XXXX36",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "HERNÁN NAZARENO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "27XXXX82",
+      "apellidos": "COLQUI",
+      "nombres": "LOURDES BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "33XXXX28",
+      "apellidos": "BRANDAN CORREA",
+      "nombres": "CESAR JORGE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

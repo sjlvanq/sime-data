@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 3298,
+    "padron_id": 6170
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX45",
+      "apellidos": "AMAYA",
+      "nombres": "CLAUDIA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "22XXXX33",
+      "apellidos": "KASZTAN",
+      "nombres": "SERGIO WENCESLAO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
