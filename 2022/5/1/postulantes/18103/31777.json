@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 18103,
+    "padron_id": 31777
+  },
+  "postulantes": [
+    {
+      "orden": 134,
+      "dni": "29XXXX18",
+      "apellidos": "VARELA",
+      "nombres": "GLADYS YOLANDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 214,
+      "dni": "14XXXX02",
+      "apellidos": "RIVERO",
+      "nombres": "ALBERTO EDUARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 230,
+      "dni": "29XXXX03",
+      "apellidos": "CASTRO",
+      "nombres": "LUCIA RAMONA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 328,
+      "dni": "20XXXX08",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ADRIANA ROSA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

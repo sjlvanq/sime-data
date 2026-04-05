@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 19120,
+    "padron_id": 33676
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "29XXXX71",
+      "apellidos": "FERNANDEZ",
+      "nombres": "DANIELA IVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "25XXXX70",
+      "apellidos": "NAVARRO",
+      "nombres": "SILVIA ISOLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

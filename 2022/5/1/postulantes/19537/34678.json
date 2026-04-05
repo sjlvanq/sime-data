@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 19537,
+    "padron_id": 34678
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "25XXXX81",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "CLAUDIA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX96",
+      "apellidos": "CAMPOS",
+      "nombres": "EMA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX55",
+      "apellidos": "OSORIO ORELLANA",
+      "nombres": "GLADYS ANAHI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "37XXXX01",
+      "apellidos": "DIAZ",
+      "nombres": "HECTOR DAVID",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "27XXXX90",
+      "apellidos": "PAOLINI",
+      "nombres": "ANA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

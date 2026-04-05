@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 19122,
+    "padron_id": 33649
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "33XXXX02",
+      "apellidos": "DIAZ",
+      "nombres": "MAIRA LEONELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "28XXXX19",
+      "apellidos": "PENA",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

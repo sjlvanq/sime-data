@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 19137,
+    "padron_id": 33567
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "28XXXX32",
+      "apellidos": "MARINO",
+      "nombres": "RODOLFO DANIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "24XXXX35",
+      "apellidos": "VEGA",
+      "nombres": "MARIA LUZ DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "16XXXX36",
+      "apellidos": "JUAREZ",
+      "nombres": "ALBA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

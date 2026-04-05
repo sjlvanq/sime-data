@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20141,
+    "padron_id": 35794
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX36",
+      "apellidos": "BOSSARD",
+      "nombres": "VICTOR ARNALDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "34XXXX12",
+      "apellidos": "CORDOBA",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "35XXXX32",
+      "apellidos": "TEJERA",
+      "nombres": "CRISTIAN RAMON",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 18478,
+    "padron_id": 32899
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "31XXXX56",
+      "apellidos": "MENDIA",
+      "nombres": "MARIA DEL PILAR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "20XXXX97",
+      "apellidos": "TAPIA",
+      "nombres": "DANIELA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "27XXXX82",
+      "apellidos": "FRIAS PAZ",
+      "nombres": "ALEJANDRA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17818,
+    "padron_id": 32502
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "23XXXX85",
+      "apellidos": "TORRES",
+      "nombres": "CLAUDIA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "33XXXX59",
+      "apellidos": "DI MARCO",
+      "nombres": "MARIA PAULA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "24XXXX66",
+      "apellidos": "ALDERETE",
+      "nombres": "ELIANA KARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

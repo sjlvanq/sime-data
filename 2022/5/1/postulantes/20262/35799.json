@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 20262,
+    "padron_id": 35799
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "26XXXX16",
+      "apellidos": "MEDINA",
+      "nombres": "GLORIA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "31XXXX30",
+      "apellidos": "RODRIGUEZ MIRANDA",
+      "nombres": "DAVID OSCAR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "21XXXX11",
+      "apellidos": "OJEDA",
+      "nombres": "NORA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "27XXXX00",
+      "apellidos": "ACOSTA",
+      "nombres": "CAROLINA SILVANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

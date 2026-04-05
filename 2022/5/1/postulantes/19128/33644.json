@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 19128,
+    "padron_id": 33644
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "38XXXX53",
+      "apellidos": "PAZ",
+      "nombres": "JULIANA ROMINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "26XXXX01",
+      "apellidos": "GARCIA ",
+      "nombres": "MIGUEL ANGEL JESÚS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "24XXXX35",
+      "apellidos": "VEGA",
+      "nombres": "MARIA LUZ DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

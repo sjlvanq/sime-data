@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17584,
+    "padron_id": 32915
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX77",
+      "apellidos": "GOMEZ",
+      "nombres": "JOHANNA JIMENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "26XXXX88",
+      "apellidos": "TAMER",
+      "nombres": "MARIA VIRGINIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "28XXXX00",
+      "apellidos": "VIES",
+      "nombres": "ANA LAURA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

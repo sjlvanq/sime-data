@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 18991,
+    "padron_id": 34712
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "35XXXX45",
+      "apellidos": "VARGAS",
+      "nombres": "KAREN ANALIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "16XXXX60",
+      "apellidos": "MARAÑÓN",
+      "nombres": "NORMA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "33XXXX84",
+      "apellidos": "SORROZA",
+      "nombres": "EDUARDO ERNESTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "34XXXX63",
+      "apellidos": "RUIZ",
+      "nombres": "CARLOS MARCELO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

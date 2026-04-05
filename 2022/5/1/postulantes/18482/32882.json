@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 18482,
+    "padron_id": 32882
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "30XXXX00",
+      "apellidos": "PEREA",
+      "nombres": "NOELIA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "20XXXX97",
+      "apellidos": "TAPIA",
+      "nombres": "DANIELA ISABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

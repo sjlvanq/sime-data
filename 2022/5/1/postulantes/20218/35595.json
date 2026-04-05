@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 20218,
+    "padron_id": 35595
+  },
+  "postulantes": [
+    {
+      "orden": 201,
+      "dni": "21XXXX14",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 208,
+      "dni": "22XXXX42",
+      "apellidos": "RIVAS",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 230,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 317,
+      "dni": "20XXXX82",
+      "apellidos": "AMENTTA",
+      "nombres": "MONICA ESTELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 318,
+      "dni": "18XXXX33",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "SOFIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

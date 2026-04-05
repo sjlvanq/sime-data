@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 20266,
+    "padron_id": 35743
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX59",
+      "apellidos": "DE PASCUAL",
+      "nombres": "PAOLA DANIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX55",
+      "apellidos": "OSORIO ORELLANA",
+      "nombres": "GLADYS ANAHI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "37XXXX01",
+      "apellidos": "DIAZ",
+      "nombres": "HECTOR DAVID",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX59",
+      "apellidos": "QUERCI",
+      "nombres": "JOSÉ AUGUSTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "27XXXX90",
+      "apellidos": "PAOLINI",
+      "nombres": "ANA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 19407,
+    "padron_id": 34634
+  },
+  "postulantes": [
+    {
+      "orden": 146,
+      "dni": "20XXXX93",
+      "apellidos": "MOLINA",
+      "nombres": "MARINA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 208,
+      "dni": "22XXXX42",
+      "apellidos": "RIVAS",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 305,
+      "dni": "21XXXX17",
+      "apellidos": "VILLARREAL",
+      "nombres": "SILVINA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 312,
+      "dni": "22XXXX58",
+      "apellidos": "LEYES",
+      "nombres": "SANDRA NOEMI",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

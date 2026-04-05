@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20138,
+    "padron_id": 35761
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "31XXXX30",
+      "apellidos": "RODRIGUEZ MIRANDA",
+      "nombres": "DAVID OSCAR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "32XXXX21",
+      "apellidos": "ALBARRACIN",
+      "nombres": "MARIA IVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "25XXXX92",
+      "apellidos": "SCHETTINI",
+      "nombres": "MARIA SILVIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
