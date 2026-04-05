@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 4280,
+    "padron_id": 8107
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "29XXXX51",
+      "apellidos": "ALVARADO",
+      "nombres": "CRISTIAN MATIAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "21XXXX39",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

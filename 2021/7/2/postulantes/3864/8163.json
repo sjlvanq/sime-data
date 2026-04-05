@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 3864,
+    "padron_id": 8163
+  },
+  "postulantes": [
+    {
+      "orden": 80,
+      "dni": "21XXXX20",
+      "apellidos": "PAZ",
+      "nombres": "PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "26XXXX39",
+      "apellidos": "CARRIZO",
+      "nombres": "ALICIA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

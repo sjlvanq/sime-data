@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 3936,
+    "padron_id": 8179
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "28XXXX06",
+      "apellidos": "ROBLES",
+      "nombres": "PAOLA AURORA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX22",
+      "apellidos": "WAINZIGER",
+      "nombres": "ALINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "32XXXX54",
+      "apellidos": "ROMERO GUNSET",
+      "nombres": "ANA CELESTE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX36",
+      "apellidos": "ANASTASIO SALAS",
+      "nombres": "FABIANA JAQUELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

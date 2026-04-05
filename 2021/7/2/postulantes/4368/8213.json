@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4368,
+    "padron_id": 8213
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "32XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "NATALIA ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX90",
+      "apellidos": "SANCHEZ",
+      "nombres": "RICARDO MIGUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX54",
+      "apellidos": "GEREZ",
+      "nombres": "ZULMA ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

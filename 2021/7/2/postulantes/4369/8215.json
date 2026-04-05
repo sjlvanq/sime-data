@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4369,
+    "padron_id": 8215
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "26XXXX95",
+      "apellidos": "DELGADO",
+      "nombres": "MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX90",
+      "apellidos": "SANCHEZ",
+      "nombres": "RICARDO MIGUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX54",
+      "apellidos": "GEREZ",
+      "nombres": "ZULMA ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

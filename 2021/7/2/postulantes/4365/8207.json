@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4365,
+    "padron_id": 8207
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "24XXXX56",
+      "apellidos": "SALAS",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX90",
+      "apellidos": "SANCHEZ",
+      "nombres": "RICARDO MIGUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX54",
+      "apellidos": "GEREZ",
+      "nombres": "ZULMA ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
