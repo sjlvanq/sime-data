@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 29777,
+    "padron_id": 53260
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "23XXXX09",
+      "apellidos": "GAITAN",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "28XXXX81",
+      "apellidos": "CARRIZO",
+      "nombres": "JULIETA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "23XXXX58",
+      "apellidos": "IGNES",
+      "nombres": "ANDREA ALICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

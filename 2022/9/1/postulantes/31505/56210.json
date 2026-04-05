@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 31505,
+    "padron_id": 56210
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "35XXXX29",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "CARLOS MIGUEL ANGEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "17XXXX06",
+      "apellidos": "ROLDAN",
+      "nombres": "ELSA SUSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "21XXXX43",
+      "apellidos": "LIZARRAGA",
+      "nombres": "ESTELA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

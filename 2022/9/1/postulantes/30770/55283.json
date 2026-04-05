@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30770,
+    "padron_id": 55283
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX29",
+      "apellidos": "CORRALES",
+      "nombres": "MARIA PAULINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "28XXXX00",
+      "apellidos": "BELO",
+      "nombres": "DIEGO LEONARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

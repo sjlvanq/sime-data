@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 28984,
+    "padron_id": 51504
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "28XXXX16",
+      "apellidos": "NARVAEZ",
+      "nombres": "JOSE MATIAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "21XXXX09",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

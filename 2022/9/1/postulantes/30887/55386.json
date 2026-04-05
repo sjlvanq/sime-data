@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "vacante_id": 30887,
+    "padron_id": 55386
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "16XXXX80",
+      "apellidos": "HERNANDEZ",
+      "nombres": "LILIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX57",
+      "apellidos": "RUIZ",
+      "nombres": "PAOLA ADRIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "27XXXX44",
+      "apellidos": "BARRIENTOS",
+      "nombres": "NATALIA VALERIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "34XXXX38",
+      "apellidos": "VERA",
+      "nombres": "PAULA SOLEDAD",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "28XXXX50",
+      "apellidos": "SIERRA",
+      "nombres": "ROMINA CINTIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "29XXXX68",
+      "apellidos": "LUNA",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "30XXXX32",
+      "apellidos": "LUNA",
+      "nombres": "CLAUDIA NOEMI",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

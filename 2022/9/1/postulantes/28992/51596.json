@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 28992,
+    "padron_id": 51596
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "27XXXX82",
+      "apellidos": "FRIAS PAZ",
+      "nombres": "ALEJANDRA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "31XXXX30",
+      "apellidos": "RODRIGUEZ MIRANDA",
+      "nombres": "DAVID OSCAR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX16",
+      "apellidos": "PAEZ",
+      "nombres": "MARIA LUZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "23XXXX13",
+      "apellidos": "ISAS",
+      "nombres": "CRISTOBAL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

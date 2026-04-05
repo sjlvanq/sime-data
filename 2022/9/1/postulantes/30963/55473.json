@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 30963,
+    "padron_id": 55473
+  },
+  "postulantes": [
+    {
+      "orden": 145,
+      "dni": "23XXXX65",
+      "apellidos": "SANTILLAN",
+      "nombres": "MABEL DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 201,
+      "dni": "20XXXX84",
+      "apellidos": "FARIAS",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 213,
+      "dni": "18XXXX30",
+      "apellidos": "PEREYRA",
+      "nombres": "LAURA RAQUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 220,
+      "dni": "17XXXX87",
+      "apellidos": "PEREZ",
+      "nombres": "RAMON ANTONIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "23XXXX50",
+      "apellidos": "NUÑEZ",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

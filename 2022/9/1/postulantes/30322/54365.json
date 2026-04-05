@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 30322,
+    "padron_id": 54365
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "28XXXX60",
+      "apellidos": "VEGA",
+      "nombres": "EUGENIA JOSEFA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX23",
+      "apellidos": "DUMO",
+      "nombres": "SANDRA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

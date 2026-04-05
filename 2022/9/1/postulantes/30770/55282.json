@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30770,
+    "padron_id": 55282
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "36XXXX41",
+      "apellidos": "MEDINA",
+      "nombres": "JOSE ALEJANDRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "25XXXX73",
+      "apellidos": "NORRY MORAN",
+      "nombres": "MARIA GILDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "38XXXX29",
+      "apellidos": "POSSE GALLARDO",
+      "nombres": "CAMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

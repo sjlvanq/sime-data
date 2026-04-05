@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 30213,
+    "padron_id": 54372
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "31XXXX76",
+      "apellidos": "RAMOS",
+      "nombres": "NILDA MARICEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

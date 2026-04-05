@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30990,
+    "padron_id": 55469
+  },
+  "postulantes": [
+    {
+      "orden": 195,
+      "dni": "24XXXX52",
+      "apellidos": "GARCIA",
+      "nombres": "FRANCISCO ARIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 208,
+      "dni": "22XXXX42",
+      "apellidos": "RIVAS",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 327,
+      "dni": "20XXXX30",
+      "apellidos": "PUEBLA",
+      "nombres": "NANCY MARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

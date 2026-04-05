@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30294,
+    "padron_id": 54369
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "33XXXX71",
+      "apellidos": "HARASIN",
+      "nombres": "EMILCE LUCÍA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "30XXXX07",
+      "apellidos": "DOMINGUEZ                               ",
+      "nombres": "VANESA ELIZABETH                        ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

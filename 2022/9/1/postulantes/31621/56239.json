@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 31621,
+    "padron_id": 56239
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "30XXXX85",
+      "apellidos": "HARROS",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
