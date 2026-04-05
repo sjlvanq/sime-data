@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4444,
+    "padron_id": 7770
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "31XXXX98",
+      "apellidos": "BALEGNO",
+      "nombres": "MARIELA ANTONIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "36XXXX26",
+      "apellidos": "FIGUEROA",
+      "nombres": "FATIMA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "26XXXX60",
+      "apellidos": "CABRERA",
+      "nombres": "JUAN MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

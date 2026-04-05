@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 4188,
+    "padron_id": 7173
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX66",
+      "apellidos": "CISNEROS",
+      "nombres": "GUIDO ANDRÉS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX05",
+      "apellidos": "RIVERO",
+      "nombres": "VALERIA IRINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX42",
+      "apellidos": "TENA",
+      "nombres": "JOSÉ ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "25XXXX09",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MARTA KARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

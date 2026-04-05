@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 4404,
+    "padron_id": 7751
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "31XXXX31",
+      "apellidos": "FERRAN",
+      "nombres": "ALEJANDRO AUGUSTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "17XXXX20",
+      "apellidos": "NIETO",
+      "nombres": "MARIA SILVIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "24XXXX46",
+      "apellidos": "ELIAS",
+      "nombres": "CECILIA NICOLASA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX19",
+      "apellidos": "QUESSA",
+      "nombres": "PABLO SEBASTIAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 4444,
+    "padron_id": 7767
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "26XXXX88",
+      "apellidos": "ROMANO",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "26XXXX60",
+      "apellidos": "CABRERA",
+      "nombres": "JUAN MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 4385,
+    "padron_id": 7740
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX66",
+      "apellidos": "GONZALEZ",
+      "nombres": "RAUL ESTEBAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX46",
+      "apellidos": "CARPIO",
+      "nombres": "RODOLFO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX11",
+      "apellidos": "LEIVA",
+      "nombres": "ALEJANDRA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX11",
+      "apellidos": "LEIVA",
+      "nombres": "ALEJANDRA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
