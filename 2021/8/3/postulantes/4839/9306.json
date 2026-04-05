@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4839,
+    "padron_id": 9306
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX58",
+      "apellidos": "SOSA",
+      "nombres": "SUSANA CARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "22XXXX88",
+      "apellidos": "VALDEZ",
+      "nombres": "FATIMA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX32",
+      "apellidos": "OVEJERO",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

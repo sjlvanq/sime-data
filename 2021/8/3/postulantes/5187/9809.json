@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 5187,
+    "padron_id": 9809
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX82",
+      "apellidos": "GOMEZ",
+      "nombres": "ELIAS LIDORO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX41",
+      "apellidos": "CRUZ",
+      "nombres": "CLAUDIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "26XXXX09",
+      "apellidos": "ZAMORA",
+      "nombres": "AGUSTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "20XXXX46",
+      "apellidos": "BOASSO",
+      "nombres": "VICTOR JUAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

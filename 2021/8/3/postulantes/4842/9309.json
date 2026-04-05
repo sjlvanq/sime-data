@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 4842,
+    "padron_id": 9309
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX16",
+      "apellidos": "BRANCATO",
+      "nombres": "PABLO OSCAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX04",
+      "apellidos": "VALVERDI",
+      "nombres": "FRANCO RENE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

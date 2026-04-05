@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5259,
+    "padron_id": 8839
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX12",
+      "apellidos": "VILLARREAL",
+      "nombres": "OMAR ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX82",
+      "apellidos": "MANSILLA",
+      "nombres": "GERARDO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

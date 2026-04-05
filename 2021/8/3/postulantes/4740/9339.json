@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 4740,
+    "padron_id": 9339
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX89",
+      "apellidos": "VILLARREAL",
+      "nombres": "VALERIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX80",
+      "apellidos": "ASTUDILLO",
+      "nombres": "MARIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

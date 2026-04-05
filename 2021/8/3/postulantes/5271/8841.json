@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5271,
+    "padron_id": 8841
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX66",
+      "apellidos": "TORRES",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "29XXXX82",
+      "apellidos": "MANSILLA",
+      "nombres": "GERARDO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX47",
+      "apellidos": "GRANERO",
+      "nombres": "NATALIA ELISABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

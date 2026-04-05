@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 5523,
+    "padron_id": 9784
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX93",
+      "apellidos": "ARNEDO",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX51",
+      "apellidos": "PINTANEL",
+      "nombres": "IRIS BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX70",
+      "apellidos": "ORTIZ",
+      "nombres": "CHRISTIAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "36XXXX45",
+      "apellidos": "SALLA",
+      "nombres": "MAURICIO MATIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX77",
+      "apellidos": "BAZAN",
+      "nombres": "IVANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

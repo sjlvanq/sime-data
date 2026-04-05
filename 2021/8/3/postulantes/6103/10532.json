@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 6103,
+    "padron_id": 10532
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "20XXXX17",
+      "apellidos": "GONZALEZ CALDERON",
+      "nombres": "OCTAVIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX65",
+      "apellidos": "GONZALEZ",
+      "nombres": "PABLO ESTEBAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "37XXXX27",
+      "apellidos": "BERNIO DRUBE",
+      "nombres": "JUAN LUCAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "29XXXX39",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

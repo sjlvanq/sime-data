@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5602,
+    "padron_id": 9817
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "22XXXX37",
+      "apellidos": "ALTAMIRANDA",
+      "nombres": "SERGIO ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "37XXXX63",
+      "apellidos": "CASTAÑO",
+      "nombres": "JUAN FRANCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

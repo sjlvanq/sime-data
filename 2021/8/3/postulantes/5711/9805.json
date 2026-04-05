@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5711,
+    "padron_id": 9805
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "31XXXX80",
+      "apellidos": "AYALA",
+      "nombres": "DANIEL ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "31XXXX15",
+      "apellidos": "ACOSTA",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

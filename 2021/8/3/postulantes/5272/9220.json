@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5272,
+    "padron_id": 9220
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX66",
+      "apellidos": "TORRES",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX09",
+      "apellidos": "ALMIRON",
+      "nombres": "ANA KARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "29XXXX82",
+      "apellidos": "MANSILLA",
+      "nombres": "GERARDO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

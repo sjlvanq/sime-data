@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5067,
+    "padron_id": 10235
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX57",
+      "apellidos": "DIAZ",
+      "nombres": "CLELIA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (OTROS TITULOS)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX59",
+      "apellidos": "AGUERO",
+      "nombres": "MARIA ANTONIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (OTROS TITULOS)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX46",
+      "apellidos": "ADUSTO",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

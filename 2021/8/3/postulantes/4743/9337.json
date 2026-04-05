@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 4743,
+    "padron_id": 9337
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "21XXXX76",
+      "apellidos": "AGUILERA",
+      "nombres": "MARIA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX80",
+      "apellidos": "ASTUDILLO",
+      "nombres": "MARIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

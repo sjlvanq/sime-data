@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5921,
+    "padron_id": 10284
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX84",
+      "apellidos": "MUÑOZ",
+      "nombres": "LUIS FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX21",
+      "apellidos": "PEREZ",
+      "nombres": "BENJAMIN GASTON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX21",
+      "apellidos": "PEREZ",
+      "nombres": "BENJAMIN GASTON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

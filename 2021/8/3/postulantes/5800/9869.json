@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 5800,
+    "padron_id": 9869
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "33XXXX02",
+      "apellidos": "JUAREZ",
+      "nombres": "HUGO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "32XXXX41",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIO ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX29",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "JOSE AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "28XXXX06",
+      "apellidos": "ZURITA",
+      "nombres": "JORGE MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "31XXXX23",
+      "apellidos": "ALBORNOZ CARRION",
+      "nombres": "BRUNO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5268,
+    "padron_id": 8850
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "38XXXX20",
+      "apellidos": "MORAN",
+      "nombres": "BRUNO GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "25XXXX96",
+      "apellidos": "ANDRES",
+      "nombres": "ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "34XXXX66",
+      "apellidos": "VILA",
+      "nombres": "ALVARO ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

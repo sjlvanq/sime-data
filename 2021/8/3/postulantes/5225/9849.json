@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5225,
+    "padron_id": 9849
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "28XXXX78",
+      "apellidos": "ALVAREZ ROBLES",
+      "nombres": "ALEJANDRA NOELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 15,
+      "dni": "20XXXX39",
+      "apellidos": "ALEMAN",
+      "nombres": "NIEVES DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}
