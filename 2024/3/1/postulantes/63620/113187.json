@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 63620,
+    "padron_id": 113187
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "28XXXX54",
+      "apellidos": "PEREZ",
+      "nombres": "DANIEL GUSTAVO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX01",
+      "apellidos": "LOBO",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "26XXXX01",
+      "apellidos": "GARCIA ",
+      "nombres": "MIGUEL ANGEL JESÚS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "31XXXX10",
+      "apellidos": "GRANITO",
+      "nombres": "MARIA CELINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "33XXXX12",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOSE MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

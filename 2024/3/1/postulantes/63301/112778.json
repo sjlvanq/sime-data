@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 63301,
+    "padron_id": 112778
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX00",
+      "apellidos": "ROMERO",
+      "nombres": "SILVIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "33XXXX58",
+      "apellidos": "DIAZ",
+      "nombres": "NADIA GISELLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "30XXXX60",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ROBERTO CARLOS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX63",
+      "apellidos": "APAZA",
+      "nombres": "HILDA GRISELDA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

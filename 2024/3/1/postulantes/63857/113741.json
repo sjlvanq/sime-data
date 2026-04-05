@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63857,
+    "padron_id": 113741
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "34XXXX38",
+      "apellidos": "DIAZ MONACHESI",
+      "nombres": "CARLA NAHIR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "40XXXX73",
+      "apellidos": "LORETTO",
+      "nombres": "MARÍA JOSE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "21XXXX99",
+      "apellidos": "ANDRADA",
+      "nombres": "JOSE ALBERTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

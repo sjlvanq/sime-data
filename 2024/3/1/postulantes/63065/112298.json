@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63065,
+    "padron_id": 112298
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "25XXXX14",
+      "apellidos": "ZELAYA",
+      "nombres": "MARIA ANGELICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "25XXXX42",
+      "apellidos": "GIL",
+      "nombres": "LUIS ANGEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX98",
+      "apellidos": "MAYOL",
+      "nombres": "JIMENA GISEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

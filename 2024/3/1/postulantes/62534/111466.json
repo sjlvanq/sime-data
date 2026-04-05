@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 62534,
+    "padron_id": 111466
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "38XXXX97",
+      "apellidos": "RODRIGUEZ ROSSI",
+      "nombres": "MAURO EMMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX38",
+      "apellidos": "DIAZ MONACHESI",
+      "nombres": "CARLA NAHIR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX77",
+      "apellidos": "GUERRERO",
+      "nombres": "JUAN EXEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "28XXXX26",
+      "apellidos": "GOMEZ",
+      "nombres": "EDGAR ROLAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "38XXXX89",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIA MICAELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

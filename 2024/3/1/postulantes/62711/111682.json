@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 62711,
+    "padron_id": 111682
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "30XXXX01",
+      "apellidos": "CASTRO",
+      "nombres": "ALICIA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "30XXXX75",
+      "apellidos": "GIULIANO",
+      "nombres": "IVANA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63988,
+    "padron_id": 114005
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "32XXXX16",
+      "apellidos": "VILLARREAL",
+      "nombres": "ROMINA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "29XXXX38",
+      "apellidos": "DIAZ",
+      "nombres": "AUGUSTO GUILLERMO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "35XXXX58",
+      "apellidos": "MARTINEZ",
+      "nombres": "LAURA ROMINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

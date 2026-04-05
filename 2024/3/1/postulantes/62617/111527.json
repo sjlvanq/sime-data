@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 62617,
+    "padron_id": 111527
+  },
+  "postulantes": [
+    {
+      "orden": 40,
+      "dni": "27XXXX64",
+      "apellidos": "CRUZ",
+      "nombres": "NANCY ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 191,
+      "dni": "23XXXX88",
+      "apellidos": "VILLARREAL",
+      "nombres": "MARISA ALEJANDRA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 66,
+      "dni": "22XXXX88",
+      "apellidos": "LOBO",
+      "nombres": "SILVIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

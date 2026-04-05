@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63556,
+    "padron_id": 113243
+  },
+  "postulantes": [
+    {
+      "orden": 152,
+      "dni": "22XXXX75",
+      "apellidos": "VEGA",
+      "nombres": "MARIA NANCY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 158,
+      "dni": "21XXXX82",
+      "apellidos": "PALINA",
+      "nombres": "JUAN RAMON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "24XXXX19",
+      "apellidos": "ALURRALDE",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

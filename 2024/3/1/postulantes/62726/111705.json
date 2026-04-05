@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 62726,
+    "padron_id": 111705
+  },
+  "postulantes": [
+    {
+      "orden": 88,
+      "dni": "24XXXX06",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "EVA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "21XXXX45",
+      "apellidos": "MEDINA BONAHORA",
+      "nombres": "CLAUDIA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

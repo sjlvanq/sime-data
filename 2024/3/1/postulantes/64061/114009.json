@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 64061,
+    "padron_id": 114009
+  },
+  "postulantes": [
+    {
+      "orden": 36,
+      "dni": "31XXXX23",
+      "apellidos": "MEDINA AGUILERA",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 69,
+      "dni": "25XXXX42",
+      "apellidos": "GIL",
+      "nombres": "LUIS ANGEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 71,
+      "dni": "28XXXX29",
+      "apellidos": "ALVAREZ ELLER",
+      "nombres": "ANA GRISELDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
