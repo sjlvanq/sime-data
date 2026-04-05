@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 67724,
+    "padron_id": 120505
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "29XXXX18",
+      "apellidos": "SVALDI",
+      "nombres": "CARINA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

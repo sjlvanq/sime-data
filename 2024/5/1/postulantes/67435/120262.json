@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 67435,
+    "padron_id": 120262
+  },
+  "postulantes": [
+    {
+      "orden": 75,
+      "dni": "25XXXX18",
+      "apellidos": "BURGOS",
+      "nombres": "LILIANA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 167,
+      "dni": "22XXXX04",
+      "apellidos": "JEREZ",
+      "nombres": "ANA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "33XXXX10",
+      "apellidos": "NIETO",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

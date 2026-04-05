@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68046,
+    "padron_id": 121133
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "20XXXX32",
+      "apellidos": "SCHAPER",
+      "nombres": "VIVIANA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX97",
+      "apellidos": "ARAOZ",
+      "nombres": "FATIMA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "30XXXX60",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ROBERTO CARLOS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

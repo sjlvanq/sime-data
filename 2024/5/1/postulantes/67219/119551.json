@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 67219,
+    "padron_id": 119551
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "34XXXX70",
+      "apellidos": "PEREZ",
+      "nombres": "LUCIANA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "33XXXX10",
+      "apellidos": "NIETO",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "25XXXX18",
+      "apellidos": "BURGOS",
+      "nombres": "LILIANA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 86,
+      "dni": "25XXXX24",
+      "apellidos": "MIRANDA",
+      "nombres": "PATRICIA INES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

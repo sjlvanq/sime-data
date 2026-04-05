@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68066,
+    "padron_id": 121374
+  },
+  "postulantes": [
+    {
+      "orden": 119,
+      "dni": "30XXXX95",
+      "apellidos": "LEIVA",
+      "nombres": "MARÍA JOSÉ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "34XXXX34",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "RITA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 132,
+      "dni": "21XXXX26",
+      "apellidos": "GIMENEZ",
+      "nombres": "MIRTA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

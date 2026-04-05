@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68847,
+    "padron_id": 122599
+  },
+  "postulantes": [
+    {
+      "orden": 107,
+      "dni": "24XXXX97",
+      "apellidos": "VIDAL",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 119,
+      "dni": "30XXXX95",
+      "apellidos": "LEIVA",
+      "nombres": "MARÍA JOSÉ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "34XXXX70",
+      "apellidos": "PEREZ",
+      "nombres": "LUCIANA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

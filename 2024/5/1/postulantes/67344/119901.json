@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 67344,
+    "padron_id": 119901
+  },
+  "postulantes": [
+    {
+      "orden": 70,
+      "dni": "22XXXX88",
+      "apellidos": "LOBO",
+      "nombres": "SILVIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 86,
+      "dni": "25XXXX24",
+      "apellidos": "MIRANDA",
+      "nombres": "PATRICIA INES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

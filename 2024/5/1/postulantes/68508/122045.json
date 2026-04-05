@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68508,
+    "padron_id": 122045
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "25XXXX81",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "CLAUDIA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "34XXXX55",
+      "apellidos": "OSORIO ORELLANA",
+      "nombres": "GLADYS ANAHI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX09",
+      "apellidos": "FARIAS",
+      "nombres": "CYNTHIA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

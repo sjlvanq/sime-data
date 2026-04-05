@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 67901,
+    "padron_id": 120747
+  },
+  "postulantes": [
+    {
+      "orden": 75,
+      "dni": "25XXXX18",
+      "apellidos": "BURGOS",
+      "nombres": "LILIANA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 119,
+      "dni": "30XXXX95",
+      "apellidos": "LEIVA",
+      "nombres": "MARÍA JOSÉ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 132,
+      "dni": "21XXXX26",
+      "apellidos": "GIMENEZ",
+      "nombres": "MIRTA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

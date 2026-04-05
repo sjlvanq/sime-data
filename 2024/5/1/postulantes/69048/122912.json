@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69048,
+    "padron_id": 122912
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "27XXXX43",
+      "apellidos": "VAQUERA",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "36XXXX39",
+      "apellidos": "HERGUI",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

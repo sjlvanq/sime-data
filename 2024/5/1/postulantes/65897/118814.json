@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65897,
+    "padron_id": 118814
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX29",
+      "apellidos": "VALDES",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "41XXXX25",
+      "apellidos": "GÓMEZ GARNIER",
+      "nombres": "ROCÍO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

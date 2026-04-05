@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65897,
+    "padron_id": 118815
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "27XXXX56",
+      "apellidos": "MEDINA",
+      "nombres": "ROBERTO ARIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX63",
+      "apellidos": "APAZA",
+      "nombres": "HILDA GRISELDA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "28XXXX31",
+      "apellidos": "LAGORIA",
+      "nombres": "FLORENCIA IVANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

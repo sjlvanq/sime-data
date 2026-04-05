@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68433,
+    "padron_id": 121889
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "38XXXX01",
+      "apellidos": "CAÑAS",
+      "nombres": "MARIQUENA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX09",
+      "apellidos": "FARIAS",
+      "nombres": "CYNTHIA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "37XXXX79",
+      "apellidos": "ZORRILLA HOYOS",
+      "nombres": "YANET MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

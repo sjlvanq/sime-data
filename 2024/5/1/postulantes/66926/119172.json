@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66926,
+    "padron_id": 119172
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "38XXXX01",
+      "apellidos": "CAÑAS",
+      "nombres": "MARIQUENA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "25XXXX80",
+      "apellidos": "JAIME",
+      "nombres": "MARIA FERNANDA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "35XXXX18",
+      "apellidos": "VILLAGRAN",
+      "nombres": "VICTOR MANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66656,
+    "padron_id": 118611
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "23XXXX90",
+      "apellidos": "LOPEZ",
+      "nombres": "CARINA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "25XXXX28",
+      "apellidos": "NIEVA",
+      "nombres": "NOEMI ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

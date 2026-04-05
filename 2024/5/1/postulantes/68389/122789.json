@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 68389,
+    "padron_id": 122789
+  },
+  "postulantes": [
+    {
+      "orden": 956,
+      "dni": "37XXXX31",
+      "apellidos": "CARABAJAL",
+      "nombres": "MARIANA MICAELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 996,
+      "dni": "23XXXX96",
+      "apellidos": "GOMEZ",
+      "nombres": "YOLANDA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1036,
+      "dni": "30XXXX03",
+      "apellidos": "GUZMÁN LÓPEZ",
+      "nombres": "ALEJANDRA EVELYN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 567,
+      "dni": "30XXXX95",
+      "apellidos": "MARANZANO DARUICH",
+      "nombres": "ANA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

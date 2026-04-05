@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 68737,
+    "padron_id": 122375
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "24XXXX30",
+      "apellidos": "PIZARRO",
+      "nombres": "LILIANA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

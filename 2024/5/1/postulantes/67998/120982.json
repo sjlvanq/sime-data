@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 67998,
+    "padron_id": 120982
+  },
+  "postulantes": [
+    {
+      "orden": 42,
+      "dni": "21XXXX88",
+      "apellidos": "HERRERA",
+      "nombres": "MONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "22XXXX73",
+      "apellidos": "GOMEZ",
+      "nombres": "LAURA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 188,
+      "dni": "22XXXX81",
+      "apellidos": "CAJAL",
+      "nombres": "MYRIAM ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
