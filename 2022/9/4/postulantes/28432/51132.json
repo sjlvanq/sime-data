@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28432,
+    "padron_id": 51132
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX49",
+      "apellidos": "TORRES",
+      "nombres": "ANA GABRIELA DEL CARMEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "29XXXX18",
+      "apellidos": "DIAZ",
+      "nombres": "CARLA RITA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "28XXXX00",
+      "apellidos": "ACOSTA",
+      "nombres": "GABRIELA DE LUJAN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
