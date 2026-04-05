@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 90726,
+    "padron_id": 159540
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX34",
+      "apellidos": "SALINAS GARAMENDI",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "16XXXX78",
+      "apellidos": "DI RISIO",
+      "nombres": "MARCELO AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

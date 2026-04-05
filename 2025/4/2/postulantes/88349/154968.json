@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 88349,
+    "padron_id": 154968
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "30XXXX23",
+      "apellidos": "PAREDES",
+      "nombres": "NOELIA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "29XXXX84",
+      "apellidos": "MENGUAL",
+      "nombres": "VERONICA PRISCILA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "24XXXX82",
+      "apellidos": "ALARCON",
+      "nombres": "MYRIAN ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

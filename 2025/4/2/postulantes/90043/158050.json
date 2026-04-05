@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 90043,
+    "padron_id": 158050
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX09",
+      "apellidos": "MEDINA URUEÑA",
+      "nombres": "HECTOR FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX95",
+      "apellidos": "GALVAN RAMOS",
+      "nombres": "RODOLFO RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 88373,
+    "padron_id": 155399
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "37XXXX88",
+      "apellidos": "JAIME",
+      "nombres": "CARLOS AGUSTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX46",
+      "apellidos": "CORDOBA",
+      "nombres": "NANCY MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

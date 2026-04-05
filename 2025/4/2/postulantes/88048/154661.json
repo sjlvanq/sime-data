@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 88048,
+    "padron_id": 154661
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX51",
+      "apellidos": "CARO",
+      "nombres": "CINTIA ROCIO DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX02",
+      "apellidos": "D'ELIA",
+      "nombres": "MARIA ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "23XXXX51",
+      "apellidos": "VELASQUEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX07",
+      "apellidos": "VERA JALUF",
+      "nombres": "FLORENCIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

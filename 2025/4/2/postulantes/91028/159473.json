@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 91028,
+    "padron_id": 159473
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "33XXXX93",
+      "apellidos": "ROBLES",
+      "nombres": "ANDREA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX54",
+      "apellidos": "ROMERO GUNSET",
+      "nombres": "ANA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

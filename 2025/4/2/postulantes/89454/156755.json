@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 89454,
+    "padron_id": 156755
+  },
+  "postulantes": [
+    {
+      "orden": 54,
+      "dni": "40XXXX80",
+      "apellidos": "CARRIZO",
+      "nombres": "GUADALUPE FLORENCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 72,
+      "dni": "33XXXX01",
+      "apellidos": "BRIZUELA",
+      "nombres": "ROSARIO MARCELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

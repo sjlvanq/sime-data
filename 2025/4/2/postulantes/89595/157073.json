@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 89595,
+    "padron_id": 157073
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX18",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX57",
+      "apellidos": "ARNEDO",
+      "nombres": "VALERIA SUSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "33XXXX90",
+      "apellidos": "RUIZ",
+      "nombres": "PAULO HORACIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "27XXXX35",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ROMINA JANET",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

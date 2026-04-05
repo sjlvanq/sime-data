@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 90791,
+    "padron_id": 159107
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX41",
+      "apellidos": "VERA BORSELLA",
+      "nombres": "MARCELA RUTH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "31XXXX22",
+      "apellidos": "ROSALES",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

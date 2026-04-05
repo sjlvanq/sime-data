@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 90450,
+    "padron_id": 158622
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "31XXXX84",
+      "apellidos": "DARRECHI",
+      "nombres": "HUGO DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX05",
+      "apellidos": "ARRIETA",
+      "nombres": "ROMINA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "35XXXX98",
+      "apellidos": "BARROS",
+      "nombres": "ROXANA ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

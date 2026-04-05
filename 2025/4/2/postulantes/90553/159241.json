@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 90553,
+    "padron_id": 159241
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX91",
+      "apellidos": "LOZADA",
+      "nombres": "GABRIELA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX72",
+      "apellidos": "CARRIZO",
+      "nombres": "ANDREA CELESTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX07",
+      "apellidos": "BALCARCE",
+      "nombres": "VANESA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

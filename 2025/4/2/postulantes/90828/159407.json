@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 90828,
+    "padron_id": 159407
+  },
+  "postulantes": [
+    {
+      "orden": 48,
+      "dni": "30XXXX01",
+      "apellidos": "OLIVARES",
+      "nombres": "NATALIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 72,
+      "dni": "33XXXX01",
+      "apellidos": "BRIZUELA",
+      "nombres": "ROSARIO MARCELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX86",
+      "apellidos": "JUAREZ VILLANUEVA",
+      "nombres": "CLAUDIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

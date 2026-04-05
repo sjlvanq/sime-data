@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 90497,
+    "padron_id": 159722
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX78",
+      "apellidos": "SALAS",
+      "nombres": "LORENA PATRICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX04",
+      "apellidos": "BRITO",
+      "nombres": "DAVID DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX65",
+      "apellidos": "DIAZ",
+      "nombres": "OMAR DANIEL GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

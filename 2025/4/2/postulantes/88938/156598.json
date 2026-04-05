@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 88938,
+    "padron_id": 156598
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "13XXXX21",
+      "apellidos": "ARIAS GUTIERREZ",
+      "nombres": "PATRICIA CRISTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "34XXXX01",
+      "apellidos": "TOLRA",
+      "nombres": "AIME",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

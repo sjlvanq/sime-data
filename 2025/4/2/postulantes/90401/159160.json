@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 90401,
+    "padron_id": 159160
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX14",
+      "apellidos": "BARRIOS",
+      "nombres": "ANDREA EVELIN  LILIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX58",
+      "apellidos": "FIGUEROA",
+      "nombres": "MELISA MARIANELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX42",
+      "apellidos": "GUTIERREZ VLADISLAVIC",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87940,
+    "padron_id": 154803
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "34XXXX97",
+      "apellidos": "JOSE",
+      "nombres": "JOHANA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "33XXXX50",
+      "apellidos": "GARCIA",
+      "nombres": "IVANA ESTEFANI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "37XXXX74",
+      "apellidos": "BARRIENTOS",
+      "nombres": "GUSTAVO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

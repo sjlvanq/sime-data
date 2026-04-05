@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 88160,
+    "padron_id": 154932
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "22XXXX74",
+      "apellidos": "LOPEZ VALLEJO",
+      "nombres": "DELIA ROSA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "39XXXX86",
+      "apellidos": "HEREDIA",
+      "nombres": "DANIELA DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX51",
+      "apellidos": "GONCALVES",
+      "nombres": "GERALDINE ANTONIETA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

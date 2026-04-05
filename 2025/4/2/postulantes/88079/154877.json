@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 88079,
+    "padron_id": 154877
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "39XXXX63",
+      "apellidos": "RUIZ",
+      "nombres": "CARLOS GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "33XXXX95",
+      "apellidos": "JALIL QUIROGA",
+      "nombres": "LUISA ESTELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

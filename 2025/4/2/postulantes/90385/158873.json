@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 90385,
+    "padron_id": 158873
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "25XXXX55",
+      "apellidos": "REINOSO",
+      "nombres": "GUSTAVO ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "22XXXX06",
+      "apellidos": "ROJAS",
+      "nombres": "ALEJANDRA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

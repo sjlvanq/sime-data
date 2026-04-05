@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 89872,
+    "padron_id": 157219
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "26XXXX22",
+      "apellidos": "ACOSTA",
+      "nombres": "MARTA GABRIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 41,
+      "dni": "21XXXX56",
+      "apellidos": "AREVALO",
+      "nombres": "ROXANA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 93,
+      "dni": "17XXXX31",
+      "apellidos": "PETRONI MUSTAFA",
+      "nombres": "JORGE BERNARDINO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 59,
+      "dni": "25XXXX64",
+      "apellidos": "TOSCANO",
+      "nombres": "RICARDO CLEMENTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

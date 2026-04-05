@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 88047,
+    "padron_id": 154618
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "27XXXX02",
+      "apellidos": "D'ELIA",
+      "nombres": "MARIA ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "23XXXX51",
+      "apellidos": "VELASQUEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "32XXXX81",
+      "apellidos": "NIEDERLE",
+      "nombres": "MARIANA ANDREA LOURDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
