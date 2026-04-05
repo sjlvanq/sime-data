@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 113238,
+    "padron_id": 197974
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "24XXXX95",
+      "apellidos": "ELIAS",
+      "nombres": "ESTELA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "20XXXX78",
+      "apellidos": "GOMEZ ROBLEDO",
+      "nombres": "MARIA ESTER",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "35XXXX34",
+      "apellidos": "PAZ",
+      "nombres": "ANGELA NATALIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "24XXXX28",
+      "apellidos": "CORONEL",
+      "nombres": "AURORA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 113209,
+    "padron_id": 196525
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX54",
+      "apellidos": "ARROYO",
+      "nombres": "NAZARENO ALVARO ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "36XXXX35",
+      "apellidos": "MONTIVERO",
+      "nombres": "MARCELO HERNAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX46",
+      "apellidos": "CAZON",
+      "nombres": "FRANCO PATRICIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

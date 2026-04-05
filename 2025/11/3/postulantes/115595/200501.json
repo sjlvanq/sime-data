@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 115595,
+    "padron_id": 200501
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX52",
+      "apellidos": "DIAZ",
+      "nombres": "FERNANDO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "REGENTE TECNICO INTERINO"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX71",
+      "apellidos": "GONZALEZ",
+      "nombres": "JUAN MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX22",
+      "apellidos": "MURILLO",
+      "nombres": "EMILIO PABLO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX89",
+      "apellidos": "PONCE DE LEON",
+      "nombres": "GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

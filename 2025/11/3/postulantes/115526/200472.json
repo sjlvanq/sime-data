@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115526,
+    "padron_id": 200472
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "40XXXX77",
+      "apellidos": "JUNCOS",
+      "nombres": "MIGUEL AGUSTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "21XXXX78",
+      "apellidos": "VERA",
+      "nombres": "LIDIA NANCY",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX03",
+      "apellidos": "FREGENAL",
+      "nombres": "CARLOS RAUL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

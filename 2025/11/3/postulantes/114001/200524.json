@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 114001,
+    "padron_id": 200524
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX42",
+      "apellidos": "PRADO",
+      "nombres": "DANTE EMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "36XXXX22",
+      "apellidos": "OSCARI",
+      "nombres": "FABIAN ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

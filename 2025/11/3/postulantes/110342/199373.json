@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110342,
+    "padron_id": 199373
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX88",
+      "apellidos": "DIAZ",
+      "nombres": "ALEJANDRA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "21XXXX21",
+      "apellidos": "VEGA",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX77",
+      "apellidos": "LOBO",
+      "nombres": "GLORIA NANCI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 114326,
+    "padron_id": 199409
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX99",
+      "apellidos": "MIQUEL",
+      "nombres": "MATIAS ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX57",
+      "apellidos": "JUAREZ",
+      "nombres": "MAURICIO EMILIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

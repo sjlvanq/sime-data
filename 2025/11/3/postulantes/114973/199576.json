@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 114973,
+    "padron_id": 199576
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX00",
+      "apellidos": "GARCIA",
+      "nombres": "ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX73",
+      "apellidos": "GIGENA GOMEZ",
+      "nombres": "GONZALO RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

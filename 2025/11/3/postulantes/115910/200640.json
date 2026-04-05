@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115910,
+    "padron_id": 200640
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "23XXXX03",
+      "apellidos": "GARCIA",
+      "nombres": "OMAR MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX45",
+      "apellidos": "SALAZAR",
+      "nombres": "JORGE MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX80",
+      "apellidos": "JEREZ",
+      "nombres": "DANTE GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

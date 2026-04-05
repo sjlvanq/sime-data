@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 115843,
+    "padron_id": 200582
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX22",
+      "apellidos": "MEDINA",
+      "nombres": "CARLOS SERGIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX38",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "LUIS FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

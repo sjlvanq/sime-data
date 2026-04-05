@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114290,
+    "padron_id": 198144
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX21",
+      "apellidos": "ALBORNOZ",
+      "nombres": "JOSE GERARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "37XXXX42",
+      "apellidos": "ROBLES",
+      "nombres": "JULIETA GISELLE MAGALI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "40XXXX43",
+      "apellidos": "RUIZ",
+      "nombres": "DIEGO AGUSTÍN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

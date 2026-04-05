@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 113199,
+    "padron_id": 196515
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX11",
+      "apellidos": "SOSA",
+      "nombres": "MARCELA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "37XXXX71",
+      "apellidos": "ANDRADA",
+      "nombres": "CONSTANZA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "49XXXX73",
+      "apellidos": "ARGÜELLO",
+      "nombres": "MARIA ESTER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 113237,
+    "padron_id": 197970
+  },
+  "postulantes": [
+    {
+      "orden": 40,
+      "dni": "30XXXX05",
+      "apellidos": "MEJIA",
+      "nombres": "JAVIER ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "41XXXX49",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "MELINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

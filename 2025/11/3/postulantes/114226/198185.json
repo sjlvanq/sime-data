@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 114226,
+    "padron_id": 198185
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "30XXXX78",
+      "apellidos": "MARQUEZ",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX10",
+      "apellidos": "CORBALAN",
+      "nombres": "RUBEN DARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

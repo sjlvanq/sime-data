@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 93046,
+    "padron_id": 196907
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX57",
+      "apellidos": "CORVALAN",
+      "nombres": "LORENA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "17XXXX48",
+      "apellidos": "MENDOZA",
+      "nombres": "ELENA EUGENIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

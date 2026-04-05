@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112891,
+    "padron_id": 196778
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX59",
+      "apellidos": "INFANTE GIULIODORI",
+      "nombres": "CARLOS MIGUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX81",
+      "apellidos": "ARZE DIAZ",
+      "nombres": "GUILLERMO NIVARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX47",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "EXEQUIEL ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

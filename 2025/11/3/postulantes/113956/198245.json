@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 113956,
+    "padron_id": 198245
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "33XXXX35",
+      "apellidos": "ARAOZ",
+      "nombres": "LUIS FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "37XXXX00",
+      "apellidos": "VEGA",
+      "nombres": "GABRIELA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "35XXXX14",
+      "apellidos": "SÁNCHEZ",
+      "nombres": "MARÍA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

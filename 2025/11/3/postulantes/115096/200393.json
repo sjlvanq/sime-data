@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 115096,
+    "padron_id": 200393
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX85",
+      "apellidos": "ANDRADA",
+      "nombres": "WALTER ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "40XXXX52",
+      "apellidos": "SALGUERO FRIAS",
+      "nombres": "GUSTAVO PEDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

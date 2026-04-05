@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115044,
+    "padron_id": 200406
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX90",
+      "apellidos": "FARIAS",
+      "nombres": "MARIA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX20",
+      "apellidos": "GAMBARTE",
+      "nombres": "SILVIO MATIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "36XXXX57",
+      "apellidos": "MEDINA",
+      "nombres": "CESAR LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111455,
+    "padron_id": 199340
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "31XXXX29",
+      "apellidos": "SIGONA",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "36XXXX50",
+      "apellidos": "URUEÑA",
+      "nombres": "ANTONIO LINO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "36XXXX20",
+      "apellidos": "LANFRANCO",
+      "nombres": "CARLOS FRANCISCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 115286,
+    "padron_id": 200285
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX21",
+      "apellidos": "MENDEZ",
+      "nombres": "LUIS BERNARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX27",
+      "apellidos": "TAPIA",
+      "nombres": "OSCAR ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

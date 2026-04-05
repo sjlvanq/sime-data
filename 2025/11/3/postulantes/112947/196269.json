@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 112947,
+    "padron_id": 196269
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX02",
+      "apellidos": "ROBLES",
+      "nombres": "MARIA LUZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX31",
+      "apellidos": "ROCA",
+      "nombres": "HECTOR ATILIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX40",
+      "apellidos": "AHMED",
+      "nombres": "ALEXANDER RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX98",
+      "apellidos": "CHOQUE",
+      "nombres": "JOSE ESTEBAN RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

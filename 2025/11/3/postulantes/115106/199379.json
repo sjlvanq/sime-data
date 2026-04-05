@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115106,
+    "padron_id": 199379
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX34",
+      "apellidos": "FERNANDEZ",
+      "nombres": "CLAUDIO ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX22",
+      "apellidos": "SAADE",
+      "nombres": "NOELIA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX62",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "LORENA GRISEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

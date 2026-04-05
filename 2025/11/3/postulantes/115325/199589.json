@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 115325,
+    "padron_id": 199589
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "35XXXX36",
+      "apellidos": "SANCHEZ",
+      "nombres": "ANGEL CONSTANCIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "21XXXX75",
+      "apellidos": "SANCHEZ",
+      "nombres": "ANTONIO MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX30",
+      "apellidos": "RIVERA",
+      "nombres": "ELIO EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX94",
+      "apellidos": "TAPIA",
+      "nombres": "CESAR ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
