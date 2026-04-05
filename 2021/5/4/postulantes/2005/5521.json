@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 2005,
+    "padron_id": 5521
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "17XXXX91",
+      "apellidos": "PERAL LEAL",
+      "nombres": "GRACIELA INES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX37",
+      "apellidos": "SIR",
+      "nombres": "JESSICA JOHANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "30XXXX68",
+      "apellidos": "ROGALA SALAZAR",
+      "nombres": "FANNY LUDMILA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

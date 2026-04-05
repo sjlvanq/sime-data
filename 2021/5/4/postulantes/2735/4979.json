@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 2735,
+    "padron_id": 4979
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "25XXXX07",
+      "apellidos": "URUEÑA",
+      "nombres": "CARLOS FRANCISCO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "34XXXX70",
+      "apellidos": "JOSE",
+      "nombres": "DANIEL ELIAS",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "35XXXX86",
+      "apellidos": "PONCE",
+      "nombres": "JUAN MARIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
