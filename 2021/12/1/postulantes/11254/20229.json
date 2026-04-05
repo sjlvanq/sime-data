@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11254,
+    "padron_id": 20229
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "26XXXX75",
+      "apellidos": "PEREZ",
+      "nombres": "HECTOR AUGUSTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "18XXXX86",
+      "apellidos": "SALGUERO",
+      "nombres": "ESTELA RAMONA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

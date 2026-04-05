@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11607,
+    "padron_id": 20500
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "27XXXX43",
+      "apellidos": "VAQUERA",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 82,
+      "dni": "30XXXX68",
+      "apellidos": "PEREZ",
+      "nombres": "FATIMA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 131,
+      "dni": "21XXXX30",
+      "apellidos": "BARROS PADILLA",
+      "nombres": "MARIA ALICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

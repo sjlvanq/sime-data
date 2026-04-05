@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11623,
+    "padron_id": 20612
+  },
+  "postulantes": [
+    {
+      "orden": 102,
+      "dni": "17XXXX76",
+      "apellidos": "AGUERO",
+      "nombres": "NORMA CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "22XXXX26",
+      "apellidos": "CARRIZO",
+      "nombres": "ELSA BLANCA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 114,
+      "dni": "20XXXX07",
+      "apellidos": "ARIAS",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

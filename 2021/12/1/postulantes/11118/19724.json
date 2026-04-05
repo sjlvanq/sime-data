@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 11118,
+    "padron_id": 19724
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "30XXXX01",
+      "apellidos": "LEIVA",
+      "nombres": "PATRICIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "27XXXX73",
+      "apellidos": "BULACIO",
+      "nombres": "JOSE ARMANDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "37XXXX45",
+      "apellidos": "TREJO LEZCANO",
+      "nombres": "DARIO NICOLAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "42XXXX44",
+      "apellidos": "QUINTEROS TACCONI",
+      "nombres": "EUNICE PRISCILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "39XXXX33",
+      "apellidos": "ORELLANA",
+      "nombres": "SELENA LUCIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
