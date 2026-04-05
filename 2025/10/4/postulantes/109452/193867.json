@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 109452,
+    "padron_id": 193867
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX35",
+      "apellidos": "ALE",
+      "nombres": "HERNÁN SEBASTIÁN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "95XXXX80",
+      "apellidos": "ARANGO PABON",
+      "nombres": "CAMILO ANDRES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "42XXXX03",
+      "apellidos": "MEDINA",
+      "nombres": "AXEL MARCELO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX98",
+      "apellidos": "SANCHEZ",
+      "nombres": "AMARO ANTONIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    }
+  ]
+}

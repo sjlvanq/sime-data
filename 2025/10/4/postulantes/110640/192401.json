@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 110640,
+    "padron_id": 192401
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX89",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX84",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "MARCOS GABRIEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX52",
+      "apellidos": "DIP",
+      "nombres": "MARIA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX07",
+      "apellidos": "GUZMAN",
+      "nombres": "CARLA ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

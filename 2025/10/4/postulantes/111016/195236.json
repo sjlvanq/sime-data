@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111016,
+    "padron_id": 195236
+  },
+  "postulantes": [
+    {
+      "orden": 426,
+      "dni": "42XXXX87",
+      "apellidos": "ZARATE",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 590,
+      "dni": "42XXXX12",
+      "apellidos": "LEDESMA",
+      "nombres": "MILAGROS BELEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 627,
+      "dni": "41XXXX42",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

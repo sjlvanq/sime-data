@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111615,
+    "padron_id": 193572
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "30XXXX63",
+      "apellidos": "GONZALEZ",
+      "nombres": "NORA ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "34XXXX93",
+      "apellidos": "MORENO",
+      "nombres": "GONZALO JAVIER",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "28XXXX16",
+      "apellidos": "REALES",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "21XXXX82",
+      "apellidos": "CHEHIN",
+      "nombres": "ROBERTO SCHEDE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
