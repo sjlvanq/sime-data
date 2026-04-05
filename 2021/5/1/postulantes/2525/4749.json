@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 2525,
+    "padron_id": 4749
+  },
+  "postulantes": [
+    {
+      "orden": 57,
+      "dni": "37XXXX79",
+      "apellidos": "BARROS",
+      "nombres": "CONSTANZA MELISA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "36XXXX45",
+      "apellidos": "DIAZ",
+      "nombres": "CAROLINA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "29XXXX59",
+      "apellidos": "AYOUD",
+      "nombres": "JORGE LUIS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 102,
+      "dni": "28XXXX00",
+      "apellidos": "ACOSTA",
+      "nombres": "GABRIELA DE LUJAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

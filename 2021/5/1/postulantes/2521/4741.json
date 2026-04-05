@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 2521,
+    "padron_id": 4741
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "32XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "NATALIA ANDREA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX54",
+      "apellidos": "GEREZ",
+      "nombres": "ZULMA ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

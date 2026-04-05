@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 2519,
+    "padron_id": 4717
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "36XXXX33",
+      "apellidos": "AVELLANEDA",
+      "nombres": "FERNANDA VICTORIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "36XXXX13",
+      "apellidos": "MALDONADO",
+      "nombres": "FRANCO FEDERICO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "36XXXX13",
+      "apellidos": "MALDONADO",
+      "nombres": "FRANCO FEDERICO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "36XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "LUCAS MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

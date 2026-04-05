@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 2554,
+    "padron_id": 4794
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "37XXXX60",
+      "apellidos": "DIAZ",
+      "nombres": "JORGE GABRIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX71",
+      "apellidos": "CORREA",
+      "nombres": "SILVANA VALERIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "20XXXX81",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "VIRGINIA LUCIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

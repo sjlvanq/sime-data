@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 2770,
+    "padron_id": 5124
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "20XXXX88",
+      "apellidos": "CARDOZO",
+      "nombres": "MARIA ROSA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX97",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "DANTE AGAPITO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "20XXXX76",
+      "apellidos": "CARRASCO",
+      "nombres": "ANALIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

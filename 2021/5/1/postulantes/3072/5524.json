@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 3072,
+    "padron_id": 5524
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "27XXXX67",
+      "apellidos": "GODOY",
+      "nombres": "VALERIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "36XXXX13",
+      "apellidos": "MALDONADO",
+      "nombres": "FRANCO FEDERICO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "36XXXX13",
+      "apellidos": "MALDONADO",
+      "nombres": "FRANCO FEDERICO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "36XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "LUCAS MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

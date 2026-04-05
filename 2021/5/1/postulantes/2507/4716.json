@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 2507,
+    "padron_id": 4716
+  },
+  "postulantes": [
+    {
+      "orden": 206,
+      "dni": "22XXXX11",
+      "apellidos": "SOSA",
+      "nombres": "CLAUDIA ANDREA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 191,
+      "dni": "20XXXX26",
+      "apellidos": "TELLO",
+      "nombres": "SANDRA MARIA CELINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 284,
+      "dni": "22XXXX16",
+      "apellidos": "LESCANO",
+      "nombres": "JULIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
