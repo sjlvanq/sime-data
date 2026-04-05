@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 106154,
+    "padron_id": 185673
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX00",
+      "apellidos": "GARCIA",
+      "nombres": "ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "32XXXX99",
+      "apellidos": "GARCIA",
+      "nombres": "LEANDRO RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "17XXXX20",
+      "apellidos": "MADRAZO",
+      "nombres": "JOSE ZENON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "36XXXX20",
+      "apellidos": "LANFRANCO",
+      "nombres": "CARLOS FRANCISCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

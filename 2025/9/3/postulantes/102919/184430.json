@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 102919,
+    "padron_id": 184430
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX41",
+      "apellidos": "LUPIA",
+      "nombres": "ENZO DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP JEFE DE SECCION INTERINO"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX44",
+      "apellidos": "GUINDAN",
+      "nombres": "CARLOS ERNESTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP TITULAR"
+    }
+  ]
+}

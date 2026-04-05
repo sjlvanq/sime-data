@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108490,
+    "padron_id": 188142
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "34XXXX73",
+      "apellidos": "SACHETTI",
+      "nombres": "YVAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "37XXXX61",
+      "apellidos": "MARTINEZ BRANDOLIN",
+      "nombres": "MICAELA JAZMIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "42XXXX09",
+      "apellidos": "ARGELINO",
+      "nombres": "MATIAS FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

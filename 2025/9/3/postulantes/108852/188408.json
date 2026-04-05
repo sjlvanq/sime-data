@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108852,
+    "padron_id": 188408
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "34XXXX38",
+      "apellidos": "HERRERA",
+      "nombres": "CESAR RUBÉN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "31XXXX99",
+      "apellidos": "GONZALEZ GARCIA",
+      "nombres": "FELISA SUSANA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX76",
+      "apellidos": "SALAS",
+      "nombres": "CLAUDIA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

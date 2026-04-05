@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108864,
+    "padron_id": 188405
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX70",
+      "apellidos": "ALBORNOZ",
+      "nombres": "GABRIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX42",
+      "apellidos": "ALVAREZ",
+      "nombres": "ANGEL DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX08",
+      "apellidos": "SOSA",
+      "nombres": "CLAUDIO PATRICIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

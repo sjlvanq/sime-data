@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109007,
+    "padron_id": 189239
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX07",
+      "apellidos": "ORTIZ",
+      "nombres": "HORACIO GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "38XXXX82",
+      "apellidos": "JOSSO",
+      "nombres": "ANDRES OCTAVIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "38XXXX84",
+      "apellidos": "CORONEL",
+      "nombres": "FACUNDO NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 107092,
+    "padron_id": 186096
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX31",
+      "apellidos": "GOMEZ",
+      "nombres": "CLAUDIA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX07",
+      "apellidos": "MALDONADO",
+      "nombres": "DIEGO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

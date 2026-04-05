@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106413,
+    "padron_id": 185167
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX76",
+      "apellidos": "LOPEZ",
+      "nombres": "ANDRES ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "37XXXX23",
+      "apellidos": "VILLA",
+      "nombres": "NELSON NICOLÁS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "31XXXX44",
+      "apellidos": "NAVARRO",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

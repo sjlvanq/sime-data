@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108889,
+    "padron_id": 189311
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "23XXXX62",
+      "apellidos": "GONANO",
+      "nombres": "JUAN MARINO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "24XXXX27",
+      "apellidos": "AGUERO",
+      "nombres": "LUIS NESTOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "27XXXX50",
+      "apellidos": "MORALES",
+      "nombres": "RAUL RAMON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

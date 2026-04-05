@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 101333,
+    "padron_id": 188042
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "22XXXX79",
+      "apellidos": "GARCIA",
+      "nombres": "ROSA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "37XXXX10",
+      "apellidos": "VICTORIA",
+      "nombres": "NADIA YANINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

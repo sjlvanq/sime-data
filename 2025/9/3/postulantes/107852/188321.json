@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 107852,
+    "padron_id": 188321
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX40",
+      "apellidos": "PAJARIÑO MIRANDA",
+      "nombres": "JOSEFINO MANUEL ARNALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX34",
+      "apellidos": "CASANOVA",
+      "nombres": "DANIEL MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX05",
+      "apellidos": "AGUILERA",
+      "nombres": "SEBASTIAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

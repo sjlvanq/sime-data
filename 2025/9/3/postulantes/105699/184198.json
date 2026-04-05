@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 105699,
+    "padron_id": 184198
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "38XXXX20",
+      "apellidos": "MORAN",
+      "nombres": "BRUNO GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX71",
+      "apellidos": "VERGARA",
+      "nombres": "ALEXIS NORBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
