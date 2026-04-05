@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35915,
+    "padron_id": 65974
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX20",
+      "apellidos": "JIMENEZ",
+      "nombres": "FRANCO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "26XXXX44",
+      "apellidos": "LOBO",
+      "nombres": "RICARDO TADEO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX30",
+      "apellidos": "OCAMPO",
+      "nombres": "MARIO ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

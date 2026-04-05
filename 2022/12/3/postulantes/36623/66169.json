@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 36623,
+    "padron_id": 66169
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX03",
+      "apellidos": "GARCIA",
+      "nombres": "OMAR MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "36XXXX68",
+      "apellidos": "LOPEZ",
+      "nombres": "ANDRES NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

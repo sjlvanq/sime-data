@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36266,
+    "padron_id": 65237
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX12",
+      "apellidos": "FUNES",
+      "nombres": "ANA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "34XXXX70",
+      "apellidos": "JATIB",
+      "nombres": "SOFIA NAHIR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX94",
+      "apellidos": "CARRIZO",
+      "nombres": "JUAN CESAR ANIBAL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 36509,
+    "padron_id": 65536
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "37XXXX75",
+      "apellidos": "CARABAJAL",
+      "nombres": "OSCAR ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX21",
+      "apellidos": "LEIVA",
+      "nombres": "MARIO JAVIER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX96",
+      "apellidos": "MIRANDA",
+      "nombres": "ALICIA SILVANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "41XXXX31",
+      "apellidos": "QUINTEROS",
+      "nombres": "JULIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "38XXXX62",
+      "apellidos": "CARNELLI",
+      "nombres": "LETICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

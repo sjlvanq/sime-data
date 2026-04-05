@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 36434,
+    "padron_id": 66064
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX60",
+      "apellidos": "ZENON",
+      "nombres": "LUIS CARLOS NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "38XXXX29",
+      "apellidos": "RUIZ",
+      "nombres": "ARNALDO ANIBAL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

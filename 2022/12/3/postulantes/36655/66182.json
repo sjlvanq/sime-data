@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 36655,
+    "padron_id": 66182
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX43",
+      "apellidos": "PUJOL",
+      "nombres": "ROBERTO JULIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX85",
+      "apellidos": "ANDRADA",
+      "nombres": "WALTER ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX51",
+      "apellidos": "JUAREZ",
+      "nombres": "JORGE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "33XXXX53",
+      "apellidos": "VILLAGRA",
+      "nombres": "JUAN ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

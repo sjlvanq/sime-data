@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36299,
+    "padron_id": 65507
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX51",
+      "apellidos": "CORONEL",
+      "nombres": "EXEQUIEL ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX80",
+      "apellidos": "LOTO CAMPOS",
+      "nombres": "IRIS ELEONORA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX85",
+      "apellidos": "RACHID",
+      "nombres": "RUBEN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

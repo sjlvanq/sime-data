@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36078,
+    "padron_id": 65311
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX38",
+      "apellidos": "IBRAHIM",
+      "nombres": "SERGIO GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "25XXXX82",
+      "apellidos": "FERNANDEZ",
+      "nombres": "RICARDO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX86",
+      "apellidos": "ZELARAYAN",
+      "nombres": "HECTOR ADOLFO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

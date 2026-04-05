@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36334,
+    "padron_id": 65330
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX19",
+      "apellidos": "CARRIZO",
+      "nombres": "INES ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX53",
+      "apellidos": "SORIA",
+      "nombres": "RAQUEL INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX86",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "BEATRIZ LILIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
