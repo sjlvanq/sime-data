@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 18694,
+    "padron_id": 34131
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "23XXXX45",
+      "apellidos": "RUIZ",
+      "nombres": "HUGO DANIEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX78",
+      "apellidos": "GUANUCO",
+      "nombres": "TERESA SABINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "30XXXX85",
+      "apellidos": "GARCIA ROMAY",
+      "nombres": "SILVIA ELENA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
