@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 90147,
+    "padron_id": 157812
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX08",
+      "apellidos": "AVILA",
+      "nombres": "CLAUDIO GUSTAVO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX81",
+      "apellidos": "MORENO",
+      "nombres": "MATIAS FERNANDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX27",
+      "apellidos": "PEREZ",
+      "nombres": "ZAIRA LILIANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
