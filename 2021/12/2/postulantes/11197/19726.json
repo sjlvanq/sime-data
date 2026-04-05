@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11197,
+    "padron_id": 19726
+  },
+  "postulantes": [
+    {
+      "orden": 44,
+      "dni": "40XXXX97",
+      "apellidos": "VILLAVERDE GOMEZ",
+      "nombres": "MARIANELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX08",
+      "apellidos": "MEDINA",
+      "nombres": "FÁTIMA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX01",
+      "apellidos": "VILLAVERDE GOMEZ",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

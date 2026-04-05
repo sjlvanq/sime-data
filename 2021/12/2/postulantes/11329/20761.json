@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 11329,
+    "padron_id": 20761
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "21XXXX51",
+      "apellidos": "FERNANDEZ",
+      "nombres": "DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "29XXXX12",
+      "apellidos": "MAYOL",
+      "nombres": "CAROLINA ISABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "22XXXX38",
+      "apellidos": "TELLO",
+      "nombres": "LAURA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX37",
+      "apellidos": "BUCCI",
+      "nombres": "ALFREDO ARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

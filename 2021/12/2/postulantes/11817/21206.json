@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 11817,
+    "padron_id": 21206
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "33XXXX28",
+      "apellidos": "BRANDAN CORREA",
+      "nombres": "CESAR JORGE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "27XXXX57",
+      "apellidos": "CORONEL",
+      "nombres": "VALERIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "29XXXX36",
+      "apellidos": "BARROJO",
+      "nombres": "TEOFILO ARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "14XXXX34",
+      "apellidos": "CISNEROS",
+      "nombres": "RUBEN PABLO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

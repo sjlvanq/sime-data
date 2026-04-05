@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12005,
+    "padron_id": 21442
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "17XXXX50",
+      "apellidos": "LUNA PERALTA",
+      "nombres": "MARTA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX57",
+      "apellidos": "PATERLINI",
+      "nombres": "RODOLFO RAMON ERNESTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX94",
+      "apellidos": "VILTE SORIA",
+      "nombres": "JOSE AGUSTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

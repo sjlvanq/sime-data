@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 10478,
+    "padron_id": 20820
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "30XXXX24",
+      "apellidos": "LUNA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "33XXXX10",
+      "apellidos": "CUEVAS",
+      "nombres": "KARINA MABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "36XXXX04",
+      "apellidos": "VERA LOPEZ",
+      "nombres": "FRANCO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX86",
+      "apellidos": "ORDOÑEZ",
+      "nombres": "MARGARITA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX19",
+      "apellidos": "SCIME",
+      "nombres": "LOURDES MARINA LUZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

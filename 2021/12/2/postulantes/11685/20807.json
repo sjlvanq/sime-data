@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11685,
+    "padron_id": 20807
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "22XXXX48",
+      "apellidos": "ALABARCE",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX45",
+      "apellidos": "MULE",
+      "nombres": "GABRIELA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

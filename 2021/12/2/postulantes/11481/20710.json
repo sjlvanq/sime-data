@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 11481,
+    "padron_id": 20710
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX37",
+      "apellidos": "BUCCI",
+      "nombres": "ALFREDO ARIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "25XXXX49",
+      "apellidos": "ALBANO SZANTO",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX11",
+      "apellidos": "ALE",
+      "nombres": "MARIA AURORA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "29XXXX51",
+      "apellidos": "ALVARADO",
+      "nombres": "CRISTIAN MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

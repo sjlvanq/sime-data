@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11033,
+    "padron_id": 19863
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX66",
+      "apellidos": "ROJAS",
+      "nombres": "ELIZABETH DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX38",
+      "apellidos": "FERNANDEZ",
+      "nombres": "YESSICA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

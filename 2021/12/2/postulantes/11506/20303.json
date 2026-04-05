@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11506,
+    "padron_id": 20303
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "21XXXX73",
+      "apellidos": "BELTRAN",
+      "nombres": "ROSARIO DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX91",
+      "apellidos": "MEDINA",
+      "nombres": "HECTOR RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

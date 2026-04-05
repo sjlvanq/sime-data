@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11950,
+    "padron_id": 21232
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX55",
+      "apellidos": "GONZALEZ",
+      "nombres": "JORGE RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX85",
+      "apellidos": "SORIA",
+      "nombres": "IVANNA JANETTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

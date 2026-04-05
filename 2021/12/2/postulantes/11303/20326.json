@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11303,
+    "padron_id": 20326
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX16",
+      "apellidos": "BARRERA",
+      "nombres": "ROSA CRISTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "25XXXX97",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "VALERIA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

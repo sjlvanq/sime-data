@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 11974,
+    "padron_id": 21373
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "35XXXX11",
+      "apellidos": "ALE",
+      "nombres": "MARIA AURORA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "18XXXX67",
+      "apellidos": "SOVERON",
+      "nombres": "ADRIANA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX34",
+      "apellidos": "PEREA",
+      "nombres": "AIDA ESTER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX39",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX90",
+      "apellidos": "CARRIZO",
+      "nombres": "VERONICA GABRIELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 11704,
+    "padron_id": 20676
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "22XXXX16",
+      "apellidos": "OCAMPO",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "20XXXX22",
+      "apellidos": "ONTIVERO",
+      "nombres": "MYRIAM FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX23",
+      "apellidos": "ALVAREZ",
+      "nombres": "GABRIELA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "17XXXX54",
+      "apellidos": "FERNANDEZ",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "24XXXX19",
+      "apellidos": "GONZALEZ",
+      "nombres": "CARMEN PATRICIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11849,
+    "padron_id": 20949
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "26XXXX58",
+      "apellidos": "CALDERON",
+      "nombres": "MARIA EUGENIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "22XXXX69",
+      "apellidos": "AVILA",
+      "nombres": "ELIZABETH CORINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "25XXXX87",
+      "apellidos": "ALE",
+      "nombres": "ANDRES DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

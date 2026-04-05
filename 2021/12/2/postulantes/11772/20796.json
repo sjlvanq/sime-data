@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11772,
+    "padron_id": 20796
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX69",
+      "apellidos": "BRANDAN",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "24XXXX49",
+      "apellidos": "MENA",
+      "nombres": "FEDERICO DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "24XXXX15",
+      "apellidos": "FERNANDEZ",
+      "nombres": "JAVIER ADOLFO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

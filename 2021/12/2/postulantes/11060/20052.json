@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11060,
+    "padron_id": 20052
+  },
+  "postulantes": [
+    {
+      "orden": 243,
+      "dni": "34XXXX84",
+      "apellidos": "MORENO",
+      "nombres": "EZEQUIEL ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 440,
+      "dni": "33XXXX15",
+      "apellidos": "CASTRO",
+      "nombres": "GERARDO MATIAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 448,
+      "dni": "34XXXX53",
+      "apellidos": "LAZARTE",
+      "nombres": "NATALIA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

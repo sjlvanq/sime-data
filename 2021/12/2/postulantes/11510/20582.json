@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11510,
+    "padron_id": 20582
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX58",
+      "apellidos": "FLORES",
+      "nombres": "RAFAELA TERESA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX42",
+      "apellidos": "SOSA",
+      "nombres": "CYNTHIA ROMINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX25",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
