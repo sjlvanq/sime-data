@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 84899,
+    "padron_id": 149367
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "36XXXX39",
+      "apellidos": "HERGUI",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "34XXXX00",
+      "apellidos": "ROMANO",
+      "nombres": "JOSE MAXIMILIANO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "25XXXX49",
+      "apellidos": "BIZA",
+      "nombres": "ELEONORA EMILSE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 194,
+      "dni": "25XXXX66",
+      "apellidos": "ROMERO",
+      "nombres": "KARINA PAOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

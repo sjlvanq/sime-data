@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 84957,
+    "padron_id": 149248
+  },
+  "postulantes": [
+    {
+      "orden": 140,
+      "dni": "28XXXX47",
+      "apellidos": "CONTRERAS",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "32XXXX24",
+      "apellidos": "AGUIRRE",
+      "nombres": "YANINA PAOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 150,
+      "dni": "20XXXX88",
+      "apellidos": "CARDOZO",
+      "nombres": "MARIA ROSA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 84494,
+    "padron_id": 148682
+  },
+  "postulantes": [
+    {
+      "orden": 114,
+      "dni": "23XXXX90",
+      "apellidos": "ARRIOLA LUNA",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "22XXXX11",
+      "apellidos": "ABRAHAM",
+      "nombres": "MARTA GLADYS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 68,
+      "dni": "22XXXX54",
+      "apellidos": "MENA",
+      "nombres": "ANDREA FABIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

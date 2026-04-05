@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85532,
+    "padron_id": 150006
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "23XXXX88",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MARIELA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 87,
+      "dni": "22XXXX15",
+      "apellidos": "VILLAGRA",
+      "nombres": "SILVIA SUSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

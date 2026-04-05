@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 84800,
+    "padron_id": 148990
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "33XXXX89",
+      "apellidos": "PACHADO",
+      "nombres": "ANA GISELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 100,
+      "dni": "24XXXX60",
+      "apellidos": "NIEVA",
+      "nombres": "BLANCA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "16XXXX97",
+      "apellidos": "CASTRO",
+      "nombres": "NELIDA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
