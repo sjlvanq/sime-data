@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 19502,
+    "padron_id": 45463
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX42",
+      "apellidos": "ZARATE",
+      "nombres": "MARIA ROMINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX64",
+      "apellidos": "MONSERRAT",
+      "nombres": "DANIELA ALEJANDRA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
