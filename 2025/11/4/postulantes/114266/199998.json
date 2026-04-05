@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114266,
+    "padron_id": 199998
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX53",
+      "apellidos": "CHAIN",
+      "nombres": "JESUS LEONARDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX72",
+      "apellidos": "LOPEZ",
+      "nombres": "ADRIANA MABEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MAESTRO DE SECCION TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX97",
+      "apellidos": "MARTINEZ",
+      "nombres": "ROMINA DE LOS ÁNGELES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    }
+  ]
+}
