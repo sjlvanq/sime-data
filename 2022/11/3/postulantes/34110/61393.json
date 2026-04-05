@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34110,
+    "padron_id": 61393
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX60",
+      "apellidos": "MEDINA JIMENEZ",
+      "nombres": "CARLOS DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "41XXXX69",
+      "apellidos": "ZELAYA",
+      "nombres": "NICOLAS AGUSTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "37XXXX46",
+      "apellidos": "LUNA",
+      "nombres": "DANIEL ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

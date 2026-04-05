@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36144,
+    "padron_id": 65049
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX45",
+      "apellidos": "OSCARI",
+      "nombres": "CARLOS SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX99",
+      "apellidos": "MEDINA",
+      "nombres": "DARIO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX88",
+      "apellidos": "VENCHIARUTTI",
+      "nombres": "RODOLFO MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

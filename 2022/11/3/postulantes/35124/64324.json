@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 35124,
+    "padron_id": 64324
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "23XXXX32",
+      "apellidos": "DE ROSA",
+      "nombres": "MARIO VENTURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX60",
+      "apellidos": "ROLDAN",
+      "nombres": "PABLO GERARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "14XXXX39",
+      "apellidos": "OVIEDO                                  ",
+      "nombres": "MARCELINO ORLANDO                       ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "39XXXX31",
+      "apellidos": "NACIF",
+      "nombres": "CAMILO ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "40XXXX52",
+      "apellidos": "SALGUERO FRIAS",
+      "nombres": "GUSTAVO PEDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

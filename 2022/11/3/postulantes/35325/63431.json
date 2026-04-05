@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35325,
+    "padron_id": 63431
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX93",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "JOSE DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX74",
+      "apellidos": "RUIZ",
+      "nombres": "JORGE MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "42XXXX34",
+      "apellidos": "CORDOBA",
+      "nombres": "ANDRES EZEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

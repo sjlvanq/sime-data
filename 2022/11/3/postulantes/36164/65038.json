@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 36164,
+    "padron_id": 65038
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX94",
+      "apellidos": "MARTINEZ",
+      "nombres": "NANCY ROXANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "24XXXX90",
+      "apellidos": "IBAÑEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "30XXXX51",
+      "apellidos": "LIZARRAGA",
+      "nombres": "LUCIA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "20XXXX52",
+      "apellidos": "VEGA",
+      "nombres": "MYRIAM ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 34764,
+    "padron_id": 63073
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX82",
+      "apellidos": "BARRAZA",
+      "nombres": "OSCAR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "39XXXX04",
+      "apellidos": "SOSA",
+      "nombres": "GONZALO RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

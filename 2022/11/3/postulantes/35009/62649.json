@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 35009,
+    "padron_id": 62649
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX19",
+      "apellidos": "ROJAS",
+      "nombres": "MATIAS ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX02",
+      "apellidos": "JUAREZ",
+      "nombres": "HUGO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX27",
+      "apellidos": "ZURITA",
+      "nombres": "DANIEL SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "38XXXX79",
+      "apellidos": "REY",
+      "nombres": "KAREN MARCELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 34703,
+    "padron_id": 63192
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX67",
+      "apellidos": "SANCHEZ",
+      "nombres": "SILVIA PATRICIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (OTROS TITULOS)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "21XXXX92",
+      "apellidos": "GALVAN",
+      "nombres": "MARCELA FABIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

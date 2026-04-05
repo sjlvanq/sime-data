@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 32909,
+    "padron_id": 61888
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "37XXXX61",
+      "apellidos": "SUAREZ FERNANDEZ",
+      "nombres": "ANGEL ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "37XXXX41",
+      "apellidos": "CABRERA",
+      "nombres": "MATIAS EZEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX22",
+      "apellidos": "CARABAJAL",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

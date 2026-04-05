@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 35355,
+    "padron_id": 63903
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX16",
+      "apellidos": "DULOR",
+      "nombres": "LUCIANO GASTON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX11",
+      "apellidos": "TOLEDO",
+      "nombres": "PABLO ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

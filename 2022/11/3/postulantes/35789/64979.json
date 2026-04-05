@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 35789,
+    "padron_id": 64979
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX50",
+      "apellidos": "CABRERA",
+      "nombres": "MARCELA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "20XXXX27",
+      "apellidos": "LEDESMA",
+      "nombres": "MARIA MONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

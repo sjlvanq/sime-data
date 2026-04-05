@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35521,
+    "padron_id": 64340
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "35XXXX35",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "MARÍA JORGELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX06",
+      "apellidos": "ZELAYA CACERES",
+      "nombres": "PABLO MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX70",
+      "apellidos": "DIAMANTE",
+      "nombres": "HECTOR DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

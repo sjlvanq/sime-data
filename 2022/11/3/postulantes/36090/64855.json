@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 36090,
+    "padron_id": 64855
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX36",
+      "apellidos": "LUCERO",
+      "nombres": "JOSE RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX40",
+      "apellidos": "MALDONADO",
+      "nombres": "MARIANO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX18",
+      "apellidos": "SBROCCO",
+      "nombres": "SILVIO ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX16",
+      "apellidos": "DULOR",
+      "nombres": "LUCIANO GASTON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

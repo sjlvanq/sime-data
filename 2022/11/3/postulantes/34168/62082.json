@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34168,
+    "padron_id": 62082
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "29XXXX14",
+      "apellidos": "SOSA JUAREZ",
+      "nombres": "MARIA VICTORIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "30XXXX13",
+      "apellidos": "DIAZ",
+      "nombres": "LILIANA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX36",
+      "apellidos": "AREDEZ",
+      "nombres": "HECTOR ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

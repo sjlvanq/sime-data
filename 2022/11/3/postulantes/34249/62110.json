@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 34249,
+    "padron_id": 62110
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "22XXXX03",
+      "apellidos": "NAJAR",
+      "nombres": "MARTA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX26",
+      "apellidos": "QUIROGA",
+      "nombres": "JUAN FRANCISCO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

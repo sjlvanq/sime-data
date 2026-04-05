@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 34764,
+    "padron_id": 63072
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX32",
+      "apellidos": "LUQUE",
+      "nombres": "JOSE SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX36",
+      "apellidos": "AREDEZ",
+      "nombres": "HECTOR ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

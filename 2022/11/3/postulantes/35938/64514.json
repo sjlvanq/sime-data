@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35938,
+    "padron_id": 64514
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX66",
+      "apellidos": "MAZA MURUA",
+      "nombres": "CRISTIAN BERHMAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX65",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "VANESA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX45",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

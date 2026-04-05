@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34206,
+    "padron_id": 62213
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "24XXXX99",
+      "apellidos": "GEREZ",
+      "nombres": "MIRTA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "36XXXX43",
+      "apellidos": "QUESADA",
+      "nombres": "HECTOR EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "40XXXX52",
+      "apellidos": "BRANDAN",
+      "nombres": "EVELYN DAIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

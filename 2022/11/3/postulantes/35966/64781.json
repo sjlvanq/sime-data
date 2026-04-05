@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35966,
+    "padron_id": 64781
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX72",
+      "apellidos": "GONZALEZ",
+      "nombres": "HERNANDO RAUL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "34XXXX57",
+      "apellidos": "GOMEZ",
+      "nombres": "RICARDO DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "23XXXX67",
+      "apellidos": "CAMPORA",
+      "nombres": "HECTOR ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

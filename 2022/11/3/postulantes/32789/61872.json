@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 32789,
+    "padron_id": 61872
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX09",
+      "apellidos": "ACUÑA",
+      "nombres": "JESSICA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX83",
+      "apellidos": "BELLIDO",
+      "nombres": "SILVIA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "23XXXX86",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "BEATRIZ LILIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

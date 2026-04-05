@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 35390,
+    "padron_id": 64154
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "21XXXX75",
+      "apellidos": "SANCHEZ",
+      "nombres": "ANTONIO MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "36XXXX26",
+      "apellidos": "DIAZ",
+      "nombres": "IVO GASTON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
