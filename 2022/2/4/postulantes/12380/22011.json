@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 12380,
+    "padron_id": 22011
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX94",
+      "apellidos": "ZALAZAR",
+      "nombres": "EDITH RAQUEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX52",
+      "apellidos": "VALLEJO",
+      "nombres": "ESTEBAN FERNANDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

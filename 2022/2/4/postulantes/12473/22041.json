@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12473,
+    "padron_id": 22041
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "22XXXX98",
+      "apellidos": "SALINAS CASMUZ",
+      "nombres": "CYNTHIA CAROLINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MAESTRO DE SECCION TITULAR"
+    },
+    {
+      "orden": 20,
+      "dni": "22XXXX22",
+      "apellidos": "PUEBLA",
+      "nombres": "RAQUEL LINA ANTONIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MAESTRO DE SECCION TITULAR"
+    },
+    {
+      "orden": 42,
+      "dni": "23XXXX85",
+      "apellidos": "SANDOVAL",
+      "nombres": "NEMESIA ANTONIA DEL MILAGRO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MAESTRO DE SECCION TITULAR"
+    }
+  ]
+}
