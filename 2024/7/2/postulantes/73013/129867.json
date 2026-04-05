@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 73013,
+    "padron_id": 129867
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "37XXXX02",
+      "apellidos": "ROBLES",
+      "nombres": "GUSTAVO MAXIMILIANO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "29XXXX51",
+      "apellidos": "ALVARADO",
+      "nombres": "CRISTIAN MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

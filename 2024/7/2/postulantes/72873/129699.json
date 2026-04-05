@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72873,
+    "padron_id": 129699
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "18XXXX97",
+      "apellidos": "JUAREZ",
+      "nombres": "NESTOR RAUL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "27XXXX41",
+      "apellidos": "ORELLANA",
+      "nombres": "RICARDO ALBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX13",
+      "apellidos": "MATTASSINI",
+      "nombres": "MARIA LOURDES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

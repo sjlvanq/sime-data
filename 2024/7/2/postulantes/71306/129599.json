@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 71306,
+    "padron_id": 129599
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "18XXXX97",
+      "apellidos": "JUAREZ",
+      "nombres": "NESTOR RAUL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX56",
+      "apellidos": "JALIL",
+      "nombres": "ESTRELLA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX13",
+      "apellidos": "MATTASSINI",
+      "nombres": "MARIA LOURDES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX84",
+      "apellidos": "GIMENEZ",
+      "nombres": "ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

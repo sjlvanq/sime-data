@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71436,
+    "padron_id": 127365
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX67",
+      "apellidos": "CARRAZANA                               ",
+      "nombres": "MARIA DEL VALLE                         ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX97",
+      "apellidos": "JOSE",
+      "nombres": "JOHANA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "36XXXX94",
+      "apellidos": "CANSECO",
+      "nombres": "FRANCO EMANUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

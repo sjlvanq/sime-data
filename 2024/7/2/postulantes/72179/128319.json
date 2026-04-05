@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72179,
+    "padron_id": 128319
+  },
+  "postulantes": [
+    {
+      "orden": 56,
+      "dni": "20XXXX50",
+      "apellidos": "GRANDE",
+      "nombres": "SILVINA DE FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX60",
+      "apellidos": "NAVARRO",
+      "nombres": "IRMA HAYDEE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "VICE DIRECTOR INTERINO"
+    },
+    {
+      "orden": 19,
+      "dni": "25XXXX11",
+      "apellidos": "VELASCO                                 ",
+      "nombres": "YENNY PAOLA                             ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

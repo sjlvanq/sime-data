@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71623,
+    "padron_id": 129823
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "38XXXX22",
+      "apellidos": "GUTIERREZ SILVA",
+      "nombres": "CECILIA ANABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "35XXXX12",
+      "apellidos": "PEDRAZA",
+      "nombres": "MARIANA GISELLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

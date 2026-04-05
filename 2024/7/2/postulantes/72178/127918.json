@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72178,
+    "padron_id": 127918
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "30XXXX15",
+      "apellidos": "MEDINA",
+      "nombres": "GUILLERMO FERNANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX62",
+      "apellidos": "PAEZ",
+      "nombres": "VERONICA LILIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "32XXXX64",
+      "apellidos": "MONSERRAT",
+      "nombres": "DANIELA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

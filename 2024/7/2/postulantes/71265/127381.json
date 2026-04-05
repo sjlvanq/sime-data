@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 71265,
+    "padron_id": 127381
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "33XXXX71",
+      "apellidos": "RIVADENEIRA",
+      "nombres": "LAURA SILVANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "35XXXX06",
+      "apellidos": "SALDAÑO",
+      "nombres": "FABIOLA GRISEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "23XXXX43",
+      "apellidos": "OTTINO",
+      "nombres": "ZULEMA ISABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "37XXXX44",
+      "apellidos": "IBAÑEZ RENGEL",
+      "nombres": "SOFÍA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 67245,
+    "padron_id": 129592
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX27",
+      "apellidos": "PEREZ",
+      "nombres": "ZAIRA LILIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "28XXXX29",
+      "apellidos": "ALVAREZ ELLER",
+      "nombres": "ANA GRISELDA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71992,
+    "padron_id": 128015
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "28XXXX06",
+      "apellidos": "MONTENEGRO",
+      "nombres": "SEBASTIÁN ANDRÉS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "40XXXX69",
+      "apellidos": "MORENO",
+      "nombres": "MARTIN FACUNDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "32XXXX97",
+      "apellidos": "VALOR",
+      "nombres": "JENNIFER JOHANNA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

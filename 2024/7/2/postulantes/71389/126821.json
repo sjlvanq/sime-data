@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71389,
+    "padron_id": 126821
+  },
+  "postulantes": [
+    {
+      "orden": 39,
+      "dni": "32XXXX97",
+      "apellidos": "VALOR",
+      "nombres": "JENNIFER JOHANNA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "25XXXX98",
+      "apellidos": "CHABAN HEREDIA",
+      "nombres": "PEDRO AMADEO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "40XXXX69",
+      "apellidos": "MORENO",
+      "nombres": "MARTIN FACUNDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

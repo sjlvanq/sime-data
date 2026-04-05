@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 66824,
+    "padron_id": 129900
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX78",
+      "apellidos": "GONZALEZ",
+      "nombres": "JOSE MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX72",
+      "apellidos": "CORTES ISSI",
+      "nombres": "CLARA INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

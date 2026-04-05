@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71252,
+    "padron_id": 129948
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX38",
+      "apellidos": "BEVILACQUA",
+      "nombres": "LUCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "28XXXX61",
+      "apellidos": "SANCHEZ",
+      "nombres": "EMMA NATIVIDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
