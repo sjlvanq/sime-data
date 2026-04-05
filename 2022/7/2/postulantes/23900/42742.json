@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23900,
+    "padron_id": 42742
+  },
+  "postulantes": [
+    {
+      "orden": 58,
+      "dni": "38XXXX43",
+      "apellidos": "JUAREZ",
+      "nombres": "LUCIANO HERNAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "25XXXX35",
+      "apellidos": "VERA",
+      "nombres": "CARLOS AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

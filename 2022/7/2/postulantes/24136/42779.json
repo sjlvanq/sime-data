@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 24136,
+    "padron_id": 42779
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "28XXXX92",
+      "apellidos": "GUTIERREZ",
+      "nombres": "RAUL SEBASTIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "29XXXX89",
+      "apellidos": "LIZARRAGA",
+      "nombres": "MARIANA NOEMI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "25XXXX35",
+      "apellidos": "VERA",
+      "nombres": "CARLOS AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "23XXXX42",
+      "apellidos": "IÑIGO",
+      "nombres": "MARCOS DARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

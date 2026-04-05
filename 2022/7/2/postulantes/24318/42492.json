@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 24318,
+    "padron_id": 42492
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "25XXXX36",
+      "apellidos": "ROBLES",
+      "nombres": "MARIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "23XXXX44",
+      "apellidos": "RAMIREZ",
+      "nombres": "ISABEL ANGELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "26XXXX83",
+      "apellidos": "NIEVA",
+      "nombres": "ERICA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "22XXXX36",
+      "apellidos": "MEDINA",
+      "nombres": "JOSE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

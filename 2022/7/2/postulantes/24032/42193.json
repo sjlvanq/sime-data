@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 24032,
+    "padron_id": 42193
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "25XXXX80",
+      "apellidos": "GABAR",
+      "nombres": "FATIMA ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "29XXXX06",
+      "apellidos": "ANDRES",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "17XXXX67",
+      "apellidos": "CASTILLO",
+      "nombres": "MARIA MERCEDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

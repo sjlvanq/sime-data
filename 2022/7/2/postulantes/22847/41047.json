@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22847,
+    "padron_id": 41047
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "20XXXX26",
+      "apellidos": "FIGUEROA",
+      "nombres": "INES DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX97",
+      "apellidos": "ROMERO",
+      "nombres": "MARIANA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "33XXXX42",
+      "apellidos": "SOSA",
+      "nombres": "CYNTHIA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

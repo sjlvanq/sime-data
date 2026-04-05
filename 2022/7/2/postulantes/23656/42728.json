@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23656,
+    "padron_id": 42728
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "20XXXX33",
+      "apellidos": "FERRI",
+      "nombres": "SONIA JUDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "29XXXX93",
+      "apellidos": "ZELARAYAN",
+      "nombres": "NOELIA LUCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX81",
+      "apellidos": "LECCESE",
+      "nombres": "LILIA MARILINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

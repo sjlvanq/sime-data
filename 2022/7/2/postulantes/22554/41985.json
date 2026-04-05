@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 22554,
+    "padron_id": 41985
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "34XXXX82",
+      "apellidos": "ORELLANA",
+      "nombres": "LUIS CARLOS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "30XXXX93",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

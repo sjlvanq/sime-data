@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23492,
+    "padron_id": 41369
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "28XXXX92",
+      "apellidos": "GUTIERREZ",
+      "nombres": "RAUL SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "27XXXX57",
+      "apellidos": "CORONEL",
+      "nombres": "VALERIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

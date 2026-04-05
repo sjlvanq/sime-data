@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 24175,
+    "padron_id": 42755
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "22XXXX88",
+      "apellidos": "AGUERO",
+      "nombres": "HUAIRA GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "14XXXX17",
+      "apellidos": "ORQUERA",
+      "nombres": "ELSA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "20XXXX80",
+      "apellidos": "LOPEZ",
+      "nombres": "MARIELA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23045,
+    "padron_id": 42827
+  },
+  "postulantes": [
+    {
+      "orden": 28,
+      "dni": "32XXXX20",
+      "apellidos": "SALAZAR",
+      "nombres": "NATALIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 47,
+      "dni": "27XXXX13",
+      "apellidos": "PAZ",
+      "nombres": "SILVANA ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 135,
+      "dni": "37XXXX38",
+      "apellidos": "GOMEZ RUIZ",
+      "nombres": "ERICA MARIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

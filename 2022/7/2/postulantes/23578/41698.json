@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23578,
+    "padron_id": 41698
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX57",
+      "apellidos": "PATERLINI",
+      "nombres": "RODOLFO RAMON ERNESTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "24XXXX79",
+      "apellidos": "SORIA",
+      "nombres": "ALEJANDRA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX34",
+      "apellidos": "BERENGUER",
+      "nombres": "NATALIA JUDITH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 23556,
+    "padron_id": 41267
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "32XXXX26",
+      "apellidos": "QUIROGA",
+      "nombres": "JUAN FRANCISCO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 47,
+      "dni": "37XXXX45",
+      "apellidos": "MEDINA",
+      "nombres": "JOEL FRANCO RUBEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 83,
+      "dni": "38XXXX10",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "CARLOS EMANUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "31XXXX61",
+      "apellidos": "GOMEZ",
+      "nombres": "JORGELINA DANIELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX19",
+      "apellidos": "FLORES MAMANI",
+      "nombres": "GLENDA ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

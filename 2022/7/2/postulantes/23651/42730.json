@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23651,
+    "padron_id": 42730
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "31XXXX04",
+      "apellidos": "SORIA",
+      "nombres": "MARIANA MICAELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "20XXXX33",
+      "apellidos": "FERRI",
+      "nombres": "SONIA JUDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "29XXXX93",
+      "apellidos": "ZELARAYAN",
+      "nombres": "NOELIA LUCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

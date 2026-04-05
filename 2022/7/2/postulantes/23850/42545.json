@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23850,
+    "padron_id": 42545
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "33XXXX12",
+      "apellidos": "VILLAGRA",
+      "nombres": "SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "16XXXX51",
+      "apellidos": "GIMENEZ DIXON",
+      "nombres": "ANDRES FEDERICO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

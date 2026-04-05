@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23135,
+    "padron_id": 41627
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX37",
+      "apellidos": "PONCE LLANOS",
+      "nombres": "MARIA SALOME",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX84",
+      "apellidos": "ANIS",
+      "nombres": "VIVIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

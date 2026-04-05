@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23586,
+    "padron_id": 42281
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX06",
+      "apellidos": "VISUARA",
+      "nombres": "CECILIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX59",
+      "apellidos": "SANCHEZ",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

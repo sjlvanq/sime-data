@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23914,
+    "padron_id": 42882
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "22XXXX59",
+      "apellidos": "MOVANE",
+      "nombres": "DELICIA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX76",
+      "apellidos": "OCAMPO",
+      "nombres": "CLAUDIA ELENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23315,
+    "padron_id": 41656
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "12XXXX34",
+      "apellidos": "SALAZAR",
+      "nombres": "MONICA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "26XXXX24",
+      "apellidos": "MARCOLIN",
+      "nombres": "DANIELA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

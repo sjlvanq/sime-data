@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 22935,
+    "padron_id": 41043
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX54",
+      "apellidos": "MONTOYA",
+      "nombres": "NORMA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX00",
+      "apellidos": "BALDERRAMA",
+      "nombres": "GUILLERMO ARNALDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX17",
+      "apellidos": "PAZ",
+      "nombres": "JOHANA ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX30",
+      "apellidos": "ROMANO",
+      "nombres": "MELISA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22481,
+    "padron_id": 41611
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "28XXXX56",
+      "apellidos": "VITAR",
+      "nombres": "GEORGINA LEONOR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX42",
+      "apellidos": "ROMANO",
+      "nombres": "ELIANA BEATRIZ DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "34XXXX72",
+      "apellidos": "MOLINA",
+      "nombres": "GRISELDA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

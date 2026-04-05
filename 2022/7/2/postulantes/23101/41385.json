@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23101,
+    "padron_id": 41385
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "29XXXX05",
+      "apellidos": "VELAZQUEZ",
+      "nombres": "RUBEN EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "25XXXX49",
+      "apellidos": "ALBANO SZANTO",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 22956,
+    "padron_id": 41056
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX03",
+      "apellidos": "LAHITTE",
+      "nombres": "EMILIO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX79",
+      "apellidos": "HERRERA",
+      "nombres": "JUAN ELIAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX64",
+      "apellidos": "SARMIENTO",
+      "nombres": "JESUS RICARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX55",
+      "apellidos": "BENENCIA",
+      "nombres": "JOSE ANTONIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

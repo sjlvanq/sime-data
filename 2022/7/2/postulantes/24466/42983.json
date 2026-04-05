@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 24466,
+    "padron_id": 42983
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "16XXXX70",
+      "apellidos": "URUEÑA",
+      "nombres": "JORGE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX47",
+      "apellidos": "ZELAYA VAZQUEZ",
+      "nombres": "CRISTINA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "17XXXX79",
+      "apellidos": "BURGOS                                  ",
+      "nombres": "ESTER ZULEMA                            ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

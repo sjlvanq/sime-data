@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23587,
+    "padron_id": 42268
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX31",
+      "apellidos": "CASMUZ",
+      "nombres": "SILVANA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX91",
+      "apellidos": "ARANDA AVILA",
+      "nombres": "SERGIO GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

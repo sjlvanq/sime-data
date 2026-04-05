@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23098,
+    "padron_id": 42912
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX67",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "VALERIA TRINIDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX11",
+      "apellidos": "ROLDAN",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX63",
+      "apellidos": "PINTOS",
+      "nombres": "SANDRA VICTORIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

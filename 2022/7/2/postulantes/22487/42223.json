@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 22487,
+    "padron_id": 42223
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX43",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIANA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX91",
+      "apellidos": "ALDERETE",
+      "nombres": "ROXANA CRISTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "35XXXX75",
+      "apellidos": "DIAZ",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "32XXXX64",
+      "apellidos": "SARAVIA",
+      "nombres": "TAMARA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23145,
+    "padron_id": 41595
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX63",
+      "apellidos": "COSTILLA",
+      "nombres": "HECTOR ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX14",
+      "apellidos": "SALAS",
+      "nombres": "MARIA AMELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

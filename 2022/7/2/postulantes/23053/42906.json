@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23053,
+    "padron_id": 42906
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX98",
+      "apellidos": "SANCHEZ",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX04",
+      "apellidos": "CAMPOS ANASTACIO",
+      "nombres": "VERÓNICA ROMINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX31",
+      "apellidos": "SAVA",
+      "nombres": "MONICA VALERIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

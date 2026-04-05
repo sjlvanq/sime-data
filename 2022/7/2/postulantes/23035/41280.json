@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23035,
+    "padron_id": 41280
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "13XXXX90",
+      "apellidos": "MEDINA",
+      "nombres": "TERESITA LEONOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "23XXXX04",
+      "apellidos": "MENDEZ",
+      "nombres": "MARIA NAZARENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
