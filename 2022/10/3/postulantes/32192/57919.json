@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 32192,
+    "padron_id": 57919
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "32XXXX43",
+      "apellidos": "VELARDEZ",
+      "nombres": "RUTH PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "34XXXX75",
+      "apellidos": "RUIZ",
+      "nombres": "CRISTIAN GONZALO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "31XXXX26",
+      "apellidos": "GUTIERREZ",
+      "nombres": "GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

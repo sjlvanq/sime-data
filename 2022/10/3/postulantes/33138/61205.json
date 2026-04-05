@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33138,
+    "padron_id": 61205
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX87",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX52",
+      "apellidos": "BIANCHI",
+      "nombres": "SEBASTIAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "14XXXX34",
+      "apellidos": "CISNEROS",
+      "nombres": "RUBEN PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 32245,
+    "padron_id": 58071
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX80",
+      "apellidos": "GONZALEZ",
+      "nombres": "ARIEL NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX29",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "JOSE AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

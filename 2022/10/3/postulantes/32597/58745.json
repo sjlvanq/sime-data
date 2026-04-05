@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 32597,
+    "padron_id": 58745
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX57",
+      "apellidos": "GARRIDO",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "SUBREGENTE TECNICO INTERINO"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX79",
+      "apellidos": "FIGUEROA",
+      "nombres": "FABIAN HUGO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "JEFE GENERAL / JEFE TALLER / JEFE SECTORIAL INTERINO"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX75",
+      "apellidos": "SALINAS",
+      "nombres": "JOSE MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX44",
+      "apellidos": "SANTILLAN",
+      "nombres": "MARCOS DIEGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

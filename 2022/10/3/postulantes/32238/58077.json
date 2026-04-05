@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 32238,
+    "padron_id": 58077
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX07",
+      "apellidos": "CACERES",
+      "nombres": "MARÍA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX52",
+      "apellidos": "SUELDO",
+      "nombres": "JULIO RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "27XXXX31",
+      "apellidos": "GALVAN",
+      "nombres": "ELIO GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

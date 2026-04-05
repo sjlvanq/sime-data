@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 32273,
+    "padron_id": 58985
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "35XXXX96",
+      "apellidos": "GUTIERREZ",
+      "nombres": "DANIEL ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX49",
+      "apellidos": "CORBALAN",
+      "nombres": "DAVID ROMAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX07",
+      "apellidos": "GARZON",
+      "nombres": "PABLO OMAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX03",
+      "apellidos": "GUERRA",
+      "nombres": "AURORA FRANCISCA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 29761,
+    "padron_id": 60412
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "34XXXX42",
+      "apellidos": "MEDINA",
+      "nombres": "MARÍA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "31XXXX91",
+      "apellidos": "APARICIO ALBARRACIN",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "27XXXX83",
+      "apellidos": "ZELAYA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

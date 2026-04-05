@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10021,
+    "padron_id": 59115
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "31XXXX36",
+      "apellidos": "GUERRERO",
+      "nombres": "ROMINA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX40",
+      "apellidos": "SOSA",
+      "nombres": "DIEGO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "36XXXX20",
+      "apellidos": "LANFRANCO",
+      "nombres": "CARLOS FRANCISCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 31775,
+    "padron_id": 58784
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "25XXXX13",
+      "apellidos": "GUTIERREZ",
+      "nombres": "ANALIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "23XXXX80",
+      "apellidos": "ESTOQUIN",
+      "nombres": "ADRIANA MYRIAM",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "37XXXX12",
+      "apellidos": "NAVARRO",
+      "nombres": "CESAR AGUSTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

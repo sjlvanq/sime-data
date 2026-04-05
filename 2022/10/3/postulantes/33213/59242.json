@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33213,
+    "padron_id": 59242
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX81",
+      "apellidos": "CASTILLO",
+      "nombres": "YVANA GRACIELA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX14",
+      "apellidos": "BRANDAN",
+      "nombres": "SANTIAGO DOMINGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX95",
+      "apellidos": "ASIS",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

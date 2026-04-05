@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 32908,
+    "padron_id": 60390
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX40",
+      "apellidos": "CORDOBA",
+      "nombres": "DANIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX37",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "GERARDO RAUL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

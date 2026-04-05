@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 32099,
+    "padron_id": 57212
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX07",
+      "apellidos": "ORTIZ",
+      "nombres": "HORACIO GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX38",
+      "apellidos": "CAMPOS",
+      "nombres": "CARLOS GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

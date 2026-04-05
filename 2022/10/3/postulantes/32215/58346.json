@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 32215,
+    "padron_id": 58346
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX74",
+      "apellidos": "FUENSALIDA",
+      "nombres": "SOFIA JOSEFINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX84",
+      "apellidos": "JEREZ",
+      "nombres": "SERGIO GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX54",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "18XXXX76",
+      "apellidos": "SANCHEZ",
+      "nombres": "CESAR MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 32793,
+    "padron_id": 60012
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX10",
+      "apellidos": "DEL MORAL",
+      "nombres": "MARIO EDGARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "18XXXX33",
+      "apellidos": "TOLOZA",
+      "nombres": "MIGUEL ESTEBAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

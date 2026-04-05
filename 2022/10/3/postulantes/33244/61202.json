@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33244,
+    "padron_id": 61202
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX13",
+      "apellidos": "PAZ",
+      "nombres": "JULIO RENE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "17XXXX68",
+      "apellidos": "YAFAR",
+      "nombres": "ANA PATRICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX27",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "PABLO EMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

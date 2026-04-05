@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 32946,
+    "padron_id": 60606
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX02",
+      "apellidos": "ANTICHAN",
+      "nombres": "JUAN MANUEL JESUS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX36",
+      "apellidos": "DIDOT",
+      "nombres": "BLANCA VIRGILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 32189,
+    "padron_id": 58144
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "36XXXX68",
+      "apellidos": "LOPEZ",
+      "nombres": "ANDRES NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "37XXXX09",
+      "apellidos": "NUÑEZ",
+      "nombres": "PABLO ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "40XXXX09",
+      "apellidos": "COSTILLA",
+      "nombres": "MARÍA EMILSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 27440,
+    "padron_id": 60359
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX62",
+      "apellidos": "JUAREZ",
+      "nombres": "AUGUSTO JORGE ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX55",
+      "apellidos": "GARAY",
+      "nombres": "CESAR GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX31",
+      "apellidos": "DECIMA",
+      "nombres": "MANUEL FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

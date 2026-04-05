@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33420,
+    "padron_id": 59962
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX16",
+      "apellidos": "DULOR",
+      "nombres": "LUCIANO GASTON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "VICE DIRECTOR INTERINO"
+    },
+    {
+      "orden": 1,
+      "dni": "17XXXX64",
+      "apellidos": "IRIARTE",
+      "nombres": "PABLO ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "17XXXX12",
+      "apellidos": "LAREDO",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

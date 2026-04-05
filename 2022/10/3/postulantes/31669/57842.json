@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 31669,
+    "padron_id": 57842
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX86",
+      "apellidos": "SOTELO",
+      "nombres": "ARIEL EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX81",
+      "apellidos": "CASTILLO",
+      "nombres": "YVANA GRACIELA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "35XXXX95",
+      "apellidos": "ASIS",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
