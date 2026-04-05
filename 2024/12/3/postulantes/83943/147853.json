@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 83943,
+    "padron_id": 147853
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "35XXXX98",
+      "apellidos": "FUNES",
+      "nombres": "HÉCTOR MAXIMILIANO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "32XXXX30",
+      "apellidos": "MAMANÍ",
+      "nombres": "MARCELO HUGO ALEJANDRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "21XXXX27",
+      "apellidos": "HERRERA",
+      "nombres": "JUAN BALDOMERO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

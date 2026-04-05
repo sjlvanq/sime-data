@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 84025,
+    "padron_id": 148453
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "35XXXX34",
+      "apellidos": "PONCE",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "27XXXX92",
+      "apellidos": "ALBERTO",
+      "nombres": "MELINA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX16",
+      "apellidos": "AVILA",
+      "nombres": "DELFINA MARÍA DEL MILAGRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

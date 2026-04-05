@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 84388,
+    "padron_id": 148472
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX05",
+      "apellidos": "ARAOZ",
+      "nombres": "MANUEL NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "VICE DIRECTOR INTERINO"
+    },
+    {
+      "orden": 6,
+      "dni": "20XXXX42",
+      "apellidos": "MOYA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

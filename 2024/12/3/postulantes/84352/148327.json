@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 84352,
+    "padron_id": 148327
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "16XXXX53",
+      "apellidos": "DE BOECK",
+      "nombres": "MARIO HUMBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX87",
+      "apellidos": "RUIZ",
+      "nombres": "JOSE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX21",
+      "apellidos": "ROLDAN",
+      "nombres": "RAUL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
