@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72617,
+    "padron_id": 128950
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "31XXXX21",
+      "apellidos": "CASARES",
+      "nombres": "MARIO GUILLERMO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "35XXXX74",
+      "apellidos": "VILLAGRAN",
+      "nombres": "MARIA PAULA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "37XXXX32",
+      "apellidos": "IBAÑEZ",
+      "nombres": "LUCAS GABRIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

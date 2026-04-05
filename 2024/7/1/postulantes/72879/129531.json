@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 72879,
+    "padron_id": 129531
+  },
+  "postulantes": [
+    {
+      "orden": 135,
+      "dni": "20XXXX26",
+      "apellidos": "TELLO",
+      "nombres": "SANDRA MARIA CELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 177,
+      "dni": "17XXXX86",
+      "apellidos": "ROBLES",
+      "nombres": "ANGEL MARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "22XXXX11",
+      "apellidos": "ABRAHAM",
+      "nombres": "MARTA GLADYS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

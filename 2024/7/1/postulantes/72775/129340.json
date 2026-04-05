@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72775,
+    "padron_id": 129340
+  },
+  "postulantes": [
+    {
+      "orden": 203,
+      "dni": "29XXXX87",
+      "apellidos": "ALVAREZ",
+      "nombres": "DEBORAH MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 278,
+      "dni": "22XXXX04",
+      "apellidos": "JEREZ",
+      "nombres": "ANA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 130,
+      "dni": "27XXXX05",
+      "apellidos": "BENITO",
+      "nombres": "TATIANA VALERIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

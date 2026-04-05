@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 72534,
+    "padron_id": 128925
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "31XXXX68",
+      "apellidos": "BAZAN",
+      "nombres": "ANAHI ANDREA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "37XXXX81",
+      "apellidos": "RIVERA",
+      "nombres": "LUZ MACARENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX83",
+      "apellidos": "AGUERO",
+      "nombres": "VIRGINIA CAROLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "33XXXX12",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOSE MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

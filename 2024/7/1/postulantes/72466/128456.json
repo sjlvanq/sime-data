@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 72466,
+    "padron_id": 128456
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "33XXXX02",
+      "apellidos": "DIAZ",
+      "nombres": "MAIRA LEONELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "23XXXX02",
+      "apellidos": "MUZZOLON",
+      "nombres": "MARTIN DIEGO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

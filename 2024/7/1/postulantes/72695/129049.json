@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72695,
+    "padron_id": 129049
+  },
+  "postulantes": [
+    {
+      "orden": 113,
+      "dni": "30XXXX94",
+      "apellidos": "SANDOVAL",
+      "nombres": "LUCIA NATALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 233,
+      "dni": "23XXXX49",
+      "apellidos": "ALDERETE",
+      "nombres": "PATRICIA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 102,
+      "dni": "24XXXX21",
+      "apellidos": "PONCE",
+      "nombres": "MARCELA LIDIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

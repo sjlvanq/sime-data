@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72456,
+    "padron_id": 128470
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "22XXXX83",
+      "apellidos": "AGUERO",
+      "nombres": "VIRGINIA CAROLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX77",
+      "apellidos": "GOMEZ",
+      "nombres": "JOHANNA JIMENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

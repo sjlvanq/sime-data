@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 71640,
+    "padron_id": 127003
+  },
+  "postulantes": [
+    {
+      "orden": 112,
+      "dni": "21XXXX22",
+      "apellidos": "GUARAZ",
+      "nombres": "NANCY CATERINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 121,
+      "dni": "20XXXX63",
+      "apellidos": "OLARTE",
+      "nombres": "MARTA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "22XXXX11",
+      "apellidos": "ABRAHAM",
+      "nombres": "MARTA GLADYS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "22XXXX89",
+      "apellidos": "MENTZ",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

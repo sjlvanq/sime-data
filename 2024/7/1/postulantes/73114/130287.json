@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 73114,
+    "padron_id": 130287
+  },
+  "postulantes": [
+    {
+      "orden": 41,
+      "dni": "26XXXX74",
+      "apellidos": "CARBAJAL",
+      "nombres": "VIVIANA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 102,
+      "dni": "24XXXX21",
+      "apellidos": "PONCE",
+      "nombres": "MARCELA LIDIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 247,
+      "dni": "22XXXX94",
+      "apellidos": "COSTILLA",
+      "nombres": "ANA LUZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

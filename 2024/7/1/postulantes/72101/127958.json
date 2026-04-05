@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72101,
+    "padron_id": 127958
+  },
+  "postulantes": [
+    {
+      "orden": 85,
+      "dni": "25XXXX16",
+      "apellidos": "CORBALAN",
+      "nombres": "DORA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 86,
+      "dni": "26XXXX63",
+      "apellidos": "BRIZUELA",
+      "nombres": "LORENA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "30XXXX01",
+      "apellidos": "CASTRO",
+      "nombres": "ALICIA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

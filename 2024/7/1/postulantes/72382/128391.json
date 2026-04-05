@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72382,
+    "padron_id": 128391
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "38XXXX97",
+      "apellidos": "RODRIGUEZ ROSSI",
+      "nombres": "MAURO EMMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX78",
+      "apellidos": "ZERDA",
+      "nombres": "NOELIA TERESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "32XXXX45",
+      "apellidos": "CARONA",
+      "nombres": "NOELIA  FABIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

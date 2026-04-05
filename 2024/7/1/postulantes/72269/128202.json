@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 72269,
+    "padron_id": 128202
+  },
+  "postulantes": [
+    {
+      "orden": 237,
+      "dni": "32XXXX98",
+      "apellidos": "GALLO",
+      "nombres": "SABRINA DE LUJÁN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 475,
+      "dni": "34XXXX52",
+      "apellidos": "ROMERO",
+      "nombres": "ROXANA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 551,
+      "dni": "22XXXX68",
+      "apellidos": "RIZO CASTILLO",
+      "nombres": "CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 755,
+      "dni": "26XXXX49",
+      "apellidos": "MAZA",
+      "nombres": "ROXANA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 72450,
+    "padron_id": 128601
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "42XXXX85",
+      "apellidos": "RESTON",
+      "nombres": "MARIA AGOSTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "30XXXX93",
+      "apellidos": "JUAREZ",
+      "nombres": "DORA EDITH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "29XXXX77",
+      "apellidos": "SANCHEZ",
+      "nombres": "EVANGELINA MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "31XXXX26",
+      "apellidos": "GUTIERREZ",
+      "nombres": "GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

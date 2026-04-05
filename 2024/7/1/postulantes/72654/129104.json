@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72654,
+    "padron_id": 129104
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "35XXXX06",
+      "apellidos": "SALDAÑO",
+      "nombres": "FABIOLA GRISEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "23XXXX43",
+      "apellidos": "OTTINO",
+      "nombres": "ZULEMA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX93",
+      "apellidos": "LOBO",
+      "nombres": "SANDRA LORENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 73123,
+    "padron_id": 129958
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX87",
+      "apellidos": "OLMOS",
+      "nombres": "EUGENIA CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "29XXXX57",
+      "apellidos": "LOBO",
+      "nombres": "MIRIAM MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "23XXXX13",
+      "apellidos": "ISAS",
+      "nombres": "CRISTOBAL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

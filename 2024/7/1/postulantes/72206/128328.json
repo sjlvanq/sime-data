@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 72206,
+    "padron_id": 128328
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "42XXXX12",
+      "apellidos": "CASTILLO ROMANO",
+      "nombres": "LUIS GABRIEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX61",
+      "apellidos": "CHAVEZ",
+      "nombres": "PETRONA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX88",
+      "apellidos": "GUTIERREZ BULDURINI",
+      "nombres": "DAVID BENITO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "20XXXX36",
+      "apellidos": "JANIN",
+      "nombres": "SUSANA GLORIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

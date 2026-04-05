@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72407,
+    "padron_id": 128440
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "29XXXX58",
+      "apellidos": "DIAZ",
+      "nombres": "GLADYS ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "30XXXX01",
+      "apellidos": "CASTRO",
+      "nombres": "ALICIA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 98,
+      "dni": "27XXXX24",
+      "apellidos": "MEDINA",
+      "nombres": "MARINA ESTELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

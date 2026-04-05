@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 72454,
+    "padron_id": 128603
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "32XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "NATALIA ANDREA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "23XXXX43",
+      "apellidos": "OTTINO",
+      "nombres": "ZULEMA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "24XXXX35",
+      "apellidos": "VEGA",
+      "nombres": "MARIA LUZ DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX93",
+      "apellidos": "LOBO",
+      "nombres": "SANDRA LORENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

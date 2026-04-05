@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72955,
+    "padron_id": 129826
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "21XXXX51",
+      "apellidos": "PAEZ",
+      "nombres": "SILVIA LAURA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX68",
+      "apellidos": "NUÑEZ",
+      "nombres": "ALICIA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "36XXXX89",
+      "apellidos": "LEDESMA",
+      "nombres": "FRANCO ALEJANDRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

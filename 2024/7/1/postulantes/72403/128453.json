@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 72403,
+    "padron_id": 128453
+  },
+  "postulantes": [
+    {
+      "orden": 22,
+      "dni": "30XXXX98",
+      "apellidos": "ROMERO",
+      "nombres": "RUTH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "33XXXX11",
+      "apellidos": "DIAZ",
+      "nombres": "FATIMA NOELIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "37XXXX91",
+      "apellidos": "DURÁN",
+      "nombres": "ROCÍO MAILÉN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "31XXXX68",
+      "apellidos": "BAZAN",
+      "nombres": "ANAHI ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

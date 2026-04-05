@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 72455,
+    "padron_id": 128572
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "25XXXX81",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "CLAUDIA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX59",
+      "apellidos": "QUERCI",
+      "nombres": "JOSÉ AUGUSTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

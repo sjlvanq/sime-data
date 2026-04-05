@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72007,
+    "padron_id": 127539
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "24XXXX54",
+      "apellidos": "GEREZ",
+      "nombres": "ZULMA ANDREA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "29XXXX84",
+      "apellidos": "MENGUAL",
+      "nombres": "VERONICA PRISCILA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX22",
+      "apellidos": "CORDOBA",
+      "nombres": "BALTAZAR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 71046,
+    "padron_id": 126944
+  },
+  "postulantes": [
+    {
+      "orden": 34,
+      "dni": "24XXXX71",
+      "apellidos": "LATINA",
+      "nombres": "NATALIA MARIA DOLORES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "23XXXX02",
+      "apellidos": "MUZZOLON",
+      "nombres": "MARTIN DIEGO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "27XXXX77",
+      "apellidos": "DOMINGUEZ",
+      "nombres": "CAROLINA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "22XXXX38",
+      "apellidos": "CARRIZO",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

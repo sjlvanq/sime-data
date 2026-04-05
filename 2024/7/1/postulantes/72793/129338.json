@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72793,
+    "padron_id": 129338
+  },
+  "postulantes": [
+    {
+      "orden": 278,
+      "dni": "22XXXX04",
+      "apellidos": "JEREZ",
+      "nombres": "ANA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 139,
+      "dni": "34XXXX34",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "RITA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 307,
+      "dni": "21XXXX26",
+      "apellidos": "GIMENEZ",
+      "nombres": "MIRTA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

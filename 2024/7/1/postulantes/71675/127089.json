@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71675,
+    "padron_id": 127089
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "39XXXX70",
+      "apellidos": "COSTILLA",
+      "nombres": "JAIRO JEREMIAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX30",
+      "apellidos": "ESCALANTE",
+      "nombres": "DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "27XXXX78",
+      "apellidos": "BASUALDO CORISI",
+      "nombres": "HUGO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

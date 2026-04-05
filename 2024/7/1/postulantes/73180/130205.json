@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 73180,
+    "padron_id": 130205
+  },
+  "postulantes": [
+    {
+      "orden": 158,
+      "dni": "20XXXX73",
+      "apellidos": "CAMPOS",
+      "nombres": "MARCELA CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 236,
+      "dni": "24XXXX64",
+      "apellidos": "GONZALEZ",
+      "nombres": "ROSSANA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 139,
+      "dni": "34XXXX34",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "RITA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 266,
+      "dni": "28XXXX44",
+      "apellidos": "GARNICA",
+      "nombres": "LORENA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

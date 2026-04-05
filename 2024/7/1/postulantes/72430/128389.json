@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 72430,
+    "padron_id": 128389
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "29XXXX41",
+      "apellidos": "RUIZ",
+      "nombres": "SANDRA ELOISA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX51",
+      "apellidos": "JAIME",
+      "nombres": "MARTA MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "27XXXX13",
+      "apellidos": "VALDEZ",
+      "nombres": "CLAUDIA MARIA ELENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "25XXXX06",
+      "apellidos": "SEGUNDO",
+      "nombres": "CARMEN MARIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

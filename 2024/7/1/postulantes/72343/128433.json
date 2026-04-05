@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 72343,
+    "padron_id": 128433
+  },
+  "postulantes": [
+    {
+      "orden": 124,
+      "dni": "26XXXX45",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "36XXXX39",
+      "apellidos": "HERGUI",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
