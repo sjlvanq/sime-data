@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 31713,
+    "padron_id": 57469
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX68",
+      "apellidos": "SEGURA",
+      "nombres": "SERGIO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX78",
+      "apellidos": "SALAS",
+      "nombres": "LORENA PATRICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX84",
+      "apellidos": "CARDOZO",
+      "nombres": "MONICA GRACIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

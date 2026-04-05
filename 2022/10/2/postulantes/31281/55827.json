@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 31281,
+    "padron_id": 55827
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX44",
+      "apellidos": "ARROYO",
+      "nombres": "JULIETA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "36XXXX60",
+      "apellidos": "MARTINEZ ROBLES",
+      "nombres": "MARIA DEL ROSARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "34XXXX20",
+      "apellidos": "HUERTA",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX78",
+      "apellidos": "ALDERETES",
+      "nombres": "JACKELINE NOELIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

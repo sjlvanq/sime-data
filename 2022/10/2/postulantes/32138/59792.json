@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 32138,
+    "padron_id": 59792
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "24XXXX76",
+      "apellidos": "ORTEGA",
+      "nombres": "NANCI FABIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "35XXXX61",
+      "apellidos": "JUAREZ",
+      "nombres": "LUCIA ESTELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 66,
+      "dni": "40XXXX24",
+      "apellidos": "MARQUEZ GIL",
+      "nombres": "ANA BELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

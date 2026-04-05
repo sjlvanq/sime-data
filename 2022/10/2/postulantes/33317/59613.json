@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33317,
+    "padron_id": 59613
+  },
+  "postulantes": [
+    {
+      "orden": 63,
+      "dni": "41XXXX78",
+      "apellidos": "GARNICA ORTIZ",
+      "nombres": "ANGELA MERCEDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX17",
+      "apellidos": "BUZZA",
+      "nombres": "MARTA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 47,
+      "dni": "37XXXX08",
+      "apellidos": "CASTRO                                  ",
+      "nombres": "MAXIMILIANO EZEQUIEL                    ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

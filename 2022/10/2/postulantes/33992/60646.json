@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33992,
+    "padron_id": 60646
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "20XXXX22",
+      "apellidos": "ONTIVERO",
+      "nombres": "MYRIAM FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "17XXXX32",
+      "apellidos": "FIGUEROA",
+      "nombres": "SEGUNDO FERMIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX11",
+      "apellidos": "ALE",
+      "nombres": "MARIA AURORA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

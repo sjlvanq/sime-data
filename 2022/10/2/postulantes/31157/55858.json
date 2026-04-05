@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 31157,
+    "padron_id": 55858
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "35XXXX82",
+      "apellidos": "ROMERO",
+      "nombres": "EDUARDO MARTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "25XXXX21",
+      "apellidos": "CHICO",
+      "nombres": "MATIAS OSCAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "13XXXX43",
+      "apellidos": "LASTRA",
+      "nombres": "LUIS EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX44",
+      "apellidos": "ARROYO",
+      "nombres": "JULIETA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX75",
+      "apellidos": "DIAZ",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 25177,
+    "padron_id": 57457
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "36XXXX26",
+      "apellidos": "VALDEZ",
+      "nombres": "ANABELL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "36XXXX13",
+      "apellidos": "ROJAS",
+      "nombres": "VICTOR GUILLERMO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "31XXXX06",
+      "apellidos": "BARRIOS",
+      "nombres": "MARIANO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "31XXXX14",
+      "apellidos": "LOBO",
+      "nombres": "ALVARO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 33292,
+    "padron_id": 59956
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX44",
+      "apellidos": "ARROYO",
+      "nombres": "JULIETA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "33XXXX35",
+      "apellidos": "ROQUÉ",
+      "nombres": "YESSICA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "26XXXX18",
+      "apellidos": "PEREA",
+      "nombres": "PABLO ARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "30XXXX84",
+      "apellidos": "AMADOR",
+      "nombres": "EZEQUIEL FRANCO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

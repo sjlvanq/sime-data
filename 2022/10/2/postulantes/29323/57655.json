@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 29323,
+    "padron_id": 57655
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX78",
+      "apellidos": "TEMISE",
+      "nombres": "NANCY SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "27XXXX19",
+      "apellidos": "PALLARES",
+      "nombres": "ELIANA CORINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "22XXXX38",
+      "apellidos": "TELLO",
+      "nombres": "LAURA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

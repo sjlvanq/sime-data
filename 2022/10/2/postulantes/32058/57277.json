@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 32058,
+    "padron_id": 57277
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "13XXXX43",
+      "apellidos": "LASTRA",
+      "nombres": "LUIS EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX44",
+      "apellidos": "ARROYO",
+      "nombres": "JULIETA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "36XXXX60",
+      "apellidos": "MARTINEZ ROBLES",
+      "nombres": "MARIA DEL ROSARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "29XXXX17",
+      "apellidos": "JUAREZ",
+      "nombres": "TELMA CARINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "25XXXX21",
+      "apellidos": "SALUM",
+      "nombres": "EDUARDO ABRAHAM",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

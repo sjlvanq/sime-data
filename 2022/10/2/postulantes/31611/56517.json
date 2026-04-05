@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 31611,
+    "padron_id": 56517
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX78",
+      "apellidos": "CRUZ",
+      "nombres": "MARGARITA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX51",
+      "apellidos": "GARCIA",
+      "nombres": "CARINA VALERIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX09",
+      "apellidos": "LIZARRAGA",
+      "nombres": "GABRIELA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

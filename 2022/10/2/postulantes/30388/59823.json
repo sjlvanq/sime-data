@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 30388,
+    "padron_id": 59823
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "27XXXX26",
+      "apellidos": "SOSA",
+      "nombres": "DIEGO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "32XXXX19",
+      "apellidos": "FIGUEROA",
+      "nombres": "SAULO BERNABÉ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

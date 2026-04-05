@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 32299,
+    "padron_id": 58829
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "33XXXX31",
+      "apellidos": "MALDONADO",
+      "nombres": "PAOLA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 116,
+      "dni": "25XXXX33",
+      "apellidos": "MONTEROS",
+      "nombres": "ULISES DURVAL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 107,
+      "dni": "22XXXX96",
+      "apellidos": "ALDERETE",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 131,
+      "dni": "34XXXX97",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

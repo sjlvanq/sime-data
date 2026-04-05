@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 31540,
+    "padron_id": 59351
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX88",
+      "apellidos": "BOFFANO",
+      "nombres": "MARIA REGINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "35XXXX75",
+      "apellidos": "DIAZ",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "30XXXX84",
+      "apellidos": "AMADOR",
+      "nombres": "EZEQUIEL FRANCO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

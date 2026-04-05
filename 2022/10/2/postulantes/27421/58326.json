@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 27421,
+    "padron_id": 58326
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "27XXXX84",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "MARCOS GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

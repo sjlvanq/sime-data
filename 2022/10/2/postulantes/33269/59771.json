@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33269,
+    "padron_id": 59771
+  },
+  "postulantes": [
+    {
+      "orden": 28,
+      "dni": "25XXXX98",
+      "apellidos": "CHABAN HEREDIA",
+      "nombres": "PEDRO AMADEO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "39XXXX15",
+      "apellidos": "ROSSINI",
+      "nombres": "CARLA LUCIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "28XXXX52",
+      "apellidos": "CHANI",
+      "nombres": "LUCRECIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

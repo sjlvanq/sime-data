@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 31384,
+    "padron_id": 56532
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "36XXXX25",
+      "apellidos": "GRAMAJO RODRIGUEZ",
+      "nombres": "DARIO EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "32XXXX61",
+      "apellidos": "VERGARA",
+      "nombres": "BETIANA DEL VALLLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX78",
+      "apellidos": "MEDINA",
+      "nombres": "GISELLE ARIADNA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX61",
+      "apellidos": "ALVAREZ",
+      "nombres": "PAOLA VANESSA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

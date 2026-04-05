@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 32377,
+    "padron_id": 58179
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX59",
+      "apellidos": "BARROS",
+      "nombres": "RENE ANTONIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "20XXXX22",
+      "apellidos": "ONTIVERO",
+      "nombres": "MYRIAM FATIMA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

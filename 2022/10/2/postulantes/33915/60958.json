@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 33915,
+    "padron_id": 60958
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX56",
+      "apellidos": "JALIL",
+      "nombres": "ESTRELLA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX02",
+      "apellidos": "GIL",
+      "nombres": "NOELIA MARIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "12XXXX35",
+      "apellidos": "GÓMEZ",
+      "nombres": "ANA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "31XXXX87",
+      "apellidos": "LIZARRAGA",
+      "nombres": "MARIA VIRGINIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

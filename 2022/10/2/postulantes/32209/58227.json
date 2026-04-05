@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 32209,
+    "padron_id": 58227
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "35XXXX15",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "YANINA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX81",
+      "apellidos": "CASTELLANO",
+      "nombres": "CRISTHIAN DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "37XXXX24",
+      "apellidos": "TEVEZ",
+      "nombres": "MATIAS ERNESTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "37XXXX55",
+      "apellidos": "CAMPERO",
+      "nombres": "MARIANA GABRIELA ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX18",
+      "apellidos": "SERRANO",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

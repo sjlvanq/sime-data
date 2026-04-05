@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33315,
+    "padron_id": 59808
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "31XXXX08",
+      "apellidos": "REY",
+      "nombres": "NATALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "27XXXX53",
+      "apellidos": "EMGE",
+      "nombres": "MARTIN LORENZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "21XXXX35",
+      "apellidos": "ARGIRO",
+      "nombres": "ELBIO DARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

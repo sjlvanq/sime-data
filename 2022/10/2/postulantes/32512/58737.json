@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 32512,
+    "padron_id": 58737
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "30XXXX35",
+      "apellidos": "GAMBOA LOPEZ",
+      "nombres": "ESTELLA MARYS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "29XXXX51",
+      "apellidos": "ALVARADO",
+      "nombres": "CRISTIAN MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

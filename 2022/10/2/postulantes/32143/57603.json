@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 32143,
+    "padron_id": 57603
+  },
+  "postulantes": [
+    {
+      "orden": 34,
+      "dni": "22XXXX04",
+      "apellidos": "LEAL",
+      "nombres": "MYRIAM DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "29XXXX91",
+      "apellidos": "GIORDANO",
+      "nombres": "PAOLA YOLANDA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "26XXXX33",
+      "apellidos": "SOLORZANO",
+      "nombres": "LEONARDO DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "23XXXX42",
+      "apellidos": "IÑIGO",
+      "nombres": "MARCOS DARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

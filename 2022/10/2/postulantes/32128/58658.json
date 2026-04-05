@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 32128,
+    "padron_id": 58658
+  },
+  "postulantes": [
+    {
+      "orden": 87,
+      "dni": "31XXXX14",
+      "apellidos": "SEGOVIA",
+      "nombres": "MATIAS ANGEL HONORIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 95,
+      "dni": "18XXXX51",
+      "apellidos": "ITURRE RIVERA",
+      "nombres": "OSCAR MANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "18XXXX78",
+      "apellidos": "ANCASI",
+      "nombres": "LIDIA CRISTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 33223,
+    "padron_id": 59565
+  },
+  "postulantes": [
+    {
+      "orden": 67,
+      "dni": "26XXXX19",
+      "apellidos": "GOMEZ",
+      "nombres": "ROSA ELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 67,
+      "dni": "22XXXX88",
+      "apellidos": "PAZ",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

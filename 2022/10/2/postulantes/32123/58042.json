@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 32123,
+    "padron_id": 58042
+  },
+  "postulantes": [
+    {
+      "orden": 99,
+      "dni": "18XXXX41",
+      "apellidos": "AMDOR",
+      "nombres": "MYRIAM FABIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 73,
+      "dni": "22XXXX88",
+      "apellidos": "PAZ",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 28509,
+    "padron_id": 56101
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "34XXXX64",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ENZO DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

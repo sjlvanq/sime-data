@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 30904,
+    "padron_id": 56121
+  },
+  "postulantes": [
+    {
+      "orden": 33,
+      "dni": "25XXXX98",
+      "apellidos": "CHABAN HEREDIA",
+      "nombres": "PEDRO AMADEO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "33XXXX15",
+      "apellidos": "HERRERA",
+      "nombres": "NELSON LEANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "28XXXX52",
+      "apellidos": "CHANI",
+      "nombres": "LUCRECIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "36XXXX54",
+      "apellidos": "MAHMUD",
+      "nombres": "MARIANO AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

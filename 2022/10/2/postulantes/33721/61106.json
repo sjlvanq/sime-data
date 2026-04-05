@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33721,
+    "padron_id": 61106
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "20XXXX15",
+      "apellidos": "NEME SIMEON",
+      "nombres": "MARIA FABIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX00",
+      "apellidos": "HEREDIA",
+      "nombres": "MARIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX76",
+      "apellidos": "ABELDAÑO",
+      "nombres": "RICARDO GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

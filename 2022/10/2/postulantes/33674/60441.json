@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 33674,
+    "padron_id": 60441
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "27XXXX84",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "MARCOS GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "40XXXX49",
+      "apellidos": "CEJAS",
+      "nombres": "ENEAS MARTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "37XXXX37",
+      "apellidos": "CEJAS",
+      "nombres": "LEANDRO IVAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX90",
+      "apellidos": "DIAZ GAITAN",
+      "nombres": "MARIA NAZARETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

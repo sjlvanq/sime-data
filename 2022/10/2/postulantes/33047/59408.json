@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33047,
+    "padron_id": 59408
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX81",
+      "apellidos": "VALENZUELA",
+      "nombres": "GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX68",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "GABRIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX68",
+      "apellidos": "JEREZ",
+      "nombres": "EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

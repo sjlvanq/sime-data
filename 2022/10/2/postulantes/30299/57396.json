@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30299,
+    "padron_id": 57396
+  },
+  "postulantes": [
+    {
+      "orden": 39,
+      "dni": "34XXXX20",
+      "apellidos": "HUERTA",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "36XXXX21",
+      "apellidos": "PAEZ ANGELICOLA",
+      "nombres": "IVANA HELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "36XXXX34",
+      "apellidos": "HERRERO JAIME",
+      "nombres": "MARÍA VICTORIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

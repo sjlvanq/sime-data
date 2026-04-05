@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 31518,
+    "padron_id": 56537
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX03",
+      "apellidos": "GARCIA",
+      "nombres": "MARIA LEONOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX31",
+      "apellidos": "GRANEROS",
+      "nombres": "EDIT VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX81",
+      "apellidos": "BENENCIA",
+      "nombres": "LUIS BENJAMIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

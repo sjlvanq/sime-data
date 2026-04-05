@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28136,
+    "padron_id": 57393
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "34XXXX93",
+      "apellidos": "AGRAMUNT",
+      "nombres": "MARIA GIANNINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "28XXXX27",
+      "apellidos": "GONZALEZ",
+      "nombres": "CECILIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "31XXXX97",
+      "apellidos": "TEVEZ",
+      "nombres": "HAYDEE DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

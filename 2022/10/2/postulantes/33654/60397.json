@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33654,
+    "padron_id": 60397
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "27XXXX84",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "MARCOS GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "23XXXX86",
+      "apellidos": "TOLEDO",
+      "nombres": "MARCOS LEONARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX90",
+      "apellidos": "DIAZ GAITAN",
+      "nombres": "MARIA NAZARETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

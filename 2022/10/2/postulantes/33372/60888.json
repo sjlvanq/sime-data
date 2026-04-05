@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 33372,
+    "padron_id": 60888
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "23XXXX23",
+      "apellidos": "MELIAN                                  ",
+      "nombres": "VIVIANA ELIZABETH                       ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "27XXXX12",
+      "apellidos": "GALOVARD",
+      "nombres": "FRANCISCA PAULA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "27XXXX19",
+      "apellidos": "PALLARES",
+      "nombres": "ELIANA CORINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "32XXXX42",
+      "apellidos": "REYES",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

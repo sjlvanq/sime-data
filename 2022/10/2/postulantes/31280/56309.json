@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 31280,
+    "padron_id": 56309
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX20",
+      "apellidos": "CORREA",
+      "nombres": "CARINA NATALIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "23XXXX80",
+      "apellidos": "ESTOQUIN",
+      "nombres": "ADRIANA MYRIAM",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 55,
+      "dni": "34XXXX26",
+      "apellidos": "GIMENEZ",
+      "nombres": "IVANNA BELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "21XXXX85",
+      "apellidos": "VILLARREAL",
+      "nombres": "ENRIQUETA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

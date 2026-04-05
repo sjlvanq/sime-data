@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 34019,
+    "padron_id": 60943
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "25XXXX47",
+      "apellidos": "FARIAS",
+      "nombres": "LUISA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "22XXXX38",
+      "apellidos": "TELLO",
+      "nombres": "LAURA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

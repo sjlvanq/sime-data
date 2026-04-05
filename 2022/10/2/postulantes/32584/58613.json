@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 32584,
+    "padron_id": 58613
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX15",
+      "apellidos": "SANTILLAN",
+      "nombres": "MARCOS AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "36XXXX40",
+      "apellidos": "MOLINA",
+      "nombres": "CARLA MARIA GUADALUPE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX06",
+      "apellidos": "CRUZADO",
+      "nombres": "MELINA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

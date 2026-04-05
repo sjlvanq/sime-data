@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33094,
+    "padron_id": 59710
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "16XXXX08",
+      "apellidos": "SAFE",
+      "nombres": "RITA GLADYS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "35XXXX88",
+      "apellidos": "VARGAS",
+      "nombres": "JUAN JOSÉ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "36XXXX26",
+      "apellidos": "FIGUEROA",
+      "nombres": "FATIMA ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

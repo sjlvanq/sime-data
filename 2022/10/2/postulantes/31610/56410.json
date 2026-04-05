@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 31610,
+    "padron_id": 56410
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "24XXXX56",
+      "apellidos": "CASARES",
+      "nombres": "ROSA ELISABET",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "26XXXX30",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "MARISA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX82",
+      "apellidos": "SEMINARA FARIAS                         ",
+      "nombres": "BEATRIZ ANTONIETA                       ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "30XXXX10",
+      "apellidos": "GALINDO",
+      "nombres": "SOFIA EUGENIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX79",
+      "apellidos": "DE LA VEGA",
+      "nombres": "MARCELA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

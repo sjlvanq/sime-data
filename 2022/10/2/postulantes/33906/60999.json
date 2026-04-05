@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 33906,
+    "padron_id": 60999
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX52",
+      "apellidos": "ARQUEZ",
+      "nombres": "FRANCISCO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "40XXXX34",
+      "apellidos": "ARROYO",
+      "nombres": "LOURDES EMILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

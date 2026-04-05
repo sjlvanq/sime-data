@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 32394,
+    "padron_id": 58574
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "31XXXX92",
+      "apellidos": "CENTENO",
+      "nombres": "SANDRA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "34XXXX90",
+      "apellidos": "AGUIRRE RODRIGUEZ",
+      "nombres": "LOURDES ROCIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX89",
+      "apellidos": "RUIZ",
+      "nombres": "JORGE HERNANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

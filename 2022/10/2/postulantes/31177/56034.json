@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 31177,
+    "padron_id": 56034
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "21XXXX87",
+      "apellidos": "PERALTA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "41XXXX74",
+      "apellidos": "CORONEL",
+      "nombres": "EXEQUIEL DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX76",
+      "apellidos": "CRUZ",
+      "nombres": "FERNANDO ENRIQUE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
