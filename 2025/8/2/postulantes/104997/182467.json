@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 104997,
+    "padron_id": 182467
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX97",
+      "apellidos": "SOSA",
+      "nombres": "SONIA CARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX00",
+      "apellidos": "PEREYRA",
+      "nombres": "NADIA PAMELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

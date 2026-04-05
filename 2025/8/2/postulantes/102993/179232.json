@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 102993,
+    "padron_id": 179232
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX30",
+      "apellidos": "ALBORNOZ",
+      "nombres": "MIRIAM MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX31",
+      "apellidos": "SAAVEDRA",
+      "nombres": "NOELIA JOSEFINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "30XXXX90",
+      "apellidos": "IBAÑEZ",
+      "nombres": "ROMINA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "28XXXX78",
+      "apellidos": "ORELLANA",
+      "nombres": "CAROLINA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

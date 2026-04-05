@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 103833,
+    "padron_id": 180445
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "38XXXX30",
+      "apellidos": "BRITO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "28XXXX04",
+      "apellidos": "LOPEZ MARTI",
+      "nombres": "MARIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

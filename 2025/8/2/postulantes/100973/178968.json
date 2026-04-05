@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100973,
+    "padron_id": 178968
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX73",
+      "apellidos": "GALLARDINI",
+      "nombres": "MARCOS DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "24XXXX48",
+      "apellidos": "VILLARRUBIA NORRI",
+      "nombres": "CARLOS MANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 101433,
+    "padron_id": 177484
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "31XXXX30",
+      "apellidos": "CERVANTES",
+      "nombres": "ROMINA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "37XXXX33",
+      "apellidos": "MONZÓN",
+      "nombres": "VICTORIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "28XXXX50",
+      "apellidos": "SALINAS",
+      "nombres": "LUIS ANGEL AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

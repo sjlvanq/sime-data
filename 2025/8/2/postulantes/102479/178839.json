@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102479,
+    "padron_id": 178839
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "35XXXX03",
+      "apellidos": "CUELLO",
+      "nombres": "EXEQUIEL HUMBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "39XXXX32",
+      "apellidos": "MIRANDA",
+      "nombres": "FRANCO ARIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "18XXXX51",
+      "apellidos": "ITURRE RIVERA",
+      "nombres": "OSCAR MANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

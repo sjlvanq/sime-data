@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 104504,
+    "padron_id": 181954
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "23XXXX67",
+      "apellidos": "VILLARREAL",
+      "nombres": "LUCIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "22XXXX50",
+      "apellidos": "JEREZ",
+      "nombres": "VICTOR JESUS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

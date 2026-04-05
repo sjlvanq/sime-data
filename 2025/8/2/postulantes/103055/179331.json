@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 103055,
+    "padron_id": 179331
+  },
+  "postulantes": [
+    {
+      "orden": 142,
+      "dni": "20XXXX49",
+      "apellidos": "TAPIA",
+      "nombres": "HUGO CEFERINO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 196,
+      "dni": "34XXXX13",
+      "apellidos": "PAZ",
+      "nombres": "RODRIGO EZEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "30XXXX44",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "34XXXX60",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "JORGE DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

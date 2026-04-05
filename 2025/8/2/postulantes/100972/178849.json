@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 100972,
+    "padron_id": 178849
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "38XXXX30",
+      "apellidos": "BRITO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "28XXXX51",
+      "apellidos": "CORREA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "26XXXX90",
+      "apellidos": "GUTIERREZ",
+      "nombres": "CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "40XXXX40",
+      "apellidos": "BENZAL",
+      "nombres": "MARIANA CANDELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "28XXXX04",
+      "apellidos": "LOPEZ MARTI",
+      "nombres": "MARIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

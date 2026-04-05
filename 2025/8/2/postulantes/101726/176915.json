@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 101726,
+    "padron_id": 176915
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX76",
+      "apellidos": "VILLAGRA IBES",
+      "nombres": "LUZ BELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX06",
+      "apellidos": "ARMELLA",
+      "nombres": "JESSICA ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX50",
+      "apellidos": "OTALORA",
+      "nombres": "SARA SOFIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

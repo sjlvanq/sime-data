@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 104637,
+    "padron_id": 181620
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX01",
+      "apellidos": "RODRIGUEZ VERA",
+      "nombres": "ANA LAURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX19",
+      "apellidos": "LOBO",
+      "nombres": "SILVIA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

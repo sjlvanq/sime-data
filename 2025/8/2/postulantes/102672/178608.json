@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102672,
+    "padron_id": 178608
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "39XXXX03",
+      "apellidos": "MENDEZ",
+      "nombres": "ALVARO LEONEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "39XXXX50",
+      "apellidos": "ALURRALDE",
+      "nombres": "MARLENE ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX38",
+      "apellidos": "LOBERZA",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

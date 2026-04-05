@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 101790,
+    "padron_id": 177389
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX31",
+      "apellidos": "MALDONADO",
+      "nombres": "PAOLA DANIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX77",
+      "apellidos": "MUSTAFA",
+      "nombres": "MARIA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

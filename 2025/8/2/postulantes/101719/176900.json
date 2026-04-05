@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 101719,
+    "padron_id": 176900
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX76",
+      "apellidos": "VILLAGRA IBES",
+      "nombres": "LUZ BELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX53",
+      "apellidos": "ACOSTA DUSZENKO",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX50",
+      "apellidos": "OTALORA",
+      "nombres": "SARA SOFIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "25XXXX09",
+      "apellidos": "ROSENBERG",
+      "nombres": "LAURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

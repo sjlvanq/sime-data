@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103775,
+    "padron_id": 180225
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX08",
+      "apellidos": "ZELARAYAN",
+      "nombres": "PAULINA DANIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX94",
+      "apellidos": "MONROY",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX06",
+      "apellidos": "VEGA",
+      "nombres": "MONICA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

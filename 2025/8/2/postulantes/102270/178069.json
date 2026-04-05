@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102270,
+    "padron_id": 178069
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "32XXXX11",
+      "apellidos": "ORTIZ",
+      "nombres": "GABRIELA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "40XXXX14",
+      "apellidos": "MAZA",
+      "nombres": "ANA LUCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "41XXXX36",
+      "apellidos": "VENZAL",
+      "nombres": "ANDREA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

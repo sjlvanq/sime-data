@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102069,
+    "padron_id": 178046
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "31XXXX80",
+      "apellidos": "COLMENARES TORRES",
+      "nombres": "ITALO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "38XXXX66",
+      "apellidos": "FABERSANI",
+      "nombres": "MARIA LUCIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "24XXXX17",
+      "apellidos": "VERA LEAL",
+      "nombres": "CLAUDIA PAOLA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

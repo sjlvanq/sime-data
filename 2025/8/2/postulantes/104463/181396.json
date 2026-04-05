@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 104463,
+    "padron_id": 181396
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX70",
+      "apellidos": "PERAL",
+      "nombres": "SUSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX29",
+      "apellidos": "TARIFA",
+      "nombres": "DANIEL ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102463,
+    "padron_id": 178705
+  },
+  "postulantes": [
+    {
+      "orden": 104,
+      "dni": "24XXXX73",
+      "apellidos": "ORTIZ",
+      "nombres": "JOSÉ LUIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 110,
+      "dni": "34XXXX87",
+      "apellidos": "BARRAZA",
+      "nombres": "ANA PAULA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "28XXXX38",
+      "apellidos": "SELMAN",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

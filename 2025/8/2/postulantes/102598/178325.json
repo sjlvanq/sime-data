@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 102598,
+    "padron_id": 178325
+  },
+  "postulantes": [
+    {
+      "orden": 48,
+      "dni": "30XXXX01",
+      "apellidos": "OLIVARES",
+      "nombres": "NATALIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "33XXXX11",
+      "apellidos": "NUÑEZ",
+      "nombres": "JOANA PATRICIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 103,
+      "dni": "29XXXX00",
+      "apellidos": "PALAVECINO",
+      "nombres": "ALVARO ANDRES HERNAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 103788,
+    "padron_id": 180782
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "28XXXX39",
+      "apellidos": "ZELARAYAN",
+      "nombres": "HERNAN ANTONIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "39XXXX57",
+      "apellidos": "PLATANIA",
+      "nombres": "LUCIANO GERARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

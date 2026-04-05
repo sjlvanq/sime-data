@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 100332,
+    "padron_id": 177809
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX76",
+      "apellidos": "MAMANI",
+      "nombres": "MELINA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "37XXXX33",
+      "apellidos": "MONZÓN",
+      "nombres": "VICTORIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "28XXXX50",
+      "apellidos": "SALINAS",
+      "nombres": "LUIS ANGEL AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "33XXXX12",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOSE MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

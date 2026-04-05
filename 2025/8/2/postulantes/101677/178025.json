@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 101677,
+    "padron_id": 178025
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX51",
+      "apellidos": "CHACANA AREVALO",
+      "nombres": "MARIO ROMAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "41XXXX82",
+      "apellidos": "FANJUL",
+      "nombres": "ROCIO ANTONELLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "40XXXX52",
+      "apellidos": "FERREYRA",
+      "nombres": "CARLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

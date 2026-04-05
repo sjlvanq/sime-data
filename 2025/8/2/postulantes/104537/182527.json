@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104537,
+    "padron_id": 182527
+  },
+  "postulantes": [
+    {
+      "orden": 102,
+      "dni": "33XXXX45",
+      "apellidos": "FUNEZ",
+      "nombres": "DARDO NICOLAS FRANCISCO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 201,
+      "dni": "37XXXX53",
+      "apellidos": "SANCHEZ",
+      "nombres": "GRECIA ANTONELLA MARGARITA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "35XXXX11",
+      "apellidos": "DONAIRE",
+      "nombres": "YANINA YUDITH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

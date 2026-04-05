@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104313,
+    "padron_id": 182547
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX78",
+      "apellidos": "LUNA",
+      "nombres": "CARMEN ESTHER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "23XXXX75",
+      "apellidos": "VELEZ",
+      "nombres": "MONICA ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "33XXXX36",
+      "apellidos": "BERTINI",
+      "nombres": "ADRIANA GISELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

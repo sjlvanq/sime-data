@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 103238,
+    "padron_id": 179356
+  },
+  "postulantes": [
+    {
+      "orden": 81,
+      "dni": "27XXXX81",
+      "apellidos": "VIEYRA",
+      "nombres": "MARIELA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "28XXXX04",
+      "apellidos": "LOPEZ MARTI",
+      "nombres": "MARIA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "25XXXX16",
+      "apellidos": "AVILA",
+      "nombres": "DELFINA MARÍA DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX07",
+      "apellidos": "DANILOVICH",
+      "nombres": "LUCIA FLORENCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "38XXXX30",
+      "apellidos": "BRITO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

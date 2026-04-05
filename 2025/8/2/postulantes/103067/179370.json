@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103067,
+    "padron_id": 179370
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "33XXXX74",
+      "apellidos": "DATO",
+      "nombres": "CECILIA INÉS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "41XXXX72",
+      "apellidos": "BAEZ",
+      "nombres": "SEBASTIÁN EZEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "16XXXX97",
+      "apellidos": "CASTRO",
+      "nombres": "NELIDA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

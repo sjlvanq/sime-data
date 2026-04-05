@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103550,
+    "padron_id": 179948
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "40XXXX08",
+      "apellidos": "ORQUERA",
+      "nombres": "SILVINA NATALÍ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 74,
+      "dni": "38XXXX71",
+      "apellidos": "MEDINA",
+      "nombres": "GABRIEL NICOLAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 72,
+      "dni": "37XXXX38",
+      "apellidos": "LAZARTE AGUIRRE",
+      "nombres": "CECILIA PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

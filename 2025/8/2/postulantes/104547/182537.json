@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104547,
+    "padron_id": 182537
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "31XXXX09",
+      "apellidos": "PASTRANA",
+      "nombres": "ELIANA ROMINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "35XXXX11",
+      "apellidos": "DONAIRE",
+      "nombres": "YANINA YUDITH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 131,
+      "dni": "42XXXX31",
+      "apellidos": "ROBERTO",
+      "nombres": "ROSARIO AGUSTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

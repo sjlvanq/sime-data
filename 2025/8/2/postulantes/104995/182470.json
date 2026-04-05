@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104995,
+    "padron_id": 182470
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX51",
+      "apellidos": "LAZARTE",
+      "nombres": "MOIRA MERCEDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "24XXXX20",
+      "apellidos": "AGUIRRE",
+      "nombres": "SUSANA NOEMI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "22XXXX83",
+      "apellidos": "HERRERA",
+      "nombres": "GLORIA ARGENTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

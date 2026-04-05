@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 101683,
+    "padron_id": 177880
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "28XXXX53",
+      "apellidos": "SORIA",
+      "nombres": "FABIOLA SUSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "40XXXX52",
+      "apellidos": "FERREYRA",
+      "nombres": "CARLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

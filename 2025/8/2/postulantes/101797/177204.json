@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 101797,
+    "padron_id": 177204
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX77",
+      "apellidos": "DIAZ",
+      "nombres": "ISABEL BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX98",
+      "apellidos": "CORONEL",
+      "nombres": "JUANA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 101015,
+    "padron_id": 178965
+  },
+  "postulantes": [
+    {
+      "orden": 72,
+      "dni": "36XXXX65",
+      "apellidos": "LUCENA",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "33XXXX80",
+      "apellidos": "LOPEZ",
+      "nombres": "JIMENA MARCELINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 168,
+      "dni": "38XXXX21",
+      "apellidos": "MATTEUCCI",
+      "nombres": "TOMAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

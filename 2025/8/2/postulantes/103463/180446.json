@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 103463,
+    "padron_id": 180446
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "30XXXX35",
+      "apellidos": "LEDESMA",
+      "nombres": "CARMEN MYRIAM DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "38XXXX30",
+      "apellidos": "BRITO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "30XXXX60",
+      "apellidos": "GONZALEZ",
+      "nombres": "IVANNA EVANGELINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

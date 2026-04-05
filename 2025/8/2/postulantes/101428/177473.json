@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 101428,
+    "padron_id": 177473
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "17XXXX86",
+      "apellidos": "BRANDAN",
+      "nombres": "JORGE EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "36XXXX58",
+      "apellidos": "RIVERO",
+      "nombres": "ALEJANDRA STEPHANIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "18XXXX91",
+      "apellidos": "CERVANTES",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
