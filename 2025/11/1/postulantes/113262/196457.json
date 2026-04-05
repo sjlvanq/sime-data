@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 113262,
+    "padron_id": 196457
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX68",
+      "apellidos": "LUNA",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "32XXXX65",
+      "apellidos": "GONZALEZ",
+      "nombres": "CLAUDIA ELIZABELH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "26XXXX11",
+      "apellidos": "GOMEZ",
+      "nombres": "LAURA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "29XXXX62",
+      "apellidos": "ZULUAGA",
+      "nombres": "BLANCA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

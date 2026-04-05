@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 113940,
+    "padron_id": 197212
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "42XXXX01",
+      "apellidos": "MANCERA",
+      "nombres": "TOMAS AARON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "41XXXX48",
+      "apellidos": "CEBALLOS",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "38XXXX02",
+      "apellidos": "ARROYO",
+      "nombres": "DANIELA GISEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

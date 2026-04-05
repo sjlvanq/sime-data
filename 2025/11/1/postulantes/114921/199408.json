@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114921,
+    "padron_id": 199408
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "22XXXX74",
+      "apellidos": "CHAZARRETA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "33XXXX58",
+      "apellidos": "AVILA",
+      "nombres": "SERGIO DANIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX29",
+      "apellidos": "FIGUEROA",
+      "nombres": "NATALIA MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

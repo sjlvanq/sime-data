@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115304,
+    "padron_id": 199879
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "29XXXX84",
+      "apellidos": "ALBORNOZ",
+      "nombres": "MANUEL HORACIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "34XXXX38",
+      "apellidos": "LOPEZ MORALES",
+      "nombres": "JULIO CESAR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 139,
+      "dni": "39XXXX00",
+      "apellidos": "PERALTA LÓPEZ",
+      "nombres": "CAMILA ANAHÍ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

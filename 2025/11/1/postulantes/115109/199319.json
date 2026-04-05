@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115109,
+    "padron_id": 199319
+  },
+  "postulantes": [
+    {
+      "orden": 219,
+      "dni": "25XXXX55",
+      "apellidos": "HEREDIA",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 310,
+      "dni": "24XXXX60",
+      "apellidos": "NIEVA",
+      "nombres": "BLANCA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 110,
+      "dni": "27XXXX93",
+      "apellidos": "JUAREZ",
+      "nombres": "ANDREA FABIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 113253,
+    "padron_id": 196432
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "40XXXX07",
+      "apellidos": "ALBORNOZ ORTIZ",
+      "nombres": "MARIA MACARENA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "41XXXX72",
+      "apellidos": "CONDORI",
+      "nombres": "CARLA LORENA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "42XXXX68",
+      "apellidos": "NUÑEZ",
+      "nombres": "ANGEL NICOLAS",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 115521,
+    "padron_id": 200172
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "20XXXX77",
+      "apellidos": "GEREZ",
+      "nombres": "ANA MARIA GABRIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "35XXXX58",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "ANDREA MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "37XXXX07",
+      "apellidos": "SOMERA",
+      "nombres": "JIMENA ROCIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "31XXXX10",
+      "apellidos": "GRANITO",
+      "nombres": "MARIA CELINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

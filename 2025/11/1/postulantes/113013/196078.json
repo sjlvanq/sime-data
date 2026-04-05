@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 113013,
+    "padron_id": 196078
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX35",
+      "apellidos": "VERA",
+      "nombres": "CARLOS AUGUSTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "41XXXX48",
+      "apellidos": "CEBALLOS",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

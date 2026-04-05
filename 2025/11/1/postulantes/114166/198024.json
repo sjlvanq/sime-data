@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114166,
+    "padron_id": 198024
+  },
+  "postulantes": [
+    {
+      "orden": 295,
+      "dni": "34XXXX07",
+      "apellidos": "MEDINA",
+      "nombres": "MAXIMILIANO ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 312,
+      "dni": "27XXXX23",
+      "apellidos": "DOMINGUEZ",
+      "nombres": "MARIANA PAOLA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 366,
+      "dni": "23XXXX62",
+      "apellidos": "YTURRE",
+      "nombres": "SILVIA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

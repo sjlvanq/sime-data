@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114686,
+    "padron_id": 198828
+  },
+  "postulantes": [
+    {
+      "orden": 158,
+      "dni": "32XXXX96",
+      "apellidos": "ROMANO",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 375,
+      "dni": "23XXXX90",
+      "apellidos": "LOPEZ",
+      "nombres": "CARINA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 365,
+      "dni": "29XXXX18",
+      "apellidos": "SVALDI",
+      "nombres": "CARINA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

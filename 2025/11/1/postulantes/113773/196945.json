@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 113773,
+    "padron_id": 196945
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "33XXXX78",
+      "apellidos": "SARMIENTO",
+      "nombres": "HILDA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "25XXXX91",
+      "apellidos": "DIAZ",
+      "nombres": "SILVIA SUSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

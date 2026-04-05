@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115513,
+    "padron_id": 200169
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "32XXXX36",
+      "apellidos": "GONZALEZ",
+      "nombres": "CONSTANZA ALIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "28XXXX16",
+      "apellidos": "ESTRADA",
+      "nombres": "FERNANDO ESTEBAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "20XXXX50",
+      "apellidos": "TAPIA DE HENZELMANN",
+      "nombres": "PATRICIA FABIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

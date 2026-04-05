@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114773,
+    "padron_id": 199191
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "20XXXX82",
+      "apellidos": "GAUNA",
+      "nombres": "SANDRA JOSEFINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "28XXXX29",
+      "apellidos": "FIGUEROA",
+      "nombres": "NATALIA MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "23XXXX19",
+      "apellidos": "LUJAN",
+      "nombres": "CAROLINA VIVIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

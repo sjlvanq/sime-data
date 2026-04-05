@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 113270,
+    "padron_id": 196444
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "36XXXX18",
+      "apellidos": "TOLEDO",
+      "nombres": "BRENDA GISELL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 86,
+      "dni": "33XXXX32",
+      "apellidos": "OCTAVIANO",
+      "nombres": "MARIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX38",
+      "apellidos": "GALVAN",
+      "nombres": "EMILSE YANINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 128,
+      "dni": "29XXXX07",
+      "apellidos": "CARABAJAL",
+      "nombres": "PAULA LUCIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

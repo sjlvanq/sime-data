@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 113420,
+    "padron_id": 196718
+  },
+  "postulantes": [
+    {
+      "orden": 511,
+      "dni": "24XXXX81",
+      "apellidos": "CASTRO",
+      "nombres": "LUANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 523,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1104,
+      "dni": "33XXXX28",
+      "apellidos": "PEREYRA",
+      "nombres": "MARIA DEL ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

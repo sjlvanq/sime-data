@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 115614,
+    "padron_id": 200348
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "21XXXX43",
+      "apellidos": "LIZARRAGA",
+      "nombres": "ESTELA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "35XXXX96",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "NOELIA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "34XXXX96",
+      "apellidos": "OLARTE",
+      "nombres": "GABRIEL EMILIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "34XXXX84",
+      "apellidos": "GRAMAJO",
+      "nombres": "ABEL GERMAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

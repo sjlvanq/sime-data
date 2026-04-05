@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 113273,
+    "padron_id": 196441
+  },
+  "postulantes": [
+    {
+      "orden": 123,
+      "dni": "29XXXX58",
+      "apellidos": "SOSA",
+      "nombres": "SANDRA GISELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "23XXXX76",
+      "apellidos": "NIEVA",
+      "nombres": "MIRTA MARCELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

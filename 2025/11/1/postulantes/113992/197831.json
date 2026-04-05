@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 113992,
+    "padron_id": 197831
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "21XXXX43",
+      "apellidos": "LIZARRAGA",
+      "nombres": "ESTELA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "21XXXX11",
+      "apellidos": "DIAZ",
+      "nombres": "FABIANA SONIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "20XXXX88",
+      "apellidos": "SUAREZ",
+      "nombres": "TERESA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "34XXXX96",
+      "apellidos": "OLARTE",
+      "nombres": "GABRIEL EMILIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

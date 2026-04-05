@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112986,
+    "padron_id": 196073
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "21XXXX93",
+      "apellidos": "MERCADO",
+      "nombres": "SANDRA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "22XXXX54",
+      "apellidos": "VELIZ",
+      "nombres": "BEATRIZ ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "22XXXX97",
+      "apellidos": "FERREYRA",
+      "nombres": "RAQUEL PAOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

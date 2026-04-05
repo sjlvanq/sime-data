@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 113792,
+    "padron_id": 197171
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "34XXXX80",
+      "apellidos": "PEREYRA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "25XXXX50",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "20XXXX84",
+      "apellidos": "NARCOTTI",
+      "nombres": "MYRIAM MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

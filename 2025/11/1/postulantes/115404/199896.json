@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 115404,
+    "padron_id": 199896
+  },
+  "postulantes": [
+    {
+      "orden": 194,
+      "dni": "25XXXX34",
+      "apellidos": "REYNOSO",
+      "nombres": "CLAUDIA ROXANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 388,
+      "dni": "21XXXX60",
+      "apellidos": "ALBORNOZ",
+      "nombres": "DELIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 110,
+      "dni": "24XXXX77",
+      "apellidos": "TAPIA",
+      "nombres": "PAOLA ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 300,
+      "dni": "22XXXX95",
+      "apellidos": "JIMENEZ",
+      "nombres": "ISABEL DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

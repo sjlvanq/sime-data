@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114765,
+    "padron_id": 199084
+  },
+  "postulantes": [
+    {
+      "orden": 172,
+      "dni": "27XXXX34",
+      "apellidos": "ORELLANA",
+      "nombres": "ESTELA MARI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 257,
+      "dni": "29XXXX11",
+      "apellidos": "TOLOSA",
+      "nombres": "ROBERTO MARCELO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 366,
+      "dni": "23XXXX62",
+      "apellidos": "YTURRE",
+      "nombres": "SILVIA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

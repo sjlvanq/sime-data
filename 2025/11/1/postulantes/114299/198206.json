@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 114299,
+    "padron_id": 198206
+  },
+  "postulantes": [
+    {
+      "orden": 177,
+      "dni": "33XXXX40",
+      "apellidos": "VALDEZ",
+      "nombres": "MIRIAN ELIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 220,
+      "dni": "34XXXX42",
+      "apellidos": "NIEVA",
+      "nombres": "NADIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 344,
+      "dni": "24XXXX64",
+      "apellidos": "GONZALEZ",
+      "nombres": "ROSSANA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 443,
+      "dni": "20XXXX45",
+      "apellidos": "MOREIRA",
+      "nombres": "NOEMI DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

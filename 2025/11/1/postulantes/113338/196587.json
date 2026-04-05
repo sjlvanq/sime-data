@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 113338,
+    "padron_id": 196587
+  },
+  "postulantes": [
+    {
+      "orden": 151,
+      "dni": "23XXXX35",
+      "apellidos": "DIAZ",
+      "nombres": "KARINA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 182,
+      "dni": "25XXXX50",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

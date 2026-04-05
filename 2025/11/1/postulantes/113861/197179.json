@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 113861,
+    "padron_id": 197179
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "22XXXX74",
+      "apellidos": "CHAZARRETA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "23XXXX61",
+      "apellidos": "VERA",
+      "nombres": "ESTELA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "33XXXX58",
+      "apellidos": "AVILA",
+      "nombres": "SERGIO DANIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

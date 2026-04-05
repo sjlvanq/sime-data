@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115832,
+    "padron_id": 200566
+  },
+  "postulantes": [
+    {
+      "orden": 136,
+      "dni": "23XXXX53",
+      "apellidos": "SIERRA",
+      "nombres": "ESTELA MARY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 165,
+      "dni": "25XXXX50",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 97,
+      "dni": "26XXXX36",
+      "apellidos": "QUIROGA",
+      "nombres": "CLAUDIA LUCIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
