@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 35044,
+    "padron_id": 63034
+  },
+  "postulantes": [
+    {
+      "orden": 40,
+      "dni": "21XXXX31",
+      "apellidos": "RIVADENEIRA",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX51",
+      "apellidos": "MEDINA",
+      "nombres": "RICARDO EMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "26XXXX96",
+      "apellidos": "CARRIZO",
+      "nombres": "NIEVES VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "29XXXX74",
+      "apellidos": "CORBALAN",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "16XXXX15",
+      "apellidos": "VEGA",
+      "nombres": "PATRICIA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

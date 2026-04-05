@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 35178,
+    "padron_id": 63327
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX54",
+      "apellidos": "AVILA",
+      "nombres": "ADRIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX50",
+      "apellidos": "TRAPANI",
+      "nombres": "CECILIA CAROLINA  DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "26XXXX68",
+      "apellidos": "LESCANO",
+      "nombres": "MONICA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "24XXXX78",
+      "apellidos": "ANTUNEZ",
+      "nombres": "DOMINGO ANTONIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

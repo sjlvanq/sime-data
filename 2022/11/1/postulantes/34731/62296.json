@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34731,
+    "padron_id": 62296
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "32XXXX21",
+      "apellidos": "ALBARRACIN",
+      "nombres": "MARIA IVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "25XXXX34",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "SILVINA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "24XXXX30",
+      "apellidos": "PORCEL",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

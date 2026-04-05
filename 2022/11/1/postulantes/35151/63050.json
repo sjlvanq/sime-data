@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35151,
+    "padron_id": 63050
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "21XXXX43",
+      "apellidos": "LIZARRAGA",
+      "nombres": "ESTELA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "25XXXX57",
+      "apellidos": "GUTIERREZ",
+      "nombres": "CLAUDIA GABRIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "20XXXX41",
+      "apellidos": "CARDOZO",
+      "nombres": "MARIA ASUNCION",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

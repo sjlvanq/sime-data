@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35523,
+    "padron_id": 65022
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "34XXXX25",
+      "apellidos": "HERRERA",
+      "nombres": "CRISTINA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "26XXXX56",
+      "apellidos": "LAGARDE",
+      "nombres": "LUCIANA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "32XXXX56",
+      "apellidos": "BORDALLO",
+      "nombres": "SANTIAGO LUIS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

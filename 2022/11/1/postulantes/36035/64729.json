@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "vacante_id": 36035,
+    "padron_id": 64729
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX78",
+      "apellidos": "GONZALEZ",
+      "nombres": "JOSE MARIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "35XXXX96",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "NOELIA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX94",
+      "apellidos": "RUÍZ",
+      "nombres": "MARÍA SUSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX66",
+      "apellidos": "VIZCARRA",
+      "nombres": "MARIA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "27XXXX34",
+      "apellidos": "JUAREZ",
+      "nombres": "ELENA JESUS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "29XXXX47",
+      "apellidos": "RUIZ",
+      "nombres": "CLARA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 66,
+      "dni": "26XXXX67",
+      "apellidos": "MALDONADO",
+      "nombres": "LORENA DE LOS ÁNGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "32XXXX48",
+      "apellidos": "CORREA",
+      "nombres": "RODOLFO ERNESTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

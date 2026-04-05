@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36188,
+    "padron_id": 64818
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "25XXXX34",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "SILVINA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "24XXXX30",
+      "apellidos": "PORCEL",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "30XXXX00",
+      "apellidos": "PEREA",
+      "nombres": "NOELIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

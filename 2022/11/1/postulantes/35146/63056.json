@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35146,
+    "padron_id": 63056
+  },
+  "postulantes": [
+    {
+      "orden": 43,
+      "dni": "36XXXX88",
+      "apellidos": "ROMANO JUAREZ",
+      "nombres": "MICAELA LIHEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "40XXXX61",
+      "apellidos": "ROMERO",
+      "nombres": "ROSARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "38XXXX69",
+      "apellidos": "VILCA",
+      "nombres": "LUCIA MACARENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 34829,
+    "padron_id": 62342
+  },
+  "postulantes": [
+    {
+      "orden": 137,
+      "dni": "21XXXX17",
+      "apellidos": "VILLARREAL",
+      "nombres": "SILVINA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "23XXXX96",
+      "apellidos": "DIAZ",
+      "nombres": "KARINA ADELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "22XXXX00",
+      "apellidos": "LAZARTE",
+      "nombres": "MARIA EDITH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

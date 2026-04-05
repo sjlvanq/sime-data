@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35248,
+    "padron_id": 63371
+  },
+  "postulantes": [
+    {
+      "orden": 96,
+      "dni": "25XXXX79",
+      "apellidos": "CHOCOBAR ONTIVEROS",
+      "nombres": "FABIOLA MAYRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 99,
+      "dni": "24XXXX52",
+      "apellidos": "GOMEZ",
+      "nombres": "ROSANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "23XXXX86",
+      "apellidos": "CAMPOS CESARINI ",
+      "nombres": "SILVIA VERONICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

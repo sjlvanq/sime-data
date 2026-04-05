@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 35107,
+    "padron_id": 63003
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "21XXXX87",
+      "apellidos": "PERALTA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX49",
+      "apellidos": "JACOBO",
+      "nombres": "MARIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX71",
+      "apellidos": "CORREA",
+      "nombres": "SILVANA VALERIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "16XXXX71",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIO HUMBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

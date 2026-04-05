@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36073,
+    "padron_id": 64739
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "29XXXX66",
+      "apellidos": "VIZCARRA",
+      "nombres": "MARIA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "29XXXX47",
+      "apellidos": "RUIZ",
+      "nombres": "CLARA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 66,
+      "dni": "26XXXX67",
+      "apellidos": "MALDONADO",
+      "nombres": "LORENA DE LOS ÁNGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

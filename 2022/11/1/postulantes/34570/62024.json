@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 34570,
+    "padron_id": 62024
+  },
+  "postulantes": [
+    {
+      "orden": 44,
+      "dni": "18XXXX86",
+      "apellidos": "SALGUERO",
+      "nombres": "ESTELA RAMONA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "26XXXX75",
+      "apellidos": "PEREZ",
+      "nombres": "HECTOR AUGUSTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

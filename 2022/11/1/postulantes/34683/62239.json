@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 34683,
+    "padron_id": 62239
+  },
+  "postulantes": [
+    {
+      "orden": 53,
+      "dni": "41XXXX85",
+      "apellidos": "LUCENA HAYWARD",
+      "nombres": "AGUSTINA MARIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "40XXXX61",
+      "apellidos": "ROMERO",
+      "nombres": "ROSARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX97",
+      "apellidos": "ALDERETE GONZALEZ",
+      "nombres": "PRISCILA YENNI",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "38XXXX69",
+      "apellidos": "VILCA",
+      "nombres": "LUCIA MACARENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
