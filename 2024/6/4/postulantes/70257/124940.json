@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 70257,
+    "padron_id": 124940
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX19",
+      "apellidos": "AVILA",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "33XXXX43",
+      "apellidos": "ARRIETA",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "40XXXX81",
+      "apellidos": "RUIZ",
+      "nombres": "CARLOS FERNANDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69204,
+    "padron_id": 123413
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "35XXXX34",
+      "apellidos": "COSTILLA",
+      "nombres": "NELSON RODRIGO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN CARACTER",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "40XXXX82",
+      "apellidos": "YBRAHIM",
+      "nombres": "EMILSE YAZMIN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN CARACTER",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "34XXXX32",
+      "apellidos": "CACERES",
+      "nombres": "CARLOS LEONARDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN CARACTER",
+      "CargoInferior": "-"
+    }
+  ]
+}

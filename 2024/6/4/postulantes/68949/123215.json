@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68949,
+    "padron_id": 123215
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "32XXXX05",
+      "apellidos": "ANDOLE",
+      "nombres": "MARIA ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "36XXXX69",
+      "apellidos": "TELLO",
+      "nombres": "ANDREA LUCIANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "20XXXX82",
+      "apellidos": "ALE",
+      "nombres": "SELMA BEATRIZ",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

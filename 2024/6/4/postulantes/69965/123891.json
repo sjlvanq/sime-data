@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69965,
+    "padron_id": 123891
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "38XXXX92",
+      "apellidos": "PEDRAZA CORONEL",
+      "nombres": "MAYRA AGUSTINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "26XXXX05",
+      "apellidos": "BUSTOS",
+      "nombres": "ALICIA DEL CARMEN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "38XXXX44",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA BELÉN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
