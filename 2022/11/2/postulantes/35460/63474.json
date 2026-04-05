@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35460,
+    "padron_id": 63474
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "13XXXX21",
+      "apellidos": "ARIAS GUTIERREZ",
+      "nombres": "PATRICIA CRISTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "30XXXX84",
+      "apellidos": "AMADOR",
+      "nombres": "EZEQUIEL FRANCO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "16XXXX36",
+      "apellidos": "JUAREZ",
+      "nombres": "ALBA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

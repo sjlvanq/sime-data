@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 35170,
+    "padron_id": 63472
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "36XXXX23",
+      "apellidos": "SALGUERO",
+      "nombres": "MILAGRO DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX72",
+      "apellidos": "GONZALEZ",
+      "nombres": "HERNANDO RAUL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX90",
+      "apellidos": "SANDOVAL",
+      "nombres": "ANDREA NATALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX31",
+      "apellidos": "TOLEDO",
+      "nombres": "LAURA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

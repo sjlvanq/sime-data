@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34500,
+    "padron_id": 61931
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "21XXXX85",
+      "apellidos": "VILLARREAL",
+      "nombres": "ENRIQUETA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "17XXXX32",
+      "apellidos": "FIGUEROA",
+      "nombres": "SEGUNDO FERMIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "25XXXX08",
+      "apellidos": "ACOSTA",
+      "nombres": "DANIEL WALTER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

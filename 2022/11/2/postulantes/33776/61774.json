@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33776,
+    "padron_id": 61774
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "29XXXX02",
+      "apellidos": "AUDI FALU",
+      "nombres": "MONICA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "36XXXX83",
+      "apellidos": "BONILLA",
+      "nombres": "BRUNO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX90",
+      "apellidos": "AGUIRRE RODRIGUEZ",
+      "nombres": "LOURDES ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

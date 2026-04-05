@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 34824,
+    "padron_id": 62527
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "33XXXX23",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA VICTORIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "27XXXX13",
+      "apellidos": "PAZ",
+      "nombres": "SILVANA ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 68,
+      "dni": "37XXXX38",
+      "apellidos": "GOMEZ RUIZ",
+      "nombres": "ERICA MARIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "27XXXX86",
+      "apellidos": "GALVAN RAMOS                            ",
+      "nombres": "NORA BEATRIZ                            ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

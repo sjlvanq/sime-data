@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34994,
+    "padron_id": 62691
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "26XXXX92",
+      "apellidos": "JEREZ",
+      "nombres": "NANCY ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "30XXXX38",
+      "apellidos": "COLQUE",
+      "nombres": "GASTON EMANUEL ANTONIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "31XXXX42",
+      "apellidos": "MARTINEZ",
+      "nombres": "KARINA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

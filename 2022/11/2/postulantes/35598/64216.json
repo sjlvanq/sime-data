@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 35598,
+    "padron_id": 64216
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX30",
+      "apellidos": "SCHMIDT",
+      "nombres": "LUIS GERARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX89",
+      "apellidos": "PEREZ",
+      "nombres": "MARIA VALERIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

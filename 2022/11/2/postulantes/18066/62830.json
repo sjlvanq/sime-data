@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 18066,
+    "padron_id": 62830
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "33XXXX67",
+      "apellidos": "ISA LUNA",
+      "nombres": "ALICZON DENNISSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 166,
+      "dni": "37XXXX03",
+      "apellidos": "ALVAREZ",
+      "nombres": "EZEQUIEL EUGENIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 101,
+      "dni": "34XXXX76",
+      "apellidos": "OLARTE",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

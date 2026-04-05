@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34615,
+    "padron_id": 62175
+  },
+  "postulantes": [
+    {
+      "orden": 80,
+      "dni": "28XXXX88",
+      "apellidos": "VERA",
+      "nombres": "RAMON ENRIQUE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 181,
+      "dni": "35XXXX00",
+      "apellidos": "MORENO",
+      "nombres": "RAUL ALEJANDRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "30XXXX01",
+      "apellidos": "JUAREZ",
+      "nombres": "VALERIA MARIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

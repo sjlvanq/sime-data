@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34784,
+    "padron_id": 62432
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "30XXXX23",
+      "apellidos": "CAMPOS",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "26XXXX35",
+      "apellidos": "ORTIZ",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "36XXXX45",
+      "apellidos": "OCARANZA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

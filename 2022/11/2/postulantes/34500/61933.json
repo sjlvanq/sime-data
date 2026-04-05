@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 34500,
+    "padron_id": 61933
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "18XXXX29",
+      "apellidos": "LUNA",
+      "nombres": "ELIZABET YOLANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX44",
+      "apellidos": "ELIAS",
+      "nombres": "ESTEBAN DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "34XXXX12",
+      "apellidos": "NAVARRO PEREA",
+      "nombres": "FERNANDA GISELLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "33XXXX46",
+      "apellidos": "RUIZ",
+      "nombres": "SILVIA LILIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

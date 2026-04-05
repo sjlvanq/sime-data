@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 34107,
+    "padron_id": 61711
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "29XXXX78",
+      "apellidos": "UÑATES",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "38XXXX83",
+      "apellidos": "URIBIO",
+      "nombres": "BRENDA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "32XXXX69",
+      "apellidos": "QUINTANA",
+      "nombres": "DEBORA RUTH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX70",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ROSARIO ARGENTINA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

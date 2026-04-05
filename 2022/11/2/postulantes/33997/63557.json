@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 33997,
+    "padron_id": 63557
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX35",
+      "apellidos": "NIEVA",
+      "nombres": "NOELIA MABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "38XXXX36",
+      "apellidos": "SALAZAR",
+      "nombres": "MARÍA EMILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "38XXXX39",
+      "apellidos": "BUSTAMANTE",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "37XXXX80",
+      "apellidos": "LEZCANO GARCIA",
+      "nombres": "LUCILA NEREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

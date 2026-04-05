@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35559,
+    "padron_id": 63798
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "34XXXX52",
+      "apellidos": "NIEVA MURONI",
+      "nombres": "SOFIA AGOSTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX64",
+      "apellidos": "CORREA",
+      "nombres": "LAURA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "41XXXX50",
+      "apellidos": "ROBLES",
+      "nombres": "MIGUEL SIMON",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

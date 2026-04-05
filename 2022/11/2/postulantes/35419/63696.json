@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35419,
+    "padron_id": 63696
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "27XXXX07",
+      "apellidos": "ORELLANA",
+      "nombres": "GABRIELA NATIVIDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX72",
+      "apellidos": "CORBALAN ROMANO",
+      "nombres": "BERENICE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "31XXXX41",
+      "apellidos": "MENDOZA",
+      "nombres": "ANA MALENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

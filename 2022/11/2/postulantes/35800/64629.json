@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 35800,
+    "padron_id": 64629
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "32XXXX75",
+      "apellidos": "JIMENEZ",
+      "nombres": "EMMANUEL JOEL ORLANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "32XXXX59",
+      "apellidos": "IBAÑEZ",
+      "nombres": "PABLO ROMAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "26XXXX21",
+      "apellidos": "GODOY",
+      "nombres": "HECTOR RENE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

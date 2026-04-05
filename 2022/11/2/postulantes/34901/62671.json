@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 34901,
+    "padron_id": 62671
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "34XXXX99",
+      "apellidos": "RUESJA",
+      "nombres": "MARIA DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "36XXXX23",
+      "apellidos": "ARROYO",
+      "nombres": "ELSA VANINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "36XXXX58",
+      "apellidos": "GIMENA OLMOS",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "31XXXX15",
+      "apellidos": "ADANTO",
+      "nombres": "ARMANDO ROQUE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "39XXXX45",
+      "apellidos": "SILVA",
+      "nombres": "PAULA SOLANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

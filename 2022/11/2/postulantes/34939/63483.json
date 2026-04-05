@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34939,
+    "padron_id": 63483
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "26XXXX14",
+      "apellidos": "BAZAN",
+      "nombres": "PATRICIA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX90",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "36XXXX01",
+      "apellidos": "JUAREZ",
+      "nombres": "YESMIN ANGELICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 34857,
+    "padron_id": 62604
+  },
+  "postulantes": [
+    {
+      "orden": 82,
+      "dni": "25XXXX33",
+      "apellidos": "MONTEROS",
+      "nombres": "ULISES DURVAL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 84,
+      "dni": "31XXXX79",
+      "apellidos": "DIAZ",
+      "nombres": "VERONICA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 100,
+      "dni": "38XXXX17",
+      "apellidos": "VEGA",
+      "nombres": "ROBERTO RAMON",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 117,
+      "dni": "34XXXX97",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 34997,
+    "padron_id": 62502
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "22XXXX67",
+      "apellidos": "GRAMAJO",
+      "nombres": "SILVIA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 37,
+      "dni": "27XXXX12",
+      "apellidos": "CONTRERAS",
+      "nombres": "MARIA LUISA ROSARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 43,
+      "dni": "23XXXX55",
+      "apellidos": "ALBARRACIN",
+      "nombres": "MARIA AMALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 49,
+      "dni": "26XXXX72",
+      "apellidos": "NIEVA",
+      "nombres": "MERCEDES SILVIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

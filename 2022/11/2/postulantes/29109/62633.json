@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 29109,
+    "padron_id": 62633
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "35XXXX64",
+      "apellidos": "CARINO",
+      "nombres": "ROMINA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX90",
+      "apellidos": "OLIVERA MEDINA",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "33XXXX01",
+      "apellidos": "PAEZ ALDERETES",
+      "nombres": "JOSE ANDRES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "25XXXX98",
+      "apellidos": "CHABAN HEREDIA",
+      "nombres": "PEDRO AMADEO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

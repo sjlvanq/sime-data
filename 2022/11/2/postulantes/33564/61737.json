@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 33564,
+    "padron_id": 61737
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX05",
+      "apellidos": "VELIZ",
+      "nombres": "PABLO MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX63",
+      "apellidos": "AGUIRRE",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

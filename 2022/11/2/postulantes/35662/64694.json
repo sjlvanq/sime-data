@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 35662,
+    "padron_id": 64694
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "32XXXX59",
+      "apellidos": "IBAÑEZ",
+      "nombres": "PABLO ROMAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "35XXXX19",
+      "apellidos": "CENTENO",
+      "nombres": "HECTOR ALEJANDRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX84",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "CLAUDIA VANESA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "13XXXX62",
+      "apellidos": "LERA",
+      "nombres": "ESTELA AMANDA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

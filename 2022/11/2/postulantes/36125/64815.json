@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36125,
+    "padron_id": 64815
+  },
+  "postulantes": [
+    {
+      "orden": 81,
+      "dni": "22XXXX26",
+      "apellidos": "CORIA                                   ",
+      "nombres": "EVA TERESA                              ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 85,
+      "dni": "25XXXX68",
+      "apellidos": "SEGURA",
+      "nombres": "SERGIO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 110,
+      "dni": "26XXXX18",
+      "apellidos": "RAMOS",
+      "nombres": "VALERIA JOSEFINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35154,
+    "padron_id": 63262
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "33XXXX31",
+      "apellidos": "LEAL",
+      "nombres": "SONIA DEL ROSARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "26XXXX58",
+      "apellidos": "CALDERON",
+      "nombres": "MARIA EUGENIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "30XXXX24",
+      "apellidos": "MARTIN",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

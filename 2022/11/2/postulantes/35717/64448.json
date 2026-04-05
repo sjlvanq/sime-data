@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35717,
+    "padron_id": 64448
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX84",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "MARCOS GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX81",
+      "apellidos": "MORALES",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "31XXXX87",
+      "apellidos": "RIOS",
+      "nombres": "MARIA JULIETA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

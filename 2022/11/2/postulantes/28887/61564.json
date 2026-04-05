@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 28887,
+    "padron_id": 61564
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX10",
+      "apellidos": "RUIZ",
+      "nombres": "SEBASTIAN ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX13",
+      "apellidos": "FILIPPONE",
+      "nombres": "CARLOS SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

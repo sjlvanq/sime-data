@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 35376,
+    "padron_id": 63579
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "27XXXX12",
+      "apellidos": "GALOVARD",
+      "nombres": "FRANCISCA PAULA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "30XXXX60",
+      "apellidos": "JUAREZ",
+      "nombres": "GABRIEL FERNANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

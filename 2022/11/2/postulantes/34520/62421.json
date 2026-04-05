@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 34520,
+    "padron_id": 62421
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX95",
+      "apellidos": "CARDOZO",
+      "nombres": "FATIMA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

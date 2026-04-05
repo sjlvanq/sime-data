@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34423,
+    "padron_id": 61804
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX76",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX20",
+      "apellidos": "BRITO",
+      "nombres": "JORGE ANIBAL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "25XXXX65",
+      "apellidos": "PONCE",
+      "nombres": "JORGE DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

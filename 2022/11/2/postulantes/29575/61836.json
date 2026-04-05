@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 29575,
+    "padron_id": 61836
+  },
+  "postulantes": [
+    {
+      "orden": 72,
+      "dni": "26XXXX19",
+      "apellidos": "GOMEZ",
+      "nombres": "ROSA ELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 70,
+      "dni": "24XXXX72",
+      "apellidos": "ALDERETE",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

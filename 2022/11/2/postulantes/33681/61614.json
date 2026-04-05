@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 33681,
+    "padron_id": 61614
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX10",
+      "apellidos": "ALCORTA",
+      "nombres": "JULIO CESAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX47",
+      "apellidos": "MANSILLA",
+      "nombres": "SEBASTIAN GERARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

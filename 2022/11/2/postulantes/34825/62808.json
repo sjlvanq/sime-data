@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 34825,
+    "padron_id": 62808
+  },
+  "postulantes": [
+    {
+      "orden": 131,
+      "dni": "40XXXX81",
+      "apellidos": "RUIZ",
+      "nombres": "CARLOS FERNANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 95,
+      "dni": "37XXXX69",
+      "apellidos": "AGUIRRE",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

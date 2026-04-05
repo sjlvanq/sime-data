@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35612,
+    "padron_id": 64308
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX31",
+      "apellidos": "SAVA",
+      "nombres": "MONICA VALERIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX67",
+      "apellidos": "GOMEZ",
+      "nombres": "SEBASTIAN NICOLAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX30",
+      "apellidos": "ROMANO",
+      "nombres": "MELISA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

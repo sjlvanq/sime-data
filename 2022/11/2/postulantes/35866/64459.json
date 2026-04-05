@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35866,
+    "padron_id": 64459
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "26XXXX98",
+      "apellidos": "HABIB",
+      "nombres": "NANCY BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 123,
+      "dni": "18XXXX58",
+      "apellidos": "NAVARRO",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 67,
+      "dni": "22XXXX88",
+      "apellidos": "PAZ",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

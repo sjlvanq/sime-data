@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 35421,
+    "padron_id": 63697
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "27XXXX07",
+      "apellidos": "ORELLANA",
+      "nombres": "GABRIELA NATIVIDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX72",
+      "apellidos": "CORBALAN ROMANO",
+      "nombres": "BERENICE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "34XXXX53",
+      "apellidos": "GALVAN",
+      "nombres": "DANIELA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "30XXXX98",
+      "apellidos": "LORENZETTI",
+      "nombres": "YANINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

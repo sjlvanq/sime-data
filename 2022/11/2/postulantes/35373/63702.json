@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 35373,
+    "padron_id": 63702
+  },
+  "postulantes": [
+    {
+      "orden": 53,
+      "dni": "23XXXX24",
+      "apellidos": "GODOY",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 194,
+      "dni": "39XXXX99",
+      "apellidos": "RIOS ORDOÑEZ",
+      "nombres": "JONATHAN NICOLAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 209,
+      "dni": "32XXXX94",
+      "apellidos": "JIMENEZ",
+      "nombres": "ELIANA MARIA JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 215,
+      "dni": "25XXXX48",
+      "apellidos": "DIAZ",
+      "nombres": "HECTOR FABIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
