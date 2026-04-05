@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12583,
+    "padron_id": 22601
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX86",
+      "apellidos": "JUAREZ VILLANUEVA",
+      "nombres": "CLAUDIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX04",
+      "apellidos": "ARAOZ",
+      "nombres": "CYNTHIA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX62",
+      "apellidos": "ALMARAZ",
+      "nombres": "CESAR HECTOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

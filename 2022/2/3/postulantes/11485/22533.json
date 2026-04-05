@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11485,
+    "padron_id": 22533
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "20XXXX42",
+      "apellidos": "MOYA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 9,
+      "dni": "18XXXX23",
+      "apellidos": "SALTO",
+      "nombres": "CONRADO MIGUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

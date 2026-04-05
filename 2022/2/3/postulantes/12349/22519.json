@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 12349,
+    "padron_id": 22519
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "26XXXX25",
+      "apellidos": "SORUCO",
+      "nombres": "PABLO JAVIER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX95",
+      "apellidos": "ALBO",
+      "nombres": "SANTIAGO DAMIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

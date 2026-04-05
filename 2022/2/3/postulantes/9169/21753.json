@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 9169,
+    "padron_id": 21753
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX04",
+      "apellidos": "PADILLA",
+      "nombres": "MARIA NOELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX02",
+      "apellidos": "FIGUEROA",
+      "nombres": "VALERIA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

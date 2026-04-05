@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 12474,
+    "padron_id": 22065
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX98",
+      "apellidos": "SALVATIERRA",
+      "nombres": "EVA VIRGINIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX84",
+      "apellidos": "JIMENEZ GONZALEZ",
+      "nombres": "ADRIANA MARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

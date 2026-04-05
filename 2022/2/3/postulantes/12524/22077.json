@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12524,
+    "padron_id": 22077
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX14",
+      "apellidos": "OVEJERO",
+      "nombres": "ARISTES LEONARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "VICE DIRECTOR INTERINO"
+    },
+    {
+      "orden": 1,
+      "dni": "17XXXX42",
+      "apellidos": "SORIA CASTILLO",
+      "nombres": "WALTER RENE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "REGENTE TECNICO INTERINO"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX22",
+      "apellidos": "PAEZ",
+      "nombres": "JOSE ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11233,
+    "padron_id": 22251
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX00",
+      "apellidos": "MONTEROS",
+      "nombres": "ANALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX68",
+      "apellidos": "RUIZ",
+      "nombres": "SANDRA LIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX27",
+      "apellidos": "ALARCON",
+      "nombres": "VERONICA AZUCENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

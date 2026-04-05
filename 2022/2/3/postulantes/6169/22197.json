@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 6169,
+    "padron_id": 22197
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX87",
+      "apellidos": "BRITO",
+      "nombres": "JORGE OSVALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX60",
+      "apellidos": "ZENON",
+      "nombres": "LUIS CARLOS NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "13XXXX44",
+      "apellidos": "PINTO",
+      "nombres": "DANIEL OSVALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "20XXXX17",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "RODOLFO ALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

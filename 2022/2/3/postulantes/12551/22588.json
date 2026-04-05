@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12551,
+    "padron_id": 22588
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX14",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "HORACIO MARTIN ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX55",
+      "apellidos": "SANCHEZ",
+      "nombres": "ROMAN MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "21XXXX26",
+      "apellidos": "PACHECO",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

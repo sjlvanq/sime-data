@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5922,
+    "padron_id": 22618
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX64",
+      "apellidos": "TOLEDO",
+      "nombres": "MARIANO OSCAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX33",
+      "apellidos": "CABRERA",
+      "nombres": "MANUEL FACUNDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

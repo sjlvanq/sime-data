@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 12351,
+    "padron_id": 21788
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX02",
+      "apellidos": "SUAREZ",
+      "nombres": "GUILLERMO DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX88",
+      "apellidos": "SEGURA",
+      "nombres": "JOSE EMILIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

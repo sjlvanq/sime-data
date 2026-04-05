@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5907,
+    "padron_id": 21964
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX87",
+      "apellidos": "BRITO",
+      "nombres": "JORGE OSVALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "25XXXX93",
+      "apellidos": "RUIZ",
+      "nombres": "RODOLFO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX42",
+      "apellidos": "TENA",
+      "nombres": "JOSÉ ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

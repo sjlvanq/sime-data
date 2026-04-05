@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5911,
+    "padron_id": 21970
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX28",
+      "apellidos": "FALCHI MENDEZ",
+      "nombres": "SILVINA VALERIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX80",
+      "apellidos": "ASTUDILLO",
+      "nombres": "MARIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
