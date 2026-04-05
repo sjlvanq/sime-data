@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 4419,
+    "padron_id": 8638
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "26XXXX49",
+      "apellidos": "VELIZ MARANGONI",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "38XXXX44",
+      "apellidos": "SALVATIERRA",
+      "nombres": "LUISINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX51",
+      "apellidos": "VELASQUEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "22XXXX38",
+      "apellidos": "TELLO",
+      "nombres": "LAURA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

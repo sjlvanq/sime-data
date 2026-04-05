@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 5801,
+    "padron_id": 9368
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "33XXXX93",
+      "apellidos": "SANCHEZ",
+      "nombres": "CECILIA ROBERTA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "38XXXX90",
+      "apellidos": "MEDINA",
+      "nombres": "LUCAS EMMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "36XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "LUCAS MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX04",
+      "apellidos": "MEDINA",
+      "nombres": "GABRIELA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

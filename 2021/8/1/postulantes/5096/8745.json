@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 5096,
+    "padron_id": 8745
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "20XXXX33",
+      "apellidos": "FERRI",
+      "nombres": "SONIA JUDITH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "29XXXX93",
+      "apellidos": "ZELARAYAN",
+      "nombres": "NOELIA LUCIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "30XXXX33",
+      "apellidos": "RODRIGUEZ LOTO",
+      "nombres": "INDRA ONA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX81",
+      "apellidos": "LECCESE",
+      "nombres": "LILIA MARILINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

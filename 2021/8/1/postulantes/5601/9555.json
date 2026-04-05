@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5601,
+    "padron_id": 9555
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "26XXXX50",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NANCY CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

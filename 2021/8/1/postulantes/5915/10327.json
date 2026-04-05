@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5915,
+    "padron_id": 10327
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "26XXXX06",
+      "apellidos": "FERNANDEZ",
+      "nombres": "FABIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "21XXXX31",
+      "apellidos": "SORIA",
+      "nombres": "PABLO JAVIER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 74,
+      "dni": "28XXXX61",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "JORGE RAFAEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

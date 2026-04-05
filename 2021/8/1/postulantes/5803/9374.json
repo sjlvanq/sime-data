@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 5803,
+    "padron_id": 9374
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "36XXXX33",
+      "apellidos": "AVELLANEDA",
+      "nombres": "FERNANDA VICTORIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "38XXXX90",
+      "apellidos": "MEDINA",
+      "nombres": "LUCAS EMMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "36XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "LUCAS MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX04",
+      "apellidos": "MEDINA",
+      "nombres": "GABRIELA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

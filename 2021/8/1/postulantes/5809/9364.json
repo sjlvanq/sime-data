@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5809,
+    "padron_id": 9364
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "24XXXX01",
+      "apellidos": "SORIA CASTILLO",
+      "nombres": "ELIZABETH VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX71",
+      "apellidos": "FERNANDEZ",
+      "nombres": "DANIELA IVANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

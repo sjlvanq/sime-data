@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4509,
+    "padron_id": 8628
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "40XXXX16",
+      "apellidos": "AGUILAR",
+      "nombres": "MARICELA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "30XXXX24",
+      "apellidos": "MARTIN",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "30XXXX09",
+      "apellidos": "CHAVEZ",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

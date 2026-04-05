@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 6073,
+    "padron_id": 10325
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX97",
+      "apellidos": "PRIOTTI",
+      "nombres": "GLORIA GISSEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "17XXXX77",
+      "apellidos": "AMAYA",
+      "nombres": "MARISA VILMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "24XXXX35",
+      "apellidos": "VEGA",
+      "nombres": "MARIA LUZ DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

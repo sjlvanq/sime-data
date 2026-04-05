@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5992,
+    "padron_id": 9949
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "22XXXX38",
+      "apellidos": "TELLO",
+      "nombres": "LAURA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "39XXXX37",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "38XXXX44",
+      "apellidos": "SALVATIERRA",
+      "nombres": "LUISINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

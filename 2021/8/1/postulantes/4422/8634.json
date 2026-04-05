@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4422,
+    "padron_id": 8634
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "28XXXX21",
+      "apellidos": "CORBALAN",
+      "nombres": "NOELIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "37XXXX73",
+      "apellidos": "ALTAMIRANDA",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "30XXXX24",
+      "apellidos": "MARTIN",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

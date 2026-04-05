@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 5795,
+    "padron_id": 9354
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "22XXXX73",
+      "apellidos": "MARKO",
+      "nombres": "ANA KARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX93",
+      "apellidos": "SANCHEZ",
+      "nombres": "CECILIA ROBERTA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "38XXXX90",
+      "apellidos": "MEDINA",
+      "nombres": "LUCAS EMMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "36XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "LUCAS MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

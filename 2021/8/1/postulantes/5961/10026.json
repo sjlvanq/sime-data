@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5961,
+    "padron_id": 10026
+  },
+  "postulantes": [
+    {
+      "orden": 116,
+      "dni": "24XXXX76",
+      "apellidos": "BRANDAN",
+      "nombres": "ELENA MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 418,
+      "dni": "37XXXX33",
+      "apellidos": "MALDONADO",
+      "nombres": "FLORENCIA ANDREA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 496,
+      "dni": "36XXXX32",
+      "apellidos": "GALIÁN",
+      "nombres": "MARÍA LORENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

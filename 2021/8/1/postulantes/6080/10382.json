@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 6080,
+    "padron_id": 10382
+  },
+  "postulantes": [
+    {
+      "orden": 365,
+      "dni": "25XXXX98",
+      "apellidos": "ARDILES",
+      "nombres": "VERONICA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NANCY CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5932,
+    "padron_id": 9979
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "33XXXX90",
+      "apellidos": "DIAZ GAITAN",
+      "nombres": "MARIA NAZARETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "36XXXX76",
+      "apellidos": "CORREA",
+      "nombres": "OSCAR FACUNDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

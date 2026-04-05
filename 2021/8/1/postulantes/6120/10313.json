@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 6120,
+    "padron_id": 10313
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX22",
+      "apellidos": "REYES BAREA",
+      "nombres": "NANCY NOEMI ANGELICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "20XXXX33",
+      "apellidos": "FERRI",
+      "nombres": "SONIA JUDITH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "36XXXX66",
+      "apellidos": "JULIANO ZOTTOLA",
+      "nombres": "CARLA ANTONELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX42",
+      "apellidos": "SOSA",
+      "nombres": "CYNTHIA ROMINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX81",
+      "apellidos": "LECCESE",
+      "nombres": "LILIA MARILINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

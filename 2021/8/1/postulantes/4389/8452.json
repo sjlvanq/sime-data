@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 4389,
+    "padron_id": 8452
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "23XXXX15",
+      "apellidos": "JUAREZ",
+      "nombres": "ADRIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "29XXXX51",
+      "apellidos": "JAIME",
+      "nombres": "MARTA MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "30XXXX94",
+      "apellidos": "RUÍZ",
+      "nombres": "MARÍA SUSANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX42",
+      "apellidos": "VALLEJO",
+      "nombres": "ANTONIO EDGARDO RUBEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "30XXXX35",
+      "apellidos": "PEREZ",
+      "nombres": "CARLA DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

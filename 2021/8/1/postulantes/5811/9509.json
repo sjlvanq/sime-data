@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5811,
+    "padron_id": 9509
+  },
+  "postulantes": [
+    {
+      "orden": 88,
+      "dni": "22XXXX84",
+      "apellidos": "VERA",
+      "nombres": "PATRICIA ROXANA FATIMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "20XXXX07",
+      "apellidos": "ARIAS",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
