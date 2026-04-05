@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 2244,
+    "padron_id": 4217
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "28XXXX00",
+      "apellidos": "GARCIA",
+      "nombres": "ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "13XXXX07",
+      "apellidos": "PISTAN",
+      "nombres": "VICTOR ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

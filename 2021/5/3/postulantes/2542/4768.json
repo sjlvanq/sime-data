@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 2542,
+    "padron_id": 4768
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX03",
+      "apellidos": "AMAYA",
+      "nombres": "SERGIO EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX37",
+      "apellidos": "LENCINA",
+      "nombres": "LUCAS MATHIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "30XXXX18",
+      "apellidos": "CALVIMONTE",
+      "nombres": "IVAN ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "21XXXX47",
+      "apellidos": "ANDRADA",
+      "nombres": "LUIS FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

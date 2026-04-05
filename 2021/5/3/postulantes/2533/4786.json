@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 2533,
+    "padron_id": 4786
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "16XXXX18",
+      "apellidos": "DIAZ",
+      "nombres": "PROSPERO EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "33XXXX03",
+      "apellidos": "OYOLA",
+      "nombres": "NATALIA FERNANDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX81",
+      "apellidos": "MEDINA",
+      "nombres": "PAMELA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 2499,
+    "padron_id": 4682
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX46",
+      "apellidos": "LUNA",
+      "nombres": "ERNESTO CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX05",
+      "apellidos": "PORTAL",
+      "nombres": "CRISTIAN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 2430,
+    "padron_id": 4636
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "37XXXX13",
+      "apellidos": "GODOY",
+      "nombres": "FRANCO AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "37XXXX93",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ALEXIA MACARENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "21XXXX31",
+      "apellidos": "SORIA",
+      "nombres": "PABLO JAVIER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

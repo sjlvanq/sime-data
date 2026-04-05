@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 2710,
+    "padron_id": 4989
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "22XXXX56",
+      "apellidos": "VIDES",
+      "nombres": "PEDRO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "17XXXX57",
+      "apellidos": "MORELLI",
+      "nombres": "FAVIO RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX24",
+      "apellidos": "JUAREZ",
+      "nombres": "RAMON ISAAC",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX62",
+      "apellidos": "JUAREZ",
+      "nombres": "TOMAS AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "28XXXX47",
+      "apellidos": "GOMEZ",
+      "nombres": "ANGEL ELIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

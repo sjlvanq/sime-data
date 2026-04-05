@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 2538,
+    "padron_id": 4775
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "26XXXX26",
+      "apellidos": "BURGOS",
+      "nombres": "CLAUDIO AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX14",
+      "apellidos": "RIVERO",
+      "nombres": "LUCIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

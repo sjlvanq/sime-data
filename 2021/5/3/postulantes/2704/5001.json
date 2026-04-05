@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 2704,
+    "padron_id": 5001
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "37XXXX15",
+      "apellidos": "GOMEZ GUZMAN",
+      "nombres": "GASTON HERNAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX75",
+      "apellidos": "REYES",
+      "nombres": "VERONICA GRACIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

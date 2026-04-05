@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 2700,
+    "padron_id": 5007
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX35",
+      "apellidos": "SORIA",
+      "nombres": "CARLOS MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "25XXXX22",
+      "apellidos": "RASGIDO ",
+      "nombres": "CRISTIAN ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "29XXXX03",
+      "apellidos": "GUERRA",
+      "nombres": "AURORA FRANCISCA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "40XXXX69",
+      "apellidos": "CORDOBA                                 ",
+      "nombres": "MARTIN OSCAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

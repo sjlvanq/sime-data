@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 2262,
+    "padron_id": 4250
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX82",
+      "apellidos": "FERNANDEZ",
+      "nombres": "RICARDO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX24",
+      "apellidos": "MOREIRA",
+      "nombres": "EDUARDO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX38",
+      "apellidos": "LAZARTE",
+      "nombres": "DIEGO ARMANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
