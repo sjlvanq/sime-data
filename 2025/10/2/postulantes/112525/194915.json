@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112525,
+    "padron_id": 194915
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "33XXXX45",
+      "apellidos": "JIMENEZ",
+      "nombres": "RAMON LEONCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "31XXXX89",
+      "apellidos": "LOPEZ",
+      "nombres": "ROMINA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "32XXXX10",
+      "apellidos": "MAYORGA",
+      "nombres": "NICOLÁS MIGUEL ERNESTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

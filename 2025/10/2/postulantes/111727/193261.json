@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111727,
+    "padron_id": 193261
+  },
+  "postulantes": [
+    {
+      "orden": 115,
+      "dni": "33XXXX95",
+      "apellidos": "VOIGT COMAN",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 143,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 400,
+      "dni": "41XXXX81",
+      "apellidos": "AROSTEGUI",
+      "nombres": "NADIA AGUSTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 168,
+      "dni": "37XXXX90",
+      "apellidos": "ZILMAN",
+      "nombres": "ROMINA GISEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

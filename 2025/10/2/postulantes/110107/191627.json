@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110107,
+    "padron_id": 191627
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX06",
+      "apellidos": "ROMANO",
+      "nombres": "ADRIANA RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 73,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 181,
+      "dni": "29XXXX02",
+      "apellidos": "VEGA",
+      "nombres": "DARIO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

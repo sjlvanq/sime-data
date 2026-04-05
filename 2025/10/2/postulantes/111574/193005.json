@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "vacante_id": 111574,
+    "padron_id": 193005
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX59",
+      "apellidos": "GONZALEZ",
+      "nombres": "EDUARDO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX08",
+      "apellidos": "CAVANNA",
+      "nombres": "BRUNO EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX26",
+      "apellidos": "MARTINEZ",
+      "nombres": "ARMANDO ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX21",
+      "apellidos": "DIAZ",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX41",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "NATALIA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "32XXXX54",
+      "apellidos": "JAIMEZ",
+      "nombres": "JUDITH NOELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX56",
+      "apellidos": "MAESTU",
+      "nombres": "MARIA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

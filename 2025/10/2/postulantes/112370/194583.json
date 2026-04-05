@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 112370,
+    "padron_id": 194583
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "37XXXX80",
+      "apellidos": "GOMEZ",
+      "nombres": "SOLANA NAHIR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX82",
+      "apellidos": "SALINAS",
+      "nombres": "NATALIA ANABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "31XXXX91",
+      "apellidos": "APARICIO ALBARRACIN",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX16",
+      "apellidos": "AVILA",
+      "nombres": "DELFINA MARÍA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

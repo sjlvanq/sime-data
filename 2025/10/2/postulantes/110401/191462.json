@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 110401,
+    "padron_id": 191462
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "33XXXX02",
+      "apellidos": "DIAZ",
+      "nombres": "MAIRA LEONELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "33XXXX58",
+      "apellidos": "DIAZ",
+      "nombres": "NADIA GISELLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "40XXXX15",
+      "apellidos": "DIAZ",
+      "nombres": "SONIA MABEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 68,
+      "dni": "37XXXX36",
+      "apellidos": "AHUMADA",
+      "nombres": "MARÍA REBECA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 112535,
+    "padron_id": 194946
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "35XXXX11",
+      "apellidos": "SILVA",
+      "nombres": "MARCOS EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "35XXXX25",
+      "apellidos": "ELIAS",
+      "nombres": "ISAIAS FERNANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "33XXXX45",
+      "apellidos": "JIMENEZ",
+      "nombres": "RAMON LEONCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 78,
+      "dni": "36XXXX48",
+      "apellidos": "TEJEDA",
+      "nombres": "ADRIAN JAVIER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "32XXXX10",
+      "apellidos": "MAYORGA",
+      "nombres": "NICOLÁS MIGUEL ERNESTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

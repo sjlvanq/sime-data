@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111090,
+    "padron_id": 192934
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "38XXXX83",
+      "apellidos": "RUIZ",
+      "nombres": "MATIAS FACUNDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "27XXXX53",
+      "apellidos": "EMGE",
+      "nombres": "MARTIN LORENZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

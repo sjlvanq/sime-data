@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111432,
+    "padron_id": 192817
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "30XXXX83",
+      "apellidos": "JUAREZ",
+      "nombres": "FATIMA PATRICIA NOELIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX75",
+      "apellidos": "CORNEJO",
+      "nombres": "FABIO GREGORIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "28XXXX78",
+      "apellidos": "ORELLANA",
+      "nombres": "CAROLINA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "32XXXX48",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "EDGARDO BENJAMIN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

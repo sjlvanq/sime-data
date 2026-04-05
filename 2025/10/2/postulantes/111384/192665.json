@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111384,
+    "padron_id": 192665
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "33XXXX17",
+      "apellidos": "CANO",
+      "nombres": "LEONARDO JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "32XXXX42",
+      "apellidos": "GUILLO",
+      "nombres": "GISELLE CYNTHIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX22",
+      "apellidos": "ORMACHEA",
+      "nombres": "PABLO ROGELIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "37XXXX55",
+      "apellidos": "CANO",
+      "nombres": "ADRIÁN NICOLÁS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "34XXXX31",
+      "apellidos": "ARCE",
+      "nombres": "JESSICA MATILDE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

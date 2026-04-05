@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111568,
+    "padron_id": 192958
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "36XXXX18",
+      "apellidos": "TOLEDO",
+      "nombres": "BRENDA GISELL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 68,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 151,
+      "dni": "37XXXX17",
+      "apellidos": "RETAMOZO",
+      "nombres": "ANYELEN CAROLAIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 188,
+      "dni": "39XXXX90",
+      "apellidos": "ROBLES",
+      "nombres": "EVELYN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

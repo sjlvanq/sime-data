@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 110268,
+    "padron_id": 191572
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "33XXXX45",
+      "apellidos": "JIMENEZ",
+      "nombres": "RAMON LEONCIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "44XXXX70",
+      "apellidos": "ORTEGA CORONEL",
+      "nombres": "MARTINA LUCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX72",
+      "apellidos": "GONZALEZ",
+      "nombres": "HERNANDO RAUL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "18XXXX12",
+      "apellidos": "CHOCOBAR",
+      "nombres": "RUBEN EDUARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX52",
+      "apellidos": "SUAREZ",
+      "nombres": "GUSTAVO    ALBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

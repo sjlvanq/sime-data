@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111604,
+    "padron_id": 193236
+  },
+  "postulantes": [
+    {
+      "orden": 59,
+      "dni": "28XXXX14",
+      "apellidos": "PAEZ                                    ",
+      "nombres": "BLANCA BEATRIZ                          ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 82,
+      "dni": "28XXXX01",
+      "apellidos": "LUNA",
+      "nombres": "YESSICA PAMELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

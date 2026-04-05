@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112039,
+    "padron_id": 195076
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "21XXXX65",
+      "apellidos": "TEMOCHE ROMERO",
+      "nombres": "EDDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 40,
+      "dni": "27XXXX68",
+      "apellidos": "CHAILE",
+      "nombres": "PABLO TOMAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 46,
+      "dni": "16XXXX31",
+      "apellidos": "MONTES",
+      "nombres": "NOEMI DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

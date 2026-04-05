@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111425,
+    "padron_id": 192983
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX30",
+      "apellidos": "ALBORNOZ",
+      "nombres": "MIRIAM MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX90",
+      "apellidos": "IBAÑEZ",
+      "nombres": "ROMINA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

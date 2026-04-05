@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 109650,
+    "padron_id": 190634
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "41XXXX77",
+      "apellidos": "CÓRDOBA",
+      "nombres": "ABRIL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX42",
+      "apellidos": "ZELARAYAN PALACIOS",
+      "nombres": "IVANA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "33XXXX84",
+      "apellidos": "BRITO",
+      "nombres": "ENRIQUE RICARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

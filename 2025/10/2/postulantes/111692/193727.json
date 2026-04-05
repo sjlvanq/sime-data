@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111692,
+    "padron_id": 193727
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "35XXXX37",
+      "apellidos": "JUAREZ",
+      "nombres": "MARGARITA GISELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "25XXXX16",
+      "apellidos": "AVILA",
+      "nombres": "DELFINA MARÍA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "33XXXX77",
+      "apellidos": "ILLUMINATO",
+      "nombres": "CARLA FLORENTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

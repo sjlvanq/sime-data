@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111510,
+    "padron_id": 193153
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "30XXXX83",
+      "apellidos": "JUAREZ",
+      "nombres": "FATIMA PATRICIA NOELIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "28XXXX78",
+      "apellidos": "ORELLANA",
+      "nombres": "CAROLINA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 66,
+      "dni": "37XXXX44",
+      "apellidos": "JATIB",
+      "nombres": "RODRIGO GABRIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

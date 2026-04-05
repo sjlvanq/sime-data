@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 110689,
+    "padron_id": 192047
+  },
+  "postulantes": [
+    {
+      "orden": 78,
+      "dni": "21XXXX02",
+      "apellidos": "FERNANDEZ",
+      "nombres": "HUGO FERNANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 37,
+      "dni": "31XXXX37",
+      "apellidos": "ESCACENA",
+      "nombres": "PAMELA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 49,
+      "dni": "26XXXX58",
+      "apellidos": "CALDERON",
+      "nombres": "MARIA EUGENIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 158,
+      "dni": "23XXXX06",
+      "apellidos": "MANCA",
+      "nombres": "WALTER DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112223,
+    "padron_id": 194252
+  },
+  "postulantes": [
+    {
+      "orden": 42,
+      "dni": "34XXXX37",
+      "apellidos": "HERRERA",
+      "nombres": "CARLOS LEONCIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX77",
+      "apellidos": "ILLUMINATO",
+      "nombres": "CARLA FLORENTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "37XXXX33",
+      "apellidos": "SEGOVIA PRELLI",
+      "nombres": "MILENA JENNIFER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

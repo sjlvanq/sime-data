@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 110097,
+    "padron_id": 191646
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "35XXXX63",
+      "apellidos": "VALDEZ",
+      "nombres": "LUIS ALFREDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "34XXXX41",
+      "apellidos": "HERRERA",
+      "nombres": "MYRIAM NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "20XXXX49",
+      "apellidos": "TAPIA",
+      "nombres": "HUGO CEFERINO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "43XXXX83",
+      "apellidos": "CASTILLO",
+      "nombres": "FACUNDO GERARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

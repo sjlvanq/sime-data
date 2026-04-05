@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 108402,
+    "padron_id": 189992
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX07",
+      "apellidos": "VARELA",
+      "nombres": "MARIA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "40XXXX40",
+      "apellidos": "BENZAL",
+      "nombres": "MARIANA CANDELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 65,
+      "dni": "27XXXX10",
+      "apellidos": "CARABAJAL",
+      "nombres": "GRACIELA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX14",
+      "apellidos": "RIVERO",
+      "nombres": "LUCIANA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111664,
+    "padron_id": 193989
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "36XXXX57",
+      "apellidos": "FIGUERES",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "35XXXX27",
+      "apellidos": "INFANTE FLORES",
+      "nombres": "KHORI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "34XXXX89",
+      "apellidos": "BAZAN",
+      "nombres": "ELIANA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111079,
+    "padron_id": 192832
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX22",
+      "apellidos": "MOLINA",
+      "nombres": "VICTOR JUAN JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX69",
+      "apellidos": "DURAN",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

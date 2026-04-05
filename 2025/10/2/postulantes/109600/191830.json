@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109600,
+    "padron_id": 191830
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "33XXXX45",
+      "apellidos": "FUNEZ",
+      "nombres": "DARDO NICOLAS FRANCISCO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "38XXXX27",
+      "apellidos": "FERNANDEZ",
+      "nombres": "ANA VANESA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX63",
+      "apellidos": "ZAMORA",
+      "nombres": "EZEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

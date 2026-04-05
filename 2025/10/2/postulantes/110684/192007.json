@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 110684,
+    "padron_id": 192007
+  },
+  "postulantes": [
+    {
+      "orden": 70,
+      "dni": "22XXXX71",
+      "apellidos": "PALERMO",
+      "nombres": "ANDREA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 81,
+      "dni": "28XXXX77",
+      "apellidos": "CARDOZO",
+      "nombres": "ERNESTO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 209,
+      "dni": "25XXXX23",
+      "apellidos": "BENZAL",
+      "nombres": "MARTA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 213,
+      "dni": "23XXXX06",
+      "apellidos": "MANCA",
+      "nombres": "WALTER DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

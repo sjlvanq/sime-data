@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111672,
+    "padron_id": 193174
+  },
+  "postulantes": [
+    {
+      "orden": 106,
+      "dni": "35XXXX25",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "JOSE MAXIMILIANO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "31XXXX89",
+      "apellidos": "LOPEZ",
+      "nombres": "ROMINA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "26XXXX74",
+      "apellidos": "CARO",
+      "nombres": "PAULINA RAQUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "44XXXX70",
+      "apellidos": "ORTEGA CORONEL",
+      "nombres": "MARTINA LUCIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

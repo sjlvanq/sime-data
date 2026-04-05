@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 112290,
+    "padron_id": 194531
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "33XXXX45",
+      "apellidos": "JIMENEZ",
+      "nombres": "RAMON LEONCIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "37XXXX79",
+      "apellidos": "CHOCOBAR",
+      "nombres": "FRANCO NICOLAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

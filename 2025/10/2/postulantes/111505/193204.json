@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111505,
+    "padron_id": 193204
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "36XXXX54",
+      "apellidos": "MAHMUD",
+      "nombres": "MARIANO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "30XXXX83",
+      "apellidos": "JUAREZ",
+      "nombres": "FATIMA PATRICIA NOELIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "28XXXX06",
+      "apellidos": "MONTENEGRO",
+      "nombres": "SEBASTIÁN ANDRÉS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "41XXXX98",
+      "apellidos": "RUIZ",
+      "nombres": "ISMAEL HERNAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112094,
+    "padron_id": 194257
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX78",
+      "apellidos": "DIAZ",
+      "nombres": "ELIZABETH PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX77",
+      "apellidos": "DIAZ",
+      "nombres": "ISABEL BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "36XXXX72",
+      "apellidos": "GARCIA",
+      "nombres": "CRISTIAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

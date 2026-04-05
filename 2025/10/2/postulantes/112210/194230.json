@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 112210,
+    "padron_id": 194230
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "29XXXX00",
+      "apellidos": "MONTEROS",
+      "nombres": "ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "37XXXX44",
+      "apellidos": "IBAÑEZ RENGEL",
+      "nombres": "SOFÍA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "39XXXX03",
+      "apellidos": "MENDEZ",
+      "nombres": "ALVARO LEONEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "31XXXX88",
+      "apellidos": "PADILLA",
+      "nombres": "NOELIA RITA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX27",
+      "apellidos": "ALARCON",
+      "nombres": "VERONICA AZUCENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

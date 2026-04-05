@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 110703,
+    "padron_id": 192874
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "33XXXX45",
+      "apellidos": "JIMENEZ",
+      "nombres": "RAMON LEONCIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "18XXXX12",
+      "apellidos": "CHOCOBAR",
+      "nombres": "RUBEN EDUARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "18XXXX51",
+      "apellidos": "ITURRE RIVERA",
+      "nombres": "OSCAR MANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "37XXXX79",
+      "apellidos": "CHOCOBAR",
+      "nombres": "FRANCO NICOLAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

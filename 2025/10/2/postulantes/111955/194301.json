@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111955,
+    "padron_id": 194301
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX78",
+      "apellidos": "DIAZ",
+      "nombres": "ELIZABETH PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX54",
+      "apellidos": "SORIA",
+      "nombres": "SILVIA SUSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

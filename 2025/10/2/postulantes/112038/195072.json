@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 112038,
+    "padron_id": 195072
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "27XXXX68",
+      "apellidos": "CHAILE",
+      "nombres": "PABLO TOMAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 43,
+      "dni": "25XXXX52",
+      "apellidos": "CORDOBA",
+      "nombres": "ANDREA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

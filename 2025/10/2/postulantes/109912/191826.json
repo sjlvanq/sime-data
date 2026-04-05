@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109912,
+    "padron_id": 191826
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX30",
+      "apellidos": "GONZALEZ",
+      "nombres": "ROBERTO GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX31",
+      "apellidos": "HEREDIA",
+      "nombres": "NATALIA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX04",
+      "apellidos": "MONTEROS",
+      "nombres": "HECTOR ABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

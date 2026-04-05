@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110720,
+    "padron_id": 192805
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "31XXXX91",
+      "apellidos": "APARICIO ALBARRACIN",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "27XXXX92",
+      "apellidos": "ALBERTO",
+      "nombres": "MELINA RAQUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX16",
+      "apellidos": "AVILA",
+      "nombres": "DELFINA MARÍA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 109401,
+    "padron_id": 190440
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX04",
+      "apellidos": "MONTEROS",
+      "nombres": "HECTOR ABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX07",
+      "apellidos": "BALCARCE",
+      "nombres": "VANESA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

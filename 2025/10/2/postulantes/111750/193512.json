@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111750,
+    "padron_id": 193512
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX97",
+      "apellidos": "VALLEJOS",
+      "nombres": "ALICIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX20",
+      "apellidos": "SALAZAR",
+      "nombres": "NATALIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

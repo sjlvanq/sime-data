@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111571,
+    "padron_id": 193764
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "25XXXX75",
+      "apellidos": "LUNA",
+      "nombres": "HERNANDO MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX90",
+      "apellidos": "SANCHEZ",
+      "nombres": "MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

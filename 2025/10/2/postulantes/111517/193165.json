@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111517,
+    "padron_id": 193165
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "32XXXX41",
+      "apellidos": "CHERVATIN",
+      "nombres": "SOL DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "44XXXX70",
+      "apellidos": "ORTEGA CORONEL",
+      "nombres": "MARTINA LUCIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

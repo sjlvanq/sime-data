@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111516,
+    "padron_id": 193177
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "38XXXX76",
+      "apellidos": "GÓMEZ",
+      "nombres": "MARÍA FLORENCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "33XXXX45",
+      "apellidos": "JIMENEZ",
+      "nombres": "RAMON LEONCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

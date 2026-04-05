@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111724,
+    "padron_id": 193265
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "40XXXX77",
+      "apellidos": "JUNCOS",
+      "nombres": "MIGUEL AGUSTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "39XXXX02",
+      "apellidos": "ITURBE",
+      "nombres": "JESSICA EDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX03",
+      "apellidos": "FREGENAL",
+      "nombres": "CARLOS RAUL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "31XXXX89",
+      "apellidos": "LOPEZ",
+      "nombres": "ROMINA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

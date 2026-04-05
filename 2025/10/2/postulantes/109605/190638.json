@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 109605,
+    "padron_id": 190638
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "33XXXX24",
+      "apellidos": "SANCHEZ FILIPPONE",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "34XXXX57",
+      "apellidos": "RAMOS YASSINE",
+      "nombres": "MAURICIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "36XXXX83",
+      "apellidos": "BONILLA",
+      "nombres": "BRUNO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX90",
+      "apellidos": "AGUIRRE RODRIGUEZ",
+      "nombres": "LOURDES ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

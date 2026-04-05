@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 109215,
+    "padron_id": 190748
+  },
+  "postulantes": [
+    {
+      "orden": 104,
+      "dni": "28XXXX91",
+      "apellidos": "CAJAL",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 101,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110061,
+    "padron_id": 191765
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "22XXXX84",
+      "apellidos": "PAEZ",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX16",
+      "apellidos": "SILVA",
+      "nombres": "KARINA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX50",
+      "apellidos": "MONTEROS",
+      "nombres": "TERESA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

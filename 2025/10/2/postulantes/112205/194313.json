@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 112205,
+    "padron_id": 194313
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "24XXXX34",
+      "apellidos": "NAVARRO",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX78",
+      "apellidos": "AGÜERO",
+      "nombres": "LUIS CRISTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112532,
+    "padron_id": 194939
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "35XXXX11",
+      "apellidos": "SILVA",
+      "nombres": "MARCOS EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "33XXXX45",
+      "apellidos": "JIMENEZ",
+      "nombres": "RAMON LEONCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "37XXXX38",
+      "apellidos": "LAZARTE AGUIRRE",
+      "nombres": "CECILIA PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

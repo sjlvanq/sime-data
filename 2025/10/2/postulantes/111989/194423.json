@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111989,
+    "padron_id": 194423
+  },
+  "postulantes": [
+    {
+      "orden": 82,
+      "dni": "31XXXX90",
+      "apellidos": "CENTENO",
+      "nombres": "CLAUDIA MARISA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 136,
+      "dni": "25XXXX12",
+      "apellidos": "LUNA",
+      "nombres": "MIRIAM LUCIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 186,
+      "dni": "38XXXX27",
+      "apellidos": "LUNA",
+      "nombres": "DANIELA ANABELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

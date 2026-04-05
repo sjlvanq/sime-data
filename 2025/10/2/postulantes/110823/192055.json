@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110823,
+    "padron_id": 192055
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX56",
+      "apellidos": "CRUZ",
+      "nombres": "EMILIO MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 43,
+      "dni": "26XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "MIRTA MABEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 84,
+      "dni": "28XXXX01",
+      "apellidos": "LUNA",
+      "nombres": "YESSICA PAMELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

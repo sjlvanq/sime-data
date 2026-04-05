@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111725,
+    "padron_id": 193254
+  },
+  "postulantes": [
+    {
+      "orden": 143,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 377,
+      "dni": "39XXXX00",
+      "apellidos": "PERALTA LÓPEZ",
+      "nombres": "CAMILA ANAHÍ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 400,
+      "dni": "41XXXX81",
+      "apellidos": "AROSTEGUI",
+      "nombres": "NADIA AGUSTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 168,
+      "dni": "37XXXX90",
+      "apellidos": "ZILMAN",
+      "nombres": "ROMINA GISEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

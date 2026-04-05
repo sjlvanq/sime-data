@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 112376,
+    "padron_id": 194555
+  },
+  "postulantes": [
+    {
+      "orden": 62,
+      "dni": "39XXXX16",
+      "apellidos": "BARBA",
+      "nombres": "MICAELA AYELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX06",
+      "apellidos": "ROMANO",
+      "nombres": "ADRIANA RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "40XXXX46",
+      "apellidos": "CORONEL",
+      "nombres": "LUCAS SANTIAGO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 84,
+      "dni": "26XXXX57",
+      "apellidos": "SOLIS",
+      "nombres": "IRIS FABIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 93,
+      "dni": "27XXXX01",
+      "apellidos": "TREVISANI",
+      "nombres": "NATALIA VANESA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

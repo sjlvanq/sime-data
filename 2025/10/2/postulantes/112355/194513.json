@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112355,
+    "padron_id": 194513
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "37XXXX93",
+      "apellidos": "MENDOZA",
+      "nombres": "CYNTIA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "37XXXX79",
+      "apellidos": "CHOCOBAR",
+      "nombres": "FRANCO NICOLAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "43XXXX80",
+      "apellidos": "VALERO",
+      "nombres": "FABRIZZIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

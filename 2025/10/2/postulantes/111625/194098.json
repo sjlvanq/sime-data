@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111625,
+    "padron_id": 194098
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "31XXXX32",
+      "apellidos": "JAIME",
+      "nombres": "LUCIANA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "41XXXX07",
+      "apellidos": "VILLALOBO",
+      "nombres": "EMANUEL ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "37XXXX37",
+      "apellidos": "CEJAS",
+      "nombres": "LEANDRO IVAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "41XXXX74",
+      "apellidos": "CORONEL",
+      "nombres": "EXEQUIEL DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX76",
+      "apellidos": "CRUZ",
+      "nombres": "FERNANDO ENRIQUE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

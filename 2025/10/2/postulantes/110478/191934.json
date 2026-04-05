@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110478,
+    "padron_id": 191934
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX17",
+      "apellidos": "GONZALEZ",
+      "nombres": "NANCY MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX32",
+      "apellidos": "SALINAS",
+      "nombres": "RAUL ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX96",
+      "apellidos": "DIAZ",
+      "nombres": "MARCOS ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110434,
+    "padron_id": 191482
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "28XXXX59",
+      "apellidos": "OCAMPO",
+      "nombres": "ESTELA ROSA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX58",
+      "apellidos": "DIAZ",
+      "nombres": "NADIA GISELLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "39XXXX74",
+      "apellidos": "FERNANDEZ",
+      "nombres": "ALDANA RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

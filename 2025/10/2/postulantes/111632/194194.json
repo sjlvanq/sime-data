@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111632,
+    "padron_id": 194194
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "36XXXX66",
+      "apellidos": "ARUE OCAMPO",
+      "nombres": "GRISELDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "28XXXX80",
+      "apellidos": "SCHWEITZER",
+      "nombres": "TOMAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "38XXXX00",
+      "apellidos": "YBALO",
+      "nombres": "ESTEFANIA BELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX11",
+      "apellidos": "ALE",
+      "nombres": "MARIA AURORA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "28XXXX88",
+      "apellidos": "GUTIERREZ BULDURINI",
+      "nombres": "DAVID BENITO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

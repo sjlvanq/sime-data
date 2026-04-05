@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111801,
+    "padron_id": 193416
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "32XXXX11",
+      "apellidos": "ORTIZ",
+      "nombres": "GABRIELA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "28XXXX54",
+      "apellidos": "PEREZ",
+      "nombres": "DANIEL GUSTAVO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "40XXXX15",
+      "apellidos": "DIAZ",
+      "nombres": "SONIA MABEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "35XXXX91",
+      "apellidos": "VARELA",
+      "nombres": "ANGEL RAMON",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 68,
+      "dni": "37XXXX36",
+      "apellidos": "AHUMADA",
+      "nombres": "MARÍA REBECA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

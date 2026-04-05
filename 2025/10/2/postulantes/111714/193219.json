@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111714,
+    "padron_id": 193219
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX29",
+      "apellidos": "CASTRO",
+      "nombres": "DANIELA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "21XXXX23",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "WALTER DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX52",
+      "apellidos": "LAGO GONZALEZ",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

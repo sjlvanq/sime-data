@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111492,
+    "padron_id": 193231
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX19",
+      "apellidos": "LUPERCIO",
+      "nombres": "VERONICA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 37,
+      "dni": "31XXXX37",
+      "apellidos": "ESCACENA",
+      "nombres": "PAMELA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 158,
+      "dni": "23XXXX06",
+      "apellidos": "MANCA",
+      "nombres": "WALTER DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111567,
+    "padron_id": 192990
+  },
+  "postulantes": [
+    {
+      "orden": 143,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 400,
+      "dni": "41XXXX81",
+      "apellidos": "AROSTEGUI",
+      "nombres": "NADIA AGUSTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 192,
+      "dni": "41XXXX68",
+      "apellidos": "JUAREZ",
+      "nombres": "SOFIA VICTORIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

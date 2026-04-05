@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111931,
+    "padron_id": 194731
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "28XXXX36",
+      "apellidos": "VILLA",
+      "nombres": "NATALIA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "23XXXX23",
+      "apellidos": "MELIAN                                  ",
+      "nombres": "VIVIANA ELIZABETH                       ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "42XXXX93",
+      "apellidos": "ALANIS",
+      "nombres": "AGUSTIN MAXIMILIANO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
