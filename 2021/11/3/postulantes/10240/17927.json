@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 10240,
+    "padron_id": 17927
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX42",
+      "apellidos": "FIGUEROA",
+      "nombres": "DIEGO ARMANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX21",
+      "apellidos": "ROLDAN",
+      "nombres": "RAUL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "36XXXX79",
+      "apellidos": "PACHECO",
+      "nombres": "ANA DANIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "30XXXX14",
+      "apellidos": "CORONEL",
+      "nombres": "RICARDO ALEXIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "21XXXX26",
+      "apellidos": "PACHECO",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

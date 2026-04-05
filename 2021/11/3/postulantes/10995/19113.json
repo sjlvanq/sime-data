@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10995,
+    "padron_id": 19113
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "37XXXX30",
+      "apellidos": "OCAMPO",
+      "nombres": "MARIO ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX57",
+      "apellidos": "PONCE",
+      "nombres": "CARLOS ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

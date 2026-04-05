@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 9994,
+    "padron_id": 16992
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX65",
+      "apellidos": "ROMANO",
+      "nombres": "CHRISTIAN RAUL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "VICE DIRECTOR INTERINO"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX13",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "LUIS FACUNDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "VICE DIRECTOR INTERINO"
+    }
+  ]
+}

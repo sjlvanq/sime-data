@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10133,
+    "padron_id": 18703
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX21",
+      "apellidos": "ALBORNOZ",
+      "nombres": "JOSE GERARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "40XXXX09",
+      "apellidos": "COSTILLA",
+      "nombres": "MARÍA EMILSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "34XXXX95",
+      "apellidos": "RUIZ",
+      "nombres": "NELSON DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

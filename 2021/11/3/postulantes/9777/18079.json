@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9777,
+    "padron_id": 18079
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "32XXXX79",
+      "apellidos": "PARANO RASGUIDO",
+      "nombres": "NADIA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "32XXXX07",
+      "apellidos": "AGUIRRE",
+      "nombres": "JAZMINA MARISEL BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "40XXXX97",
+      "apellidos": "VILLAVERDE GOMEZ",
+      "nombres": "MARIANELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

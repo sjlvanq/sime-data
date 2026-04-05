@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10091,
+    "padron_id": 18209
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "28XXXX14",
+      "apellidos": "MACIAS",
+      "nombres": "NADIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX70",
+      "apellidos": "DIAMANTE",
+      "nombres": "HECTOR DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

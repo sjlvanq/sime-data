@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 9770,
+    "padron_id": 17494
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX13",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "LUIS IGNACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "VICE DIRECTOR INTERINO"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX74",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "GUSTAVO ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "JEFE GENERAL / JEFE TALLER / JEFE SECTORIAL INTERINO"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX79",
+      "apellidos": "FIGUEROA",
+      "nombres": "FABIAN HUGO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "JEFE GENERAL / JEFE TALLER / JEFE SECTORIAL INTERINO"
+    },
+    {
+      "orden": 3,
+      "dni": "21XXXX93",
+      "apellidos": "DERGHAM",
+      "nombres": "DANIEL ARTURO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 9,
+      "dni": "26XXXX44",
+      "apellidos": "SANTILLAN",
+      "nombres": "MARCOS DIEGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

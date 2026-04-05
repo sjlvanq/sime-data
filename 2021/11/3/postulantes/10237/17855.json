@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10237,
+    "padron_id": 17855
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX54",
+      "apellidos": "MARTINEZ",
+      "nombres": "CAROLINA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "21XXXX26",
+      "apellidos": "PACHECO",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

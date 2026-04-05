@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9625,
+    "padron_id": 17671
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "33XXXX95",
+      "apellidos": "ALBARRACIN",
+      "nombres": "FRANCO RAMON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX27",
+      "apellidos": "ACOSTA",
+      "nombres": "ABEL ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX88",
+      "apellidos": "VARGAS",
+      "nombres": "JUAN JOSÉ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10093,
+    "padron_id": 19647
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX43",
+      "apellidos": "PUJOL",
+      "nombres": "ROBERTO JULIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX09",
+      "apellidos": "NUÑEZ",
+      "nombres": "PABLO ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

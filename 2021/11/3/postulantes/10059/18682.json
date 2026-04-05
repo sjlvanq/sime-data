@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10059,
+    "padron_id": 18682
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "30XXXX97",
+      "apellidos": "SALAZAR",
+      "nombres": "EMILIO DAMIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX30",
+      "apellidos": "VARGAS",
+      "nombres": "MARIA ALFONSINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "27XXXX36",
+      "apellidos": "TEJERINA",
+      "nombres": "MIRIAM EDITH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

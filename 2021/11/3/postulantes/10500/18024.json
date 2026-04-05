@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 10500,
+    "padron_id": 18024
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX28",
+      "apellidos": "ROMERO",
+      "nombres": "JULIO NESTOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "23XXXX48",
+      "apellidos": "CHOCOBAR",
+      "nombres": "PEDRO ROQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "36XXXX94",
+      "apellidos": "CANSECO",
+      "nombres": "FRANCO EMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "30XXXX05",
+      "apellidos": "VERA",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

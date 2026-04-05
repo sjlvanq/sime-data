@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 8906,
+    "padron_id": 16317
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX60",
+      "apellidos": "MIKAEL MAHMUD",
+      "nombres": "JOSE RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX31",
+      "apellidos": "GRAMAJO",
+      "nombres": "ADOLFO LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

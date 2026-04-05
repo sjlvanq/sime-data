@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 9625,
+    "padron_id": 17669
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX74",
+      "apellidos": "GARCIA",
+      "nombres": "JOSE ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX57",
+      "apellidos": "PONCE",
+      "nombres": "CARLOS ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

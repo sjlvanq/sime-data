@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10022,
+    "padron_id": 18096
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX98",
+      "apellidos": "TOLEDO",
+      "nombres": "JOAQUIN DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX20",
+      "apellidos": "LOPEZ CEJAS",
+      "nombres": "PABLO MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

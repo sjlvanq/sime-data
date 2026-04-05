@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 9314,
+    "padron_id": 17191
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX32",
+      "apellidos": "DE ROSA",
+      "nombres": "MARIO VENTURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX24",
+      "apellidos": "GONZALEZ",
+      "nombres": "ADRIAN EUDORO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

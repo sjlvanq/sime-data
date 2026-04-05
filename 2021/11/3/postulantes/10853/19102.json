@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 10853,
+    "padron_id": 19102
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX76",
+      "apellidos": "PALACIO",
+      "nombres": "SEBASTIAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX26",
+      "apellidos": "JIMENEZ",
+      "nombres": "OLGA MIRTA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX37",
+      "apellidos": "TREVISANI",
+      "nombres": "IVANNA ANTONELLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "36XXXX43",
+      "apellidos": "QUESADA",
+      "nombres": "HECTOR EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

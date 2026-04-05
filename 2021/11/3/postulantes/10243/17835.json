@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 10243,
+    "padron_id": 17835
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX54",
+      "apellidos": "RUIZ",
+      "nombres": "ANGELA NOELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "38XXXX31",
+      "apellidos": "SALAZAR",
+      "nombres": "JUAN ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX42",
+      "apellidos": "MEDINA",
+      "nombres": "NESTOR SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX28",
+      "apellidos": "BRANDAN CORREA",
+      "nombres": "CESAR JORGE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

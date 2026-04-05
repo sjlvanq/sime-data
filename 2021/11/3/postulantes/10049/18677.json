@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10049,
+    "padron_id": 18677
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX32",
+      "apellidos": "DE ROSA",
+      "nombres": "MARIO VENTURA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "20XXXX61",
+      "apellidos": "NACIF",
+      "nombres": "SERGIO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

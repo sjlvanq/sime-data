@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 9281,
+    "padron_id": 17506
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX40",
+      "apellidos": "AGUDO",
+      "nombres": "JULIO ARGENTINO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX34",
+      "apellidos": "LUNA",
+      "nombres": "SILVIA ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10022,
+    "padron_id": 18097
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX87",
+      "apellidos": "LESCANO",
+      "nombres": "JUAN MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "40XXXX05",
+      "apellidos": "LUNA",
+      "nombres": "JORGE MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
