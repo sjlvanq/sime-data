@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1506,
+    "padron_id": 2906
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX07",
+      "apellidos": "CACERES",
+      "nombres": "MARÍA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX85",
+      "apellidos": "RAT",
+      "nombres": "FLAVIO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "37XXXX37",
+      "apellidos": "VERA",
+      "nombres": "MARCELO FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

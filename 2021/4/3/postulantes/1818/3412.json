@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1818,
+    "padron_id": 3412
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX74",
+      "apellidos": "BORDON",
+      "nombres": "ALDO CRISTHIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "14XXXX02",
+      "apellidos": "MAZA",
+      "nombres": "RAUL WALTER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

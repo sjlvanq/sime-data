@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 2088,
+    "padron_id": 3959
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX23",
+      "apellidos": "DIAZ",
+      "nombres": "VERONICA DEL ROSARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "31XXXX43",
+      "apellidos": "ZARATE",
+      "nombres": "PATRICIA LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "30XXXX79",
+      "apellidos": "BURELA",
+      "nombres": "LORENA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "31XXXX27",
+      "apellidos": "DELGADO",
+      "nombres": "LORENA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 2008,
+    "padron_id": 3464
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX83",
+      "apellidos": "MACEDO",
+      "nombres": "FRANCISCO IGNACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX49",
+      "apellidos": "MARRADES",
+      "nombres": "YESICA PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

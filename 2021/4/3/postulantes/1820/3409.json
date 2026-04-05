@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1820,
+    "padron_id": 3409
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX56",
+      "apellidos": "PEREIRA",
+      "nombres": "JOSE MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "14XXXX02",
+      "apellidos": "MAZA",
+      "nombres": "RAUL WALTER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1508,
+    "padron_id": 2901
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX13",
+      "apellidos": "DÍAZ",
+      "nombres": "FLORENCIA MARIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "24XXXX56",
+      "apellidos": "VERGES",
+      "nombres": "CLAUDIA KARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "27XXXX99",
+      "apellidos": "CHICO",
+      "nombres": "SABRINA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

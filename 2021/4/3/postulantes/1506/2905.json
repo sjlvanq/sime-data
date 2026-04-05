@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1506,
+    "padron_id": 2905
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "16XXXX97",
+      "apellidos": "PRIVSEK                                 ",
+      "nombres": "ANTONIO                                 ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX31",
+      "apellidos": "ZELARAYAN",
+      "nombres": "RUBEN DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX87",
+      "apellidos": "MIRANDA",
+      "nombres": "ANGEL GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
