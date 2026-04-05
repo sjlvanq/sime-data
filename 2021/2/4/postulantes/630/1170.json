@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 630,
+    "padron_id": 1170
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "20XXXX54",
+      "apellidos": "GASEP",
+      "nombres": "MARISA FATIMA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "34XXXX65",
+      "apellidos": "JUAREZ",
+      "nombres": "MARÍA ROSA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "33XXXX54",
+      "apellidos": "ANDOLE",
+      "nombres": "ALICIA DEL ROSARIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

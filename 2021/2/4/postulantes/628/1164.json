@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 628,
+    "padron_id": 1164
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX87",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOHANA ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX34",
+      "apellidos": "PEREZ NARVAEZ",
+      "nombres": "MARIA OFELIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX15",
+      "apellidos": "MEDINA",
+      "nombres": "GUILLERMO FERNANDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
