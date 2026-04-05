@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 105622,
+    "padron_id": 183305
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX58",
+      "apellidos": "MEDINA",
+      "nombres": "YESSICA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "39XXXX57",
+      "apellidos": "PLATANIA",
+      "nombres": "LUCIANO GERARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "37XXXX24",
+      "apellidos": "GASCO",
+      "nombres": "MARINA DAIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 107599,
+    "padron_id": 186990
+  },
+  "postulantes": [
+    {
+      "orden": 72,
+      "dni": "25XXXX30",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANTONIO CARLOS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 65,
+      "dni": "24XXXX98",
+      "apellidos": "REYNA",
+      "nombres": "JOSE ORLANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106040,
+    "padron_id": 184926
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "25XXXX57",
+      "apellidos": "CANSECO",
+      "nombres": "DANIELA JOSEFINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "30XXXX66",
+      "apellidos": "HYNES",
+      "nombres": "ANA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "34XXXX90",
+      "apellidos": "AGUIRRE RODRIGUEZ",
+      "nombres": "LOURDES ROCIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

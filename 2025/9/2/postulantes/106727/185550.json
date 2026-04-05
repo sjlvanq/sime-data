@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 106727,
+    "padron_id": 185550
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "17XXXX86",
+      "apellidos": "BRANDAN",
+      "nombres": "JORGE EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "36XXXX58",
+      "apellidos": "RIVERO",
+      "nombres": "ALEJANDRA STEPHANIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "17XXXX34",
+      "apellidos": "PODINGA",
+      "nombres": "ANABELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX02",
+      "apellidos": "GIL",
+      "nombres": "NOELIA MARIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

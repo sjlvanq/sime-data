@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 101325,
+    "padron_id": 185189
+  },
+  "postulantes": [
+    {
+      "orden": 48,
+      "dni": "24XXXX76",
+      "apellidos": "ORTEGA",
+      "nombres": "NANCI FABIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX60",
+      "apellidos": "AGUERO",
+      "nombres": "EFRAIN MARCELO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

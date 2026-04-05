@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 106260,
+    "padron_id": 184987
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "31XXXX51",
+      "apellidos": "CALVO",
+      "nombres": "CARLOS MARTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "35XXXX58",
+      "apellidos": "MARTINEZ",
+      "nombres": "LAURA ROMINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "36XXXX30",
+      "apellidos": "ARIAS",
+      "nombres": "EMILIANO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "26XXXX32",
+      "apellidos": "TORO TISEIRA",
+      "nombres": "JULIETA VALERIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "32XXXX70",
+      "apellidos": "ABETE",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

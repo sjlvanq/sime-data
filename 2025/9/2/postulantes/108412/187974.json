@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 108412,
+    "padron_id": 187974
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX11",
+      "apellidos": "MERCADO",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "21XXXX11",
+      "apellidos": "FIGUEREDO",
+      "nombres": "JULIO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 107038,
+    "padron_id": 186225
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "13XXXX21",
+      "apellidos": "ARIAS GUTIERREZ",
+      "nombres": "PATRICIA CRISTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "37XXXX29",
+      "apellidos": "SANCHEZ",
+      "nombres": "NICODEMO CARLOS DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX58",
+      "apellidos": "DIAZ",
+      "nombres": "NADIA GISELLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "34XXXX01",
+      "apellidos": "TOLRA",
+      "nombres": "AIME",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

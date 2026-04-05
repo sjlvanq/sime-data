@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106963,
+    "padron_id": 185934
+  },
+  "postulantes": [
+    {
+      "orden": 77,
+      "dni": "37XXXX53",
+      "apellidos": "SANCHEZ",
+      "nombres": "GRECIA ANTONELLA MARGARITA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 78,
+      "dni": "26XXXX71",
+      "apellidos": "GARCIA",
+      "nombres": "PATRICIA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "38XXXX30",
+      "apellidos": "BRITO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

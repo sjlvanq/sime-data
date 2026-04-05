@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106877,
+    "padron_id": 185528
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "26XXXX58",
+      "apellidos": "CALDERON",
+      "nombres": "MARIA EUGENIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "34XXXX57",
+      "apellidos": "NUÑEZ                                   ",
+      "nombres": "MARIA DEL MILAGRO                       ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "21XXXX21",
+      "apellidos": "NAVARRO",
+      "nombres": "RAMON ANGEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 106875,
+    "padron_id": 186163
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX36",
+      "apellidos": "OTAIZA",
+      "nombres": "ROBERTA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "29XXXX84",
+      "apellidos": "MENGUAL",
+      "nombres": "VERONICA PRISCILA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "33XXXX58",
+      "apellidos": "DIAZ",
+      "nombres": "NADIA GISELLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

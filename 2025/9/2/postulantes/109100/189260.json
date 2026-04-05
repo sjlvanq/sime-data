@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109100,
+    "padron_id": 189260
+  },
+  "postulantes": [
+    {
+      "orden": 57,
+      "dni": "35XXXX79",
+      "apellidos": "ZAMORANO",
+      "nombres": "YANET MILAGRO DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 120,
+      "dni": "39XXXX62",
+      "apellidos": "CAMPOS",
+      "nombres": "KAREN DAIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 120,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 105840,
+    "padron_id": 184165
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "25XXXX60",
+      "apellidos": "VACA",
+      "nombres": "CECILIA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "23XXXX51",
+      "apellidos": "VELASQUEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "34XXXX57",
+      "apellidos": "NUÑEZ                                   ",
+      "nombres": "MARIA DEL MILAGRO                       ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "29XXXX48",
+      "apellidos": "ZAMBRANO",
+      "nombres": "ELSA PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

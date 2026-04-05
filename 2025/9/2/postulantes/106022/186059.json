@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106022,
+    "padron_id": 186059
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "28XXXX89",
+      "apellidos": "BRAVO",
+      "nombres": "NOEMI DELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX58",
+      "apellidos": "BERNACHINI",
+      "nombres": "DIANA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX52",
+      "apellidos": "MARTIN",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

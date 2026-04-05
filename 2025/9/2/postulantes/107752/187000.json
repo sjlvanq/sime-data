@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 107752,
+    "padron_id": 187000
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "34XXXX57",
+      "apellidos": "RAMOS YASSINE",
+      "nombres": "MAURICIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "30XXXX66",
+      "apellidos": "HYNES",
+      "nombres": "ANA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "34XXXX90",
+      "apellidos": "AGUIRRE RODRIGUEZ",
+      "nombres": "LOURDES ROCIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

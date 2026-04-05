@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 108386,
+    "padron_id": 187965
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "31XXXX09",
+      "apellidos": "PASTRANA",
+      "nombres": "ELIANA ROMINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "27XXXX60",
+      "apellidos": "AGUERO",
+      "nombres": "EFRAIN MARCELO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "35XXXX11",
+      "apellidos": "DONAIRE",
+      "nombres": "YANINA YUDITH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 115,
+      "dni": "37XXXX27",
+      "apellidos": "ROMANO",
+      "nombres": "CAMILA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

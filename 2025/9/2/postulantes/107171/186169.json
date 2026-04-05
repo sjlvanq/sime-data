@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 107171,
+    "padron_id": 186169
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "36XXXX25",
+      "apellidos": "VILLAGRA",
+      "nombres": "FRANCO EMMANUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "34XXXX43",
+      "apellidos": "BASUALDO",
+      "nombres": "LUIS ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "33XXXX66",
+      "apellidos": "DIP",
+      "nombres": "HERNAN EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "38XXXX63",
+      "apellidos": "MORENO",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

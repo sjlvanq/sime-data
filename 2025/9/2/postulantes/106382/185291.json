@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106382,
+    "padron_id": 185291
+  },
+  "postulantes": [
+    {
+      "orden": 114,
+      "dni": "39XXXX70",
+      "apellidos": "ROJAS",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "34XXXX25",
+      "apellidos": "SECO",
+      "nombres": "CINTHIA LUCIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 228,
+      "dni": "31XXXX44",
+      "apellidos": "SORAIRE",
+      "nombres": "GLORIA PATRICIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108814,
+    "padron_id": 188411
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX61",
+      "apellidos": "PEDERNERA",
+      "nombres": "ANA LUCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "23XXXX51",
+      "apellidos": "GOMEZ MOTHE",
+      "nombres": "MELIDA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX90",
+      "apellidos": "LIBERTO",
+      "nombres": "NATALIA ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

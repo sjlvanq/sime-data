@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 105320,
+    "padron_id": 183935
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "38XXXX22",
+      "apellidos": "NAVARRO",
+      "nombres": "JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "39XXXX04",
+      "apellidos": "BARBOZA",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "33XXXX37",
+      "apellidos": "CASTRO SOSA",
+      "nombres": "IVANNA EDITH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "29XXXX36",
+      "apellidos": "BARROJO",
+      "nombres": "TEOFILO ARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

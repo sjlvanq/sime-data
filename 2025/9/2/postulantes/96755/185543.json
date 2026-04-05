@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 96755,
+    "padron_id": 185543
+  },
+  "postulantes": [
+    {
+      "orden": 57,
+      "dni": "35XXXX79",
+      "apellidos": "ZAMORANO",
+      "nombres": "YANET MILAGRO DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "40XXXX18",
+      "apellidos": "GUZMAN",
+      "nombres": "ANA GABRIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 101,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

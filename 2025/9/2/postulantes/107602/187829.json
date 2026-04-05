@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 107602,
+    "padron_id": 187829
+  },
+  "postulantes": [
+    {
+      "orden": 55,
+      "dni": "33XXXX69",
+      "apellidos": "YBARRA",
+      "nombres": "ANAHI AIME",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 72,
+      "dni": "36XXXX65",
+      "apellidos": "LUCENA",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX06",
+      "apellidos": "ROMANO",
+      "nombres": "ADRIANA RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX34",
+      "apellidos": "MOYANO",
+      "nombres": "CLAUDIA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 101,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

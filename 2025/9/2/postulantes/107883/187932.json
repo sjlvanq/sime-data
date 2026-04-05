@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 107883,
+    "padron_id": 187932
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "39XXXX63",
+      "apellidos": "RUIZ",
+      "nombres": "CARLOS GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "27XXXX53",
+      "apellidos": "EMGE",
+      "nombres": "MARTIN LORENZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "33XXXX95",
+      "apellidos": "JALIL QUIROGA",
+      "nombres": "LUISA ESTELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

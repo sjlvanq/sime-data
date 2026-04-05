@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109303,
+    "padron_id": 189540
+  },
+  "postulantes": [
+    {
+      "orden": 89,
+      "dni": "12XXXX94",
+      "apellidos": "FERNÁNDEZ MARTI",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "14XXXX34",
+      "apellidos": "CISNEROS",
+      "nombres": "RUBEN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "38XXXX31",
+      "apellidos": "SOTELO",
+      "nombres": "GABRIEL MARCOS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

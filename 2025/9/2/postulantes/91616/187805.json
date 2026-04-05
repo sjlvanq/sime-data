@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 91616,
+    "padron_id": 187805
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "38XXXX30",
+      "apellidos": "BRITO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "37XXXX91",
+      "apellidos": "JACOBO",
+      "nombres": "SILVINA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX72",
+      "apellidos": "CORBALAN ROMANO",
+      "nombres": "BERENICE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

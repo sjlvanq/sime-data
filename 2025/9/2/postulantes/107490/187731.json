@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 107490,
+    "padron_id": 187731
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "28XXXX78",
+      "apellidos": "ORELLANA",
+      "nombres": "CAROLINA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "30XXXX93",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "28XXXX90",
+      "apellidos": "GIRBAU",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

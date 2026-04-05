@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108257,
+    "padron_id": 187719
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "29XXXX51",
+      "apellidos": "ALVARADO",
+      "nombres": "CRISTIAN MATIAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX49",
+      "apellidos": "OLMOS",
+      "nombres": "MÁXIMO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX11",
+      "apellidos": "ALE",
+      "nombres": "MARIA AURORA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

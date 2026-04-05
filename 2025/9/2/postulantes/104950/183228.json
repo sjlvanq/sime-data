@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 104950,
+    "padron_id": 183228
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "25XXXX60",
+      "apellidos": "VACA",
+      "nombres": "CECILIA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "29XXXX48",
+      "apellidos": "ZAMBRANO",
+      "nombres": "ELSA PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

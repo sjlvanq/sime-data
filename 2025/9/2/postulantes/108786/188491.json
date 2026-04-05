@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108786,
+    "padron_id": 188491
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "32XXXX32",
+      "apellidos": "NIEVA",
+      "nombres": "MARIO ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "31XXXX04",
+      "apellidos": "MOLINA",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "26XXXX94",
+      "apellidos": "MONROY",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

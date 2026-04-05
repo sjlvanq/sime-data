@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 92230,
+    "padron_id": 187841
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "26XXXX32",
+      "apellidos": "TORO TISEIRA",
+      "nombres": "JULIETA VALERIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "22XXXX99",
+      "apellidos": "CORVALAN",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX00",
+      "apellidos": "DECIMA",
+      "nombres": "JUAN LEANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 105911,
+    "padron_id": 184194
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "36XXXX67",
+      "apellidos": "SALAZAR",
+      "nombres": "ARGENTINA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 89,
+      "dni": "33XXXX85",
+      "apellidos": "BIANCHINI",
+      "nombres": "ALEJANDRO DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX60",
+      "apellidos": "AGUERO",
+      "nombres": "EFRAIN MARCELO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

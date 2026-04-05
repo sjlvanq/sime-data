@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108331,
+    "padron_id": 188097
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX03",
+      "apellidos": "GARCIA",
+      "nombres": "MARIA LEONOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX85",
+      "apellidos": "GOSNE",
+      "nombres": "LEHILA NAHIME",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "39XXXX09",
+      "apellidos": "INEDI",
+      "nombres": "DEIBI ESKANDAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

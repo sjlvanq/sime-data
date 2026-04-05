@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106390,
+    "padron_id": 185334
+  },
+  "postulantes": [
+    {
+      "orden": 33,
+      "dni": "38XXXX12",
+      "apellidos": "FERNADEZ COLOMBO",
+      "nombres": "LAURA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "29XXXX90",
+      "apellidos": "SIMESEN DE BIELKE",
+      "nombres": "PATRICIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "38XXXX37",
+      "apellidos": "JUAREZ",
+      "nombres": "BELEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

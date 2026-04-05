@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 105443,
+    "padron_id": 183845
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "38XXXX30",
+      "apellidos": "BRITO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "40XXXX40",
+      "apellidos": "BENZAL",
+      "nombres": "MARIANA CANDELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

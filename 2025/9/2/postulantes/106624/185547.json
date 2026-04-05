@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106624,
+    "padron_id": 185547
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX74",
+      "apellidos": "JIMENEZ",
+      "nombres": "FRANCO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "31XXXX17",
+      "apellidos": "SANDOVAL",
+      "nombres": "LOURDES MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX93",
+      "apellidos": "DELGADO",
+      "nombres": "JAVIER OSCAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

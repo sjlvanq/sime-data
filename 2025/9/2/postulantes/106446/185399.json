@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106446,
+    "padron_id": 185399
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX18",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "18XXXX55",
+      "apellidos": "PEREYRA ISA",
+      "nombres": "NORMA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 105487,
+    "padron_id": 183710
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "37XXXX33",
+      "apellidos": "MONZÓN",
+      "nombres": "VICTORIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "37XXXX79",
+      "apellidos": "ZORRILLA HOYOS",
+      "nombres": "YANET MERCEDES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "33XXXX12",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOSE MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

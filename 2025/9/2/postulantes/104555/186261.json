@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 104555,
+    "padron_id": 186261
+  },
+  "postulantes": [
+    {
+      "orden": 91,
+      "dni": "29XXXX48",
+      "apellidos": "PORCEL",
+      "nombres": "CARLOS GONZALO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 142,
+      "dni": "20XXXX49",
+      "apellidos": "TAPIA",
+      "nombres": "HUGO CEFERINO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 196,
+      "dni": "34XXXX13",
+      "apellidos": "PAZ",
+      "nombres": "RODRIGO EZEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "34XXXX60",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "JORGE DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

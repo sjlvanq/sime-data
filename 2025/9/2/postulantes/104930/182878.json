@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104930,
+    "padron_id": 182878
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX35",
+      "apellidos": "SERRIZUELA",
+      "nombres": "MARIA DE LA PAZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "27XXXX89",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ELIANA ELVIRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "21XXXX23",
+      "apellidos": "CHAVEZ",
+      "nombres": "TEUTIMA DEL TRANSITO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

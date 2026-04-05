@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 107589,
+    "padron_id": 186954
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX09",
+      "apellidos": "GARCIA",
+      "nombres": "GABRIELA FERNANDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX46",
+      "apellidos": "RIOS",
+      "nombres": "ESTELA NOEMI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX90",
+      "apellidos": "LIBERTO",
+      "nombres": "NATALIA ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

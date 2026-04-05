@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 107572,
+    "padron_id": 187020
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "32XXXX44",
+      "apellidos": "LEANDRINI",
+      "nombres": "NATALIA STEFANIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "25XXXX93",
+      "apellidos": "ROMANO",
+      "nombres": "GLADYS ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX43",
+      "apellidos": "ARELLANO",
+      "nombres": "SERGIO ALFREDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX22",
+      "apellidos": "LOPEZ VAZQUEZ",
+      "nombres": "NATALIA VANESA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX59",
+      "apellidos": "LUNA",
+      "nombres": "JORGELINA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

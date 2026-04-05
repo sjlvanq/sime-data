@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 107001,
+    "padron_id": 186517
+  },
+  "postulantes": [
+    {
+      "orden": 52,
+      "dni": "37XXXX74",
+      "apellidos": "PONCE",
+      "nombres": "JAVIER EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 108,
+      "dni": "17XXXX26",
+      "apellidos": "GIL",
+      "nombres": "ADRIANA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 297,
+      "dni": "36XXXX43",
+      "apellidos": "MITTELMANN",
+      "nombres": "PRISCILLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

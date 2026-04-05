@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104925,
+    "padron_id": 183217
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX35",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ROMINA JANET",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX16",
+      "apellidos": "GUARDO",
+      "nombres": "MARÍA MERCEDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX11",
+      "apellidos": "CATALAN",
+      "nombres": "PABLO EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

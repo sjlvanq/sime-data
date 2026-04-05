@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106800,
+    "padron_id": 185287
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "38XXXX29",
+      "apellidos": "POSSE GALLARDO",
+      "nombres": "CAMILA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "29XXXX81",
+      "apellidos": "MORALES",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "21XXXX87",
+      "apellidos": "PERALTA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
