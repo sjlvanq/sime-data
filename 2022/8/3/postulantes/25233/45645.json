@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 25233,
+    "padron_id": 45645
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "31XXXX24",
+      "apellidos": "FERNANDEZ",
+      "nombres": "CARLOS GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "25XXXX15",
+      "apellidos": "OLEA",
+      "nombres": "PAOLA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

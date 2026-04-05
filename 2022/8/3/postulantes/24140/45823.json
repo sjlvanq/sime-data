@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 24140,
+    "padron_id": 45823
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX95",
+      "apellidos": "BACAS",
+      "nombres": "GUSTAVO JAVIER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "24XXXX95",
+      "apellidos": "BRYLKO",
+      "nombres": "OLGA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "38XXXX33",
+      "apellidos": "VERA",
+      "nombres": "ALEJANDRA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

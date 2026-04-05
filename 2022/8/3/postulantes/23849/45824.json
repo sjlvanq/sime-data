@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23849,
+    "padron_id": 45824
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX98",
+      "apellidos": "DIAZ",
+      "nombres": "HILDA MARIELA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "25XXXX88",
+      "apellidos": "CANSECO",
+      "nombres": "VERONICA ELISABET",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "16XXXX87",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ADRIANA MARIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 27109,
+    "padron_id": 49281
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX41",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIO ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX79",
+      "apellidos": "FERNANDEZ",
+      "nombres": "CARLOS FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

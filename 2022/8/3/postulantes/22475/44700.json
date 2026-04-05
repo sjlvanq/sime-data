@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 22475,
+    "padron_id": 44700
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX07",
+      "apellidos": "LOPEZ",
+      "nombres": "SANDRA FABIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "18XXXX72",
+      "apellidos": "GIL",
+      "nombres": "NORMA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 27930,
+    "padron_id": 50133
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX50",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MIGUEL ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX22",
+      "apellidos": "FLORES",
+      "nombres": "LUIS PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

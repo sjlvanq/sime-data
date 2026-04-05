@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 26625,
+    "padron_id": 48665
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "25XXXX87",
+      "apellidos": "GEREZ",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX53",
+      "apellidos": "BONFIGLIO",
+      "nombres": "MAIRA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "37XXXX06",
+      "apellidos": "ALBARRACIN",
+      "nombres": "FRANCO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

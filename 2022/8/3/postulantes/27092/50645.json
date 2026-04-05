@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 27092,
+    "padron_id": 50645
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX79",
+      "apellidos": "ROMANO BUDEGUER",
+      "nombres": "ALFREDO MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX92",
+      "apellidos": "LUNA",
+      "nombres": "MARTIN JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

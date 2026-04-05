@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 25813,
+    "padron_id": 45700
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "25XXXX15",
+      "apellidos": "JAIME",
+      "nombres": "JESUS ROSA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "21XXXX57",
+      "apellidos": "CARRER",
+      "nombres": "MARIELA CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "14XXXX19",
+      "apellidos": "CACERES",
+      "nombres": "NELIDA ELENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

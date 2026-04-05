@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 26632,
+    "padron_id": 47821
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX74",
+      "apellidos": "MARTINEZ ALVAREZ",
+      "nombres": "DIEGO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX17",
+      "apellidos": "MEDINA",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

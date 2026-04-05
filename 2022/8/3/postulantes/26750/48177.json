@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 26750,
+    "padron_id": 48177
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX08",
+      "apellidos": "PEREZ",
+      "nombres": "NELSON EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX62",
+      "apellidos": "JUAREZ",
+      "nombres": "DANIELA ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX59",
+      "apellidos": "ZAMORA ZAMORA",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

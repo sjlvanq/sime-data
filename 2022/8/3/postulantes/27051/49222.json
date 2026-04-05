@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 27051,
+    "padron_id": 49222
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX11",
+      "apellidos": "MARINO MENENDEZ",
+      "nombres": "CARLOS ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX13",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "NOELIA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "42XXXX02",
+      "apellidos": "MAMANI",
+      "nombres": "CANDELA PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

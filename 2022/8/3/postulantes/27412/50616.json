@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 27412,
+    "padron_id": 50616
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX07",
+      "apellidos": "VARELA",
+      "nombres": "MARIA NATALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX31",
+      "apellidos": "BUSTOS",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "17XXXX14",
+      "apellidos": "PONCE",
+      "nombres": "DELIA BEATRIZ DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
