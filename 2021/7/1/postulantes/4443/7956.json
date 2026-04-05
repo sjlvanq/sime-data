@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4443,
+    "padron_id": 7956
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX14",
+      "apellidos": "GONZALEZ",
+      "nombres": "ANAHI MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "24XXXX35",
+      "apellidos": "VEGA",
+      "nombres": "MARIA LUZ DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "20XXXX47",
+      "apellidos": "ESPECHE",
+      "nombres": "SANDRA RAQUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

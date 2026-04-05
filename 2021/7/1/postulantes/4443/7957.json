@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 4443,
+    "padron_id": 7957
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "26XXXX95",
+      "apellidos": "DELGADO",
+      "nombres": "MARIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX60",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ROBERTO CARLOS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

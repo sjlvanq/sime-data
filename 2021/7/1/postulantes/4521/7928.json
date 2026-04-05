@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 4521,
+    "padron_id": 7928
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "28XXXX59",
+      "apellidos": "DE PASCUAL",
+      "nombres": "PAOLA DANIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "27XXXX67",
+      "apellidos": "GODOY",
+      "nombres": "VALERIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "25XXXX81",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "CLAUDIA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "26XXXX19",
+      "apellidos": "PEREZ",
+      "nombres": "CLAUDIA MARIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "36XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "LUCAS MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

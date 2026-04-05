@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5091,
+    "padron_id": 8431
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "18XXXX71",
+      "apellidos": "GRAMAJO",
+      "nombres": "MARIELA SANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "25XXXX51",
+      "apellidos": "RUIZ",
+      "nombres": "MARIA LUCIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "22XXXX02",
+      "apellidos": "ROJAS",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

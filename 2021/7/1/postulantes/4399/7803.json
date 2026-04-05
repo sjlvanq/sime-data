@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4399,
+    "padron_id": 7803
+  },
+  "postulantes": [
+    {
+      "orden": 190,
+      "dni": "20XXXX27",
+      "apellidos": "PACHADO",
+      "nombres": "ALICIA RAQUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 284,
+      "dni": "21XXXX56",
+      "apellidos": "FIGUEROA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 314,
+      "dni": "20XXXX30",
+      "apellidos": "PUEBLA",
+      "nombres": "NANCY MARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

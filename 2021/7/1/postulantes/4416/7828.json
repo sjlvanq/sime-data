@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 4416,
+    "padron_id": 7828
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "28XXXX37",
+      "apellidos": "CASTILLO",
+      "nombres": "PRISCILA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "36XXXX45",
+      "apellidos": "DIAZ",
+      "nombres": "CAROLINA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 88,
+      "dni": "35XXXX27",
+      "apellidos": "PIZARRO",
+      "nombres": "NOELIA DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 101,
+      "dni": "28XXXX33",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
