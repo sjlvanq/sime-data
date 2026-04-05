@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 8720,
+    "padron_id": 15608
+  },
+  "postulantes": [
+    {
+      "orden": 89,
+      "dni": "26XXXX58",
+      "apellidos": "IÑIGUEZ",
+      "nombres": "MARIA LUISA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 117,
+      "dni": "34XXXX28",
+      "apellidos": "ROMERO",
+      "nombres": "JULIO NESTOR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "32XXXX51",
+      "apellidos": "SEMAN",
+      "nombres": "ALEJANDRA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX06",
+      "apellidos": "PALMIERI",
+      "nombres": "VANINA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "16XXXX04",
+      "apellidos": "MEDINA",
+      "nombres": "BLANCA INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

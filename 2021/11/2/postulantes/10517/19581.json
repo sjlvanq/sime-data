@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10517,
+    "padron_id": 19581
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX12",
+      "apellidos": "CORDOBA",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "32XXXX19",
+      "apellidos": "FIGUEROA",
+      "nombres": "SAULO BERNABÉ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX01",
+      "apellidos": "PAEZ ALDERETES",
+      "nombres": "JOSE ANDRES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

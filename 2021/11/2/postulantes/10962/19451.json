@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10962,
+    "padron_id": 19451
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX58",
+      "apellidos": "ACOSTA",
+      "nombres": "ELIZABETH DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX52",
+      "apellidos": "LAGO GONZALEZ",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

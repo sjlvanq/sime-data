@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 10341,
+    "padron_id": 18044
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "29XXXX61",
+      "apellidos": "PALAVECINO",
+      "nombres": "CARLA NOELIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "27XXXX66",
+      "apellidos": "PAEZ                                    ",
+      "nombres": "MARIA DE LOS ANGELES                    ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "18XXXX67",
+      "apellidos": "SOVERON",
+      "nombres": "ADRIANA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "32XXXX66",
+      "apellidos": "DURAN",
+      "nombres": "KARINA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

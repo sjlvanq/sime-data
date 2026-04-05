@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 6233,
+    "padron_id": 15698
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "33XXXX49",
+      "apellidos": "GOMEZ",
+      "nombres": "ROCIO DE FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "29XXXX81",
+      "apellidos": "MORALES",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "30XXXX01",
+      "apellidos": "LEIVA",
+      "nombres": "PATRICIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

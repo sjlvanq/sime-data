@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9655,
+    "padron_id": 17555
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "27XXXX07",
+      "apellidos": "MORENO",
+      "nombres": "CECILIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "27XXXX44",
+      "apellidos": "ORTEGA TERRIJN",
+      "nombres": "CARLOS GUIDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

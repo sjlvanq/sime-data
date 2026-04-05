@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10047,
+    "padron_id": 17294
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX95",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA VICTORIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "12XXXX73",
+      "apellidos": "JUAREZ",
+      "nombres": "RAUL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

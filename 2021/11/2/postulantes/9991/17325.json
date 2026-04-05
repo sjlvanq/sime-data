@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 9991,
+    "padron_id": 17325
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX13",
+      "apellidos": "ARANDA",
+      "nombres": "CLAUDIA ISABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX79",
+      "apellidos": "DE LA VEGA",
+      "nombres": "MARCELA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "34XXXX88",
+      "apellidos": "MANAY",
+      "nombres": "CONSTANZA MARIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 57,
+      "dni": "24XXXX89",
+      "apellidos": "OUSSET",
+      "nombres": "NATALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

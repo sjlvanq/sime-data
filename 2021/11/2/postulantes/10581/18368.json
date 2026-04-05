@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10581,
+    "padron_id": 18368
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX14",
+      "apellidos": "BRANDÁN",
+      "nombres": "CYNTHIA GUADALUPE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX28",
+      "apellidos": "FERNANDEZ",
+      "nombres": "LUIS WALTER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

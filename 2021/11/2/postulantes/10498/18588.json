@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 10498,
+    "padron_id": 18588
+  },
+  "postulantes": [
+    {
+      "orden": 51,
+      "dni": "34XXXX31",
+      "apellidos": "NAZUR",
+      "nombres": "NAYLA FLORENCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 130,
+      "dni": "29XXXX23",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 73,
+      "dni": "32XXXX68",
+      "apellidos": "LIZARRAGA",
+      "nombres": "MARINA CLARISA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 131,
+      "dni": "34XXXX97",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

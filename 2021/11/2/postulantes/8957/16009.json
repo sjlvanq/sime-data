@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 8957,
+    "padron_id": 16009
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "23XXXX23",
+      "apellidos": "MELIAN                                  ",
+      "nombres": "VIVIANA ELIZABETH                       ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "40XXXX90",
+      "apellidos": "JUAREZ GALOVARD",
+      "nombres": "JANETH DEL ROSARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX51",
+      "apellidos": "CARO",
+      "nombres": "CINTIA ROCIO DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "21XXXX51",
+      "apellidos": "FERNANDEZ",
+      "nombres": "DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 8880,
+    "padron_id": 15512
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX37",
+      "apellidos": "BUCCI",
+      "nombres": "ALFREDO ARIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "27XXXX20",
+      "apellidos": "ALVARADO",
+      "nombres": "EDUARDO HERNAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10405,
+    "padron_id": 18444
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "31XXXX73",
+      "apellidos": "MENDEZ MEDINA",
+      "nombres": "ANDRES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX68",
+      "apellidos": "TORRES MAEMPEL",
+      "nombres": "OTTO JORGE MAXIMILIANO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

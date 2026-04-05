@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9338,
+    "padron_id": 16411
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX50",
+      "apellidos": "MONTEROS AGUILERA",
+      "nombres": "ROMINA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "14XXXX19",
+      "apellidos": "ZAMORANO",
+      "nombres": "GLADYS DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "17XXXX87",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARIA EVA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

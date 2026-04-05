@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 10911,
+    "padron_id": 19438
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "34XXXX37",
+      "apellidos": "GRANDE",
+      "nombres": "SONIA MARIA MERCEDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX80",
+      "apellidos": "MORENO LEDESMA",
+      "nombres": "LUCIANO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "33XXXX45",
+      "apellidos": "FUNEZ",
+      "nombres": "DARDO NICOLAS FRANCISCO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "28XXXX56",
+      "apellidos": "VITAR",
+      "nombres": "GEORGINA LEONOR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

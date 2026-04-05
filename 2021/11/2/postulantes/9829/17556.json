@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9829,
+    "padron_id": 17556
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "34XXXX29",
+      "apellidos": "CORDOBA MARAÑON",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "20XXXX22",
+      "apellidos": "NAVARRO",
+      "nombres": "MARCELA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "35XXXX53",
+      "apellidos": "CARABAJAL",
+      "nombres": "MARIO ALBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

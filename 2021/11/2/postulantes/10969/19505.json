@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10969,
+    "padron_id": 19505
+  },
+  "postulantes": [
+    {
+      "orden": 51,
+      "dni": "14XXXX58",
+      "apellidos": "ABRAHAM",
+      "nombres": "ATILIO MARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 89,
+      "dni": "20XXXX96",
+      "apellidos": "REINA",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

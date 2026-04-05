@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 10340,
+    "padron_id": 18049
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "94XXXX68",
+      "apellidos": "CHAVEZ MICALE",
+      "nombres": "PAMELA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "37XXXX87",
+      "apellidos": "AGUIRRE",
+      "nombres": "VERÓNICA ROMINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "30XXXX51",
+      "apellidos": "ALVAREZ COSTAS",
+      "nombres": "ANDREA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 68,
+      "dni": "35XXXX55",
+      "apellidos": "GIMENEZ ARROYO",
+      "nombres": "IVANA GISELLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

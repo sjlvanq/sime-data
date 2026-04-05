@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9516,
+    "padron_id": 17312
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "24XXXX56",
+      "apellidos": "SALAS",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "28XXXX54",
+      "apellidos": "PEREZ",
+      "nombres": "DANIEL GUSTAVO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 9829,
+    "padron_id": 17558
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "28XXXX59",
+      "apellidos": "TORO",
+      "nombres": "MARÍA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "32XXXX21",
+      "apellidos": "LUNA",
+      "nombres": "ANAHI SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

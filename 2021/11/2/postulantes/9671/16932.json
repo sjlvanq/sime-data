@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 9671,
+    "padron_id": 16932
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "28XXXX93",
+      "apellidos": "PEREZ",
+      "nombres": "MARIO JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "18XXXX07",
+      "apellidos": "HERNANDEZ",
+      "nombres": "LUCIA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "23XXXX02",
+      "apellidos": "MONTEROS",
+      "nombres": "SERGIO MARCELO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "33XXXX28",
+      "apellidos": "BRANDAN CORREA",
+      "nombres": "CESAR JORGE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "24XXXX58",
+      "apellidos": "VARELA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

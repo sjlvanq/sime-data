@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10770,
+    "padron_id": 18900
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX59",
+      "apellidos": "CACERES",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX50",
+      "apellidos": "GONZALEZ",
+      "nombres": "ERICA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

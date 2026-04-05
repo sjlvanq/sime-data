@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10278,
+    "padron_id": 18261
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX58",
+      "apellidos": "DIAZ",
+      "nombres": "ELIZABETH NOELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX77",
+      "apellidos": "GOMEZ",
+      "nombres": "NATAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

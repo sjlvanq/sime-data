@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 10213,
+    "padron_id": 18225
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "34XXXX12",
+      "apellidos": "SEGLI",
+      "nombres": "SERGIO EMILIANO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "39XXXX44",
+      "apellidos": "DILASCIO",
+      "nombres": "ROCIO ANTONELLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "31XXXX80",
+      "apellidos": "COLMENARES TORRES",
+      "nombres": "ITALO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "27XXXX28",
+      "apellidos": "VEGA",
+      "nombres": "MELINA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

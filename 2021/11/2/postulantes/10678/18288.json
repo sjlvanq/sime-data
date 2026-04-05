@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10678,
+    "padron_id": 18288
+  },
+  "postulantes": [
+    {
+      "orden": 37,
+      "dni": "17XXXX32",
+      "apellidos": "FIGUEROA",
+      "nombres": "SEGUNDO FERMIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "32XXXX14",
+      "apellidos": "PEREZ",
+      "nombres": "LORENA VALERIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

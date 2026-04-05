@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10739,
+    "padron_id": 19423
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX00",
+      "apellidos": "GALVEZ",
+      "nombres": "ROSARIO INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX59",
+      "apellidos": "MIRABAL",
+      "nombres": "NERINA LEONELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

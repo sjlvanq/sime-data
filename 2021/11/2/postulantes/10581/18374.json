@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10581,
+    "padron_id": 18374
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "33XXXX32",
+      "apellidos": "IRAMAIN",
+      "nombres": "NATALIA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "30XXXX97",
+      "apellidos": "MARI",
+      "nombres": "FÁTIMA EDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 103,
+      "dni": "33XXXX60",
+      "apellidos": "MANZI",
+      "nombres": "CINTHIA XIMENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

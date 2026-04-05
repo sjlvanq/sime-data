@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "vacante_id": 10436,
+    "padron_id": 18418
+  },
+  "postulantes": [
+    {
+      "orden": 34,
+      "dni": "30XXXX24",
+      "apellidos": "LUNA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX96",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX89",
+      "apellidos": "VERON",
+      "nombres": "FRANCO IVAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX35",
+      "apellidos": "NAMEN",
+      "nombres": "SILVINA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX86",
+      "apellidos": "ORDOÑEZ",
+      "nombres": "MARGARITA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "27XXXX44",
+      "apellidos": "ORTEGA TERRIJN",
+      "nombres": "CARLOS GUIDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

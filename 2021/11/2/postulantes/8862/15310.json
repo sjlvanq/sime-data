@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 8862,
+    "padron_id": 15310
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX01",
+      "apellidos": "COSTILLA",
+      "nombres": "MARÍA FERNANDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "26XXXX55",
+      "apellidos": "AGUIRRE",
+      "nombres": "CAROLINA MARIA JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "18XXXX10",
+      "apellidos": "PORTILLO",
+      "nombres": "ADRIANA KARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

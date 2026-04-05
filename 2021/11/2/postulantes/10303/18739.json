@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10303,
+    "padron_id": 18739
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX11",
+      "apellidos": "HERRERA",
+      "nombres": "SANDRA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX14",
+      "apellidos": "MANZEWITSCH",
+      "nombres": "ANA KARENINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

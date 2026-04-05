@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10886,
+    "padron_id": 18927
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "27XXXX06",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "JOSE LUIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX54",
+      "apellidos": "GEREZ",
+      "nombres": "ZULMA ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

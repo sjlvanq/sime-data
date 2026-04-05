@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 8858,
+    "padron_id": 15304
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "31XXXX16",
+      "apellidos": "JUAREZ",
+      "nombres": "JUAN MANUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "38XXXX54",
+      "apellidos": "OLMEDO",
+      "nombres": "JUAN  JOSÉ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "38XXXX69",
+      "apellidos": "FARIAS",
+      "nombres": "FLAVIA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "27XXXX20",
+      "apellidos": "SALAS",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX90",
+      "apellidos": "MENTEL ROMANO",
+      "nombres": "LUCIANO JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

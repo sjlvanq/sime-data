@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 8853,
+    "padron_id": 16794
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "35XXXX44",
+      "apellidos": "ARROYO",
+      "nombres": "ALICIA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX01",
+      "apellidos": "PAEZ ALDERETES",
+      "nombres": "JOSE ANDRES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

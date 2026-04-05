@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 10573,
+    "padron_id": 18770
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "34XXXX66",
+      "apellidos": "VILA",
+      "nombres": "ALVARO ENRIQUE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "21XXXX51",
+      "apellidos": "SOLÁ",
+      "nombres": "NANCY   FABIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "26XXXX74",
+      "apellidos": "CARO",
+      "nombres": "PAULINA RAQUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "28XXXX10",
+      "apellidos": "SANCHEZ ALZOGARAY",
+      "nombres": "MARIA VANESA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

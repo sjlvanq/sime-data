@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9520,
+    "padron_id": 16967
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX14",
+      "apellidos": "BAZAN",
+      "nombres": "PATRICIA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "36XXXX13",
+      "apellidos": "ROJAS",
+      "nombres": "VICTOR GUILLERMO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX06",
+      "apellidos": "BARRIOS",
+      "nombres": "MARIANO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

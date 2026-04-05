@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9061,
+    "padron_id": 15711
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "40XXXX71",
+      "apellidos": "CANTO",
+      "nombres": "MARIA PÍA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "40XXXX94",
+      "apellidos": "REYES",
+      "nombres": "AIMÉ ANABELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "24XXXX82",
+      "apellidos": "CLERICI",
+      "nombres": "GUSTAVO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

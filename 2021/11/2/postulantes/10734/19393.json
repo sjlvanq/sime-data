@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10734,
+    "padron_id": 19393
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX58",
+      "apellidos": "DIAZ",
+      "nombres": "VIVIANA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX92",
+      "apellidos": "CORISI",
+      "nombres": "CARLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

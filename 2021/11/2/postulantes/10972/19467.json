@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10972,
+    "padron_id": 19467
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX00",
+      "apellidos": "DIAZ PARRA",
+      "nombres": "GUILLERMO JESUS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX99",
+      "apellidos": "DECIMA",
+      "nombres": "ALEJANDRA PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

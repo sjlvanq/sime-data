@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10956,
+    "padron_id": 19092
+  },
+  "postulantes": [
+    {
+      "orden": 36,
+      "dni": "23XXXX65",
+      "apellidos": "GAMBARTE",
+      "nombres": "JUDIT ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX65",
+      "apellidos": "AMUD                                    ",
+      "nombres": "ANDREA CECILIA                          ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX19",
+      "apellidos": "GONZALEZ",
+      "nombres": "CARMEN PATRICIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

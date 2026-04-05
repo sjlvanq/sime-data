@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 10497,
+    "padron_id": 18567
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "23XXXX23",
+      "apellidos": "MELIAN                                  ",
+      "nombres": "VIVIANA ELIZABETH                       ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "35XXXX45",
+      "apellidos": "VARGAS",
+      "nombres": "KAREN ANALIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "24XXXX40",
+      "apellidos": "BARBERA",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "26XXXX58",
+      "apellidos": "CALDERON",
+      "nombres": "MARIA EUGENIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

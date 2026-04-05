@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10957,
+    "padron_id": 19455
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX52",
+      "apellidos": "LAGO GONZALEZ",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX58",
+      "apellidos": "TOSCANO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

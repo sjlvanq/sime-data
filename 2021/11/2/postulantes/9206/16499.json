@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9206,
+    "padron_id": 16499
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "21XXXX68",
+      "apellidos": "ROMERO",
+      "nombres": "RODOLFO GUSTAVO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "32XXXX44",
+      "apellidos": "SERRANO",
+      "nombres": "RAUL NICOLAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "36XXXX47",
+      "apellidos": "LORETO CAPPELLINI           ",
+      "nombres": "ANTONELLA BELEN                         ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

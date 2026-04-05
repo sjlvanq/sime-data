@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 9078,
+    "padron_id": 16351
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "24XXXX56",
+      "apellidos": "SALAS",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX34",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANAHI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

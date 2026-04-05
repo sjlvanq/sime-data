@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10795,
+    "padron_id": 19026
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX07",
+      "apellidos": "VERA JALUF",
+      "nombres": "FLORENCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "23XXXX23",
+      "apellidos": "MELIAN                                  ",
+      "nombres": "VIVIANA ELIZABETH                       ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "35XXXX45",
+      "apellidos": "VARGAS",
+      "nombres": "KAREN ANALIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

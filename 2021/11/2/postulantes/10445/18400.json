@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 10445,
+    "padron_id": 18400
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "29XXXX36",
+      "apellidos": "ACOSTA",
+      "nombres": "LUIS HERNAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "31XXXX65",
+      "apellidos": "FUENTES",
+      "nombres": "SILVANA LORENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "25XXXX49",
+      "apellidos": "ALBANO SZANTO",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "22XXXX50",
+      "apellidos": "JEREZ",
+      "nombres": "VICTOR JESUS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "33XXXX69",
+      "apellidos": "RAMOS",
+      "nombres": "LUCIANA YANINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

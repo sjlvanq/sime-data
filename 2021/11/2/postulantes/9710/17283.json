@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 9710,
+    "padron_id": 17283
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "37XXXX19",
+      "apellidos": "CORREA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "24XXXX56",
+      "apellidos": "SALAS",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "37XXXX46",
+      "apellidos": "SALICA CORDOBA",
+      "nombres": "VICTOR ESTANISLAO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "28XXXX54",
+      "apellidos": "PEREZ",
+      "nombres": "DANIEL GUSTAVO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

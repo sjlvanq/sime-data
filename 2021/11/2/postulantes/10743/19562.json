@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10743,
+    "padron_id": 19562
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "32XXXX53",
+      "apellidos": "PACHAO",
+      "nombres": "MARIA LUISA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX39",
+      "apellidos": "ZELARAYAN",
+      "nombres": "HERNAN ANTONIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX03",
+      "apellidos": "GUZMAN",
+      "nombres": "KARINA SANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
