@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 67679,
+    "padron_id": 120656
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "32XXXX56",
+      "apellidos": "SEPULVEDA",
+      "nombres": "MARISEL CATALINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "25XXXX28",
+      "apellidos": "MANSILLA ROMANO",
+      "nombres": "ALBERTO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "26XXXX93",
+      "apellidos": "AVILA",
+      "nombres": "ROQUE OSVALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

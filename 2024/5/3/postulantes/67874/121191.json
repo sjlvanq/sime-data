@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 67874,
+    "padron_id": 121191
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "21XXXX44",
+      "apellidos": "PAEZ",
+      "nombres": "RUBEN ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "32XXXX51",
+      "apellidos": "SEMAN",
+      "nombres": "ALEJANDRA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX19",
+      "apellidos": "GONZALEZ",
+      "nombres": "CARMEN PATRICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

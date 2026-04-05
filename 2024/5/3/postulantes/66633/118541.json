@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66633,
+    "padron_id": 118541
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX40",
+      "apellidos": "MALDONADO",
+      "nombres": "MARIANO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX18",
+      "apellidos": "SBROCCO",
+      "nombres": "SILVIO ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX16",
+      "apellidos": "DULOR",
+      "nombres": "LUCIANO GASTON",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

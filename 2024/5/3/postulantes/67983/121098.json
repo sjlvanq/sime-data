@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 67983,
+    "padron_id": 121098
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX80",
+      "apellidos": "SILVENSES",
+      "nombres": "SILVIA LEONOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "25XXXX57",
+      "apellidos": "FRÍAS PAZ",
+      "nombres": "JORGE ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX92",
+      "apellidos": "VILLA",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

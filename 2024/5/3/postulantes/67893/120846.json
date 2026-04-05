@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 67893,
+    "padron_id": 120846
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX45",
+      "apellidos": "ROLDAN",
+      "nombres": "MIRTA PATRICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "30XXXX94",
+      "apellidos": "RUÍZ",
+      "nombres": "MARÍA SUSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "22XXXX88",
+      "apellidos": "MORENO",
+      "nombres": "BLANCA ADRIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

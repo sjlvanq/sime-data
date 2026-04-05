@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 67810,
+    "padron_id": 120985
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX82",
+      "apellidos": "BOGGIATTO",
+      "nombres": "FERNANDO LEONARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX81",
+      "apellidos": "MORAN",
+      "nombres": "MIGUEL ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX56",
+      "apellidos": "FERREIRA",
+      "nombres": "RAUL ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

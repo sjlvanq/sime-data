@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66477,
+    "padron_id": 119429
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "31XXXX14",
+      "apellidos": "LOBO",
+      "nombres": "ALVARO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "35XXXX39",
+      "apellidos": "LOPEZ AZNARAN",
+      "nombres": "ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX46",
+      "apellidos": "VIERA",
+      "nombres": "LUIS CESAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

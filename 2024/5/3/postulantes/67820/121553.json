@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 67820,
+    "padron_id": 121553
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "36XXXX66",
+      "apellidos": "VEGA",
+      "nombres": "MARÍA ANGELA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX63",
+      "apellidos": "ALBORNOZ",
+      "nombres": "JAVIER ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX66",
+      "apellidos": "NIETO",
+      "nombres": "RAMON FABRICIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

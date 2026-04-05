@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 69150,
+    "padron_id": 123125
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX92",
+      "apellidos": "FECHA",
+      "nombres": "SANDRA NOEMI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX69",
+      "apellidos": "SERRANO",
+      "nombres": "MARIA DEL ROSARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "34XXXX41",
+      "apellidos": "HERRERA",
+      "nombres": "MYRIAM NATALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX80",
+      "apellidos": "FRIAS",
+      "nombres": "DEOLINDO OSCAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

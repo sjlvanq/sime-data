@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68131,
+    "padron_id": 121711
+  },
+  "postulantes": [
+    {
+      "orden": 177,
+      "dni": "26XXXX91",
+      "apellidos": "SEQUEIRA",
+      "nombres": "NANCY MARIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "24XXXX93",
+      "apellidos": "DE CANDIDO",
+      "nombres": "CARINA ANDREA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "29XXXX44",
+      "apellidos": "MIRANDA",
+      "nombres": "NILDA VERÓNICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

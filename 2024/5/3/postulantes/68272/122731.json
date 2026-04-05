@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 68272,
+    "padron_id": 122731
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX02",
+      "apellidos": "NAVARRO",
+      "nombres": "RUBEN MARINO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX26",
+      "apellidos": "VARELA",
+      "nombres": "LUCAS MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

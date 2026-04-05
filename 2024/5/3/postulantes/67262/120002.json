@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 67262,
+    "padron_id": 120002
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX07",
+      "apellidos": "GARZON",
+      "nombres": "PABLO OMAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX42",
+      "apellidos": "VILLA",
+      "nombres": "EMANUEL AGUSTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

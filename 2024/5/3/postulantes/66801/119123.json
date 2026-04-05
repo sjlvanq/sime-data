@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66801,
+    "padron_id": 119123
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX35",
+      "apellidos": "SORIA",
+      "nombres": "CARLOS MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX20",
+      "apellidos": "LOPEZ CEJAS",
+      "nombres": "PABLO MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX96",
+      "apellidos": "IMPELLIZZERE",
+      "nombres": "DIEGO FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

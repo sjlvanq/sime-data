@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 67983,
+    "padron_id": 121097
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX55",
+      "apellidos": "CARRIZO",
+      "nombres": "NANCY CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX12",
+      "apellidos": "SEGLI",
+      "nombres": "SERGIO EMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

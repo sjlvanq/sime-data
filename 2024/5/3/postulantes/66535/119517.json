@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66535,
+    "padron_id": 119517
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX69",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "JULIO JOSE IGNACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX78",
+      "apellidos": "MEDINA",
+      "nombres": "DANIEL JESUS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX53",
+      "apellidos": "EMGE",
+      "nombres": "MARTIN LORENZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
