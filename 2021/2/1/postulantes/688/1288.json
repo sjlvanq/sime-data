@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 688,
+    "padron_id": 1288
+  },
+  "postulantes": [
+    {
+      "orden": 126,
+      "dni": "18XXXX40",
+      "apellidos": "FIGUEROA",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "20XXXX58",
+      "apellidos": "MENA",
+      "nombres": "SANDRA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 69,
+      "dni": "22XXXX11",
+      "apellidos": "SOSA",
+      "nombres": "CLAUDIA ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "18XXXX23",
+      "apellidos": "MEDINA",
+      "nombres": "MIRYAN MONICA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
