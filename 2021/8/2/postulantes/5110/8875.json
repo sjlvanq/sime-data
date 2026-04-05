@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 5110,
+    "padron_id": 8875
+  },
+  "postulantes": [
+    {
+      "orden": 54,
+      "dni": "24XXXX50",
+      "apellidos": "HABIB",
+      "nombres": "PATRICIA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "33XXXX12",
+      "apellidos": "NAVELINO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 108,
+      "dni": "30XXXX00",
+      "apellidos": "TREJO",
+      "nombres": "MARIA MARTA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 71,
+      "dni": "26XXXX33",
+      "apellidos": "SOLORZANO",
+      "nombres": "LEONARDO DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 85,
+      "dni": "37XXXX77",
+      "apellidos": "GONZALEZ",
+      "nombres": "NADIA VANESSA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 3353,
+    "padron_id": 9197
+  },
+  "postulantes": [
+    {
+      "orden": 49,
+      "dni": "38XXXX50",
+      "apellidos": "CHOCOBAR",
+      "nombres": "REBECA NEFTALI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 88,
+      "dni": "30XXXX73",
+      "apellidos": "REYNOSO",
+      "nombres": "MARIA SILVANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "32XXXX59",
+      "apellidos": "MIRABAL",
+      "nombres": "NERINA LEONELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

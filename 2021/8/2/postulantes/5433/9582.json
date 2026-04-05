@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5433,
+    "padron_id": 9582
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "24XXXX50",
+      "apellidos": "HABIB",
+      "nombres": "PATRICIA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "17XXXX99",
+      "apellidos": "APUD",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX63",
+      "apellidos": "AREDEZ",
+      "nombres": "ANABEL CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5374,
+    "padron_id": 8597
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "30XXXX89",
+      "apellidos": "CALDERON",
+      "nombres": "SILVIA LORENA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "20XXXX54",
+      "apellidos": "CRUZ FERNANDEZ",
+      "nombres": "SILVANA MILENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "27XXXX77",
+      "apellidos": "MIRANDA",
+      "nombres": "GERMAN DARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

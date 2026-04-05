@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5263,
+    "padron_id": 8986
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX41",
+      "apellidos": "ZAMORANO",
+      "nombres": "NANCY DEL ROSARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX44",
+      "apellidos": "BOBBA",
+      "nombres": "ROXANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

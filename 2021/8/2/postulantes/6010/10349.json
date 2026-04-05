@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 6010,
+    "padron_id": 10349
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX77",
+      "apellidos": "DIAZ",
+      "nombres": "LUCRECIA EVANGELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "26XXXX38",
+      "apellidos": "PADILLA",
+      "nombres": "ELIDA MIRIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "25XXXX92",
+      "apellidos": "ARMAS",
+      "nombres": "CECILIA RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "25XXXX95",
+      "apellidos": "BACAS",
+      "nombres": "GUSTAVO JAVIER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "18XXXX80",
+      "apellidos": "SILVENSES",
+      "nombres": "SILVIA LEONOR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

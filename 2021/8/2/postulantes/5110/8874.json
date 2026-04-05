@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5110,
+    "padron_id": 8874
+  },
+  "postulantes": [
+    {
+      "orden": 75,
+      "dni": "33XXXX12",
+      "apellidos": "NAVELINO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "36XXXX25",
+      "apellidos": "GRAMAJO RODRIGUEZ",
+      "nombres": "DARIO EDUARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

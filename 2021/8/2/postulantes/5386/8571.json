@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5386,
+    "padron_id": 8571
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "26XXXX95",
+      "apellidos": "DELGADO",
+      "nombres": "MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX36",
+      "apellidos": "OTAIZA",
+      "nombres": "ROBERTA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "26XXXX34",
+      "apellidos": "RAMIREZ",
+      "nombres": "ROSANA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

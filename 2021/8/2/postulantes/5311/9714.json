@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5311,
+    "padron_id": 9714
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX98",
+      "apellidos": "SOSA JUAREZ",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "20XXXX55",
+      "apellidos": "GONZALEZ",
+      "nombres": "JORGE RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX61",
+      "apellidos": "BRITO",
+      "nombres": "MARIELA ROXANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

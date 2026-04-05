@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 4806,
+    "padron_id": 9138
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX00",
+      "apellidos": "DIARTE",
+      "nombres": "ELVIO RAÚL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX19",
+      "apellidos": "SALERNO",
+      "nombres": "ESTEFANIA MARIA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

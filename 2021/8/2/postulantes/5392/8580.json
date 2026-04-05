@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5392,
+    "padron_id": 8580
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX13",
+      "apellidos": "TELLO",
+      "nombres": "WALTER ROBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "36XXXX42",
+      "apellidos": "GEREZ",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX54",
+      "apellidos": "SALAZAR",
+      "nombres": "MARCOS DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

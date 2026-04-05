@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 4750,
+    "padron_id": 9187
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX36",
+      "apellidos": "ACOSTA",
+      "nombres": "LUIS HERNAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX90",
+      "apellidos": "CARRIZO",
+      "nombres": "VERONICA GABRIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

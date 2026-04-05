@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5572,
+    "padron_id": 10200
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "21XXXX83",
+      "apellidos": "FEMENIAS",
+      "nombres": "JUAN NELSON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "37XXXX63",
+      "apellidos": "CASTAÑO",
+      "nombres": "JUAN FRANCO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "34XXXX39",
+      "apellidos": "GOMEZ",
+      "nombres": "EMILIANO EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

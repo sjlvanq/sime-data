@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5110,
+    "padron_id": 8876
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX53",
+      "apellidos": "CORBALAN",
+      "nombres": "MARIO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "32XXXX21",
+      "apellidos": "LUNA",
+      "nombres": "ANAHI SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "37XXXX77",
+      "apellidos": "GONZALEZ",
+      "nombres": "NADIA VANESSA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

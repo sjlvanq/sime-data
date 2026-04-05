@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 5369,
+    "padron_id": 8864
+  },
+  "postulantes": [
+    {
+      "orden": 57,
+      "dni": "25XXXX68",
+      "apellidos": "ZELAIBE",
+      "nombres": "MARIA ESTHER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "21XXXX20",
+      "apellidos": "PAZ",
+      "nombres": "PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "29XXXX60",
+      "apellidos": "GIMENEZ",
+      "nombres": "EUGENIA ANALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "26XXXX39",
+      "apellidos": "CARRIZO",
+      "nombres": "ALICIA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX85",
+      "apellidos": "SEIFER",
+      "nombres": "MYRIAM CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

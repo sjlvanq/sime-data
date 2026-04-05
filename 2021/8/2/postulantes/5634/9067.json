@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5634,
+    "padron_id": 9067
+  },
+  "postulantes": [
+    {
+      "orden": 51,
+      "dni": "25XXXX23",
+      "apellidos": "TOLEDO",
+      "nombres": "DANIEL OSCAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "27XXXX77",
+      "apellidos": "MIRANDA",
+      "nombres": "GERMAN DARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "17XXXX20",
+      "apellidos": "NIETO",
+      "nombres": "MARIA SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

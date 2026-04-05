@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 4803,
+    "padron_id": 10120
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX35",
+      "apellidos": "NACUSSE",
+      "nombres": "RICARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "25XXXX29",
+      "apellidos": "HERRERA",
+      "nombres": "CLAUDIO BENJAMIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "34XXXX51",
+      "apellidos": "GOMEZ",
+      "nombres": "MAURA MERCEDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "32XXXX04",
+      "apellidos": "GOANE",
+      "nombres": "JORGELINA ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "34XXXX69",
+      "apellidos": "ADBES",
+      "nombres": "CRISTINA ESTER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

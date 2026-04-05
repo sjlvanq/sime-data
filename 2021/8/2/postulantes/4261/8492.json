@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4261,
+    "padron_id": 8492
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "22XXXX19",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX50",
+      "apellidos": "HABIB",
+      "nombres": "PATRICIA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "17XXXX99",
+      "apellidos": "APUD",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

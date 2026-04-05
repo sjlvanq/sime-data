@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 5134,
+    "padron_id": 9646
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "27XXXX08",
+      "apellidos": "ZELARAYAN",
+      "nombres": "PAULINA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "26XXXX24",
+      "apellidos": "QUIROGA",
+      "nombres": "CECILIA VERONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 105,
+      "dni": "25XXXX92",
+      "apellidos": "ARMAS",
+      "nombres": "CECILIA RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 230,
+      "dni": "27XXXX61",
+      "apellidos": "DI SILVESTRI",
+      "nombres": "MARA VERÓNICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

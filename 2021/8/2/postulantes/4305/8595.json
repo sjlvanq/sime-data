@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 4305,
+    "padron_id": 8595
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "28XXXX25",
+      "apellidos": "AGUIRRE",
+      "nombres": "MARIANA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 121,
+      "dni": "25XXXX61",
+      "apellidos": "MORENO",
+      "nombres": "ALEJANDRA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

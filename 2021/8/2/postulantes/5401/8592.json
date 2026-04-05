@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5401,
+    "padron_id": 8592
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX37",
+      "apellidos": "CAMPOS",
+      "nombres": "VANESA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX25",
+      "apellidos": "MORALES",
+      "nombres": "SILVANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX08",
+      "apellidos": "MEDINA",
+      "nombres": "FÁTIMA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

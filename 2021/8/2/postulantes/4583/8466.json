@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4583,
+    "padron_id": 8466
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "31XXXX47",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ELIANA LUISA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "33XXXX42",
+      "apellidos": "SOSA",
+      "nombres": "CYNTHIA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "38XXXX08",
+      "apellidos": "ALBARRACIN",
+      "nombres": "VALERIA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

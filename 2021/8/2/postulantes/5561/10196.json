@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 5561,
+    "padron_id": 10196
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "21XXXX83",
+      "apellidos": "FEMENIAS",
+      "nombres": "JUAN NELSON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 73,
+      "dni": "25XXXX96",
+      "apellidos": "ANDRES",
+      "nombres": "ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "35XXXX25",
+      "apellidos": "ELIAS",
+      "nombres": "ISAIAS FERNANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}
