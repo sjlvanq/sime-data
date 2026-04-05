@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 8745,
+    "padron_id": 15338
+  },
+  "postulantes": [
+    {
+      "orden": 78,
+      "dni": "20XXXX07",
+      "apellidos": "ARIAS",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 91,
+      "dni": "20XXXX14",
+      "apellidos": "YAFAR",
+      "nombres": "MARIA JULIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

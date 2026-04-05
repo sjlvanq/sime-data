@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 7779,
+    "padron_id": 13050
+  },
+  "postulantes": [
+    {
+      "orden": 480,
+      "dni": "36XXXX41",
+      "apellidos": "ESTRELLA",
+      "nombres": "CINTHIA JOHANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 620,
+      "dni": "42XXXX78",
+      "apellidos": "VEGA",
+      "nombres": "ROCIO DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 888,
+      "dni": "36XXXX80",
+      "apellidos": "REYNOSO",
+      "nombres": "MARIA CARLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 631,
+      "dni": "35XXXX90",
+      "apellidos": "ROJAS PRINSICH",
+      "nombres": "ANGELES AYELEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

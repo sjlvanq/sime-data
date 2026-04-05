@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 8157,
+    "padron_id": 13477
+  },
+  "postulantes": [
+    {
+      "orden": 104,
+      "dni": "20XXXX04",
+      "apellidos": "GOMEZ",
+      "nombres": "ADRIANA FATIMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "20XXXX07",
+      "apellidos": "ARIAS",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

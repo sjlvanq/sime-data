@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 8630,
+    "padron_id": 14682
+  },
+  "postulantes": [
+    {
+      "orden": 51,
+      "dni": "20XXXX07",
+      "apellidos": "ARIAS",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "22XXXX56",
+      "apellidos": "DIAZ NAZAR",
+      "nombres": "PATRICIA MONICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

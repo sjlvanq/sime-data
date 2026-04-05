@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 8219,
+    "padron_id": 13868
+  },
+  "postulantes": [
+    {
+      "orden": 123,
+      "dni": "37XXXX51",
+      "apellidos": "MEDINA",
+      "nombres": "RICARDO EMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 653,
+      "dni": "38XXXX60",
+      "apellidos": "LOPEZ",
+      "nombres": "JAQUELINE ABIGAIL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 740,
+      "dni": "22XXXX54",
+      "apellidos": "ACUÑA",
+      "nombres": "LILIANA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 497,
+      "dni": "25XXXX03",
+      "apellidos": "TREVISANI",
+      "nombres": "LORENA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

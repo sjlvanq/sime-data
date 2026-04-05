@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 8555,
+    "padron_id": 14356
+  },
+  "postulantes": [
+    {
+      "orden": 98,
+      "dni": "22XXXX56",
+      "apellidos": "DIAZ NAZAR",
+      "nombres": "PATRICIA MONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "21XXXX49",
+      "apellidos": "CARIA",
+      "nombres": "GUSTAVO MARCELO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

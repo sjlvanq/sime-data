@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 8015,
+    "padron_id": 13434
+  },
+  "postulantes": [
+    {
+      "orden": 81,
+      "dni": "20XXXX04",
+      "apellidos": "GOMEZ",
+      "nombres": "ADRIANA FATIMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "31XXXX77",
+      "apellidos": "GORDILLO",
+      "nombres": "MARÍA DE LOURDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
