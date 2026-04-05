@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114665,
+    "padron_id": 199332
+  },
+  "postulantes": [
+    {
+      "orden": 48,
+      "dni": "31XXXX13",
+      "apellidos": "JUAREZ",
+      "nombres": "DANIELA DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "37XXXX90",
+      "apellidos": "SANTILLAN",
+      "nombres": "NESTOR IGNACIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "32XXXX10",
+      "apellidos": "MAYORGA",
+      "nombres": "NICOLÁS MIGUEL ERNESTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

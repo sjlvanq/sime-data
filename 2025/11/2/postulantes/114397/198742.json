@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114397,
+    "padron_id": 198742
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "32XXXX59",
+      "apellidos": "IBAÑEZ",
+      "nombres": "PABLO ROMAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "34XXXX17",
+      "apellidos": "DIAZ",
+      "nombres": "ISAIAS DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX21",
+      "apellidos": "ACOSTA PAZ",
+      "nombres": "SILVINA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

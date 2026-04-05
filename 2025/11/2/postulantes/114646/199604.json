@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114646,
+    "padron_id": 199604
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "35XXXX09",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "JESICA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX12",
+      "apellidos": "NAVARRO PEREA",
+      "nombres": "FERNANDA GISELLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "34XXXX34",
+      "apellidos": "SALVATIERRA",
+      "nombres": "HECTOR MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

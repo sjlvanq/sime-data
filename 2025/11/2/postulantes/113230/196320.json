@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 113230,
+    "padron_id": 196320
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "35XXXX21",
+      "apellidos": "BRANDAN",
+      "nombres": "MARIA YUSTINA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "22XXXX50",
+      "apellidos": "JEREZ",
+      "nombres": "VICTOR JESUS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 47,
+      "dni": "40XXXX73",
+      "apellidos": "TORTA",
+      "nombres": "JUAN ULISES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

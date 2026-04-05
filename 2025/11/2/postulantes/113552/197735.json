@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 113552,
+    "padron_id": 197735
+  },
+  "postulantes": [
+    {
+      "orden": 127,
+      "dni": "37XXXX25",
+      "apellidos": "CARRIZO",
+      "nombres": "MELINA MACARENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "33XXXX80",
+      "apellidos": "LOPEZ",
+      "nombres": "JIMENA MARCELINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 84,
+      "dni": "26XXXX57",
+      "apellidos": "SOLIS",
+      "nombres": "IRIS FABIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

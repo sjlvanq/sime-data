@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 113830,
+    "padron_id": 197299
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "36XXXX28",
+      "apellidos": "CORDOMI",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "27XXXX37",
+      "apellidos": "DIAZ",
+      "nombres": "MARÍA NATALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "37XXXX68",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ANA SOFÍA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 112746,
+    "padron_id": 195837
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX78",
+      "apellidos": "REINOSO",
+      "nombres": "ANGELICA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX08",
+      "apellidos": "PEREZ",
+      "nombres": "JUAN MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

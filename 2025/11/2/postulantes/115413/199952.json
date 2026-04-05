@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115413,
+    "padron_id": 199952
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "36XXXX68",
+      "apellidos": "ALVAREZ CORDOBA",
+      "nombres": "GISELA ESTEFANIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "38XXXX70",
+      "apellidos": "MARTIN                                  ",
+      "nombres": "ANA BELEN                               ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX53",
+      "apellidos": "FERNANDEZ",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

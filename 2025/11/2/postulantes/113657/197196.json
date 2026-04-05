@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 113657,
+    "padron_id": 197196
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "27XXXX64",
+      "apellidos": "BRANDAN",
+      "nombres": "LUIS GONZALO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX35",
+      "apellidos": "GINI",
+      "nombres": "HECTOR MAXIMILIANO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

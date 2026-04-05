@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114471,
+    "padron_id": 198565
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "29XXXX28",
+      "apellidos": "CORREA",
+      "nombres": "MARIA JIMENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "33XXXX01",
+      "apellidos": "BRIZUELA",
+      "nombres": "ROSARIO MARCELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX35",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ROMINA JANET",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

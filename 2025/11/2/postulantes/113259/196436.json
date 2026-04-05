@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 113259,
+    "padron_id": 196436
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "29XXXX05",
+      "apellidos": "ANDRES",
+      "nombres": "DAVID CESAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 45,
+      "dni": "16XXXX31",
+      "apellidos": "MONTES",
+      "nombres": "NOEMI DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 97,
+      "dni": "22XXXX43",
+      "apellidos": "VEGA",
+      "nombres": "DELIA PATRICIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 107,
+      "dni": "26XXXX99",
+      "apellidos": "VAZQUEZ",
+      "nombres": "MONICA LORENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

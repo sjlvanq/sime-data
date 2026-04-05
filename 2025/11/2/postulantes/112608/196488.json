@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112608,
+    "padron_id": 196488
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX95",
+      "apellidos": "ROLDAN",
+      "nombres": "SILVANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX00",
+      "apellidos": "MOYANO",
+      "nombres": "PIERINA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "20XXXX39",
+      "apellidos": "PANIAGUA ALDERETE",
+      "nombres": "RENÉ GUSTAVO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

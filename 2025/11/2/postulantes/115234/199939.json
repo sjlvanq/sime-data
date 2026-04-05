@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 115234,
+    "padron_id": 199939
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "37XXXX95",
+      "apellidos": "PACHECO",
+      "nombres": "LEONARDO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX65",
+      "apellidos": "PARDO MARCOS",
+      "nombres": "PATRICIA NOEMI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

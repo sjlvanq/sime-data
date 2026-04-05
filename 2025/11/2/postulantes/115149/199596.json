@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115149,
+    "padron_id": 199596
+  },
+  "postulantes": [
+    {
+      "orden": 158,
+      "dni": "25XXXX12",
+      "apellidos": "LUNA",
+      "nombres": "MIRIAM LUCIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 159,
+      "dni": "26XXXX57",
+      "apellidos": "SOLIS",
+      "nombres": "IRIS FABIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 255,
+      "dni": "25XXXX57",
+      "apellidos": "BALOCCO",
+      "nombres": "MARIA ROSA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

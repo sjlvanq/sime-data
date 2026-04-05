@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 112836,
+    "padron_id": 195772
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "32XXXX00",
+      "apellidos": "MOYANO",
+      "nombres": "PIERINA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX10",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "PAOLA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

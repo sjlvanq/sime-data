@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111810,
+    "padron_id": 195120
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "24XXXX47",
+      "apellidos": "PAZ",
+      "nombres": "ROMELIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "41XXXX28",
+      "apellidos": "IZA",
+      "nombres": "FRANCO DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "28XXXX26",
+      "apellidos": "MANSILLA",
+      "nombres": "LAURA NATALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 122,
+      "dni": "28XXXX18",
+      "apellidos": "PAREDES",
+      "nombres": "NANCY FABIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX35",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ROMINA JANET",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

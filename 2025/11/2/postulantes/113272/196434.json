@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 113272,
+    "padron_id": 196434
+  },
+  "postulantes": [
+    {
+      "orden": 106,
+      "dni": "34XXXX07",
+      "apellidos": "TAPIA AVILA",
+      "nombres": "PABLO FACUNDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 149,
+      "dni": "32XXXX81",
+      "apellidos": "MORENO",
+      "nombres": "ADRIANA VALERIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 284,
+      "dni": "40XXXX38",
+      "apellidos": "SANTILLAN",
+      "nombres": "LOURDES ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 191,
+      "dni": "39XXXX77",
+      "apellidos": "ALBARRACIN",
+      "nombres": "SOFIA MICAELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

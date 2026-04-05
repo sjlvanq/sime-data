@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114533,
+    "padron_id": 198780
+  },
+  "postulantes": [
+    {
+      "orden": 68,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 170,
+      "dni": "40XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "PAMELA CONSTANZA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "24XXXX08",
+      "apellidos": "HUIDOBRO",
+      "nombres": "JULIETA ELIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

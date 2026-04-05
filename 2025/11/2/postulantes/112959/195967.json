@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 112959,
+    "padron_id": 195967
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "32XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "NATALIA ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "32XXXX11",
+      "apellidos": "ORTIZ",
+      "nombres": "GABRIELA ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100934,
+    "padron_id": 196487
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "13XXXX18",
+      "apellidos": "RUIZ",
+      "nombres": "OSCAR RODOLFO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "22XXXX50",
+      "apellidos": "JEREZ",
+      "nombres": "VICTOR JESUS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "39XXXX41",
+      "apellidos": "MONACHESI",
+      "nombres": "GRECIA VALENTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

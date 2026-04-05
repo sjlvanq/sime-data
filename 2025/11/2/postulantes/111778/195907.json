@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111778,
+    "padron_id": 195907
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "39XXXX33",
+      "apellidos": "COSTILLA",
+      "nombres": "ANA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "34XXXX68",
+      "apellidos": "CARDOZO",
+      "nombres": "RUTH ELVIRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "28XXXX93",
+      "apellidos": "FERRAZANO",
+      "nombres": "FATIMA KARINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

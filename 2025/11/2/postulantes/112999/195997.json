@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 112999,
+    "padron_id": 195997
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX55",
+      "apellidos": "BENITEZ",
+      "nombres": "CLAUDIA CECILIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "43XXXX85",
+      "apellidos": "SORIA",
+      "nombres": "AYELEN JOSEFINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "32XXXX87",
+      "apellidos": "LUNA",
+      "nombres": "MARCELO LINARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "33XXXX18",
+      "apellidos": "DIAZ",
+      "nombres": "GABRIEL  ESTEBAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114139,
+    "padron_id": 198116
+  },
+  "postulantes": [
+    {
+      "orden": 48,
+      "dni": "39XXXX02",
+      "apellidos": "ITURBE",
+      "nombres": "JESSICA EDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "25XXXX16",
+      "apellidos": "AVILA",
+      "nombres": "DELFINA MARÍA DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 82,
+      "dni": "37XXXX06",
+      "apellidos": "PAEZ",
+      "nombres": "MATHIAS NICOLAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

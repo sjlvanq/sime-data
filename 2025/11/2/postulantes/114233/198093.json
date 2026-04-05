@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 114233,
+    "padron_id": 198093
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "26XXXX34",
+      "apellidos": "RAMIREZ",
+      "nombres": "ROSANA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "31XXXX78",
+      "apellidos": "PERSEGUINO",
+      "nombres": "CYNTIA INES DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "38XXXX86",
+      "apellidos": "BORDON PEREZ                            ",
+      "nombres": "TAMARA DANIELA             ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX89",
+      "apellidos": "AYUDARTE",
+      "nombres": "HAYDEE DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

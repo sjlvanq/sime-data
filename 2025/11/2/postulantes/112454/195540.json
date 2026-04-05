@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112454,
+    "padron_id": 195540
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX60",
+      "apellidos": "DELGADO HERBA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "34XXXX37",
+      "apellidos": "HERRERA",
+      "nombres": "CARLOS LEONCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX77",
+      "apellidos": "ILLUMINATO",
+      "nombres": "CARLA FLORENTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

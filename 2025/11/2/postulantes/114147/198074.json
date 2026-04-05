@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114147,
+    "padron_id": 198074
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "40XXXX95",
+      "apellidos": "GONZALEZ MORENO",
+      "nombres": "CAMILA BELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "29XXXX79",
+      "apellidos": "CAMPERO",
+      "nombres": "SILVIA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX16",
+      "apellidos": "AVILA",
+      "nombres": "DELFINA MARÍA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}
