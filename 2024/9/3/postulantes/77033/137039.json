@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 77033,
+    "padron_id": 137039
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "39XXXX89",
+      "apellidos": "ISLA",
+      "nombres": "MARIANA JIMENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX27",
+      "apellidos": "CRUZ",
+      "nombres": "TANIA REBECA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "29XXXX14",
+      "apellidos": "RAMIREZ PLAZA",
+      "nombres": "FLAVIO GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 76334,
+    "padron_id": 136262
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX73",
+      "apellidos": "FRIAS",
+      "nombres": "DANIEL AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX07",
+      "apellidos": "CACERES",
+      "nombres": "MARÍA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX02",
+      "apellidos": "JUAREZ",
+      "nombres": "HUGO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

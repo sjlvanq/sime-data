@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 77633,
+    "padron_id": 137973
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "20XXXX96",
+      "apellidos": "BARCAT",
+      "nombres": "MARIA HORTENCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "21XXXX92",
+      "apellidos": "MALICA",
+      "nombres": "ANTONIO MIGUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "34XXXX91",
+      "apellidos": "LARIVEY",
+      "nombres": "MARIO PABLO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 78125,
+    "padron_id": 138839
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX42",
+      "apellidos": "FIGUEROA",
+      "nombres": "DIEGO ARMANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX04",
+      "apellidos": "TAPIA MUÑOZ",
+      "nombres": "REINALDO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

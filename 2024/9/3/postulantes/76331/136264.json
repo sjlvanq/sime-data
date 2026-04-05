@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 76331,
+    "padron_id": 136264
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX73",
+      "apellidos": "FRIAS",
+      "nombres": "DANIEL AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX62",
+      "apellidos": "ROMERO",
+      "nombres": "JUAN ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

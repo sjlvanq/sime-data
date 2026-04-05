@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 77747,
+    "padron_id": 138152
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX25",
+      "apellidos": "JUAREZ",
+      "nombres": "ALBERTO NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX29",
+      "apellidos": "MAGARZO",
+      "nombres": "JUAN RODOLFO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

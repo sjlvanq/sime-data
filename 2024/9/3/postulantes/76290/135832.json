@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 76290,
+    "padron_id": 135832
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX19",
+      "apellidos": "ROMANO",
+      "nombres": "VICTOR ESTEBAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX95",
+      "apellidos": "RUIZ",
+      "nombres": "NELSON DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "40XXXX25",
+      "apellidos": "HOMET VALENTIE",
+      "nombres": "ALBERTO VICENTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "41XXXX69",
+      "apellidos": "ZELAYA",
+      "nombres": "NICOLAS AGUSTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

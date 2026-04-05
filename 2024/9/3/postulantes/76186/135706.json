@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 76186,
+    "padron_id": 135706
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "26XXXX68",
+      "apellidos": "MARTINEZ",
+      "nombres": "GRISELDA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX84",
+      "apellidos": "MOREIRA",
+      "nombres": "SILVANA MARIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "30XXXX90",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

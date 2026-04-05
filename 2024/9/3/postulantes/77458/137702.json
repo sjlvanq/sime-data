@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 77458,
+    "padron_id": 137702
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "20XXXX11",
+      "apellidos": "RIVADENEIRA                             ",
+      "nombres": "NESTOR ROLANDO                          ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX98",
+      "apellidos": "MENORQUE",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX11",
+      "apellidos": "GONZALEZ",
+      "nombres": "FABIAN ARNALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
