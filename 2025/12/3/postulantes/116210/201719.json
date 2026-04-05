@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 116210,
+    "padron_id": 201719
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX28",
+      "apellidos": "DIAZ",
+      "nombres": "MARIA RAFAELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX97",
+      "apellidos": "BATLLE",
+      "nombres": "ROMINA MARCELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

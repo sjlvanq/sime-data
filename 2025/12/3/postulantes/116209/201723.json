@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 116209,
+    "padron_id": 201723
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX09",
+      "apellidos": "GÓMEZ CONTRERAS",
+      "nombres": "LUCÍA DEL HUERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX88",
+      "apellidos": "GOMEZ CONTRERAS",
+      "nombres": "ROBERTO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "39XXXX52",
+      "apellidos": "GAON",
+      "nombres": "AGUSTIN EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 116120,
+    "padron_id": 201202
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "24XXXX35",
+      "apellidos": "ARREGUEZ",
+      "nombres": "LUIS ALFREDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "27XXXX59",
+      "apellidos": "BENO",
+      "nombres": "ALVARO MARCELO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX46",
+      "apellidos": "MATTIUZZI",
+      "nombres": "GUSTAVO NICOLAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "21XXXX08",
+      "apellidos": "JUAREZ",
+      "nombres": "JUAN PAULINO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "30XXXX47",
+      "apellidos": "CAMPOS",
+      "nombres": "RODRIGO SILVIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

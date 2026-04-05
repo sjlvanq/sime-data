@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 116192,
+    "padron_id": 201311
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX42",
+      "apellidos": "VILLA",
+      "nombres": "EMANUEL AGUSTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "23XXXX28",
+      "apellidos": "ARENA",
+      "nombres": "FEDERICO MIGUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "28XXXX98",
+      "apellidos": "BREMBILLA",
+      "nombres": "ERMINDO ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX38",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "LUIS FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

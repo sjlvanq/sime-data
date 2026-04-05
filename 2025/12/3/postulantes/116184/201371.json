@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 116184,
+    "padron_id": 201371
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "39XXXX73",
+      "apellidos": "CONTRERAS",
+      "nombres": "MELISA RITA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX87",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "36XXXX47",
+      "apellidos": "SANCHEZ",
+      "nombres": "CARLA ADRIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

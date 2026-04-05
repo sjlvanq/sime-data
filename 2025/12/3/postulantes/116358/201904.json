@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 116358,
+    "padron_id": 201904
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX07",
+      "apellidos": "CACERES",
+      "nombres": "MARÍA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX38",
+      "apellidos": "GARCIA",
+      "nombres": "EMANUEL MIGUEL ERNESTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX99",
+      "apellidos": "MIQUEL",
+      "nombres": "MATIAS ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
