@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 72564,
+    "padron_id": 129171
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "21XXXX43",
+      "apellidos": "LIZARRAGA",
+      "nombres": "ESTELA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX97",
+      "apellidos": "PASTRANA",
+      "nombres": "ALEJANDRA LUCRECIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "21XXXX69",
+      "apellidos": "CARABAJAL",
+      "nombres": "ELIZABETH DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "39XXXX60",
+      "apellidos": "REYNOSO",
+      "nombres": "ROLANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "44XXXX25",
+      "apellidos": "REYNOSO",
+      "nombres": "ROBERT RAFAEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

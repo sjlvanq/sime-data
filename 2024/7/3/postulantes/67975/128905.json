@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 67975,
+    "padron_id": 128905
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX33",
+      "apellidos": "GRANEROS HERRERA",
+      "nombres": "STEFANY KARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX81",
+      "apellidos": "MORENO LAGORIA",
+      "nombres": "ROXANA ANGELICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "31XXXX19",
+      "apellidos": "ZARATE",
+      "nombres": "CLAUDIA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

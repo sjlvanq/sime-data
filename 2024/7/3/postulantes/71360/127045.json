@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71360,
+    "padron_id": 127045
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "30XXXX13",
+      "apellidos": "GALVAN REY",
+      "nombres": "EMMANUEL CELSO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "30XXXX13",
+      "apellidos": "NAVARRO DINO",
+      "nombres": "ANA LIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX88",
+      "apellidos": "PASCUAL",
+      "nombres": "JUAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

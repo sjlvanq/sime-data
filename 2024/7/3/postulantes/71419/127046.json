@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71419,
+    "padron_id": 127046
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX04",
+      "apellidos": "GUTIERREZ",
+      "nombres": "JOSE EUGENIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX07",
+      "apellidos": "GARCIA",
+      "nombres": "ARIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX40",
+      "apellidos": "ARGÜELLO",
+      "nombres": "SANTIAGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

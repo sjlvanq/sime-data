@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65058,
+    "padron_id": 127884
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "32XXXX66",
+      "apellidos": "AMADO OJEDA",
+      "nombres": "YAMILE ROXANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "33XXXX54",
+      "apellidos": "MONTOYA",
+      "nombres": "NORMA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX42",
+      "apellidos": "DIAZ",
+      "nombres": "CARLA MARIA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

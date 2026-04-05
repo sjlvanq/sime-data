@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71419,
+    "padron_id": 127047
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "31XXXX36",
+      "apellidos": "SANCHEZ",
+      "nombres": "BERNARDO GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "38XXXX87",
+      "apellidos": "DE CARLO",
+      "nombres": "GASTON ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "28XXXX60",
+      "apellidos": "GUERRERO",
+      "nombres": "MARIANA KARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

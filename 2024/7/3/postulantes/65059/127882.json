@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 65059,
+    "padron_id": 127882
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "33XXXX54",
+      "apellidos": "MONTOYA",
+      "nombres": "NORMA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX42",
+      "apellidos": "DIAZ",
+      "nombres": "CARLA MARIA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "40XXXX68",
+      "apellidos": "KOPTIUK",
+      "nombres": "ESMERALDA AIDA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

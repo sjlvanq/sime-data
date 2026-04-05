@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 71872,
+    "padron_id": 127770
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX00",
+      "apellidos": "GARCIA",
+      "nombres": "ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX22",
+      "apellidos": "CAJAL",
+      "nombres": "MARIO SERGIO JESUS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

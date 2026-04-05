@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71862,
+    "padron_id": 127736
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX32",
+      "apellidos": "VARELA",
+      "nombres": "MARIA EUGENIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "20XXXX55",
+      "apellidos": "LA CRUZ",
+      "nombres": "VICTORIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX84",
+      "apellidos": "GOMEZ",
+      "nombres": "MARCELO FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

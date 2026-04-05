@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 72816,
+    "padron_id": 129451
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX38",
+      "apellidos": "AMAYA",
+      "nombres": "RAUL SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "17XXXX36",
+      "apellidos": "LUCERO",
+      "nombres": "JOSE RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX23",
+      "apellidos": "PORCEL",
+      "nombres": "VERONICA LIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 72103,
+    "padron_id": 127694
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "26XXXX21",
+      "apellidos": "JEREZ",
+      "nombres": "JOSE ROLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "32XXXX99",
+      "apellidos": "GARCIA",
+      "nombres": "LEANDRO RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "36XXXX20",
+      "apellidos": "LANFRANCO",
+      "nombres": "CARLOS FRANCISCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "24XXXX77",
+      "apellidos": "HARDOY",
+      "nombres": "JOSE MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

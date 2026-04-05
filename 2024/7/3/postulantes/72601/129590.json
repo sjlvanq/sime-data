@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 72601,
+    "padron_id": 129590
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX44",
+      "apellidos": "RAMOS",
+      "nombres": "JOSE DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX86",
+      "apellidos": "CANSECO",
+      "nombres": "CYNTIA VANESSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
