@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106281,
+    "padron_id": 184493
+  },
+  "postulantes": [
+    {
+      "orden": 45,
+      "dni": "22XXXX57",
+      "apellidos": "PALOMARES",
+      "nombres": "ANA KARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 116,
+      "dni": "25XXXX78",
+      "apellidos": "ZELARAYAN",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "34XXXX89",
+      "apellidos": "GONZALEZ",
+      "nombres": "CECILIA DOLORES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

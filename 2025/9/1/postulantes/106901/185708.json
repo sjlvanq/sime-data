@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106901,
+    "padron_id": 185708
+  },
+  "postulantes": [
+    {
+      "orden": 110,
+      "dni": "24XXXX21",
+      "apellidos": "PONCE",
+      "nombres": "MARCELA LIDIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 165,
+      "dni": "27XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "MARIELA NELIDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 201,
+      "dni": "22XXXX04",
+      "apellidos": "JEREZ",
+      "nombres": "ANA MARCELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106485,
+    "padron_id": 184977
+  },
+  "postulantes": [
+    {
+      "orden": 145,
+      "dni": "20XXXX11",
+      "apellidos": "QUIJANO",
+      "nombres": "FRANCISCO RODOLFO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 219,
+      "dni": "25XXXX28",
+      "apellidos": "NIEVA",
+      "nombres": "NOEMI ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 245,
+      "dni": "22XXXX33",
+      "apellidos": "BULACIO",
+      "nombres": "LILIANA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

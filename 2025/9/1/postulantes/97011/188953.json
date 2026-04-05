@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 97011,
+    "padron_id": 188953
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "34XXXX87",
+      "apellidos": "BARRAZA",
+      "nombres": "ANA PAULA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 66,
+      "dni": "28XXXX45",
+      "apellidos": "VERGARA",
+      "nombres": "ANDREA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "26XXXX50",
+      "apellidos": "FLORES",
+      "nombres": "SUSANA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "27XXXX99",
+      "apellidos": "CRUZ",
+      "nombres": "IMELDA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "32XXXX89",
+      "apellidos": "PEREZ",
+      "nombres": "HECTOR MARIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

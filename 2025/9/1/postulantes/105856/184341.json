@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 105856,
+    "padron_id": 184341
+  },
+  "postulantes": [
+    {
+      "orden": 103,
+      "dni": "33XXXX80",
+      "apellidos": "LOPEZ",
+      "nombres": "JIMENA MARCELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 191,
+      "dni": "33XXXX11",
+      "apellidos": "MALLA",
+      "nombres": "GABRIELA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "33XXXX89",
+      "apellidos": "DELGADO PILLON",
+      "nombres": "MARIA IRUPE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX84",
+      "apellidos": "ALBORNOZ",
+      "nombres": "MANUEL HORACIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

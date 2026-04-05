@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108546,
+    "padron_id": 188150
+  },
+  "postulantes": [
+    {
+      "orden": 97,
+      "dni": "23XXXX65",
+      "apellidos": "GOMEZ",
+      "nombres": "NATALIA JESUS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 171,
+      "dni": "24XXXX37",
+      "apellidos": "LEZCANO                                 ",
+      "nombres": "BLANCA GEORGINA                         ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 217,
+      "dni": "23XXXX22",
+      "apellidos": "ERAZO",
+      "nombres": "ALEJANDRA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

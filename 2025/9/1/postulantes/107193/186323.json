@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 107193,
+    "padron_id": 186323
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX84",
+      "apellidos": "ALBORNOZ",
+      "nombres": "MANUEL HORACIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX65",
+      "apellidos": "DEU",
+      "nombres": "DANIELA CONSTANZA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX23",
+      "apellidos": "LAGO",
+      "nombres": "MARIA DE LOURDES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX43",
+      "apellidos": "MITTELMANN",
+      "nombres": "PRISCILLA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    }
+  ]
+}

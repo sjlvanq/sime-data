@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 109002,
+    "padron_id": 189132
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "33XXXX88",
+      "apellidos": "FLORES",
+      "nombres": "ERIKA ROMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "25XXXX55",
+      "apellidos": "RAMON",
+      "nombres": "MARIA DOLORES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "27XXXX77",
+      "apellidos": "DOMINGUEZ",
+      "nombres": "CAROLINA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "23XXXX29",
+      "apellidos": "VALOR",
+      "nombres": "MONICA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

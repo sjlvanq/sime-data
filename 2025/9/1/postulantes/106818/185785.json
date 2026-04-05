@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106818,
+    "padron_id": 185785
+  },
+  "postulantes": [
+    {
+      "orden": 69,
+      "dni": "23XXXX29",
+      "apellidos": "TACACHO",
+      "nombres": "ESTER CELIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "21XXXX28",
+      "apellidos": "VELIZ",
+      "nombres": "FABIOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 132,
+      "dni": "22XXXX39",
+      "apellidos": "GOMEZ",
+      "nombres": "DORA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

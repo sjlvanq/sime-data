@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 105971,
+    "padron_id": 184067
+  },
+  "postulantes": [
+    {
+      "orden": 715,
+      "dni": "27XXXX66",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARÍA ROSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 899,
+      "dni": "41XXXX34",
+      "apellidos": "VELIZ",
+      "nombres": "FERNANDA LUJAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 428,
+      "dni": "24XXXX48",
+      "apellidos": "GALVAN",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

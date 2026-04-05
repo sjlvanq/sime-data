@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109286,
+    "padron_id": 189500
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "30XXXX01",
+      "apellidos": "CASTRO",
+      "nombres": "ALICIA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "29XXXX90",
+      "apellidos": "SUMBAINO",
+      "nombres": "FATIMA GABRIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 140,
+      "dni": "24XXXX60",
+      "apellidos": "GOLDFELD",
+      "nombres": "PATRICIA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

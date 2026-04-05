@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108137,
+    "padron_id": 187443
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "27XXXX60",
+      "apellidos": "FLORES",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "24XXXX71",
+      "apellidos": "LATINA",
+      "nombres": "NATALIA MARIA DOLORES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "23XXXX29",
+      "apellidos": "VALOR",
+      "nombres": "MONICA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

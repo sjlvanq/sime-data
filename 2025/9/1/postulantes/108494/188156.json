@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 108494,
+    "padron_id": 188156
+  },
+  "postulantes": [
+    {
+      "orden": 100,
+      "dni": "30XXXX48",
+      "apellidos": "ARIAS",
+      "nombres": "DANIELA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "22XXXX01",
+      "apellidos": "VARELA",
+      "nombres": "CLARA TERESITA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

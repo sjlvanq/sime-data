@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 107430,
+    "padron_id": 186730
+  },
+  "postulantes": [
+    {
+      "orden": 103,
+      "dni": "33XXXX80",
+      "apellidos": "LOPEZ",
+      "nombres": "JIMENA MARCELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 124,
+      "dni": "33XXXX95",
+      "apellidos": "VOIGT COMAN",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 243,
+      "dni": "36XXXX43",
+      "apellidos": "MITTELMANN",
+      "nombres": "PRISCILLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "28XXXX00",
+      "apellidos": "ACOSTA",
+      "nombres": "GABRIELA DE LUJAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX84",
+      "apellidos": "ALBORNOZ",
+      "nombres": "MANUEL HORACIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

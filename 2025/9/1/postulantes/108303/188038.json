@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 108303,
+    "padron_id": 188038
+  },
+  "postulantes": [
+    {
+      "orden": 100,
+      "dni": "30XXXX48",
+      "apellidos": "ARIAS",
+      "nombres": "DANIELA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 104,
+      "dni": "23XXXX08",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

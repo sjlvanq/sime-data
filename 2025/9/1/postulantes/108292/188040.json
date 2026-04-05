@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 108292,
+    "padron_id": 188040
+  },
+  "postulantes": [
+    {
+      "orden": 100,
+      "dni": "30XXXX48",
+      "apellidos": "ARIAS",
+      "nombres": "DANIELA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 119,
+      "dni": "23XXXX77",
+      "apellidos": "BAZAN",
+      "nombres": "GRACIELA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "22XXXX01",
+      "apellidos": "VARELA",
+      "nombres": "CLARA TERESITA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 104,
+      "dni": "23XXXX08",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

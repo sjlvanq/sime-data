@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106595,
+    "padron_id": 185225
+  },
+  "postulantes": [
+    {
+      "orden": 712,
+      "dni": "37XXXX64",
+      "apellidos": "PAZ",
+      "nombres": "ROCIO MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 899,
+      "dni": "41XXXX34",
+      "apellidos": "VELIZ",
+      "nombres": "FERNANDA LUJAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

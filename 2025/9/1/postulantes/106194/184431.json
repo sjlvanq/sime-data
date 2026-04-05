@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106194,
+    "padron_id": 184431
+  },
+  "postulantes": [
+    {
+      "orden": 824,
+      "dni": "29XXXX66",
+      "apellidos": "ROJAS",
+      "nombres": "MARIO VALENTIN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 902,
+      "dni": "32XXXX26",
+      "apellidos": "ROJAS",
+      "nombres": "MARIANA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

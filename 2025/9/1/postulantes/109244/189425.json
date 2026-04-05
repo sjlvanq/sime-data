@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 109244,
+    "padron_id": 189425
+  },
+  "postulantes": [
+    {
+      "orden": 75,
+      "dni": "22XXXX06",
+      "apellidos": "BOYANOVSKY",
+      "nombres": "AMALIA NANCY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 78,
+      "dni": "39XXXX70",
+      "apellidos": "ROJAS",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 121,
+      "dni": "29XXXX52",
+      "apellidos": "CONTINO",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 144,
+      "dni": "20XXXX59",
+      "apellidos": "AMUN",
+      "nombres": "FATIMA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 107730,
+    "padron_id": 188207
+  },
+  "postulantes": [
+    {
+      "orden": 78,
+      "dni": "39XXXX70",
+      "apellidos": "ROJAS",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 107,
+      "dni": "39XXXX96",
+      "apellidos": "ALDERETE SAL",
+      "nombres": "ELIDA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 166,
+      "dni": "39XXXX90",
+      "apellidos": "ROBLES",
+      "nombres": "EVELYN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 199,
+      "dni": "36XXXX43",
+      "apellidos": "MITTELMANN",
+      "nombres": "PRISCILLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106806,
+    "padron_id": 185502
+  },
+  "postulantes": [
+    {
+      "orden": 195,
+      "dni": "25XXXX28",
+      "apellidos": "GIL",
+      "nombres": "GABRIELA JEANETT",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 222,
+      "dni": "24XXXX93",
+      "apellidos": "FIGUEROA                                ",
+      "nombres": "ANALIA DEL VALLE                        ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

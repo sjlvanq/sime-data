@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108293,
+    "padron_id": 188041
+  },
+  "postulantes": [
+    {
+      "orden": 457,
+      "dni": "35XXXX77",
+      "apellidos": "PAEZ ALE",
+      "nombres": "ADRIANA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 689,
+      "dni": "30XXXX85",
+      "apellidos": "GOYTIA",
+      "nombres": "ELIANA MARIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 290,
+      "dni": "36XXXX67",
+      "apellidos": "LUNA",
+      "nombres": "ISABEL ELISA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109159,
+    "padron_id": 189161
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX65",
+      "apellidos": "CASSARÁ",
+      "nombres": "MARÍA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "42XXXX02",
+      "apellidos": "JIMENEZ",
+      "nombres": "KARINA FERNANDA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "31XXXX25",
+      "apellidos": "LEAL",
+      "nombres": "MARIANA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

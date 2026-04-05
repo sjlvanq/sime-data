@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109279,
+    "padron_id": 189477
+  },
+  "postulantes": [
+    {
+      "orden": 145,
+      "dni": "20XXXX11",
+      "apellidos": "QUIJANO",
+      "nombres": "FRANCISCO RODOLFO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 197,
+      "dni": "23XXXX90",
+      "apellidos": "LOPEZ",
+      "nombres": "CARINA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 188,
+      "dni": "26XXXX66",
+      "apellidos": "ORELLANA",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

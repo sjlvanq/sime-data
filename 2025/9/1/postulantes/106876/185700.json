@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106876,
+    "padron_id": 185700
+  },
+  "postulantes": [
+    {
+      "orden": 222,
+      "dni": "24XXXX93",
+      "apellidos": "FIGUEROA                                ",
+      "nombres": "ANALIA DEL VALLE                        ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 192,
+      "dni": "22XXXX11",
+      "apellidos": "REYES                                   ",
+      "nombres": "MARIA GRACIELA                          ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

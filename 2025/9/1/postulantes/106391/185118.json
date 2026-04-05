@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106391,
+    "padron_id": 185118
+  },
+  "postulantes": [
+    {
+      "orden": 132,
+      "dni": "29XXXX46",
+      "apellidos": "TOLEDO                                  ",
+      "nombres": "VALERIA ROMINA                          ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 222,
+      "dni": "24XXXX93",
+      "apellidos": "FIGUEROA                                ",
+      "nombres": "ANALIA DEL VALLE                        ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 196,
+      "dni": "27XXXX63",
+      "apellidos": "ACUÑA",
+      "nombres": "BEATRIZ MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108674,
+    "padron_id": 188221
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "37XXXX51",
+      "apellidos": "MEDINA",
+      "nombres": "RICARDO EMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "35XXXX20",
+      "apellidos": "GONZALEZ",
+      "nombres": "IVANA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "31XXXX56",
+      "apellidos": "SOSA",
+      "nombres": "ELINA EDITH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

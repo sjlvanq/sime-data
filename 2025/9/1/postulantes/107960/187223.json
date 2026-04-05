@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 107960,
+    "padron_id": 187223
+  },
+  "postulantes": [
+    {
+      "orden": 643,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 715,
+      "dni": "42XXXX60",
+      "apellidos": "DELGADO HERRERA",
+      "nombres": "LUCILA FEDERICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 241,
+      "dni": "31XXXX07",
+      "apellidos": "ESPINOZA",
+      "nombres": "JUAN RAMON",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

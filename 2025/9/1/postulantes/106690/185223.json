@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106690,
+    "padron_id": 185223
+  },
+  "postulantes": [
+    {
+      "orden": 170,
+      "dni": "27XXXX18",
+      "apellidos": "ZELARAYAN",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 450,
+      "dni": "26XXXX66",
+      "apellidos": "ESCOBAR",
+      "nombres": "VALERIA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1131,
+      "dni": "34XXXX06",
+      "apellidos": "BURGOS",
+      "nombres": "YOHANA ROMINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

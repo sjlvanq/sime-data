@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106077,
+    "padron_id": 187132
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "32XXXX08",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "FERNANDO NICOLAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "37XXXX29",
+      "apellidos": "SANCHEZ",
+      "nombres": "NICODEMO CARLOS DAVID",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX78",
+      "apellidos": "CARREÑO",
+      "nombres": "YANINA VALERIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

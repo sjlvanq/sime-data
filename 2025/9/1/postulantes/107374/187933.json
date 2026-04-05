@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 107374,
+    "padron_id": 187933
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "22XXXX73",
+      "apellidos": "MARKO",
+      "nombres": "ANA KARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "40XXXX57",
+      "apellidos": "SORIA",
+      "nombres": "NICOLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "38XXXX32",
+      "apellidos": "PETRELLI WELZEL",
+      "nombres": "GABRIELA VERONICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
