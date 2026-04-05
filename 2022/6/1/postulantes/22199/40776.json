@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 22199,
+    "padron_id": 40776
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "37XXXX14",
+      "apellidos": "FRIAS",
+      "nombres": "LEONELA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "27XXXX65",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NATALIA SILVANA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "36XXXX21",
+      "apellidos": "MADRID",
+      "nombres": "ALEJANDRO EZEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "39XXXX93",
+      "apellidos": "BEALE",
+      "nombres": "JORGE NICOLAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22668,
+    "padron_id": 39680
+  },
+  "postulantes": [
+    {
+      "orden": 51,
+      "dni": "24XXXX56",
+      "apellidos": "LEZCANO",
+      "nombres": "LELIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 135,
+      "dni": "22XXXX20",
+      "apellidos": "LOPEZ",
+      "nombres": "SANDRA LILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "27XXXX62",
+      "apellidos": "OYOLA",
+      "nombres": "CRISTINA SILVANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 22308,
+    "padron_id": 40975
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "37XXXX14",
+      "apellidos": "FRIAS",
+      "nombres": "LEONELA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "26XXXX98",
+      "apellidos": "GUANUCO",
+      "nombres": "VERONICA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "34XXXX94",
+      "apellidos": "PIREZ",
+      "nombres": "CRISTIAN GABRIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "33XXXX90",
+      "apellidos": "DIAZ GAITAN",
+      "nombres": "MARIA NAZARETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

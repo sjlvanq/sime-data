@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 21101,
+    "padron_id": 37436
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "33XXXX25",
+      "apellidos": "PONCE",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "27XXXX87",
+      "apellidos": "ROMERO",
+      "nombres": "DEBORA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "41XXXX52",
+      "apellidos": "CASTRO",
+      "nombres": "SANTIAGO AGUSTIN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "29XXXX46",
+      "apellidos": "GARCIA ",
+      "nombres": "VILMA AZUCENA ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "42XXXX76",
+      "apellidos": "TULA FRIAS",
+      "nombres": "MATIAS AGUSTIN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

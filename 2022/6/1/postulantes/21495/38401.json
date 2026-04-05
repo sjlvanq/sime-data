@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 21495,
+    "padron_id": 38401
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX36",
+      "apellidos": "LIZARRAGA",
+      "nombres": "WALTER JAVIER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "33XXXX02",
+      "apellidos": "DIAZ",
+      "nombres": "MAIRA LEONELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

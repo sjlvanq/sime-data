@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20422,
+    "padron_id": 36150
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "30XXXX01",
+      "apellidos": "CASTRO",
+      "nombres": "ALICIA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "34XXXX03",
+      "apellidos": "FLORES",
+      "nombres": "SONIA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

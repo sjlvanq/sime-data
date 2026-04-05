@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22208,
+    "padron_id": 39565
+  },
+  "postulantes": [
+    {
+      "orden": 60,
+      "dni": "92XXXX72",
+      "apellidos": "HUME TORRES",
+      "nombres": "IVONNE ROXANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 135,
+      "dni": "22XXXX20",
+      "apellidos": "LOPEZ",
+      "nombres": "SANDRA LILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "27XXXX62",
+      "apellidos": "OYOLA",
+      "nombres": "CRISTINA SILVANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21956,
+    "padron_id": 39490
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "39XXXX94",
+      "apellidos": "SELLA",
+      "nombres": "FLORENCIA AYLEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "38XXXX53",
+      "apellidos": "PAZ",
+      "nombres": "JULIANA ROMINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "26XXXX01",
+      "apellidos": "GARCIA ",
+      "nombres": "MIGUEL ANGEL JESÚS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22075,
+    "padron_id": 39557
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "24XXXX14",
+      "apellidos": "MONASTERIO",
+      "nombres": "MARIA MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 86,
+      "dni": "21XXXX49",
+      "apellidos": "CARIA",
+      "nombres": "GUSTAVO MARCELO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 119,
+      "dni": "22XXXX20",
+      "apellidos": "LOPEZ",
+      "nombres": "SANDRA LILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

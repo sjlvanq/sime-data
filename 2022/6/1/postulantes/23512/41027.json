@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 23512,
+    "padron_id": 41027
+  },
+  "postulantes": [
+    {
+      "orden": 206,
+      "dni": "17XXXX00",
+      "apellidos": "VICENS",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "23XXXX70",
+      "apellidos": "ROBLES",
+      "nombres": "MIRTA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "20XXXX26",
+      "apellidos": "ACOSTA",
+      "nombres": "NORMA ELIZABET",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 19849,
+    "padron_id": 36936
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "26XXXX16",
+      "apellidos": "MEDINA",
+      "nombres": "GLORIA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "31XXXX30",
+      "apellidos": "RODRIGUEZ MIRANDA",
+      "nombres": "DAVID OSCAR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "32XXXX21",
+      "apellidos": "ALBARRACIN",
+      "nombres": "MARIA IVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "28XXXX94",
+      "apellidos": "GALINDEZ",
+      "nombres": "ANABEL DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

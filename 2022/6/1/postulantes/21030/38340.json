@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21030,
+    "padron_id": 38340
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "33XXXX59",
+      "apellidos": "QUERCI",
+      "nombres": "JOSÉ AUGUSTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "36XXXX48",
+      "apellidos": "HERRERA",
+      "nombres": "HECTOR GABRIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "36XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "LUCAS MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

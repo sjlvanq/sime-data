@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22832,
+    "padron_id": 40762
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "27XXXX82",
+      "apellidos": "FRIAS PAZ",
+      "nombres": "ALEJANDRA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "28XXXX78",
+      "apellidos": "ORELLANA",
+      "nombres": "CAROLINA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "32XXXX21",
+      "apellidos": "ALBARRACIN",
+      "nombres": "MARIA IVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

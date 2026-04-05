@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 23370,
+    "padron_id": 40726
+  },
+  "postulantes": [
+    {
+      "orden": 193,
+      "dni": "22XXXX75",
+      "apellidos": "VEGA",
+      "nombres": "MARIA NANCY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "23XXXX70",
+      "apellidos": "ROBLES",
+      "nombres": "MIRTA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

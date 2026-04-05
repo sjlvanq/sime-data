@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21947,
+    "padron_id": 40366
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "17XXXX68",
+      "apellidos": "ZELARAYAN",
+      "nombres": "MIRIAM ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "24XXXX35",
+      "apellidos": "VEGA",
+      "nombres": "MARIA LUZ DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX54",
+      "apellidos": "GEREZ",
+      "nombres": "ZULMA ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

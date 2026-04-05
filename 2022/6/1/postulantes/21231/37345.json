@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 21231,
+    "padron_id": 37345
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "21XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NANCY CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "29XXXX12",
+      "apellidos": "GAUNA",
+      "nombres": "CECILIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20343,
+    "padron_id": 36152
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "21XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NANCY CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "37XXXX68",
+      "apellidos": "ALBORNOZ",
+      "nombres": "JUANA MAGALI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "29XXXX12",
+      "apellidos": "GAUNA",
+      "nombres": "CECILIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

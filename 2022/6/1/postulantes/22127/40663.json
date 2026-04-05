@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 22127,
+    "padron_id": 40663
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "32XXXX45",
+      "apellidos": "GONZALEZ",
+      "nombres": "NATALIA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "29XXXX22",
+      "apellidos": "IBAÑEZ",
+      "nombres": "ADRIANA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "27XXXX25",
+      "apellidos": "VALDÉZ",
+      "nombres": "OLGA MARIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX51",
+      "apellidos": "MEDINA",
+      "nombres": "RICARDO EMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "30XXXX16",
+      "apellidos": "GARRIDO",
+      "nombres": "ANALIA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

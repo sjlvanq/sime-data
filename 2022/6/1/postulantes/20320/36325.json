@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20320,
+    "padron_id": 36325
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "28XXXX33",
+      "apellidos": "NIETO",
+      "nombres": "GABRIELA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "30XXXX33",
+      "apellidos": "GARCIA",
+      "nombres": "CRISTHIAN FERNANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

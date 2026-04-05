@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 21935,
+    "padron_id": 38840
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "27XXXX48",
+      "apellidos": "VISCARRA",
+      "nombres": "MIRTA GRACIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "39XXXX12",
+      "apellidos": "MEDINA",
+      "nombres": "ANAHÍ DEL ROSARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "36XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "LUCAS MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX77",
+      "apellidos": "GOMEZ",
+      "nombres": "JOHANNA JIMENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

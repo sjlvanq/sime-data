@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21325,
+    "padron_id": 37493
+  },
+  "postulantes": [
+    {
+      "orden": 22,
+      "dni": "20XXXX03",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "ZULEMA ANTONIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 103,
+      "dni": "24XXXX76",
+      "apellidos": "GARGIULO",
+      "nombres": "ZAIRA CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "21XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NANCY CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

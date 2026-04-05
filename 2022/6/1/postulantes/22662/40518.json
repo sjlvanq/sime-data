@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22662,
+    "padron_id": 40518
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX51",
+      "apellidos": "MEDINA",
+      "nombres": "RICARDO EMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "29XXXX98",
+      "apellidos": "CABRERA",
+      "nombres": "CLAUDIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
