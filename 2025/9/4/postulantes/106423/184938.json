@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 106423,
+    "padron_id": 184938
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "40XXXX42",
+      "apellidos": "JUAREZ",
+      "nombres": "BRUNO JESUS",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "35XXXX00",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "AGUSTINA ELISA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX42",
+      "apellidos": "CARRIZO",
+      "nombres": "JESSICA LILIANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
