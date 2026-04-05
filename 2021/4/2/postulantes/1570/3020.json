@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1570,
+    "padron_id": 3020
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "37XXXX73",
+      "apellidos": "ALTAMIRANDA",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "30XXXX24",
+      "apellidos": "MARTIN",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

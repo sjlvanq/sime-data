@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1797,
+    "padron_id": 3386
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "36XXXX42",
+      "apellidos": "GEREZ",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX07",
+      "apellidos": "BUSTOS",
+      "nombres": "RAMIRO ERNESTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "30XXXX76",
+      "apellidos": "SAAVEDRA",
+      "nombres": "LUIS NICOLAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1893,
+    "padron_id": 3540
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX07",
+      "apellidos": "QUINTEROS",
+      "nombres": "EMILIO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX64",
+      "apellidos": "LESCANO",
+      "nombres": "GUSTAVO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "26XXXX83",
+      "apellidos": "NIEVA",
+      "nombres": "ERICA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

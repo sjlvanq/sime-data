@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1555,
+    "padron_id": 3031
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX65",
+      "apellidos": "PARDO MARCOS",
+      "nombres": "PATRICIA NOEMI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX84",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVINA NATALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

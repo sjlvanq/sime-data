@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1450,
+    "padron_id": 2761
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX03",
+      "apellidos": "BORDA",
+      "nombres": "RODRIGO EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX15",
+      "apellidos": "GEREZ",
+      "nombres": "ANDRES FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

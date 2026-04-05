@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1935,
+    "padron_id": 3588
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX03",
+      "apellidos": "GARCIA",
+      "nombres": "MARIA LEONOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "32XXXX31",
+      "apellidos": "GRANEROS",
+      "nombres": "EDIT VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "26XXXX56",
+      "apellidos": "RIVADENEIRA",
+      "nombres": "FEDERICO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

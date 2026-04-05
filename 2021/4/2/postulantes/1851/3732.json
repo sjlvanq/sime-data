@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1851,
+    "padron_id": 3732
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX02",
+      "apellidos": "CASTILLO",
+      "nombres": "CECILIA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX09",
+      "apellidos": "FERNANDEZ",
+      "nombres": "ANA MARISOL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX12",
+      "apellidos": "FUNES",
+      "nombres": "ANA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

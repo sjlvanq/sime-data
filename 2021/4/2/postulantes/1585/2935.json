@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1585,
+    "padron_id": 2935
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX78",
+      "apellidos": "SANCHEZ                                 ",
+      "nombres": "ANA CAROLINA                            ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX97",
+      "apellidos": "DELGADO",
+      "nombres": "MARIA JULIETA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX76",
+      "apellidos": "TOLOSA",
+      "nombres": "SILVANA YESICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

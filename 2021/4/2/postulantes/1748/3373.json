@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 1748,
+    "padron_id": 3373
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX26",
+      "apellidos": "MADRID",
+      "nombres": "RUBEN DARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "30XXXX01",
+      "apellidos": "ARIAS",
+      "nombres": "ILDA VERÓNICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "24XXXX31",
+      "apellidos": "DAMM RUIZ",
+      "nombres": "GUILLERMO FEDERICO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "27XXXX82",
+      "apellidos": "COLQUI",
+      "nombres": "LOURDES BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

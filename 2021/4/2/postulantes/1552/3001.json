@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1552,
+    "padron_id": 3001
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "23XXXX63",
+      "apellidos": "TOLEDO MALDONADO",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "36XXXX58",
+      "apellidos": "BENGLER",
+      "nombres": "NATALI ALBINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

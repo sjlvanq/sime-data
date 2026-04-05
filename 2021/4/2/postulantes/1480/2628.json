@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1480,
+    "padron_id": 2628
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "35XXXX87",
+      "apellidos": "ASIS",
+      "nombres": "PAOLA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "36XXXX10",
+      "apellidos": "MALDONADO",
+      "nombres": "LUCAS MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "34XXXX70",
+      "apellidos": "JATIB",
+      "nombres": "SOFIA NAHIR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
