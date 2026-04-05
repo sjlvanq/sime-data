@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 62846,
+    "padron_id": 111880
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "30XXXX35",
+      "apellidos": "GAMBOA LOPEZ",
+      "nombres": "ESTELLA MARYS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "32XXXX53",
+      "apellidos": "PACHAO",
+      "nombres": "MARIA LUISA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "30XXXX42",
+      "apellidos": "TOLOZA",
+      "nombres": "RITA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

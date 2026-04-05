@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63093,
+    "padron_id": 112586
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "33XXXX00",
+      "apellidos": "DIARTE",
+      "nombres": "ELVIO RAÚL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "31XXXX69",
+      "apellidos": "SERRANO",
+      "nombres": "MARIA DEL ROSARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "32XXXX98",
+      "apellidos": "DE CARLO",
+      "nombres": "MARIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

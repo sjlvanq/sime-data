@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63638,
+    "padron_id": 113531
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX10",
+      "apellidos": "DEL MORAL",
+      "nombres": "MARIO EDGARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX42",
+      "apellidos": "MEDINA",
+      "nombres": "NESTOR SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX35",
+      "apellidos": "GUTIERREZ",
+      "nombres": "CYNTHIA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

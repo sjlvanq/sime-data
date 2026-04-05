@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63592,
+    "padron_id": 113291
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "30XXXX13",
+      "apellidos": "GALVAN REY",
+      "nombres": "EMMANUEL CELSO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX96",
+      "apellidos": "GUTIERREZ",
+      "nombres": "DANIEL ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX14",
+      "apellidos": "BAIGORRIA",
+      "nombres": "DAVID FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

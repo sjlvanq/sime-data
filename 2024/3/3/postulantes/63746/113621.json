@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63746,
+    "padron_id": 113621
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "21XXXX82",
+      "apellidos": "BARRAZA",
+      "nombres": "OSCAR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "27XXXX03",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "MARTIN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX03",
+      "apellidos": "GUERRA",
+      "nombres": "AURORA FRANCISCA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

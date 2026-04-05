@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 62828,
+    "padron_id": 111947
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX71",
+      "apellidos": "ORTIZ",
+      "nombres": "HUGO CESAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "39XXXX56",
+      "apellidos": "SAVINO",
+      "nombres": "LUCIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "22XXXX63",
+      "apellidos": "TORENA",
+      "nombres": "DANIEL MIRCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

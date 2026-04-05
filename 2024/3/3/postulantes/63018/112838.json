@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63018,
+    "padron_id": 112838
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "24XXXX74",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARCELO ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX98",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX62",
+      "apellidos": "ALMARAZ",
+      "nombres": "CESAR HECTOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

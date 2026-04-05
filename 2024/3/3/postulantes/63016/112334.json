@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63016,
+    "padron_id": 112334
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX28",
+      "apellidos": "GONZALEZ",
+      "nombres": "OSCAR DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "23XXXX28",
+      "apellidos": "ARENA",
+      "nombres": "FEDERICO MIGUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX53",
+      "apellidos": "DIAZ",
+      "nombres": "NELSON EDGARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

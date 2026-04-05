@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 63655,
+    "padron_id": 113304
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "36XXXX45",
+      "apellidos": "SARHID",
+      "nombres": "LAURA FLORENCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX58",
+      "apellidos": "AGUERO",
+      "nombres": "FATIMA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX80",
+      "apellidos": "ASTUDILLO",
+      "nombres": "MARIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

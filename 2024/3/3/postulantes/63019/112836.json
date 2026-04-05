@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 63019,
+    "padron_id": 112836
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX24",
+      "apellidos": "JUAREZ",
+      "nombres": "RAMON ISAAC",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX98",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
