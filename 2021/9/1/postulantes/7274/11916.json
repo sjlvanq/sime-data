@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 7274,
+    "padron_id": 11916
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "31XXXX56",
+      "apellidos": "MENDIA",
+      "nombres": "MARIA DEL PILAR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "24XXXX60",
+      "apellidos": "GOLDFELD",
+      "nombres": "PATRICIA MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

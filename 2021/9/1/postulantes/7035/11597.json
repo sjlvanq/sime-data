@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7035,
+    "padron_id": 11597
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "22XXXX14",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARIANA DE LAS MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "21XXXX84",
+      "apellidos": "PALACIOS",
+      "nombres": "FABIANA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "23XXXX93",
+      "apellidos": "LUNA",
+      "nombres": "ROSANA PATRICIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

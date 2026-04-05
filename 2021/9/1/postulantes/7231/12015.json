@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7231,
+    "padron_id": 12015
+  },
+  "postulantes": [
+    {
+      "orden": 390,
+      "dni": "18XXXX85",
+      "apellidos": "AYALA",
+      "nombres": "AURELIA DELFINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 535,
+      "dni": "34XXXX93",
+      "apellidos": "LOPEZ",
+      "nombres": "CINTIA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 667,
+      "dni": "27XXXX79",
+      "apellidos": "SOSA",
+      "nombres": "LILIANA ISABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

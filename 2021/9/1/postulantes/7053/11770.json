@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 7053,
+    "padron_id": 11770
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "26XXXX80",
+      "apellidos": "GARCIA",
+      "nombres": "GLADYS LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "24XXXX30",
+      "apellidos": "PORCEL",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

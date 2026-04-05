@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 6332,
+    "padron_id": 10746
+  },
+  "postulantes": [
+    {
+      "orden": 69,
+      "dni": "20XXXX25",
+      "apellidos": "LOCKLEY",
+      "nombres": "MARIA SILVIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 125,
+      "dni": "21XXXX37",
+      "apellidos": "AVILA",
+      "nombres": "DELINA ELENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

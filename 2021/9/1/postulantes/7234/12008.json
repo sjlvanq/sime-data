@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 7234,
+    "padron_id": 12008
+  },
+  "postulantes": [
+    {
+      "orden": 153,
+      "dni": "18XXXX73",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "AMANDA LERIDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 173,
+      "dni": "25XXXX05",
+      "apellidos": "ALDERETE",
+      "nombres": "MANUELA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 225,
+      "dni": "18XXXX39",
+      "apellidos": "SOSA",
+      "nombres": "BLANCA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 111,
+      "dni": "20XXXX50",
+      "apellidos": "JUAREZ",
+      "nombres": "CAROLINA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 156,
+      "dni": "24XXXX87",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "BLANCA ROSA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7197,
+    "padron_id": 11914
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX61",
+      "apellidos": "SEILER",
+      "nombres": "SABRINA NOELIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "34XXXX49",
+      "apellidos": "PAJÓN",
+      "nombres": "EXEQUIEL RAMÓN AUGUSTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "33XXXX90",
+      "apellidos": "DIAZ GAITAN",
+      "nombres": "MARIA NAZARETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

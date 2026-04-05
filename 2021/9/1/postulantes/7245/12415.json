@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "vacante_id": 7245,
+    "padron_id": 12415
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "31XXXX57",
+      "apellidos": "GUTIERREZ",
+      "nombres": "PAOLA NÉLIDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 67,
+      "dni": "37XXXX67",
+      "apellidos": "ROMERO",
+      "nombres": "CARLOS ANTONIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 71,
+      "dni": "21XXXX99",
+      "apellidos": "CARO",
+      "nombres": "MARCELA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "24XXXX42",
+      "apellidos": "VALLEJO",
+      "nombres": "ANTONIO EDGARDO RUBEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "27XXXX13",
+      "apellidos": "VALDEZ",
+      "nombres": "CLAUDIA MARIA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX89",
+      "apellidos": "LEDESMA",
+      "nombres": "FRANCO ALEJANDRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "30XXXX21",
+      "apellidos": "MARQUEZ",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

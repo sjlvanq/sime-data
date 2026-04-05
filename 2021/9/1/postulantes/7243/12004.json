@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7243,
+    "padron_id": 12004
+  },
+  "postulantes": [
+    {
+      "orden": 120,
+      "dni": "20XXXX26",
+      "apellidos": "TELLO",
+      "nombres": "SANDRA MARIA CELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 130,
+      "dni": "21XXXX07",
+      "apellidos": "AGUIRRE",
+      "nombres": "BEATRIZ DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 141,
+      "dni": "17XXXX23",
+      "apellidos": "JEREZ",
+      "nombres": "SEGUNDA DOLORES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

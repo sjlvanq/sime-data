@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 7245,
+    "padron_id": 12416
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX74",
+      "apellidos": "GATTI",
+      "nombres": "MARTA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX77",
+      "apellidos": "GORDILLO",
+      "nombres": "MARÍA DE LOURDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

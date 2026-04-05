@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 7252,
+    "padron_id": 12017
+  },
+  "postulantes": [
+    {
+      "orden": 610,
+      "dni": "32XXXX21",
+      "apellidos": "HASSAN",
+      "nombres": "GABRIELA GISELLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 852,
+      "dni": "27XXXX66",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARÍA ROSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 659,
+      "dni": "27XXXX52",
+      "apellidos": "SORIA",
+      "nombres": "LUIS ADRIAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 667,
+      "dni": "27XXXX79",
+      "apellidos": "SOSA",
+      "nombres": "LILIANA ISABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

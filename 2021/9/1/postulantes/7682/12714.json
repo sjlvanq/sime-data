@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 7682,
+    "padron_id": 12714
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "20XXXX25",
+      "apellidos": "LOCKLEY",
+      "nombres": "MARIA SILVIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "28XXXX78",
+      "apellidos": "BARRIOS",
+      "nombres": "GABRIEL EDUARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
