@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 108180,
+    "padron_id": 191010
+  },
+  "postulantes": [
+    {
+      "orden": 75,
+      "dni": "22XXXX06",
+      "apellidos": "BOYANOVSKY",
+      "nombres": "AMALIA NANCY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 78,
+      "dni": "39XXXX70",
+      "apellidos": "ROJAS",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 95,
+      "dni": "37XXXX11",
+      "apellidos": "FLORES",
+      "nombres": "JOSE MARIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 144,
+      "dni": "20XXXX59",
+      "apellidos": "AMUN",
+      "nombres": "FATIMA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

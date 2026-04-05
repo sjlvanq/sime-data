@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111322,
+    "padron_id": 192717
+  },
+  "postulantes": [
+    {
+      "orden": 80,
+      "dni": "26XXXX24",
+      "apellidos": "SANCHEZ",
+      "nombres": "ADRIANA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 110,
+      "dni": "24XXXX77",
+      "apellidos": "TAPIA",
+      "nombres": "PAOLA ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

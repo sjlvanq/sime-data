@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111330,
+    "padron_id": 192741
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX75",
+      "apellidos": "CORNEJO",
+      "nombres": "FABIO GREGORIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "24XXXX25",
+      "apellidos": "AGÜERO",
+      "nombres": "DANIELA ANALIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "29XXXX75",
+      "apellidos": "GONZALEZ",
+      "nombres": "ELDA FABIOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "29XXXX75",
+      "apellidos": "GONZALEZ",
+      "nombres": "ELDA FABIOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

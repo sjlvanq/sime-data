@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 112459,
+    "padron_id": 194902
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "43XXXX51",
+      "apellidos": "CHICO ORELLANA",
+      "nombres": "ANDREA CELESTE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "43XXXX39",
+      "apellidos": "ANDRADE",
+      "nombres": "HECTOR EZEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "32XXXX62",
+      "apellidos": "BORDÓN",
+      "nombres": "CRISTIAN ADRIAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "36XXXX21",
+      "apellidos": "MADRID",
+      "nombres": "ALEJANDRO EZEQUIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

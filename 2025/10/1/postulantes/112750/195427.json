@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112750,
+    "padron_id": 195427
+  },
+  "postulantes": [
+    {
+      "orden": 78,
+      "dni": "25XXXX99",
+      "apellidos": "PEREZ",
+      "nombres": "CLAUDIA CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "36XXXX52",
+      "apellidos": "PEREYRA",
+      "nombres": "ANA SOFÍA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "30XXXX20",
+      "apellidos": "VILLAFAÑEZ",
+      "nombres": "MYRIAM DELINA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111324,
+    "padron_id": 192689
+  },
+  "postulantes": [
+    {
+      "orden": 42,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 422,
+      "dni": "22XXXX04",
+      "apellidos": "LAZARTE ESTRADA",
+      "nombres": "NELIDA SILVIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 552,
+      "dni": "22XXXX60",
+      "apellidos": "CORDOBA",
+      "nombres": "SILVANA KARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "21XXXX03",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

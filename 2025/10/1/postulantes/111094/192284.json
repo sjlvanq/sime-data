@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111094,
+    "padron_id": 192284
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "22XXXX31",
+      "apellidos": "PLAZA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "22XXXX24",
+      "apellidos": "VALDEZ",
+      "nombres": "SANDRA LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

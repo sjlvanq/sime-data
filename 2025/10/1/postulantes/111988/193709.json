@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111988,
+    "padron_id": 193709
+  },
+  "postulantes": [
+    {
+      "orden": 44,
+      "dni": "31XXXX94",
+      "apellidos": "NIEVA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "31XXXX23",
+      "apellidos": "MEDINA AGUILERA",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

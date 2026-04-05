@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110635,
+    "padron_id": 191951
+  },
+  "postulantes": [
+    {
+      "orden": 243,
+      "dni": "26XXXX66",
+      "apellidos": "ORELLANA",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 302,
+      "dni": "21XXXX91",
+      "apellidos": "QUIROGA MORENO",
+      "nombres": "ADRIANA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "34XXXX00",
+      "apellidos": "ROMANO",
+      "nombres": "JOSE MAXIMILIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

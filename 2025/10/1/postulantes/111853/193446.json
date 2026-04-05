@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111853,
+    "padron_id": 193446
+  },
+  "postulantes": [
+    {
+      "orden": 174,
+      "dni": "32XXXX64",
+      "apellidos": "GIMENEZ",
+      "nombres": "NORA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 258,
+      "dni": "25XXXX91",
+      "apellidos": "DIAZ",
+      "nombres": "SILVIA SUSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 360,
+      "dni": "22XXXX58",
+      "apellidos": "ROMANO",
+      "nombres": "ADRIANA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 87,
+      "dni": "25XXXX06",
+      "apellidos": "CHAILE",
+      "nombres": "MIRIAM ROSANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

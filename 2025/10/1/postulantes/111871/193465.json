@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111871,
+    "padron_id": 193465
+  },
+  "postulantes": [
+    {
+      "orden": 41,
+      "dni": "29XXXX75",
+      "apellidos": "GARCIA                                  ",
+      "nombres": "NANCY NOEMI                             ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 134,
+      "dni": "30XXXX20",
+      "apellidos": "VILLAFAÑEZ",
+      "nombres": "MYRIAM DELINA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 240,
+      "dni": "23XXXX88",
+      "apellidos": "VILLARREAL",
+      "nombres": "MARISA ALEJANDRA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

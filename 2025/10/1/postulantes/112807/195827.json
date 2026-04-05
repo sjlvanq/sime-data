@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 112807,
+    "padron_id": 195827
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "30XXXX01",
+      "apellidos": "MARRANZINO",
+      "nombres": "OSCAR MATÍAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "35XXXX74",
+      "apellidos": "VILLAGRAN",
+      "nombres": "MARIA PAULA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "32XXXX80",
+      "apellidos": "CONTRERAS",
+      "nombres": "RUBEN GUSTAVO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "27XXXX46",
+      "apellidos": "BRIZUELA",
+      "nombres": "LUCIA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112003,
+    "padron_id": 193693
+  },
+  "postulantes": [
+    {
+      "orden": 44,
+      "dni": "31XXXX94",
+      "apellidos": "NIEVA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "22XXXX94",
+      "apellidos": "PEREZ",
+      "nombres": "ILEANA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "22XXXX13",
+      "apellidos": "CERVANTES",
+      "nombres": "MARCELA FABIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

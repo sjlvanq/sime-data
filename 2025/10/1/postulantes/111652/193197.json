@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111652,
+    "padron_id": 193197
+  },
+  "postulantes": [
+    {
+      "orden": 43,
+      "dni": "28XXXX44",
+      "apellidos": "ARIAS",
+      "nombres": "ANA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "27XXXX77",
+      "apellidos": "DOMINGUEZ",
+      "nombres": "CAROLINA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

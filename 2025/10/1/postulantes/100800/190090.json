@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "vacante_id": 100800,
+    "padron_id": 190090
+  },
+  "postulantes": [
+    {
+      "orden": 103,
+      "dni": "33XXXX80",
+      "apellidos": "LOPEZ",
+      "nombres": "JIMENA MARCELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 117,
+      "dni": "29XXXX16",
+      "apellidos": "SANCHEZ",
+      "nombres": "FATIMA KARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 191,
+      "dni": "33XXXX11",
+      "apellidos": "MALLA",
+      "nombres": "GABRIELA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX73",
+      "apellidos": "HERRERA",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 86,
+      "dni": "22XXXX06",
+      "apellidos": "BOYANOVSKY",
+      "nombres": "AMALIA NANCY",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 88,
+      "dni": "39XXXX70",
+      "apellidos": "ROJAS",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

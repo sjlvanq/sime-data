@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111243,
+    "padron_id": 192495
+  },
+  "postulantes": [
+    {
+      "orden": 80,
+      "dni": "26XXXX24",
+      "apellidos": "SANCHEZ",
+      "nombres": "ADRIANA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 224,
+      "dni": "30XXXX00",
+      "apellidos": "MOLINA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

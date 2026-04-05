@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112585,
+    "padron_id": 195087
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "26XXXX96",
+      "apellidos": "CARRIZO",
+      "nombres": "NIEVES VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "39XXXX92",
+      "apellidos": "DEL CAMPO GUERRERO",
+      "nombres": "MIGUEL GERMAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "31XXXX56",
+      "apellidos": "SOSA",
+      "nombres": "ELINA EDITH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

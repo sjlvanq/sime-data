@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112418,
+    "padron_id": 194931
+  },
+  "postulantes": [
+    {
+      "orden": 179,
+      "dni": "28XXXX73",
+      "apellidos": "FIGUEROA",
+      "nombres": "SILVANA JIMENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 194,
+      "dni": "25XXXX34",
+      "apellidos": "REYNOSO",
+      "nombres": "CLAUDIA ROXANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 366,
+      "dni": "23XXXX62",
+      "apellidos": "YTURRE",
+      "nombres": "SILVIA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

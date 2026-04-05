@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111657,
+    "padron_id": 193235
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "42XXXX03",
+      "apellidos": "ROBLES",
+      "nombres": "MARIA SOL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "29XXXX44",
+      "apellidos": "SOTILLO",
+      "nombres": "JORGE ANGEL GABRIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "32XXXX80",
+      "apellidos": "CONTRERAS",
+      "nombres": "RUBEN GUSTAVO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "38XXXX17",
+      "apellidos": "MEDINA",
+      "nombres": "RODRIGO RAFAEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

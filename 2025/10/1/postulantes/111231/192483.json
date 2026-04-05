@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111231,
+    "padron_id": 192483
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "25XXXX87",
+      "apellidos": "ALE",
+      "nombres": "ANDRES DEL MILAGRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "25XXXX40",
+      "apellidos": "PAZ",
+      "nombres": "CECILIA VERÓNICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "42XXXX12",
+      "apellidos": "CASTILLO ROMANO",
+      "nombres": "LUIS GABRIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "35XXXX43",
+      "apellidos": "SABALZA",
+      "nombres": "GABRIEL FERNANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

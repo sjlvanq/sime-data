@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109710,
+    "padron_id": 190303
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "25XXXX48",
+      "apellidos": "SANCHEZ",
+      "nombres": "SARA LIA MARICEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "29XXXX87",
+      "apellidos": "GIMENEZ MENDEZ",
+      "nombres": "VERONICA ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "24XXXX71",
+      "apellidos": "LATINA",
+      "nombres": "NATALIA MARIA DOLORES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

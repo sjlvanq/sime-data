@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111230,
+    "padron_id": 192480
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "22XXXX74",
+      "apellidos": "CHAZARRETA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "24XXXX58",
+      "apellidos": "VILLA",
+      "nombres": "RUTH NOEMI",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX34",
+      "apellidos": "REYNOSO",
+      "nombres": "CLAUDIA ROXANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

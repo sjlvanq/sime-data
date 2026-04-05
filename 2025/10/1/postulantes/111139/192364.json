@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111139,
+    "padron_id": 192364
+  },
+  "postulantes": [
+    {
+      "orden": 181,
+      "dni": "27XXXX39",
+      "apellidos": "CARRIZO",
+      "nombres": "CINTHIA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 368,
+      "dni": "20XXXX59",
+      "apellidos": "LEDESMA",
+      "nombres": "JOSE MANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 71,
+      "dni": "30XXXX01",
+      "apellidos": "AVILA",
+      "nombres": "ANALIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 107,
+      "dni": "32XXXX29",
+      "apellidos": "VALLEJO",
+      "nombres": "ELSA ROMINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

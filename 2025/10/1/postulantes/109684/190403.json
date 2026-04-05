@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 109684,
+    "padron_id": 190403
+  },
+  "postulantes": [
+    {
+      "orden": 98,
+      "dni": "29XXXX03",
+      "apellidos": "CASTRO",
+      "nombres": "LUCIA RAMONA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 246,
+      "dni": "23XXXX11",
+      "apellidos": "ALVAREZ",
+      "nombres": "GABRIELA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 269,
+      "dni": "20XXXX68",
+      "apellidos": "DIAZ",
+      "nombres": "TERESA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 301,
+      "dni": "23XXXX48",
+      "apellidos": "URUEÑA",
+      "nombres": "VICTORIA IRENE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

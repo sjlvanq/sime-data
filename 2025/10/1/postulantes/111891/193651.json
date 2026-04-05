@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111891,
+    "padron_id": 193651
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "27XXXX46",
+      "apellidos": "BRIZUELA",
+      "nombres": "LUCIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "32XXXX62",
+      "apellidos": "BORDÓN",
+      "nombres": "CRISTIAN ADRIAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "41XXXX65",
+      "apellidos": "NYCEK",
+      "nombres": "ALEX IVAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX80",
+      "apellidos": "MELIAN",
+      "nombres": "SILVINA NELIDA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "36XXXX21",
+      "apellidos": "MADRID",
+      "nombres": "ALEJANDRO EZEQUIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

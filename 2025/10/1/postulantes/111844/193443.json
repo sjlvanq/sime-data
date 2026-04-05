@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111844,
+    "padron_id": 193443
+  },
+  "postulantes": [
+    {
+      "orden": 360,
+      "dni": "22XXXX58",
+      "apellidos": "ROMANO",
+      "nombres": "ADRIANA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 71,
+      "dni": "30XXXX01",
+      "apellidos": "AVILA",
+      "nombres": "ANALIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

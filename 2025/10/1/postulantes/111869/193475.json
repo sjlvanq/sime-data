@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111869,
+    "padron_id": 193475
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "28XXXX64",
+      "apellidos": "DECIMA",
+      "nombres": "SANDRA MARIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 437,
+      "dni": "22XXXX95",
+      "apellidos": "JIMENEZ",
+      "nombres": "ISABEL DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 216,
+      "dni": "29XXXX50",
+      "apellidos": "MOALLA",
+      "nombres": "ELIANA ALICIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

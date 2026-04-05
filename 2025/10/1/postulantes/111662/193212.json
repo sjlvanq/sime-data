@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111662,
+    "padron_id": 193212
+  },
+  "postulantes": [
+    {
+      "orden": 59,
+      "dni": "28XXXX72",
+      "apellidos": "FALCI",
+      "nombres": "MARIA NATALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "43XXXX93",
+      "apellidos": "SOSA",
+      "nombres": "ALEJANDRA FRANCISCA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "24XXXX60",
+      "apellidos": "GOLDFELD",
+      "nombres": "PATRICIA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "30XXXX83",
+      "apellidos": "JUAREZ",
+      "nombres": "FATIMA PATRICIA NOELIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "25XXXX50",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

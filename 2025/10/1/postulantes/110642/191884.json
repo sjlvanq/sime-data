@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110642,
+    "padron_id": 191884
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "33XXXX02",
+      "apellidos": "DIAZ",
+      "nombres": "MAIRA LEONELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "24XXXX96",
+      "apellidos": "FERREYRA                                ",
+      "nombres": "PEDRO ANTONIO                           ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "24XXXX71",
+      "apellidos": "LATINA",
+      "nombres": "NATALIA MARIA DOLORES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110392,
+    "padron_id": 191650
+  },
+  "postulantes": [
+    {
+      "orden": 167,
+      "dni": "36XXXX57",
+      "apellidos": "SANTUCHO",
+      "nombres": "MARIA ELIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 482,
+      "dni": "30XXXX24",
+      "apellidos": "CRUZ",
+      "nombres": "CLAUDIA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

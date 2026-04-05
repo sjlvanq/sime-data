@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111346,
+    "padron_id": 192711
+  },
+  "postulantes": [
+    {
+      "orden": 236,
+      "dni": "23XXXX29",
+      "apellidos": "NAVARRO",
+      "nombres": "NANCY NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 269,
+      "dni": "22XXXX28",
+      "apellidos": "MOLINA",
+      "nombres": "ANA GABRIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 329,
+      "dni": "24XXXX06",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "EVA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 111,
+      "dni": "24XXXX97",
+      "apellidos": "CASTAÑO",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 407,
+      "dni": "21XXXX91",
+      "apellidos": "QUIROGA MORENO",
+      "nombres": "ADRIANA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

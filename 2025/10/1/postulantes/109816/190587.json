@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109816,
+    "padron_id": 190587
+  },
+  "postulantes": [
+    {
+      "orden": 80,
+      "dni": "37XXXX07",
+      "apellidos": "SOMERA",
+      "nombres": "JIMENA ROCIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "38XXXX32",
+      "apellidos": "PETRELLI WELZEL",
+      "nombres": "GABRIELA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "37XXXX50",
+      "apellidos": "ORTIZ",
+      "nombres": "ERIKA MARIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

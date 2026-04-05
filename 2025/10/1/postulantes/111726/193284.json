@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111726,
+    "padron_id": 193284
+  },
+  "postulantes": [
+    {
+      "orden": 33,
+      "dni": "36XXXX47",
+      "apellidos": "ROMERO",
+      "nombres": "MAYRA NAHIR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "26XXXX37",
+      "apellidos": "NIEVA",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "25XXXX91",
+      "apellidos": "DIAZ",
+      "nombres": "SILVIA SUSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

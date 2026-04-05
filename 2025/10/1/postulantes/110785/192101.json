@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110785,
+    "padron_id": 192101
+  },
+  "postulantes": [
+    {
+      "orden": 68,
+      "dni": "27XXXX86",
+      "apellidos": "JIMENEZ",
+      "nombres": "LORENA NATALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 224,
+      "dni": "30XXXX00",
+      "apellidos": "MOLINA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 97,
+      "dni": "24XXXX21",
+      "apellidos": "PONCE",
+      "nombres": "MARCELA LIDIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

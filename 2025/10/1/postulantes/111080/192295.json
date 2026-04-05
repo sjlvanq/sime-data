@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111080,
+    "padron_id": 192295
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "39XXXX55",
+      "apellidos": "ZAPATA",
+      "nombres": "FLORENCIA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "37XXXX51",
+      "apellidos": "MOYANO",
+      "nombres": "ELIANA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "35XXXX54",
+      "apellidos": "MEDINA",
+      "nombres": "TANYA YANET",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "38XXXX42",
+      "apellidos": "ALBORNOZ",
+      "nombres": "MILAGRO MARIA AGOSTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "39XXXX13",
+      "apellidos": "VALLEJOS",
+      "nombres": "FLORENCIA CAMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

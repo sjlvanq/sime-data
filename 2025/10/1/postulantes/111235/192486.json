@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111235,
+    "padron_id": 192486
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "28XXXX16",
+      "apellidos": "ESTRADA",
+      "nombres": "FERNANDO ESTEBAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "20XXXX84",
+      "apellidos": "NARCOTTI",
+      "nombres": "MYRIAM MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

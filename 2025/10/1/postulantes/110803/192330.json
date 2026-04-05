@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110803,
+    "padron_id": 192330
+  },
+  "postulantes": [
+    {
+      "orden": 260,
+      "dni": "35XXXX41",
+      "apellidos": "AYLAN",
+      "nombres": "WILLIAM RAMON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "34XXXX19",
+      "apellidos": "DEL VALLE",
+      "nombres": "GISELA CELESTE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 125,
+      "dni": "37XXXX25",
+      "apellidos": "CARRIZO",
+      "nombres": "MELINA MACARENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

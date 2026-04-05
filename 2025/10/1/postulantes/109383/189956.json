@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109383,
+    "padron_id": 189956
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "26XXXX54",
+      "apellidos": "AVILA",
+      "nombres": "ADRIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "24XXXX78",
+      "apellidos": "ANTUNEZ",
+      "nombres": "DOMINGO ANTONIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "23XXXX28",
+      "apellidos": "ARAOZ",
+      "nombres": "ELBA KARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

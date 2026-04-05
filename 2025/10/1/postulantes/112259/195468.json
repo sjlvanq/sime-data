@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112259,
+    "padron_id": 195468
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX98",
+      "apellidos": "PALMESANO                               ",
+      "nombres": "OSCAR EDUARDO                           ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX81",
+      "apellidos": "CASTILLO",
+      "nombres": "JUAN RAMON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "20XXXX59",
+      "apellidos": "LEDESMA",
+      "nombres": "JOSE MANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

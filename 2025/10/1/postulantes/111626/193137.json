@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111626,
+    "padron_id": 193137
+  },
+  "postulantes": [
+    {
+      "orden": 200,
+      "dni": "20XXXX93",
+      "apellidos": "MOLINA",
+      "nombres": "MARINA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 202,
+      "dni": "31XXXX76",
+      "apellidos": "ORELLANA",
+      "nombres": "MARIELA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 372,
+      "dni": "27XXXX63",
+      "apellidos": "ACUÑA",
+      "nombres": "BEATRIZ MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 401,
+      "dni": "21XXXX52",
+      "apellidos": "CORNEJO",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 478,
+      "dni": "25XXXX62",
+      "apellidos": "FERREYRA",
+      "nombres": "DEBORAH DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111423,
+    "padron_id": 192750
+  },
+  "postulantes": [
+    {
+      "orden": 92,
+      "dni": "26XXXX17",
+      "apellidos": "RUEDA",
+      "nombres": "RUTH MELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 144,
+      "dni": "29XXXX73",
+      "apellidos": "AMAYA",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 165,
+      "dni": "25XXXX50",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

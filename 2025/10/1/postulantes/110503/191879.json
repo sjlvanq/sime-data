@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 110503,
+    "padron_id": 191879
+  },
+  "postulantes": [
+    {
+      "orden": 36,
+      "dni": "29XXXX30",
+      "apellidos": "RUIZ",
+      "nombres": "CECILIA VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 124,
+      "dni": "20XXXX83",
+      "apellidos": "GUZMAN",
+      "nombres": "ROBERTO ANTONIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 167,
+      "dni": "22XXXX48",
+      "apellidos": "GONZALEZ",
+      "nombres": "JUANA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 167,
+      "dni": "23XXXX48",
+      "apellidos": "URUEÑA",
+      "nombres": "VICTORIA IRENE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

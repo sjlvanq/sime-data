@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111326,
+    "padron_id": 192731
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "32XXXX08",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "FERNANDO NICOLAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "20XXXX74",
+      "apellidos": "MALDONADO",
+      "nombres": "FABIAN DOMINGO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

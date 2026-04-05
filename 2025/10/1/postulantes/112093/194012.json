@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112093,
+    "padron_id": 194012
+  },
+  "postulantes": [
+    {
+      "orden": 86,
+      "dni": "24XXXX60",
+      "apellidos": "VALLONA",
+      "nombres": "PATRICIA ROSANA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "22XXXX35",
+      "apellidos": "BASCARY",
+      "nombres": "LORNA MARIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "22XXXX97",
+      "apellidos": "FERREYRA",
+      "nombres": "RAQUEL PAOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

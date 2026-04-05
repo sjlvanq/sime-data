@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112415,
+    "padron_id": 194865
+  },
+  "postulantes": [
+    {
+      "orden": 72,
+      "dni": "20XXXX27",
+      "apellidos": "RIVERO",
+      "nombres": "VICTOR GUSTAVO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 120,
+      "dni": "26XXXX92",
+      "apellidos": "DIAZ SMIDERLE",
+      "nombres": "CINTHIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 129,
+      "dni": "22XXXX29",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

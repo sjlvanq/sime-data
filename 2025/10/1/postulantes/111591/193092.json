@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111591,
+    "padron_id": 193092
+  },
+  "postulantes": [
+    {
+      "orden": 113,
+      "dni": "24XXXX97",
+      "apellidos": "CASTAÑO",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 216,
+      "dni": "29XXXX50",
+      "apellidos": "MOALLA",
+      "nombres": "ELIANA ALICIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

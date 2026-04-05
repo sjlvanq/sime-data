@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111479,
+    "padron_id": 192752
+  },
+  "postulantes": [
+    {
+      "orden": 46,
+      "dni": "23XXXX94",
+      "apellidos": "PIAZZETTA",
+      "nombres": "MIRIAN RAQUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "29XXXX18",
+      "apellidos": "SVALDI",
+      "nombres": "CARINA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111587,
+    "padron_id": 193030
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "25XXXX53",
+      "apellidos": "NAJA",
+      "nombres": "SANDRA VALERIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 118,
+      "dni": "26XXXX66",
+      "apellidos": "ORELLANA",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

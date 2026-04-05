@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 112586,
+    "padron_id": 195070
+  },
+  "postulantes": [
+    {
+      "orden": 23,
+      "dni": "25XXXX45",
+      "apellidos": "PUCHETA",
+      "nombres": "LUIS JAVIER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "36XXXX58",
+      "apellidos": "LOBO",
+      "nombres": "MELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "37XXXX26",
+      "apellidos": "NIEVA",
+      "nombres": "MICAELA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "29XXXX44",
+      "apellidos": "SANDOVAL ARIAS",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

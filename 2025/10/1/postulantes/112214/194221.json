@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 112214,
+    "padron_id": 194221
+  },
+  "postulantes": [
+    {
+      "orden": 43,
+      "dni": "28XXXX16",
+      "apellidos": "ESTRADA",
+      "nombres": "FERNANDO ESTEBAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "22XXXX13",
+      "apellidos": "CERVANTES",
+      "nombres": "MARCELA FABIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 87,
+      "dni": "28XXXX29",
+      "apellidos": "ALVAREZ ELLER",
+      "nombres": "ANA GRISELDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "30XXXX56",
+      "apellidos": "ZERDA",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "25XXXX50",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

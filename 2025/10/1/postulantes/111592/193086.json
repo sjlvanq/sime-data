@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111592,
+    "padron_id": 193086
+  },
+  "postulantes": [
+    {
+      "orden": 113,
+      "dni": "24XXXX97",
+      "apellidos": "CASTAÑO",
+      "nombres": "MARIA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 264,
+      "dni": "31XXXX81",
+      "apellidos": "SALAZAR",
+      "nombres": "CELINA NATALIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

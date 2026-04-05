@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110134,
+    "padron_id": 191044
+  },
+  "postulantes": [
+    {
+      "orden": 579,
+      "dni": "36XXXX37",
+      "apellidos": "CRUZ",
+      "nombres": "DEBORA ESTEFANIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 592,
+      "dni": "37XXXX86",
+      "apellidos": "SERRANO",
+      "nombres": "GABRIELA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

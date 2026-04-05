@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111124,
+    "padron_id": 192277
+  },
+  "postulantes": [
+    {
+      "orden": 202,
+      "dni": "31XXXX87",
+      "apellidos": "PORTUGAL",
+      "nombres": "NATALIA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 330,
+      "dni": "22XXXX21",
+      "apellidos": "SECO",
+      "nombres": "DOLORES VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 107,
+      "dni": "32XXXX29",
+      "apellidos": "VALLEJO",
+      "nombres": "ELSA ROMINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111490,
+    "padron_id": 192781
+  },
+  "postulantes": [
+    {
+      "orden": 42,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 552,
+      "dni": "22XXXX60",
+      "apellidos": "CORDOBA",
+      "nombres": "SILVANA KARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 58,
+      "dni": "21XXXX03",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 274,
+      "dni": "34XXXX34",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "RITA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 300,
+      "dni": "30XXXX71",
+      "apellidos": "BAYK",
+      "nombres": "JORGELINA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

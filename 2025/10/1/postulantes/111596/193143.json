@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111596,
+    "padron_id": 193143
+  },
+  "postulantes": [
+    {
+      "orden": 474,
+      "dni": "39XXXX40",
+      "apellidos": "JUAREZ",
+      "nombres": "EMILSE ABIGAIL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 489,
+      "dni": "33XXXX80",
+      "apellidos": "AGUILAR",
+      "nombres": "LUCIA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 805,
+      "dni": "27XXXX39",
+      "apellidos": "GORDILLO",
+      "nombres": "ADRIANA DE LOS ÁNGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 523,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

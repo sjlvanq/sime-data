@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112708,
+    "padron_id": 195494
+  },
+  "postulantes": [
+    {
+      "orden": 925,
+      "dni": "42XXXX09",
+      "apellidos": "BRITO",
+      "nombres": "NOELIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 314,
+      "dni": "38XXXX13",
+      "apellidos": "JIMÉNEZ",
+      "nombres": "SOLEDAD ROSA MARÍA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 492,
+      "dni": "38XXXX98",
+      "apellidos": "ROJAS",
+      "nombres": "SERGIO ROLANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

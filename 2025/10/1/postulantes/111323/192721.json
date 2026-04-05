@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111323,
+    "padron_id": 192721
+  },
+  "postulantes": [
+    {
+      "orden": 51,
+      "dni": "25XXXX99",
+      "apellidos": "VILLA",
+      "nombres": "PAOLA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "26XXXX24",
+      "apellidos": "SANCHEZ",
+      "nombres": "ADRIANA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

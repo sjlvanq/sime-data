@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111815,
+    "padron_id": 193424
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "31XXXX10",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 158,
+      "dni": "32XXXX96",
+      "apellidos": "ROMANO",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

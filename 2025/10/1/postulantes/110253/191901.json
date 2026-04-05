@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 110253,
+    "padron_id": 191901
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "22XXXX73",
+      "apellidos": "MARKO",
+      "nombres": "ANA KARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "36XXXX80",
+      "apellidos": "MAZA",
+      "nombres": "LUCIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "17XXXX77",
+      "apellidos": "ESCALA",
+      "nombres": "CARLOS MARCELO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "33XXXX12",
+      "apellidos": "SANCHEZ",
+      "nombres": "JOSE MATIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

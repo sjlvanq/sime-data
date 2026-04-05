@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 110235,
+    "padron_id": 191335
+  },
+  "postulantes": [
+    {
+      "orden": 68,
+      "dni": "20XXXX27",
+      "apellidos": "PACHADO",
+      "nombres": "ALICIA RAQUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 82,
+      "dni": "24XXXX52",
+      "apellidos": "GARCIA",
+      "nombres": "FRANCISCO ARIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 138,
+      "dni": "20XXXX41",
+      "apellidos": "CISNEROS",
+      "nombres": "MARIA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 139,
+      "dni": "23XXXX48",
+      "apellidos": "URUEÑA",
+      "nombres": "VICTORIA IRENE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 151,
+      "dni": "24XXXX77",
+      "apellidos": "PEREZ",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

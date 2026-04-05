@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109632,
+    "padron_id": 190070
+  },
+  "postulantes": [
+    {
+      "orden": 297,
+      "dni": "34XXXX74",
+      "apellidos": "SANTILLÁN VIDELA",
+      "nombres": "JOHANA MELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 839,
+      "dni": "27XXXX06",
+      "apellidos": "SUAREZ",
+      "nombres": "NATALIA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

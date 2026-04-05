@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111803,
+    "padron_id": 193430
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "26XXXX80",
+      "apellidos": "OSORES",
+      "nombres": "LILIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 177,
+      "dni": "33XXXX40",
+      "apellidos": "VALDEZ",
+      "nombres": "MIRIAN ELIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 220,
+      "dni": "34XXXX42",
+      "apellidos": "NIEVA",
+      "nombres": "NADIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 380,
+      "dni": "22XXXX04",
+      "apellidos": "LAZARTE ESTRADA",
+      "nombres": "NELIDA SILVIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

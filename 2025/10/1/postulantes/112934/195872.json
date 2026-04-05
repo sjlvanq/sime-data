@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 112934,
+    "padron_id": 195872
+  },
+  "postulantes": [
+    {
+      "orden": 155,
+      "dni": "28XXXX47",
+      "apellidos": "CONTRERAS",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 177,
+      "dni": "31XXXX84",
+      "apellidos": "FRIAS",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 187,
+      "dni": "30XXXX01",
+      "apellidos": "AVILA",
+      "nombres": "ANALIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 325,
+      "dni": "34XXXX15",
+      "apellidos": "MEDINA",
+      "nombres": "ANALIA PATRICIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

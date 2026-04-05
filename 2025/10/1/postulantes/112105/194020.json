@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112105,
+    "padron_id": 194020
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "18XXXX35",
+      "apellidos": "LOBO",
+      "nombres": "RITA ELVIRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "21XXXX43",
+      "apellidos": "LIZARRAGA",
+      "nombres": "ESTELA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX27",
+      "apellidos": "LERA",
+      "nombres": "SOLEDAD ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

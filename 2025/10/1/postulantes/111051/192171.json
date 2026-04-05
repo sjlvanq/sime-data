@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111051,
+    "padron_id": 192171
+  },
+  "postulantes": [
+    {
+      "orden": 72,
+      "dni": "26XXXX11",
+      "apellidos": "VALOR",
+      "nombres": "MARIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 320,
+      "dni": "21XXXX23",
+      "apellidos": "PUCHETA",
+      "nombres": "ROSA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 345,
+      "dni": "33XXXX51",
+      "apellidos": "ESCOBAR",
+      "nombres": "LUCILA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 922,
+      "dni": "43XXXX55",
+      "apellidos": "FLORES",
+      "nombres": "LUCIANA ABIGAIL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 445,
+      "dni": "40XXXX39",
+      "apellidos": "JIMENEZ",
+      "nombres": "YOHANA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
