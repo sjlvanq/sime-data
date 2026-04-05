@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 6692,
+    "padron_id": 13487
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "32XXXX81",
+      "apellidos": "PAEZ",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX97",
+      "apellidos": "REYNOSO SORIA",
+      "nombres": "SEBASTIAN ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

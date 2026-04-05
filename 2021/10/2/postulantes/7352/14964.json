@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7352,
+    "padron_id": 14964
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "22XXXX85",
+      "apellidos": "VALLEJO",
+      "nombres": "MARIO WALTER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "25XXXX92",
+      "apellidos": "ARMAS",
+      "nombres": "CECILIA RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "37XXXX93",
+      "apellidos": "PAGNONI",
+      "nombres": "STEFANIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

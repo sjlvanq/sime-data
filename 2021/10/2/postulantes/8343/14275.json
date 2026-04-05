@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 8343,
+    "padron_id": 14275
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX39",
+      "apellidos": "DOMINGUEZ",
+      "nombres": "HEBE ELENA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "25XXXX80",
+      "apellidos": "GABAR",
+      "nombres": "FATIMA ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "29XXXX06",
+      "apellidos": "ANDRES",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

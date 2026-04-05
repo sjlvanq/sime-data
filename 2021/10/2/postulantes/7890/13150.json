@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 7890,
+    "padron_id": 13150
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX50",
+      "apellidos": "MONTEROS AGUILERA",
+      "nombres": "ROMINA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "17XXXX87",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARIA EVA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

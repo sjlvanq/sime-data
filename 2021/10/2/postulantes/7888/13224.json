@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 7888,
+    "padron_id": 13224
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX38",
+      "apellidos": "SANDOVAL",
+      "nombres": "CRISTIAN LUIS ERNESTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "30XXXX24",
+      "apellidos": "MARTIN",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

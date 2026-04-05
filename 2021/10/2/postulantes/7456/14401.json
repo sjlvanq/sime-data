@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 7456,
+    "padron_id": 14401
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "32XXXX61",
+      "apellidos": "VERGARA",
+      "nombres": "BETIANA DEL VALLLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX38",
+      "apellidos": "VEGA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

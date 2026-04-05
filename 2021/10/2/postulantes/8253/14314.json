@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 8253,
+    "padron_id": 14314
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX52",
+      "apellidos": "ARROYO                                  ",
+      "nombres": "EVA IVANA                               ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "35XXXX07",
+      "apellidos": "SUAREZ",
+      "nombres": "PRISCILA PAOLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "29XXXX60",
+      "apellidos": "GIMENEZ",
+      "nombres": "EUGENIA ANALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

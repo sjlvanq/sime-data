@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 8575,
+    "padron_id": 14966
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "22XXXX66",
+      "apellidos": "VOLPEZ",
+      "nombres": "ROSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX34",
+      "apellidos": "ARAMAYO",
+      "nombres": "LUCAS DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

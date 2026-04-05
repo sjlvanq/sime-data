@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 7523,
+    "padron_id": 13417
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX07",
+      "apellidos": "QUINTEROS",
+      "nombres": "EMILIO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "28XXXX92",
+      "apellidos": "URUEÑA",
+      "nombres": "AMELIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

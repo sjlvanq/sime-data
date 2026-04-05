@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 8597,
+    "padron_id": 14488
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "21XXXX85",
+      "apellidos": "VILLARREAL",
+      "nombres": "ENRIQUETA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "29XXXX12",
+      "apellidos": "MAYOL",
+      "nombres": "CAROLINA ISABEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "20XXXX07",
+      "apellidos": "ORDOÑEZ",
+      "nombres": "AZUCENA LEONOR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

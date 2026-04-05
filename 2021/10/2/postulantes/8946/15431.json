@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 8946,
+    "padron_id": 15431
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "17XXXX23",
+      "apellidos": "ARMAS",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 33,
+      "dni": "24XXXX71",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIELA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 39,
+      "dni": "23XXXX84",
+      "apellidos": "ABDALA",
+      "nombres": "ANDREA JOSEFA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 72,
+      "dni": "20XXXX50",
+      "apellidos": "GRANDE",
+      "nombres": "SILVINA DE FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 7888,
+    "padron_id": 13226
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "29XXXX38",
+      "apellidos": "SANDOVAL",
+      "nombres": "CRISTIAN LUIS ERNESTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "21XXXX39",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

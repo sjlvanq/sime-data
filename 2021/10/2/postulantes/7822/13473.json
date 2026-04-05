@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7822,
+    "padron_id": 13473
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "28XXXX12",
+      "apellidos": "ROSALES",
+      "nombres": "SOLEDAD DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "34XXXX49",
+      "apellidos": "PAJÓN",
+      "nombres": "EXEQUIEL RAMÓN AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "34XXXX64",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ENZO DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7526,
+    "padron_id": 15126
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "31XXXX47",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ELIANA LUISA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "33XXXX42",
+      "apellidos": "SOSA",
+      "nombres": "CYNTHIA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "37XXXX80",
+      "apellidos": "ALVAREZ",
+      "nombres": "DAIANA ANABELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
