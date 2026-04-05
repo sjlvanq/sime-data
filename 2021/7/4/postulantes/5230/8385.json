@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 5230,
+    "padron_id": 8385
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "33XXXX82",
+      "apellidos": "AREVALO",
+      "nombres": "CARLOS AGUSTIN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "35XXXX86",
+      "apellidos": "PONCE",
+      "nombres": "JUAN MARIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

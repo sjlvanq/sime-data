@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 4200,
+    "padron_id": 7862
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "27XXXX95",
+      "apellidos": "CECILIA",
+      "nombres": "MARIA VANESA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "26XXXX16",
+      "apellidos": "BARON",
+      "nombres": "RICARDO ADRIAN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "38XXXX11",
+      "apellidos": "ORTEGA",
+      "nombres": "ANDREA CAROLINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

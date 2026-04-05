@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4567,
+    "padron_id": 8065
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "93XXXX87",
+      "apellidos": "TULA ORTIZ",
+      "nombres": "MELISA DAIANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX51",
+      "apellidos": "ALVARADO",
+      "nombres": "CRISTIAN MATIAS",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "33XXXX39",
+      "apellidos": "LO SARDO",
+      "nombres": "SERGIO CRISTÓBAL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
