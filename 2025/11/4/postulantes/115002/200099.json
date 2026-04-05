@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115002,
+    "padron_id": 200099
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "45XXXX72",
+      "apellidos": "AGUIRRE",
+      "nombres": "FLORENCIA DEL ROSARIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX76",
+      "apellidos": "PALAVECINO",
+      "nombres": "CELINA ESTEFANIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "43XXXX51",
+      "apellidos": "RUIZ GONZALEZ",
+      "nombres": "JIMENA ALEJANDRA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 115072,
+    "padron_id": 200200
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX24",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "LORENA PAOLA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "41XXXX75",
+      "apellidos": "CARABAJAL",
+      "nombres": "FLORENCIA AGUSTINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "43XXXX85",
+      "apellidos": "JATI",
+      "nombres": "SOL NAHIARA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "43XXXX51",
+      "apellidos": "RUIZ GONZALEZ",
+      "nombres": "JIMENA ALEJANDRA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

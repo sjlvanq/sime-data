@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 108769,
+    "padron_id": 196559
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX04",
+      "apellidos": "LOPEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX07",
+      "apellidos": "SANCHEZ",
+      "nombres": "ANDREA CONSTANZA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "18XXXX81",
+      "apellidos": "BOULAKHRIF",
+      "nombres": "MOHAMED",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
