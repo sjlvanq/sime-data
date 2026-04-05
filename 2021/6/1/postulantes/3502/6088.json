@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 3502,
+    "padron_id": 6088
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "20XXXX25",
+      "apellidos": "LOCKLEY",
+      "nombres": "MARIA SILVIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "37XXXX60",
+      "apellidos": "DIAZ",
+      "nombres": "JORGE GABRIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
