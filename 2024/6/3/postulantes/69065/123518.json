@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69065,
+    "padron_id": 123518
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "35XXXX12",
+      "apellidos": "DECIMA",
+      "nombres": "ANDREA MICAELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX02",
+      "apellidos": "CAMPOS",
+      "nombres": "MONICA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

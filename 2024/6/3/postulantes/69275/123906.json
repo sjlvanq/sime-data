@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 69275,
+    "padron_id": 123906
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX12",
+      "apellidos": "NAVARRO PEREA",
+      "nombres": "FERNANDA GISELLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "39XXXX44",
+      "apellidos": "DILASCIO",
+      "nombres": "ROCIO ANTONELLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX13",
+      "apellidos": "MARTIN",
+      "nombres": "MARIA ANABELL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "33XXXX70",
+      "apellidos": "BULACIOS",
+      "nombres": "VICTOR DAMIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

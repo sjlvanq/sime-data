@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 68018,
+    "padron_id": 123838
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "22XXXX31",
+      "apellidos": "CASMUZ",
+      "nombres": "SILVANA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "34XXXX57",
+      "apellidos": "SUAREZ",
+      "nombres": "NOELIA VICTORIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "23XXXX16",
+      "apellidos": "CORDOBA ZELARAYAN",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "38XXXX31",
+      "apellidos": "HERRERA",
+      "nombres": "NOELIA MARIA RITA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

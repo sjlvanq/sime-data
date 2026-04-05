@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 70421,
+    "padron_id": 125689
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX61",
+      "apellidos": "LEAL",
+      "nombres": "ANGEL JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX38",
+      "apellidos": "TELLO",
+      "nombres": "LAURA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "29XXXX45",
+      "apellidos": "GIMENEZ",
+      "nombres": "NOELIA AMALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69369,
+    "padron_id": 123432
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "27XXXX18",
+      "apellidos": "DIAZ",
+      "nombres": "PAOLA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "37XXXX54",
+      "apellidos": "COLLANTE",
+      "nombres": "CLAUDIA GISELLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "38XXXX95",
+      "apellidos": "ARIAS",
+      "nombres": "ANA LUZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

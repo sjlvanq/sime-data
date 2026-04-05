@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69190,
+    "padron_id": 123384
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "35XXXX28",
+      "apellidos": "LOBO",
+      "nombres": "JESUS LUIS RODRIGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "23XXXX97",
+      "apellidos": "TOLEDO",
+      "nombres": "ARIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

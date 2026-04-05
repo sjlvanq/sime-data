@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69716,
+    "padron_id": 124207
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX63",
+      "apellidos": "COSTILLA",
+      "nombres": "HECTOR ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX00",
+      "apellidos": "JUAREZ",
+      "nombres": "PAOLA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX14",
+      "apellidos": "RAMIREZ PLAZA",
+      "nombres": "FLAVIO GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

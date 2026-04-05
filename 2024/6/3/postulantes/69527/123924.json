@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69527,
+    "padron_id": 123924
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX77",
+      "apellidos": "SISINI",
+      "nombres": "MARIA LILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX96",
+      "apellidos": "ROMANO",
+      "nombres": "MANUEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 5,
+      "dni": "17XXXX09",
+      "apellidos": "AMAYA",
+      "nombres": "JUAN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

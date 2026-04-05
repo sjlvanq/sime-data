@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69364,
+    "padron_id": 123440
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "31XXXX03",
+      "apellidos": "RAMALLO",
+      "nombres": "NATALIA EDITH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "21XXXX44",
+      "apellidos": "PAEZ",
+      "nombres": "RUBEN ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

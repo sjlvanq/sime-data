@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 69348,
+    "padron_id": 123584
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX31",
+      "apellidos": "SALINA",
+      "nombres": "PABLO MIGUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "34XXXX19",
+      "apellidos": "DEL VALLE",
+      "nombres": "GISELA CELESTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "34XXXX05",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA LUCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "36XXXX80",
+      "apellidos": "DIAZ",
+      "nombres": "GONZALO EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

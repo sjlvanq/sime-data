@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69274,
+    "padron_id": 123907
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX07",
+      "apellidos": "ORTIZ",
+      "nombres": "HORACIO GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "21XXXX26",
+      "apellidos": "PACHECO",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

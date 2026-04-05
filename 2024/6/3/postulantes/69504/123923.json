@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69504,
+    "padron_id": 123923
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "26XXXX88",
+      "apellidos": "MARCIAL",
+      "nombres": "MIRIAM DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX91",
+      "apellidos": "SORIA",
+      "nombres": "ALBERTO FRANCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

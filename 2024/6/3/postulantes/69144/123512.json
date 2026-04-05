@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69144,
+    "padron_id": 123512
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX84",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "CLAUDIA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX66",
+      "apellidos": "ARIAS LEROUX",
+      "nombres": "ROSSANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

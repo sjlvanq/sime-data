@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 70552,
+    "padron_id": 126700
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX61",
+      "apellidos": "LAZARTE",
+      "nombres": "PATRICIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX72",
+      "apellidos": "VELIZ",
+      "nombres": "ROSA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX51",
+      "apellidos": "FERNANDEZ",
+      "nombres": "LUCIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

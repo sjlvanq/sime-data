@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69367,
+    "padron_id": 123433
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX51",
+      "apellidos": "SEMAN",
+      "nombres": "ALEJANDRA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX08",
+      "apellidos": "REY",
+      "nombres": "NATALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
