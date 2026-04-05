@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 66714,
+    "padron_id": 119052
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "35XXXX19",
+      "apellidos": "MOLINA",
+      "nombres": "RODRIGO JESUS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX16",
+      "apellidos": "NIEVA",
+      "nombres": "CLAUDIA FATIMA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

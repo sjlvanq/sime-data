@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66673,
+    "padron_id": 118869
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "38XXXX82",
+      "apellidos": "GONZALEZ",
+      "nombres": "CECILIA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "30XXXX97",
+      "apellidos": "MARI",
+      "nombres": "FÁTIMA EDITH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "33XXXX77",
+      "apellidos": "FERNANDEZ",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

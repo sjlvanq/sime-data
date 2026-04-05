@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 67739,
+    "padron_id": 121399
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX47",
+      "apellidos": "ROMERO",
+      "nombres": "DANIEL FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX94",
+      "apellidos": "MONROY",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX06",
+      "apellidos": "VEGA",
+      "nombres": "MONICA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

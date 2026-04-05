@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66329,
+    "padron_id": 118979
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "24XXXX56",
+      "apellidos": "SALAS",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX02",
+      "apellidos": "DIAZ",
+      "nombres": "MAIRA LEONELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "32XXXX34",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANAHI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

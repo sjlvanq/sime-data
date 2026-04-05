@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 67014,
+    "padron_id": 119764
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "28XXXX32",
+      "apellidos": "MARINO",
+      "nombres": "RODOLFO DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "18XXXX55",
+      "apellidos": "PEREYRA ISA",
+      "nombres": "NORMA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

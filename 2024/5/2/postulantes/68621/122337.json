@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68621,
+    "padron_id": 122337
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "24XXXX19",
+      "apellidos": "GONZALEZ",
+      "nombres": "CARMEN PATRICIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "27XXXX95",
+      "apellidos": "GARAY",
+      "nombres": "VICTOR OSVALDO EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "34XXXX68",
+      "apellidos": "CARDOZO",
+      "nombres": "RUTH ELVIRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

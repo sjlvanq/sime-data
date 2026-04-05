@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 67890,
+    "padron_id": 120972
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX29",
+      "apellidos": "AGUIRRE",
+      "nombres": "ANGELICA MATILDE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "34XXXX67",
+      "apellidos": "CARRAZANA                               ",
+      "nombres": "MARIA DEL VALLE                         ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "37XXXX61",
+      "apellidos": "SUAREZ FERNANDEZ",
+      "nombres": "ANGEL ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "34XXXX65",
+      "apellidos": "VILLARES CORBALAN",
+      "nombres": "MARTIN RODRIGO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "25XXXX66",
+      "apellidos": "BRITO",
+      "nombres": "MIGUEL MARTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

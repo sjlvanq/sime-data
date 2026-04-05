@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68677,
+    "padron_id": 122390
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX52",
+      "apellidos": "GOMEZ",
+      "nombres": "MONICA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX33",
+      "apellidos": "QUINTEROS",
+      "nombres": "GUILLERMO LISANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX71",
+      "apellidos": "GUERRERO",
+      "nombres": "DEBORAH GISELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

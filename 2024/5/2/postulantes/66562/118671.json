@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66562,
+    "padron_id": 118671
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX92",
+      "apellidos": "BALDERRAMA",
+      "nombres": "MARIELA LUCIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "33XXXX93",
+      "apellidos": "ROBLES",
+      "nombres": "ANDREA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX77",
+      "apellidos": "ILLUMINATO",
+      "nombres": "CARLA FLORENTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 67930,
+    "padron_id": 121263
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX94",
+      "apellidos": "MONROY",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX24",
+      "apellidos": "QUIROGA",
+      "nombres": "CECILIA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX06",
+      "apellidos": "VEGA",
+      "nombres": "MONICA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

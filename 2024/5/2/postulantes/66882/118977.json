@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66882,
+    "padron_id": 118977
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX14",
+      "apellidos": "KUCHUK",
+      "nombres": "HORACIO RAUL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX47",
+      "apellidos": "JATIP",
+      "nombres": "GERARDO MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX68",
+      "apellidos": "TORRES MAEMPEL",
+      "nombres": "OTTO JORGE MAXIMILIANO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

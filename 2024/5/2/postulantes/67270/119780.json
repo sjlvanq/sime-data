@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 67270,
+    "padron_id": 119780
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX58",
+      "apellidos": "MEDINA",
+      "nombres": "YESSICA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "26XXXX31",
+      "apellidos": "ORTIZ",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

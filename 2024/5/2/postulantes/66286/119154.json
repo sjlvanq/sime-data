@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66286,
+    "padron_id": 119154
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "34XXXX67",
+      "apellidos": "CARRAZANA                               ",
+      "nombres": "MARIA DEL VALLE                         ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "37XXXX61",
+      "apellidos": "SUAREZ FERNANDEZ",
+      "nombres": "ANGEL ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "38XXXX79",
+      "apellidos": "UÑATES",
+      "nombres": "PEDRO ENRIQUE ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 66794,
+    "padron_id": 118777
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX79",
+      "apellidos": "MORENO",
+      "nombres": "SEGUNDO JUAN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "29XXXX74",
+      "apellidos": "GUTIERREZ",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "38XXXX53",
+      "apellidos": "CARRAZANA",
+      "nombres": "MARIA ANGELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "38XXXX79",
+      "apellidos": "UÑATES",
+      "nombres": "PEDRO ENRIQUE ALBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68718,
+    "padron_id": 122418
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX47",
+      "apellidos": "BRINGA",
+      "nombres": "MARIA ESTER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX31",
+      "apellidos": "BRUNELLA BLOCK",
+      "nombres": "ALEJANDRO JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "21XXXX06",
+      "apellidos": "NACUSSE RODRIGUEZ",
+      "nombres": "ROXANA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

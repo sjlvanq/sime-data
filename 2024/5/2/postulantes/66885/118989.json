@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 66885,
+    "padron_id": 118989
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "17XXXX14",
+      "apellidos": "KUCHUK",
+      "nombres": "HORACIO RAUL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX50",
+      "apellidos": "VELIZ",
+      "nombres": "CECILIA LILIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX68",
+      "apellidos": "TORRES MAEMPEL",
+      "nombres": "OTTO JORGE MAXIMILIANO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX35",
+      "apellidos": "GINI",
+      "nombres": "HECTOR MAXIMILIANO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

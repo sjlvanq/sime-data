@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 68045,
+    "padron_id": 122299
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "30XXXX02",
+      "apellidos": "GODOY",
+      "nombres": "HECTOR JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX49",
+      "apellidos": "PASTRANA",
+      "nombres": "ROQUE ROLANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

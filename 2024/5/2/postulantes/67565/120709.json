@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 67565,
+    "padron_id": 120709
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX12",
+      "apellidos": "CORNEJO",
+      "nombres": "MARCOS SEGUNDO NICOLAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "36XXXX52",
+      "apellidos": "ZELAYA",
+      "nombres": "PABLO CESAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "35XXXX78",
+      "apellidos": "ARAGÓN",
+      "nombres": "DIEGO RODRIGO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX50",
+      "apellidos": "SUAREZ",
+      "nombres": "PAMELA NOEMI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

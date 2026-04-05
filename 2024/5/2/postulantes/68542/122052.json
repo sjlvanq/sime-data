@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 68542,
+    "padron_id": 122052
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "21XXXX77",
+      "apellidos": "LEDESMA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 31,
+      "dni": "27XXXX69",
+      "apellidos": "MAZAER",
+      "nombres": "MARIA CAROLINA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

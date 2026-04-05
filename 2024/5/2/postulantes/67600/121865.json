@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 67600,
+    "padron_id": 121865
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "21XXXX85",
+      "apellidos": "VILLARREAL",
+      "nombres": "ENRIQUETA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "28XXXX80",
+      "apellidos": "SCHWEITZER",
+      "nombres": "TOMAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 66602,
+    "padron_id": 118436
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "36XXXX27",
+      "apellidos": "FELIPE MAZA",
+      "nombres": "MARIANA YANEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "32XXXX34",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANAHI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX77",
+      "apellidos": "ILLUMINATO",
+      "nombres": "CARLA FLORENTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
