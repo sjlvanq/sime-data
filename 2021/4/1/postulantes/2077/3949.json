@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 2077,
+    "padron_id": 3949
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "16XXXX21",
+      "apellidos": "SANAGUA",
+      "nombres": "ADRIANA LUZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "22XXXX13",
+      "apellidos": "RAMÍREZ BUSTOS",
+      "nombres": "LAURA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX54",
+      "apellidos": "GEREZ",
+      "nombres": "ZULMA ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
