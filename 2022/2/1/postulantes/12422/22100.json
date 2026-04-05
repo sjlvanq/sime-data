@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 12422,
+    "padron_id": 22100
+  },
+  "postulantes": [
+    {
+      "orden": 48,
+      "dni": "24XXXX44",
+      "apellidos": "LEIVA",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 85,
+      "dni": "29XXXX85",
+      "apellidos": "MOYA",
+      "nombres": "LUIS RAFAEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 108,
+      "dni": "22XXXX39",
+      "apellidos": "GOMEZ",
+      "nombres": "DORA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 174,
+      "dni": "20XXXX65",
+      "apellidos": "VELARDEZ",
+      "nombres": "MARIA FABIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "18XXXX59",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "MYRIAM ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

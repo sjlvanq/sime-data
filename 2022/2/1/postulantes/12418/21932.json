@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 12418,
+    "padron_id": 21932
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "35XXXX45",
+      "apellidos": "VARGAS",
+      "nombres": "KAREN ANALIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "20XXXX63",
+      "apellidos": "ACOSTA",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "40XXXX16",
+      "apellidos": "AGUILAR",
+      "nombres": "MARICELA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "33XXXX13",
+      "apellidos": "VALOR",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "33XXXX84",
+      "apellidos": "SORROZA",
+      "nombres": "EDUARDO ERNESTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

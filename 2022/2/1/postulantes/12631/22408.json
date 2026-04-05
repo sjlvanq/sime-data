@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12631,
+    "padron_id": 22408
+  },
+  "postulantes": [
+    {
+      "orden": 55,
+      "dni": "21XXXX45",
+      "apellidos": "MEDINA BONAHORA",
+      "nombres": "CLAUDIA CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 63,
+      "dni": "29XXXX69",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "JAQUELINE DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 100,
+      "dni": "21XXXX37",
+      "apellidos": "AVILA",
+      "nombres": "DELINA ELENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
