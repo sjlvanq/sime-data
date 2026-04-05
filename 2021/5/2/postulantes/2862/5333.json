@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 2862,
+    "padron_id": 5333
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "25XXXX96",
+      "apellidos": "ANDRES",
+      "nombres": "ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "29XXXX89",
+      "apellidos": "LIZARRAGA",
+      "nombres": "MARIANA NOEMI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "32XXXX79",
+      "apellidos": "CLAVERIE",
+      "nombres": "EMMA AYLIN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

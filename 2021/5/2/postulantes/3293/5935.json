@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 3293,
+    "padron_id": 5935
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "28XXXX53",
+      "apellidos": "CORDOBA",
+      "nombres": "NATALIA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "26XXXX95",
+      "apellidos": "DELGADO",
+      "nombres": "MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX54",
+      "apellidos": "GEREZ",
+      "nombres": "ZULMA ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

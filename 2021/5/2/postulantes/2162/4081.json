@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 2162,
+    "padron_id": 4081
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX35",
+      "apellidos": "HUERTA",
+      "nombres": "MARIA GEORGINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "17XXXX28",
+      "apellidos": "LOPEZ",
+      "nombres": "NOEMI VIRGINIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

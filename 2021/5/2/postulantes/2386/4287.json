@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 2386,
+    "padron_id": 4287
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "22XXXX67",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ALBA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX54",
+      "apellidos": "ROMERO GUNSET",
+      "nombres": "ANA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

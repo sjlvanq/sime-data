@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 2408,
+    "padron_id": 4633
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "27XXXX46",
+      "apellidos": "ROJAS",
+      "nombres": "JAVIER ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX90",
+      "apellidos": "SARACHO",
+      "nombres": "ELIZABET NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX06",
+      "apellidos": "BARRIOS",
+      "nombres": "MARIANO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "34XXXX64",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ENZO DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

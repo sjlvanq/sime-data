@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 2152,
+    "padron_id": 4067
+  },
+  "postulantes": [
+    {
+      "orden": 60,
+      "dni": "33XXXX62",
+      "apellidos": "SADER",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "33XXXX46",
+      "apellidos": "FUENSALIDA",
+      "nombres": "HORACIO GUILLERMO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "36XXXX04",
+      "apellidos": "VERA LOPEZ",
+      "nombres": "FRANCO AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

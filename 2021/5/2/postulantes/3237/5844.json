@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 3237,
+    "padron_id": 5844
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX49",
+      "apellidos": "MAMANI",
+      "nombres": "JORGE EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "32XXXX32",
+      "apellidos": "CACERES",
+      "nombres": "NADIA SABRINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX74",
+      "apellidos": "JIMENEZ",
+      "nombres": "CRISTINA MARISOL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "22XXXX84",
+      "apellidos": "HASSAN",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 47,
+      "dni": "31XXXX97",
+      "apellidos": "TEVEZ",
+      "nombres": "HAYDEE DEL CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

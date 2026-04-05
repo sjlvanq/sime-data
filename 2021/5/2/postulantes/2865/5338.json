@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 2865,
+    "padron_id": 5338
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "30XXXX47",
+      "apellidos": "ROBLES",
+      "nombres": "PAOLA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "33XXXX12",
+      "apellidos": "VILLAGRA",
+      "nombres": "SOFIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "26XXXX71",
+      "apellidos": "GARCIA",
+      "nombres": "PATRICIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "33XXXX81",
+      "apellidos": "ARIAS BARUGOLO",
+      "nombres": "MARIELA LUCILA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

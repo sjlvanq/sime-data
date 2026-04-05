@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 2972,
+    "padron_id": 5279
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "22XXXX85",
+      "apellidos": "VALLEJO",
+      "nombres": "MARIO WALTER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "21XXXX85",
+      "apellidos": "VILLARREAL",
+      "nombres": "ENRIQUETA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "25XXXX40",
+      "apellidos": "ARNEDO",
+      "nombres": "YOLANDA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "35XXXX53",
+      "apellidos": "RAMOS",
+      "nombres": "SILVIA ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
