@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 29714,
+    "padron_id": 52976
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "21XXXX23",
+      "apellidos": "SRUR",
+      "nombres": "MARIA GABRIELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "33XXXX59",
+      "apellidos": "QUERCI",
+      "nombres": "JOSÉ AUGUSTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "29XXXX56",
+      "apellidos": "IBARRA",
+      "nombres": "NESTOR ADRIÁN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

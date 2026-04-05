@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 28198,
+    "padron_id": 56511
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "22XXXX57",
+      "apellidos": "GERMAN",
+      "nombres": "PATRICIA MABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 44,
+      "dni": "25XXXX44",
+      "apellidos": "CARABAJAL",
+      "nombres": "NANCY DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 61,
+      "dni": "22XXXX42",
+      "apellidos": "CORBALAN",
+      "nombres": "MARCOS GERARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 63,
+      "dni": "23XXXX50",
+      "apellidos": "VAQUERO",
+      "nombres": "ALEJANDRA RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

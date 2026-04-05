@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 28641,
+    "padron_id": 51273
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX62",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "LORENA GRISEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "13XXXX07",
+      "apellidos": "PISTAN",
+      "nombres": "VICTOR ORLANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "24XXXX58",
+      "apellidos": "VARELA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "26XXXX41",
+      "apellidos": "MEDINA",
+      "nombres": "LAURA ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

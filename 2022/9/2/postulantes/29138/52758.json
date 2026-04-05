@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 29138,
+    "padron_id": 52758
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "28XXXX86",
+      "apellidos": "RUBIO",
+      "nombres": "DANIEL ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "38XXXX20",
+      "apellidos": "RUBINI ZAMORA",
+      "nombres": "PAULA ADRIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "36XXXX20",
+      "apellidos": "VALDEZ",
+      "nombres": "ANDREA DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 88,
+      "dni": "37XXXX52",
+      "apellidos": "ROSALES CHÁVEZ",
+      "nombres": "CLARA ANABELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

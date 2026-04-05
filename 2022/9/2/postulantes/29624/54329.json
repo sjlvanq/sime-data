@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 29624,
+    "padron_id": 54329
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "30XXXX89",
+      "apellidos": "CUELLO",
+      "nombres": "CLAUDIO DAMIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX36",
+      "apellidos": "JIMENEZ",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "39XXXX90",
+      "apellidos": "SUAREZ",
+      "nombres": "MELISA SABRINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 29156,
+    "padron_id": 53873
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX86",
+      "apellidos": "DE LA ROSA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX58",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIANELLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX88",
+      "apellidos": "RIOS",
+      "nombres": "SONIA ELENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

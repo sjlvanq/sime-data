@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30339,
+    "padron_id": 54403
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "30XXXX72",
+      "apellidos": "SCAPOLATEMPO",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "30XXXX84",
+      "apellidos": "AMADOR",
+      "nombres": "EZEQUIEL FRANCO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 29870,
+    "padron_id": 53842
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "26XXXX92",
+      "apellidos": "JEREZ",
+      "nombres": "NANCY ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX75",
+      "apellidos": "ZELAIBE STEFANONI",
+      "nombres": "FATIMA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

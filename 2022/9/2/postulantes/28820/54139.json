@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28820,
+    "padron_id": 54139
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX88",
+      "apellidos": "BOFFANO",
+      "nombres": "MARIA REGINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "13XXXX43",
+      "apellidos": "LASTRA",
+      "nombres": "LUIS EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "32XXXX55",
+      "apellidos": "IBRAIM",
+      "nombres": "MARIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

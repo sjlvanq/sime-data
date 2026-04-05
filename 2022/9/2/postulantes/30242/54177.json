@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 30242,
+    "padron_id": 54177
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX06",
+      "apellidos": "AMMUN",
+      "nombres": "MARTIN FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX63",
+      "apellidos": "MANCERA",
+      "nombres": "ROXANA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

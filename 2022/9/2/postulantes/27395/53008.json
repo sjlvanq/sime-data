@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 27395,
+    "padron_id": 53008
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "34XXXX12",
+      "apellidos": "NAVARRO PEREA",
+      "nombres": "FERNANDA GISELLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "32XXXX38",
+      "apellidos": "BARQUET",
+      "nombres": "STELLA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "39XXXX09",
+      "apellidos": "OLEA",
+      "nombres": "TAMARA NAIR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "29XXXX42",
+      "apellidos": "CARDOZO",
+      "nombres": "LUCIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

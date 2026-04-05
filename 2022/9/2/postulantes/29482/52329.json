@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 29482,
+    "padron_id": 52329
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "24XXXX47",
+      "apellidos": "BALZAN",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "32XXXX21",
+      "apellidos": "ALBARRACIN",
+      "nombres": "MARIA IVANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

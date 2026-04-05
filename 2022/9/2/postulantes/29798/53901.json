@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 29798,
+    "padron_id": 53901
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "32XXXX36",
+      "apellidos": "GONZALEZ",
+      "nombres": "CONSTANZA ALIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX09",
+      "apellidos": "DIAZ NAVAS",
+      "nombres": "NATALIA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "30XXXX93",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "32XXXX19",
+      "apellidos": "FIGUEROA",
+      "nombres": "SAULO BERNABÉ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

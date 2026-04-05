@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28487,
+    "padron_id": 51348
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX52",
+      "apellidos": "PIZARRO",
+      "nombres": "JULIO JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX07",
+      "apellidos": "CORBALAN",
+      "nombres": "MARIA LUZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX84",
+      "apellidos": "CORREA",
+      "nombres": "JUAN ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

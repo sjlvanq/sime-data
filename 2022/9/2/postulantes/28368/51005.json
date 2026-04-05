@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28368,
+    "padron_id": 51005
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "27XXXX74",
+      "apellidos": "ALFARO",
+      "nombres": "CARLOS ALEXI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "22XXXX72",
+      "apellidos": "SANTUCHO",
+      "nombres": "LUIS ANGEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX02",
+      "apellidos": "MUÑOZ CENTENO",
+      "nombres": "ANTONELA TAMARA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

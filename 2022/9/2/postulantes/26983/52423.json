@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 26983,
+    "padron_id": 52423
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX08",
+      "apellidos": "ALMARAZ",
+      "nombres": "JESSICA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX33",
+      "apellidos": "VELIZ",
+      "nombres": "VICENTE ESTEBAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

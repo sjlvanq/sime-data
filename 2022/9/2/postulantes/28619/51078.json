@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28619,
+    "padron_id": 51078
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "13XXXX43",
+      "apellidos": "LASTRA",
+      "nombres": "LUIS EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX75",
+      "apellidos": "DIAZ",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "32XXXX55",
+      "apellidos": "IBRAIM",
+      "nombres": "MARIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

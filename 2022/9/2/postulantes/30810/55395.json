@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30810,
+    "padron_id": 55395
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX30",
+      "apellidos": "MARTINEZ DELCALDO",
+      "nombres": "ANABELLA ERIKA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "25XXXX47",
+      "apellidos": "FARIAS",
+      "nombres": "LUISA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "22XXXX38",
+      "apellidos": "TELLO",
+      "nombres": "LAURA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 29162,
+    "padron_id": 52717
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX84",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "CLAUDIA VANESA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 31303,
+    "padron_id": 55685
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "25XXXX95",
+      "apellidos": "ALCARAZ",
+      "nombres": "JORGE ARIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 44,
+      "dni": "25XXXX44",
+      "apellidos": "CARABAJAL",
+      "nombres": "NANCY DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 61,
+      "dni": "22XXXX42",
+      "apellidos": "CORBALAN",
+      "nombres": "MARCOS GERARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 83,
+      "dni": "24XXXX40",
+      "apellidos": "DIAZ",
+      "nombres": "MIRNA MARIELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

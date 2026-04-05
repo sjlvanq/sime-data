@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 28833,
+    "padron_id": 54239
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "22XXXX85",
+      "apellidos": "VALLEJO",
+      "nombres": "MARIO WALTER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "21XXXX38",
+      "apellidos": "BUSTAMANTE",
+      "nombres": "JORGE ALFREDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "30XXXX91",
+      "apellidos": "MORENO",
+      "nombres": "CARLOS ANDRES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "39XXXX88",
+      "apellidos": "JEREZ",
+      "nombres": "CYNTHIA ANAHI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

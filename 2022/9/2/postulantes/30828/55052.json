@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 30828,
+    "padron_id": 55052
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "30XXXX84",
+      "apellidos": "AMADOR",
+      "nombres": "EZEQUIEL FRANCO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX54",
+      "apellidos": "GEREZ",
+      "nombres": "ZULMA ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

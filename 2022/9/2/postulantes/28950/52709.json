@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28950,
+    "padron_id": 52709
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "31XXXX18",
+      "apellidos": "VALDEZ",
+      "nombres": "VERONICA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "36XXXX78",
+      "apellidos": "ROLDAN",
+      "nombres": "FRANCO RODRIGO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "35XXXX96",
+      "apellidos": "SARACHAGA",
+      "nombres": "MARIA PAULA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

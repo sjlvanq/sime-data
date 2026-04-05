@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 29185,
+    "padron_id": 52648
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "34XXXX37",
+      "apellidos": "GRANDE",
+      "nombres": "SONIA MARIA MERCEDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "36XXXX93",
+      "apellidos": "MEDINA",
+      "nombres": "MARA JORGELINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "33XXXX45",
+      "apellidos": "FUNEZ",
+      "nombres": "DARDO NICOLAS FRANCISCO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

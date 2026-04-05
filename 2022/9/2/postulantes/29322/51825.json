@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 29322,
+    "padron_id": 51825
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "22XXXX65",
+      "apellidos": "VALLEJO",
+      "nombres": "PAOLA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX80",
+      "apellidos": "MORENO LEDESMA",
+      "nombres": "LUCIANO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX61",
+      "apellidos": "BRAVO",
+      "nombres": "CRISTINA ELISA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

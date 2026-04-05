@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 31575,
+    "padron_id": 56206
+  },
+  "postulantes": [
+    {
+      "orden": 45,
+      "dni": "27XXXX59",
+      "apellidos": "LEIVA",
+      "nombres": "LUCIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 49,
+      "dni": "20XXXX00",
+      "apellidos": "NAVARRO",
+      "nombres": "IMELDA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 87,
+      "dni": "25XXXX68",
+      "apellidos": "SEGURA",
+      "nombres": "SERGIO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

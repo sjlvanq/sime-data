@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 29164,
+    "padron_id": 52780
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX31",
+      "apellidos": "LIZONDO",
+      "nombres": "MARIA MERCEDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "27XXXX41",
+      "apellidos": "ORELLANA",
+      "nombres": "RICARDO ALBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

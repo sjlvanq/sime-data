@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28691,
+    "padron_id": 52283
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "36XXXX18",
+      "apellidos": "GONZALEZ",
+      "nombres": "FABIAN ESTEBAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "29XXXX81",
+      "apellidos": "MORALES",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "37XXXX65",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "ENZO HECTOR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

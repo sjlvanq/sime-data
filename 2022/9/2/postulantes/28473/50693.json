@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28473,
+    "padron_id": 50693
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX03",
+      "apellidos": "LAHITTE",
+      "nombres": "EMILIO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX64",
+      "apellidos": "SARMIENTO",
+      "nombres": "JESUS RICARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "32XXXX34",
+      "apellidos": "PASTRANA",
+      "nombres": "HERNAN MARCOS EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

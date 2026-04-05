@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 28933,
+    "padron_id": 51408
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "25XXXX49",
+      "apellidos": "ALBANO SZANTO",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "22XXXX50",
+      "apellidos": "JEREZ",
+      "nombres": "VICTOR JESUS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "27XXXX41",
+      "apellidos": "ORELLANA",
+      "nombres": "RICARDO ALBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

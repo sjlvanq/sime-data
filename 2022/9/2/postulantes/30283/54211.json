@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 30283,
+    "padron_id": 54211
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "27XXXX41",
+      "apellidos": "ORELLANA",
+      "nombres": "RICARDO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX37",
+      "apellidos": "BUCCI",
+      "nombres": "ALFREDO ARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 29909,
+    "padron_id": 53743
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "41XXXX74",
+      "apellidos": "CORONEL",
+      "nombres": "EXEQUIEL DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX76",
+      "apellidos": "CRUZ",
+      "nombres": "FERNANDO ENRIQUE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

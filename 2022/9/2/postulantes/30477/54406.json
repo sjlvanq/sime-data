@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 30477,
+    "padron_id": 54406
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "34XXXX02",
+      "apellidos": "SALAZAR",
+      "nombres": "KARINA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "31XXXX36",
+      "apellidos": "FRIAS",
+      "nombres": "PATRICIA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "24XXXX72",
+      "apellidos": "CORTES ISSI",
+      "nombres": "CLARA INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

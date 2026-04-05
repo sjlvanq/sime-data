@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 27277,
+    "padron_id": 50608
+  },
+  "postulantes": [
+    {
+      "orden": 150,
+      "dni": "28XXXX45",
+      "apellidos": "JIMENEZ",
+      "nombres": "CESAR AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 152,
+      "dni": "21XXXX38",
+      "apellidos": "BUSTAMANTE",
+      "nombres": "JORGE ALFREDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 148,
+      "dni": "35XXXX13",
+      "apellidos": "MERCHED GONZALEZ",
+      "nombres": "DAVID GABRIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 168,
+      "dni": "27XXXX61",
+      "apellidos": "DI SILVESTRI",
+      "nombres": "MARA VERÓNICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

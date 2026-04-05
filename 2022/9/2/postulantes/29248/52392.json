@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 29248,
+    "padron_id": 52392
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "33XXXX37",
+      "apellidos": "BUCCI",
+      "nombres": "ALFREDO ARIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "29XXXX51",
+      "apellidos": "ALVARADO",
+      "nombres": "CRISTIAN MATIAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "27XXXX20",
+      "apellidos": "ALVARADO",
+      "nombres": "EDUARDO HERNAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

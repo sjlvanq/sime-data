@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 30386,
+    "padron_id": 55569
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "35XXXX44",
+      "apellidos": "ARROYO",
+      "nombres": "ALICIA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "32XXXX19",
+      "apellidos": "FIGUEROA",
+      "nombres": "SAULO BERNABÉ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
