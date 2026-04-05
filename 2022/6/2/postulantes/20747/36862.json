@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20747,
+    "padron_id": 36862
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "34XXXX54",
+      "apellidos": "SANDOVAL",
+      "nombres": "DAIANA ESTEFANIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "35XXXX82",
+      "apellidos": "ROMERO",
+      "nombres": "EDUARDO MARTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX44",
+      "apellidos": "ARROYO",
+      "nombres": "JULIETA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

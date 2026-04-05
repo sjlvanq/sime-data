@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 22570,
+    "padron_id": 39948
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "22XXXX74",
+      "apellidos": "BAYURK",
+      "nombres": "RAMON ERNESTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "26XXXX34",
+      "apellidos": "MOYA",
+      "nombres": "EDUARDO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "27XXXX57",
+      "apellidos": "CORONEL",
+      "nombres": "VALERIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "14XXXX34",
+      "apellidos": "CISNEROS",
+      "nombres": "RUBEN PABLO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

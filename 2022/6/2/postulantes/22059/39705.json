@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 22059,
+    "padron_id": 39705
+  },
+  "postulantes": [
+    {
+      "orden": 69,
+      "dni": "17XXXX54",
+      "apellidos": "MORENO",
+      "nombres": "GLORIA SANDRA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 39,
+      "dni": "25XXXX95",
+      "apellidos": "ALCARAZ",
+      "nombres": "JORGE ARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

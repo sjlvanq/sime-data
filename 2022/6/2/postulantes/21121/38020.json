@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 21121,
+    "padron_id": 38020
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "26XXXX43",
+      "apellidos": "ARELLANO",
+      "nombres": "SERGIO ALFREDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "26XXXX70",
+      "apellidos": "CASAL",
+      "nombres": "CRISTIAN DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "35XXXX09",
+      "apellidos": "GONZALEZ",
+      "nombres": "VIRGINIA ROXANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "32XXXX43",
+      "apellidos": "VELARDEZ",
+      "nombres": "RUTH PATRICIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 22918,
+    "padron_id": 40300
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX92",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX79",
+      "apellidos": "OVEJERO",
+      "nombres": "DANIEL ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

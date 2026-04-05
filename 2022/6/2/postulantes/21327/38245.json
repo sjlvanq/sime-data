@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 21327,
+    "padron_id": 38245
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "39XXXX23",
+      "apellidos": "ZERDA",
+      "nombres": "JUAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "25XXXX10",
+      "apellidos": "ALCORTA",
+      "nombres": "JULIO CESAR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

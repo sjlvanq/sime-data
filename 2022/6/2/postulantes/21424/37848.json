@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 21424,
+    "padron_id": 37848
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX63",
+      "apellidos": "YSAYA",
+      "nombres": "DAVID CESAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "20XXXX01",
+      "apellidos": "MEDINA",
+      "nombres": "CECILIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX83",
+      "apellidos": "RISSO PATRON",
+      "nombres": "ROMINA VALERIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "21XXXX39",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANDRA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX35",
+      "apellidos": "GAMBOA LOPEZ",
+      "nombres": "ESTELLA MARYS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

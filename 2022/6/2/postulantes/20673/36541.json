@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20673,
+    "padron_id": 36541
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX36",
+      "apellidos": "OTAIZA",
+      "nombres": "ROBERTA NOEMI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX44",
+      "apellidos": "ARROYO",
+      "nombres": "JULIETA MARIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

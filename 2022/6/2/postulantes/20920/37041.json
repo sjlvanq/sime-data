@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20920,
+    "padron_id": 37041
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "12XXXX34",
+      "apellidos": "SALAZAR",
+      "nombres": "MONICA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "32XXXX34",
+      "apellidos": "PASTRANA",
+      "nombres": "HERNAN MARCOS EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "22XXXX83",
+      "apellidos": "HERRERA",
+      "nombres": "GLORIA ARGENTINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

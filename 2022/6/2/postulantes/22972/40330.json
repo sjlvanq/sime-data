@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 22972,
+    "padron_id": 40330
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "35XXXX92",
+      "apellidos": "BALDERRAMA",
+      "nombres": "MARIELA LUCIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX90",
+      "apellidos": "AGUIRRE RODRIGUEZ",
+      "nombres": "LOURDES ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

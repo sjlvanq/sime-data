@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22735,
+    "padron_id": 40421
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "28XXXX56",
+      "apellidos": "VITAR",
+      "nombres": "GEORGINA LEONOR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX09",
+      "apellidos": "PASTRANA",
+      "nombres": "ELIANA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX60",
+      "apellidos": "GONZALEZ",
+      "nombres": "IVANNA EVANGELINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

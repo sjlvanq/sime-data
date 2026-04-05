@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22906,
+    "padron_id": 40123
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX07",
+      "apellidos": "REYNOSO SORIA",
+      "nombres": "NOELIA ROMINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX84",
+      "apellidos": "MARQUESTO",
+      "nombres": "MARIO ANIBAL FRANCISCO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "20XXXX27",
+      "apellidos": "CASTAÑO",
+      "nombres": "RAFAEL MARCELO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

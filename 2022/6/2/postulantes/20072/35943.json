@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20072,
+    "padron_id": 35943
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "28XXXX58",
+      "apellidos": "SANCHEZ",
+      "nombres": "ROQUE ALFREDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "40XXXX69",
+      "apellidos": "MORENO",
+      "nombres": "MARTIN FACUNDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

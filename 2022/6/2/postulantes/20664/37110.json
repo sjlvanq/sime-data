@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20664,
+    "padron_id": 37110
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "24XXXX86",
+      "apellidos": "ZELAYA",
+      "nombres": "JORGE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "18XXXX80",
+      "apellidos": "SILVENSES",
+      "nombres": "SILVIA LEONOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

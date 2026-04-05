@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20567,
+    "padron_id": 36476
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX62",
+      "apellidos": "CORONEL",
+      "nombres": "CLARA AURELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX29",
+      "apellidos": "CASTRO",
+      "nombres": "DANIELA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX52",
+      "apellidos": "LAGO GONZALEZ",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

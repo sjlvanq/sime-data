@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20507,
+    "padron_id": 36106
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX77",
+      "apellidos": "DIAZ",
+      "nombres": "LUCRECIA EVANGELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX38",
+      "apellidos": "DELGADO",
+      "nombres": "FATIMA VANESSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX86",
+      "apellidos": "ZELAYA",
+      "nombres": "JORGE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

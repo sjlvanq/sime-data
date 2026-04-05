@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20780,
+    "padron_id": 37124
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX53",
+      "apellidos": "CHICO",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX61",
+      "apellidos": "LONZALLES",
+      "nombres": "MARTA DEOLINDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

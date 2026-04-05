@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 21222,
+    "padron_id": 38142
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "21XXXX11",
+      "apellidos": "DIAZ",
+      "nombres": "ROBERTO CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX22",
+      "apellidos": "VAQUERO",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "31XXXX40",
+      "apellidos": "BACAS",
+      "nombres": "PATRICIA SOFIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX50",
+      "apellidos": "NACUSSI",
+      "nombres": "PATRICIA KARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

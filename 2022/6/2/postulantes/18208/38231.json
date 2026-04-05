@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 18208,
+    "padron_id": 38231
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "33XXXX27",
+      "apellidos": "ALARCON",
+      "nombres": "VERONICA AZUCENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "37XXXX83",
+      "apellidos": "TREJO JUAREZ",
+      "nombres": "FLORENCIA DE JESÚS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX15",
+      "apellidos": "ROMERO",
+      "nombres": "MÓNICA MARCELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "29XXXX00",
+      "apellidos": "MONTEROS",
+      "nombres": "ANALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

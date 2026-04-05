@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21802,
+    "padron_id": 38604
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "27XXXX63",
+      "apellidos": "MAIDANA",
+      "nombres": "ELIZABETH DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "25XXXX92",
+      "apellidos": "ARMAS",
+      "nombres": "CECILIA RAQUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "25XXXX69",
+      "apellidos": "ANTON",
+      "nombres": "MONICA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

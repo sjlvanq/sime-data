@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20393,
+    "padron_id": 36355
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "30XXXX22",
+      "apellidos": "VAQUERO",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "31XXXX40",
+      "apellidos": "BACAS",
+      "nombres": "PATRICIA SOFIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

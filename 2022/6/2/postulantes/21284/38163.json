@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21284,
+    "padron_id": 38163
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX78",
+      "apellidos": "TEMISE",
+      "nombres": "NANCY SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "18XXXX22",
+      "apellidos": "GIMENEZ",
+      "nombres": "JULIO CESAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX91",
+      "apellidos": "CAMPERO",
+      "nombres": "SILVIA MARIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

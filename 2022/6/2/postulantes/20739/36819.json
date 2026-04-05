@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20739,
+    "padron_id": 36819
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX27",
+      "apellidos": "VIOTTI",
+      "nombres": "JUAN MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX40",
+      "apellidos": "FLEITA",
+      "nombres": "CLAUDIA VIVIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

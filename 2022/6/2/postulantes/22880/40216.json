@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22880,
+    "padron_id": 40216
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "33XXXX32",
+      "apellidos": "IRAMAIN",
+      "nombres": "NATALIA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "27XXXX13",
+      "apellidos": "PAZ",
+      "nombres": "SILVANA ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 69,
+      "dni": "25XXXX41",
+      "apellidos": "SUAREZ",
+      "nombres": "NILDA NOEMI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21372,
+    "padron_id": 38285
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "26XXXX58",
+      "apellidos": "FLORES",
+      "nombres": "RAFAELA TERESA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "33XXXX42",
+      "apellidos": "SOSA",
+      "nombres": "CYNTHIA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "35XXXX50",
+      "apellidos": "ARIAS",
+      "nombres": "DAIANA EDITH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

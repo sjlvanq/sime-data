@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20497,
+    "padron_id": 36252
+  },
+  "postulantes": [
+    {
+      "orden": 51,
+      "dni": "22XXXX03",
+      "apellidos": "LESCANO",
+      "nombres": "SILVANA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "37XXXX94",
+      "apellidos": "SAPULA",
+      "nombres": "NOELIA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "32XXXX60",
+      "apellidos": "JODAR JAIME",
+      "nombres": "IVANNA ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

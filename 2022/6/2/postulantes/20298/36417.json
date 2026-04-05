@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20298,
+    "padron_id": 36417
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "30XXXX79",
+      "apellidos": "BURELA",
+      "nombres": "LORENA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "25XXXX92",
+      "apellidos": "ARMAS",
+      "nombres": "CECILIA RAQUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "27XXXX77",
+      "apellidos": "MIRANDA",
+      "nombres": "GERMAN DARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

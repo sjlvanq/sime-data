@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21621,
+    "padron_id": 38497
+  },
+  "postulantes": [
+    {
+      "orden": 71,
+      "dni": "32XXXX02",
+      "apellidos": "COSTILLA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "35XXXX31",
+      "apellidos": "SALINA",
+      "nombres": "PABLO MIGUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 104,
+      "dni": "25XXXX20",
+      "apellidos": "MARCIAL",
+      "nombres": "MARIO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

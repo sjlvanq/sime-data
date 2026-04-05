@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22880,
+    "padron_id": 40213
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "36XXXX89",
+      "apellidos": "VILLAGRA",
+      "nombres": "FERNANDO GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "38XXXX26",
+      "apellidos": "OTTINO",
+      "nombres": "FRANCO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "32XXXX04",
+      "apellidos": "LÓPEZ",
+      "nombres": "CRISTIAN FERNANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

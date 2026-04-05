@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21278,
+    "padron_id": 38179
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "18XXXX22",
+      "apellidos": "GIMENEZ",
+      "nombres": "JULIO CESAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "27XXXX91",
+      "apellidos": "CAMPERO",
+      "nombres": "SILVIA MARIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX02",
+      "apellidos": "MUÑOZ CENTENO",
+      "nombres": "ANTONELA TAMARA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

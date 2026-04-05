@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 22523,
+    "padron_id": 39444
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "22XXXX15",
+      "apellidos": "SCALORA",
+      "nombres": "MARISA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX79",
+      "apellidos": "HERRERA",
+      "nombres": "JUAN ELIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

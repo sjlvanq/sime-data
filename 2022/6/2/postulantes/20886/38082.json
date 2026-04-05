@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20886,
+    "padron_id": 38082
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "33XXXX31",
+      "apellidos": "LEAL",
+      "nombres": "SONIA DEL ROSARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "32XXXX39",
+      "apellidos": "RAMIREZ",
+      "nombres": "NADIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "26XXXX58",
+      "apellidos": "CALDERON",
+      "nombres": "MARIA EUGENIA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

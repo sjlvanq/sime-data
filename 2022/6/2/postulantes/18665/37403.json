@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 18665,
+    "padron_id": 37403
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "29XXXX14",
+      "apellidos": "VARELA",
+      "nombres": "MARIA HAYDEE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 86,
+      "dni": "18XXXX10",
+      "apellidos": "BRAVO",
+      "nombres": "SUSANA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 99,
+      "dni": "21XXXX85",
+      "apellidos": "VILLARREAL",
+      "nombres": "ENRIQUETA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "32XXXX51",
+      "apellidos": "SEMAN",
+      "nombres": "ALEJANDRA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

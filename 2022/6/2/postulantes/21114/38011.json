@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21114,
+    "padron_id": 38011
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "33XXXX46",
+      "apellidos": "GOMEZ",
+      "nombres": "REBECA ESTELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "35XXXX27",
+      "apellidos": "CORBALÁN",
+      "nombres": "NADIA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "36XXXX48",
+      "apellidos": "RISSO PATRON",
+      "nombres": "MARIA GUADALUPE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

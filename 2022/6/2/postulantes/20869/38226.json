@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 20869,
+    "padron_id": 38226
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX59",
+      "apellidos": "BARROS",
+      "nombres": "RENE ANTONIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "40XXXX71",
+      "apellidos": "CANTO",
+      "nombres": "MARIA PÍA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

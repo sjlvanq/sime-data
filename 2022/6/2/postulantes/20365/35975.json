@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20365,
+    "padron_id": 35975
+  },
+  "postulantes": [
+    {
+      "orden": 61,
+      "dni": "37XXXX67",
+      "apellidos": "COSTILLA",
+      "nombres": "BRAIANS GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 83,
+      "dni": "36XXXX20",
+      "apellidos": "VALDEZ",
+      "nombres": "ANDREA DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 65,
+      "dni": "34XXXX85",
+      "apellidos": "MEDINA CORTEZ",
+      "nombres": "DURNIA MARIA PIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

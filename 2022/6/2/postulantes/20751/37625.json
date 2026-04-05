@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 20751,
+    "padron_id": 37625
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX47",
+      "apellidos": "ZELAYA VAZQUEZ",
+      "nombres": "CRISTINA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX35",
+      "apellidos": "ARROYO",
+      "nombres": "MARIA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "17XXXX79",
+      "apellidos": "BURGOS                                  ",
+      "nombres": "ESTER ZULEMA                            ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

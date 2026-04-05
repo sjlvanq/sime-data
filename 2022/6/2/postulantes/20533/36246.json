@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 20533,
+    "padron_id": 36246
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "39XXXX33",
+      "apellidos": "HEREDIA",
+      "nombres": "ANDREA JUDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "29XXXX36",
+      "apellidos": "BARROJO",
+      "nombres": "TEOFILO ARIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "27XXXX16",
+      "apellidos": "ROBLEDO",
+      "nombres": "ELIANA PRISCILA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "32XXXX24",
+      "apellidos": "ANGEL",
+      "nombres": "JORGE RODOLFO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 22582,
+    "padron_id": 40110
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX78",
+      "apellidos": "TEMISE",
+      "nombres": "NANCY SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "27XXXX74",
+      "apellidos": "ALFARO",
+      "nombres": "CARLOS ALEXI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "29XXXX88",
+      "apellidos": "OSCARI",
+      "nombres": "VERONICA ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

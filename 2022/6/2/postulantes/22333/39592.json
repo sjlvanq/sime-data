@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 22333,
+    "padron_id": 39592
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "28XXXX75",
+      "apellidos": "BURGOS",
+      "nombres": "CLAUDIO FACUNDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "17XXXX46",
+      "apellidos": "SANCHEZ",
+      "nombres": "RICARDO GERMAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

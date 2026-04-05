@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21791,
+    "padron_id": 38596
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "27XXXX46",
+      "apellidos": "ROJAS",
+      "nombres": "JAVIER ALBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "36XXXX18",
+      "apellidos": "GONZALEZ",
+      "nombres": "FABIAN ESTEBAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "29XXXX81",
+      "apellidos": "MORALES",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

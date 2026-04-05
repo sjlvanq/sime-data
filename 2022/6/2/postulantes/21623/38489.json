@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 21623,
+    "padron_id": 38489
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "35XXXX75",
+      "apellidos": "DIAZ",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "33XXXX27",
+      "apellidos": "FARIAS",
+      "nombres": "ADRIANA ELISA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "26XXXX18",
+      "apellidos": "PEREA",
+      "nombres": "PABLO ARIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
