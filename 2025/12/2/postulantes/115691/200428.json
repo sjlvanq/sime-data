@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 115691,
+    "padron_id": 200428
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "36XXXX26",
+      "apellidos": "FIGUEROA",
+      "nombres": "FATIMA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 100,
+      "dni": "32XXXX84",
+      "apellidos": "DIAZ",
+      "nombres": "ANA PAMELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "35XXXX11",
+      "apellidos": "DONAIRE",
+      "nombres": "YANINA YUDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "18XXXX43",
+      "apellidos": "SARDI",
+      "nombres": "FERNANDO GUILLERMO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX07",
+      "apellidos": "VARELA",
+      "nombres": "MARIA NATALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

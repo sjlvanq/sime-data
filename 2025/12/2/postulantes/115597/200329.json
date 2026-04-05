@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115597,
+    "padron_id": 200329
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "40XXXX08",
+      "apellidos": "ORQUERA",
+      "nombres": "SILVINA NATALÍ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "17XXXX32",
+      "apellidos": "NUÑEZ INGRAO",
+      "nombres": "LUIS ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "44XXXX70",
+      "apellidos": "ORTEGA CORONEL",
+      "nombres": "MARTINA LUCIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

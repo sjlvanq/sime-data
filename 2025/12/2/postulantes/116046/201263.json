@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 116046,
+    "padron_id": 201263
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "35XXXX61",
+      "apellidos": "JUAREZ",
+      "nombres": "LUCIA ESTELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "31XXXX89",
+      "apellidos": "LOPEZ",
+      "nombres": "ROMINA SOLEDAD",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "44XXXX70",
+      "apellidos": "ORTEGA CORONEL",
+      "nombres": "MARTINA LUCIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

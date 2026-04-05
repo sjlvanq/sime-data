@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 116105,
+    "padron_id": 201438
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "37XXXX79",
+      "apellidos": "DIAZ",
+      "nombres": "LUIS ALEXIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX60",
+      "apellidos": "GONZALEZ",
+      "nombres": "IVANA CARMEN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

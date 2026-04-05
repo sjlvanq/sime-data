@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 115456,
+    "padron_id": 200807
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "39XXXX58",
+      "apellidos": "GALVAN",
+      "nombres": "LUZ MELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "42XXXX65",
+      "apellidos": "RUIZ",
+      "nombres": "CARLA GABRIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX61",
+      "apellidos": "BRAVO",
+      "nombres": "CRISTINA ELISA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "27XXXX92",
+      "apellidos": "ALBERTO",
+      "nombres": "MELINA RAQUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

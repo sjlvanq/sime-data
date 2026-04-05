@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115635,
+    "padron_id": 201003
+  },
+  "postulantes": [
+    {
+      "orden": 69,
+      "dni": "20XXXX49",
+      "apellidos": "TAPIA",
+      "nombres": "HUGO CEFERINO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 136,
+      "dni": "34XXXX17",
+      "apellidos": "DIAZ",
+      "nombres": "ISAIAS DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "31XXXX85",
+      "apellidos": "MAMANI",
+      "nombres": "SEBASTIAN DARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

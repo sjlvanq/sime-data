@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115904,
+    "padron_id": 200814
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "26XXXX61",
+      "apellidos": "BRAVO",
+      "nombres": "CRISTINA ELISA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "36XXXX02",
+      "apellidos": "GOMEZ",
+      "nombres": "CONRADO ALEJANDRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX09",
+      "apellidos": "PASTRANA",
+      "nombres": "ELIANA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

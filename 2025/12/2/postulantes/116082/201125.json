@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 116082,
+    "padron_id": 201125
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "33XXXX30",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MARIELA RAMONA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "31XXXX18",
+      "apellidos": "VALDEZ",
+      "nombres": "VERONICA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "40XXXX97",
+      "apellidos": "REARTE",
+      "nombres": "MAURICIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

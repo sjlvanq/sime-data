@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 110521,
+    "padron_id": 201527
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX91",
+      "apellidos": "SANCHEZ",
+      "nombres": "MARIELA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX78",
+      "apellidos": "PEREZ",
+      "nombres": "LAURA EVANGELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

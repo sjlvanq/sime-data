@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 116129,
+    "padron_id": 201239
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX47",
+      "apellidos": "SOSA",
+      "nombres": "CELINA MARIA DEL ROSARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "26XXXX94",
+      "apellidos": "MONROY",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "24XXXX06",
+      "apellidos": "VEGA",
+      "nombres": "MONICA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

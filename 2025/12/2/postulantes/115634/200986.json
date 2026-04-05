@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115634,
+    "padron_id": 200986
+  },
+  "postulantes": [
+    {
+      "orden": 22,
+      "dni": "32XXXX59",
+      "apellidos": "IBAÑEZ",
+      "nombres": "PABLO ROMAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "29XXXX94",
+      "apellidos": "ALTAMIRANDA",
+      "nombres": "SONIA VALERIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "31XXXX02",
+      "apellidos": "AGÜERO",
+      "nombres": "ANA KARINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

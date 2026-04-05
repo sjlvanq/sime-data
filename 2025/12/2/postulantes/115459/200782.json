@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115459,
+    "padron_id": 200782
+  },
+  "postulantes": [
+    {
+      "orden": 22,
+      "dni": "44XXXX70",
+      "apellidos": "ORTEGA CORONEL",
+      "nombres": "MARTINA LUCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "37XXXX79",
+      "apellidos": "CHOCOBAR",
+      "nombres": "FRANCO NICOLAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 82,
+      "dni": "37XXXX26",
+      "apellidos": "CRUZ",
+      "nombres": "MAURO EXEQUIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

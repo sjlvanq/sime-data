@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115467,
+    "padron_id": 200443
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "36XXXX09",
+      "apellidos": "ROBIN",
+      "nombres": "MATHIAS ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "23XXXX66",
+      "apellidos": "MARTINEZ                                ",
+      "nombres": "MARIA DEL MILAGRO                       ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "35XXXX12",
+      "apellidos": "PEDRAZA",
+      "nombres": "MARIANA GISELLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

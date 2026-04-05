@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115901,
+    "padron_id": 200731
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX49",
+      "apellidos": "COSIANSI",
+      "nombres": "CARLOS DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "23XXXX71",
+      "apellidos": "QUIROGA",
+      "nombres": "VICTOR ALCIDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX95",
+      "apellidos": "JALIL QUIROGA",
+      "nombres": "LUISA ESTELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

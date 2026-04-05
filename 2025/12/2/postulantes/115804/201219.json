@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 115804,
+    "padron_id": 201219
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "38XXXX22",
+      "apellidos": "NAVARRO",
+      "nombres": "JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "37XXXX59",
+      "apellidos": "VALDEZ",
+      "nombres": "NESTOR EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "20XXXX49",
+      "apellidos": "TAPIA",
+      "nombres": "HUGO CEFERINO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "43XXXX53",
+      "apellidos": "GONZALEZ                                ",
+      "nombres": "FACUNDO TOMAS                           ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

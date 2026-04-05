@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 116252,
+    "padron_id": 201429
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX36",
+      "apellidos": "GONZALEZ",
+      "nombres": "CONSTANZA ALIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "22XXXX99",
+      "apellidos": "CORVALAN",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "38XXXX69",
+      "apellidos": "MILIOTO",
+      "nombres": "MARIA ALFONSINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "41XXXX93",
+      "apellidos": "MAZA",
+      "nombres": "FACUNDO NAHUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

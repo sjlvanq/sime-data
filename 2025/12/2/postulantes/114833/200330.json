@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 114833,
+    "padron_id": 200330
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "29XXXX50",
+      "apellidos": "CORDOBA",
+      "nombres": "GUILLERMO DAMIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "23XXXX20",
+      "apellidos": "ALDERETE",
+      "nombres": "GRACIELA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "31XXXX80",
+      "apellidos": "MELIAN",
+      "nombres": "SILVINA NELIDA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

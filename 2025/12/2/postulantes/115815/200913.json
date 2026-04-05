@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 115815,
+    "padron_id": 200913
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "27XXXX74",
+      "apellidos": "ALFARO",
+      "nombres": "CARLOS ALEXI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "42XXXX93",
+      "apellidos": "ALANIS",
+      "nombres": "AGUSTIN MAXIMILIANO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

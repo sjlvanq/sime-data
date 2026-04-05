@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 115896,
+    "padron_id": 200888
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "31XXXX42",
+      "apellidos": "RONDO",
+      "nombres": "JOSE MARIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 73,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 181,
+      "dni": "29XXXX02",
+      "apellidos": "VEGA",
+      "nombres": "DARIO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
