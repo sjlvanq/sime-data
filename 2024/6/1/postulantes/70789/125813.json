@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 70789,
+    "padron_id": 125813
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX44",
+      "apellidos": "ROMANO",
+      "nombres": "PAOLA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "37XXXX29",
+      "apellidos": "SANCHEZ",
+      "nombres": "NICODEMO CARLOS DAVID",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "24XXXX35",
+      "apellidos": "VEGA",
+      "nombres": "MARIA LUZ DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

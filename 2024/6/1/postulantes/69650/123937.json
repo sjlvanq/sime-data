@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69650,
+    "padron_id": 123937
+  },
+  "postulantes": [
+    {
+      "orden": 202,
+      "dni": "24XXXX66",
+      "apellidos": "RUIZ",
+      "nombres": "GRACIELA FATIMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 307,
+      "dni": "22XXXX81",
+      "apellidos": "CAJAL",
+      "nombres": "MYRIAM ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "34XXXX00",
+      "apellidos": "ROMANO",
+      "nombres": "JOSE MAXIMILIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

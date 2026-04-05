@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69894,
+    "padron_id": 124331
+  },
+  "postulantes": [
+    {
+      "orden": 149,
+      "dni": "18XXXX41",
+      "apellidos": "JAIME",
+      "nombres": "MARIA ANTONIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 162,
+      "dni": "21XXXX05",
+      "apellidos": "PAEZ",
+      "nombres": "LILIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NANCY CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

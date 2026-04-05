@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69800,
+    "padron_id": 123869
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "22XXXX33",
+      "apellidos": "BULACIO",
+      "nombres": "LILIANA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "25XXXX04",
+      "apellidos": "LAZARTE",
+      "nombres": "CLAUDIA ROSSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "23XXXX22",
+      "apellidos": "FLORES",
+      "nombres": "ADRIANA GERONIMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

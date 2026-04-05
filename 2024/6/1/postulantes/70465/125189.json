@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 70465,
+    "padron_id": 125189
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "41XXXX07",
+      "apellidos": "VILLALOBO",
+      "nombres": "EMANUEL ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "30XXXX01",
+      "apellidos": "MARRANZINO",
+      "nombres": "OSCAR MATÍAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "31XXXX21",
+      "apellidos": "CASARES",
+      "nombres": "MARIO GUILLERMO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

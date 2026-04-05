@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69663,
+    "padron_id": 123628
+  },
+  "postulantes": [
+    {
+      "orden": 120,
+      "dni": "31XXXX47",
+      "apellidos": "GUZMAN",
+      "nombres": "CAROLINA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 234,
+      "dni": "26XXXX11",
+      "apellidos": "FIGUEROA",
+      "nombres": "MARIA SILVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 139,
+      "dni": "34XXXX34",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "RITA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

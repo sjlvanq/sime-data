@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71195,
+    "padron_id": 126464
+  },
+  "postulantes": [
+    {
+      "orden": 208,
+      "dni": "25XXXX30",
+      "apellidos": "CRUZ",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 278,
+      "dni": "22XXXX04",
+      "apellidos": "JEREZ",
+      "nombres": "ANA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 139,
+      "dni": "34XXXX34",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "RITA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

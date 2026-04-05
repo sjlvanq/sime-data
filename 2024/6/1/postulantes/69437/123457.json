@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 69437,
+    "padron_id": 123457
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX64",
+      "apellidos": "GALAN",
+      "nombres": "MARIA DE LA PAZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "41XXXX98",
+      "apellidos": "RUIZ",
+      "nombres": "ISMAEL HERNAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "26XXXX98",
+      "apellidos": "GUANUCO",
+      "nombres": "VERONICA INES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "36XXXX21",
+      "apellidos": "MADRID",
+      "nombres": "ALEJANDRO EZEQUIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

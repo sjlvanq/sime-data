@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 69642,
+    "padron_id": 123630
+  },
+  "postulantes": [
+    {
+      "orden": 202,
+      "dni": "24XXXX66",
+      "apellidos": "RUIZ",
+      "nombres": "GRACIELA FATIMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 230,
+      "dni": "21XXXX20",
+      "apellidos": "ROMERO",
+      "nombres": "KARINA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 259,
+      "dni": "25XXXX66",
+      "apellidos": "ROMERO",
+      "nombres": "KARINA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 286,
+      "dni": "20XXXX82",
+      "apellidos": "AMENTTA",
+      "nombres": "MONICA ESTELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

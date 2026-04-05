@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71194,
+    "padron_id": 126462
+  },
+  "postulantes": [
+    {
+      "orden": 72,
+      "dni": "22XXXX26",
+      "apellidos": "CARRIZO",
+      "nombres": "ELSA BLANCA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 81,
+      "dni": "28XXXX14",
+      "apellidos": "SALVATIERRA NAVARRO",
+      "nombres": "CINTHYA ANABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 139,
+      "dni": "34XXXX34",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "RITA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

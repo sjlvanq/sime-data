@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69446,
+    "padron_id": 123454
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "32XXXX42",
+      "apellidos": "REYES",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "20XXXX36",
+      "apellidos": "JANIN",
+      "nombres": "SUSANA GLORIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

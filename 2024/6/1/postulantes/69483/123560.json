@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69483,
+    "padron_id": 123560
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "41XXXX65",
+      "apellidos": "NYCEK",
+      "nombres": "ALEX IVAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "42XXXX01",
+      "apellidos": "MANCERA",
+      "nombres": "TOMAS AARON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

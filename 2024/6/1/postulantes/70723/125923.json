@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 70723,
+    "padron_id": 125923
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "40XXXX16",
+      "apellidos": "AGUILAR",
+      "nombres": "MARICELA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "32XXXX81",
+      "apellidos": "NIEDERLE",
+      "nombres": "MARIANA ANDREA LOURDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "33XXXX76",
+      "apellidos": "PAZ",
+      "nombres": "NOELIA LUZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

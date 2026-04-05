@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 70236,
+    "padron_id": 124596
+  },
+  "postulantes": [
+    {
+      "orden": 92,
+      "dni": "26XXXX72",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "DORA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 72,
+      "dni": "23XXXX02",
+      "apellidos": "PAREDES",
+      "nombres": "HUGO ALBERTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

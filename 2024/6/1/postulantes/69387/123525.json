@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 69387,
+    "padron_id": 123525
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "40XXXX71",
+      "apellidos": "FERNANDEZ",
+      "nombres": "FLORENCIA MILAGROS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "38XXXX53",
+      "apellidos": "PAZ",
+      "nombres": "JULIANA ROMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "31XXXX30",
+      "apellidos": "CERVANTES",
+      "nombres": "ROMINA DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 55,
+      "dni": "32XXXX05",
+      "apellidos": "CHARA",
+      "nombres": "LUCÍA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 63,
+      "dni": "32XXXX79",
+      "apellidos": "ESTEBAN",
+      "nombres": "JUAN DARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

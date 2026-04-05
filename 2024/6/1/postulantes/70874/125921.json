@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "vacante_id": 70874,
+    "padron_id": 125921
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "39XXXX70",
+      "apellidos": "COSTILLA",
+      "nombres": "JAIRO JEREMIAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "36XXXX41",
+      "apellidos": "MEDINA",
+      "nombres": "JOSE ALEJANDRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX73",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MARIA MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX49",
+      "apellidos": "GOMEZ",
+      "nombres": "ROCIO DE FATIMA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "28XXXX78",
+      "apellidos": "ZERDA",
+      "nombres": "NOELIA TERESA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "30XXXX01",
+      "apellidos": "MARRANZINO",
+      "nombres": "OSCAR MATÍAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "31XXXX74",
+      "apellidos": "CANO NOVOTNY",
+      "nombres": "MAXIMILIANO OLDRICH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "27XXXX78",
+      "apellidos": "BASUALDO CORISI",
+      "nombres": "HUGO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

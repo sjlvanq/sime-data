@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 70797,
+    "padron_id": 125825
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "30XXXX01",
+      "apellidos": "MARRANZINO",
+      "nombres": "OSCAR MATÍAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "29XXXX02",
+      "apellidos": "BESERRA",
+      "nombres": "JOSE FERNANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

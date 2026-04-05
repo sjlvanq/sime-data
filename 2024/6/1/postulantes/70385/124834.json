@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 70385,
+    "padron_id": 124834
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "39XXXX69",
+      "apellidos": "OSCARES",
+      "nombres": "CECILIA KARINA GUILLERMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "32XXXX81",
+      "apellidos": "NIEDERLE",
+      "nombres": "MARIANA ANDREA LOURDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "39XXXX43",
+      "apellidos": "GARCÍA",
+      "nombres": "ROCÍO DEL MILAGRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69021,
+    "padron_id": 123445
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "33XXXX02",
+      "apellidos": "DIAZ",
+      "nombres": "MAIRA LEONELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "30XXXX60",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ROBERTO CARLOS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
