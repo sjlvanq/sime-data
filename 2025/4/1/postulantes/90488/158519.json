@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 90488,
+    "padron_id": 158519
+  },
+  "postulantes": [
+    {
+      "orden": 50,
+      "dni": "36XXXX65",
+      "apellidos": "LUCENA",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "33XXXX29",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "IVANA DENISE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

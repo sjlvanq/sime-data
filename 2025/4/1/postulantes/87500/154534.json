@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87500,
+    "padron_id": 154534
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "29XXXX00",
+      "apellidos": "DECIMA",
+      "nombres": "JUAN LEANDRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX89",
+      "apellidos": "SERRANO",
+      "nombres": "RENZO JAVIER ANTONIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "26XXXX98",
+      "apellidos": "GUANUCO",
+      "nombres": "VERONICA INES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

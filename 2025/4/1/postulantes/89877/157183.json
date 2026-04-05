@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 89877,
+    "padron_id": 157183
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "33XXXX11",
+      "apellidos": "DIAZ",
+      "nombres": "FATIMA NOELIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "29XXXX99",
+      "apellidos": "SAAVEDRA",
+      "nombres": "CYNTHIA CELESTE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "31XXXX56",
+      "apellidos": "AGUILAR",
+      "nombres": "JULIAN EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "23XXXX00",
+      "apellidos": "CASTRO",
+      "nombres": "MARCELA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

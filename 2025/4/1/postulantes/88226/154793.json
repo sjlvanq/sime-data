@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 88226,
+    "padron_id": 154793
+  },
+  "postulantes": [
+    {
+      "orden": 68,
+      "dni": "21XXXX53",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "NANCY EDITH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 99,
+      "dni": "22XXXX32",
+      "apellidos": "VEGA",
+      "nombres": "RUTH ALEJANDRA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 221,
+      "dni": "23XXXX88",
+      "apellidos": "VILLARREAL",
+      "nombres": "MARISA ALEJANDRA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 88294,
+    "padron_id": 156490
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "29XXXX82",
+      "apellidos": "CARDOZO",
+      "nombres": "EVA ALICIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "20XXXX42",
+      "apellidos": "RIGAZZIO",
+      "nombres": "SILVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "21XXXX10",
+      "apellidos": "CRESPIN",
+      "nombres": "ADRIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "24XXXX98",
+      "apellidos": "MEDINA",
+      "nombres": "ALBERTO NAPOLEON",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 91290,
+    "padron_id": 160003
+  },
+  "postulantes": [
+    {
+      "orden": 85,
+      "dni": "33XXXX25",
+      "apellidos": "COSTILLA",
+      "nombres": "ELENA NOEMÍ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 132,
+      "dni": "29XXXX46",
+      "apellidos": "TOLEDO                                  ",
+      "nombres": "VALERIA ROMINA                          ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

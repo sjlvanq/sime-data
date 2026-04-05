@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 88863,
+    "padron_id": 155665
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "34XXXX34",
+      "apellidos": "DAVILA",
+      "nombres": "ANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

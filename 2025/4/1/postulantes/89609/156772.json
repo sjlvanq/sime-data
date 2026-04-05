@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 89609,
+    "padron_id": 156772
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "23XXXX38",
+      "apellidos": "RAMIS",
+      "nombres": "MARIA ELISA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX47",
+      "apellidos": "ROSSI",
+      "nombres": "MONICA ROSANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 89717,
+    "padron_id": 157007
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "34XXXX89",
+      "apellidos": "GONZALEZ",
+      "nombres": "CECILIA DOLORES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "21XXXX88",
+      "apellidos": "HERRERA",
+      "nombres": "MONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 211,
+      "dni": "22XXXX73",
+      "apellidos": "GOMEZ",
+      "nombres": "LAURA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "30XXXX43",
+      "apellidos": "MEDINA",
+      "nombres": "BRUNO FRANCISCO JOSE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

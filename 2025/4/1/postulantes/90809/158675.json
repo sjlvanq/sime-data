@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 90809,
+    "padron_id": 158675
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "29XXXX75",
+      "apellidos": "GARCIA                                  ",
+      "nombres": "NANCY NOEMI                             ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 115,
+      "dni": "34XXXX03",
+      "apellidos": "FLORES",
+      "nombres": "SONIA CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "24XXXX62",
+      "apellidos": "DURAN",
+      "nombres": "MIRTA ROXANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

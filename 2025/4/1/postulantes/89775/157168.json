@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 89775,
+    "padron_id": 157168
+  },
+  "postulantes": [
+    {
+      "orden": 48,
+      "dni": "32XXXX92",
+      "apellidos": "CORDOBA",
+      "nombres": "CLAUDIA NATALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 100,
+      "dni": "33XXXX85",
+      "apellidos": "TRUJILLO",
+      "nombres": "ERIKA NATALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 303,
+      "dni": "23XXXX88",
+      "apellidos": "VILLARREAL",
+      "nombres": "MARISA ALEJANDRA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

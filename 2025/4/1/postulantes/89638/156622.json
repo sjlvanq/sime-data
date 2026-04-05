@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 89638,
+    "padron_id": 156622
+  },
+  "postulantes": [
+    {
+      "orden": 209,
+      "dni": "20XXXX46",
+      "apellidos": "MASMUT",
+      "nombres": "JUANA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 272,
+      "dni": "21XXXX97",
+      "apellidos": "GUANCA",
+      "nombres": "CLAUDIA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 97,
+      "dni": "33XXXX90",
+      "apellidos": "HERNANDEZ",
+      "nombres": "SARA ROSA DEL PILAR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 182,
+      "dni": "20XXXX63",
+      "apellidos": "OLARTE",
+      "nombres": "MARTA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

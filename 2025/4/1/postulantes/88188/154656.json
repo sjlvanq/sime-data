@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 88188,
+    "padron_id": 154656
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "26XXXX27",
+      "apellidos": "CASERES",
+      "nombres": "CINTIA VALERIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 87,
+      "dni": "24XXXX61",
+      "apellidos": "PELLEGRINI CANZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "27XXXX12",
+      "apellidos": "CACERES",
+      "nombres": "CRISTIAN ANDRES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

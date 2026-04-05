@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 91269,
+    "padron_id": 159905
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "33XXXX88",
+      "apellidos": "FLORES",
+      "nombres": "ERIKA ROMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "27XXXX77",
+      "apellidos": "DOMINGUEZ",
+      "nombres": "CAROLINA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "21XXXX10",
+      "apellidos": "CRESPIN",
+      "nombres": "ADRIANA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

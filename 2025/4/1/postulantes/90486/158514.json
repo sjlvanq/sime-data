@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 90486,
+    "padron_id": 158514
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "25XXXX48",
+      "apellidos": "SANCHEZ",
+      "nombres": "SARA LIA MARICEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX36",
+      "apellidos": "CRUZ",
+      "nombres": "HECTOR ARIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "24XXXX71",
+      "apellidos": "LATINA",
+      "nombres": "NATALIA MARIA DOLORES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

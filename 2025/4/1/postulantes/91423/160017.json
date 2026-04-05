@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 91423,
+    "padron_id": 160017
+  },
+  "postulantes": [
+    {
+      "orden": 99,
+      "dni": "32XXXX51",
+      "apellidos": "BELTRAN",
+      "nombres": "MARIA SILVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 162,
+      "dni": "21XXXX05",
+      "apellidos": "PAEZ",
+      "nombres": "LILIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "25XXXX18",
+      "apellidos": "LOPEZ CORREA",
+      "nombres": "GUILLERMINA DE LAS NIEVES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

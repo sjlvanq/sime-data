@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 90072,
+    "padron_id": 157502
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX96",
+      "apellidos": "MOLINA SOUZA",
+      "nombres": "MARIA SILVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "28XXXX96",
+      "apellidos": "BORDÓN",
+      "nombres": "MARÍA EUGENIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

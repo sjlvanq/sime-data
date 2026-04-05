@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 91231,
+    "padron_id": 159819
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX72",
+      "apellidos": "CORTES ISSI",
+      "nombres": "CLARA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX30",
+      "apellidos": "AGUIRRE",
+      "nombres": "MARIA ELVIRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "23XXXX08",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

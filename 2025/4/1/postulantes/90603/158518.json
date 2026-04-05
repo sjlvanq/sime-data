@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 90603,
+    "padron_id": 158518
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "25XXXX64",
+      "apellidos": "CAMPANELLI",
+      "nombres": "SANDRA VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "27XXXX65",
+      "apellidos": "CASTRO",
+      "nombres": "VALERIA GUILLERMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "26XXXX87",
+      "apellidos": "BOTTONE",
+      "nombres": "MARIA VALERIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

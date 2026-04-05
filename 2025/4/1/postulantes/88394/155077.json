@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 88394,
+    "padron_id": 155077
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "25XXXX21",
+      "apellidos": "ERAZO",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 220,
+      "dni": "30XXXX04",
+      "apellidos": "SANTANA SUAREZ",
+      "nombres": "VIRGINIA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 124,
+      "dni": "22XXXX32",
+      "apellidos": "VEGA",
+      "nombres": "RUTH ALEJANDRA NOEMI",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 156,
+      "dni": "25XXXX18",
+      "apellidos": "BURGOS",
+      "nombres": "LILIANA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

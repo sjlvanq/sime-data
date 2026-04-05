@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "vacante_id": 88236,
+    "padron_id": 156200
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "42XXXX03",
+      "apellidos": "MANCINELLI",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "43XXXX81",
+      "apellidos": "FAOTO DOMINGUEZ",
+      "nombres": "ROCIO LUZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "36XXXX41",
+      "apellidos": "AVILA RAFFO",
+      "nombres": "AGOSTINA ARACELI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "39XXXX23",
+      "apellidos": "ZERDA",
+      "nombres": "JUAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 82,
+      "dni": "18XXXX93",
+      "apellidos": "DIAZ FERRER",
+      "nombres": "ALLIER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 93,
+      "dni": "39XXXX29",
+      "apellidos": "LUCERO",
+      "nombres": "LUZ MARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "40XXXX69",
+      "apellidos": "MORENO",
+      "nombres": "MARTIN FACUNDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

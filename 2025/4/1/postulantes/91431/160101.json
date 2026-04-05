@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 91431,
+    "padron_id": 160101
+  },
+  "postulantes": [
+    {
+      "orden": 77,
+      "dni": "27XXXX73",
+      "apellidos": "LUQUES",
+      "nombres": "FABIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 132,
+      "dni": "29XXXX46",
+      "apellidos": "TOLEDO                                  ",
+      "nombres": "VALERIA ROMINA                          ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 180,
+      "dni": "24XXXX64",
+      "apellidos": "GONZALEZ",
+      "nombres": "ROSSANA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

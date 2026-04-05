@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 89241,
+    "padron_id": 156449
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "26XXXX35",
+      "apellidos": "LOBO",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX47",
+      "apellidos": "ROSSI",
+      "nombres": "MONICA ROSANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

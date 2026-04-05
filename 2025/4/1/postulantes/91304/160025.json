@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 91304,
+    "padron_id": 160025
+  },
+  "postulantes": [
+    {
+      "orden": 102,
+      "dni": "26XXXX65",
+      "apellidos": "PEREYRA",
+      "nombres": "CECILIA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 225,
+      "dni": "32XXXX14",
+      "apellidos": "GRAMAJO",
+      "nombres": "ANA MARIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "28XXXX76",
+      "apellidos": "PACHECO",
+      "nombres": "GABRIELA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 87,
+      "dni": "25XXXX62",
+      "apellidos": "GUERRERO",
+      "nombres": "MONICA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

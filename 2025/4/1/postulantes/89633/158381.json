@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 89633,
+    "padron_id": 158381
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "33XXXX76",
+      "apellidos": "TREJO",
+      "nombres": "RUTH EVELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "37XXXX79",
+      "apellidos": "ZORRILLA HOYOS",
+      "nombres": "YANET MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX83",
+      "apellidos": "AGUERO",
+      "nombres": "VIRGINIA CAROLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

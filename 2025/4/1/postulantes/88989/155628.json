@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 88989,
+    "padron_id": 155628
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "26XXXX35",
+      "apellidos": "LOBO",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "26XXXX64",
+      "apellidos": "RUEDA",
+      "nombres": "CLAUDIA LORENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

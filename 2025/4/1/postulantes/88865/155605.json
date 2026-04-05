@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 88865,
+    "padron_id": 155605
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "33XXXX38",
+      "apellidos": "JUÁREZ",
+      "nombres": "DANIEL EDUARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "32XXXX42",
+      "apellidos": "REYES",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

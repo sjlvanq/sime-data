@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 88088,
+    "padron_id": 155510
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "31XXXX21",
+      "apellidos": "CASARES",
+      "nombres": "MARIO GUILLERMO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "29XXXX02",
+      "apellidos": "BESERRA",
+      "nombres": "JOSE FERNANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
