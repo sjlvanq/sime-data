@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 84997,
+    "padron_id": 149170
+  },
+  "postulantes": [
+    {
+      "orden": 78,
+      "dni": "20XXXX39",
+      "apellidos": "RAMIREZ",
+      "nombres": "FERNANDO DANIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "16XXXX84",
+      "apellidos": "ZURITA",
+      "nombres": "SONIA MERCEDES DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 41,
+      "dni": "21XXXX56",
+      "apellidos": "AREVALO",
+      "nombres": "ROXANA FATIMA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}
