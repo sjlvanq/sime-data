@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10626,
+    "padron_id": 18843
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "21XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NANCY CRISTINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 47,
+      "dni": "25XXXX24",
+      "apellidos": "FRIAS",
+      "nombres": "NANCY MABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

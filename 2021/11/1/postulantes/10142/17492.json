@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10142,
+    "padron_id": 17492
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "33XXXX59",
+      "apellidos": "QUERCI",
+      "nombres": "JOSÉ AUGUSTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "27XXXX90",
+      "apellidos": "PAOLINI",
+      "nombres": "ANA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

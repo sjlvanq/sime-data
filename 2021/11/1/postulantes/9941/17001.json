@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9941,
+    "padron_id": 17001
+  },
+  "postulantes": [
+    {
+      "orden": 106,
+      "dni": "22XXXX01",
+      "apellidos": "ACOSTA",
+      "nombres": "ANGELICA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "33XXXX10",
+      "apellidos": "NIETO",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "29XXXX69",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "JAQUELINE DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "vacante_id": 9168,
+    "padron_id": 15922
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "41XXXX65",
+      "apellidos": "NYCEK",
+      "nombres": "ALEX IVAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX64",
+      "apellidos": "IRATCHET",
+      "nombres": "ARACELI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "34XXXX55",
+      "apellidos": "BULVA",
+      "nombres": "FRANCO BENJAMIN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "38XXXX81",
+      "apellidos": "MORENO",
+      "nombres": "MATIAS FERNANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "40XXXX69",
+      "apellidos": "MORENO",
+      "nombres": "MARTIN FACUNDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 57,
+      "dni": "45XXXX84",
+      "apellidos": "TORRES ACOSTA",
+      "nombres": "SOFIA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "45XXXX83",
+      "apellidos": "TORRES ACOSTA",
+      "nombres": "ROSA FIORELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

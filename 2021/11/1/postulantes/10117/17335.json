@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10117,
+    "padron_id": 17335
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX74",
+      "apellidos": "GATTI",
+      "nombres": "MARTA ROSA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "17XXXX15",
+      "apellidos": "BERNACHI",
+      "nombres": "GRACIELA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

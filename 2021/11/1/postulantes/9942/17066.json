@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9942,
+    "padron_id": 17066
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "22XXXX30",
+      "apellidos": "ORTEGA",
+      "nombres": "ELIZABETH BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "25XXXX34",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "SILVINA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "36XXXX65",
+      "apellidos": "FERNANDEZ JURADO",
+      "nombres": "JOSE AUGUSTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

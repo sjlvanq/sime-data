@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10882,
+    "padron_id": 19612
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "41XXXX65",
+      "apellidos": "NYCEK",
+      "nombres": "ALEX IVAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "43XXXX93",
+      "apellidos": "SOSA",
+      "nombres": "ALEJANDRA FRANCISCA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "27XXXX73",
+      "apellidos": "BULACIO",
+      "nombres": "JOSE ARMANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

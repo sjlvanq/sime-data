@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 9438,
+    "padron_id": 16308
+  },
+  "postulantes": [
+    {
+      "orden": 90,
+      "dni": "20XXXX30",
+      "apellidos": "PUEBLA",
+      "nombres": "NANCY MARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 114,
+      "dni": "20XXXX07",
+      "apellidos": "ARIAS",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

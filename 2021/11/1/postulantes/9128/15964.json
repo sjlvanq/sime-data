@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9128,
+    "padron_id": 15964
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "33XXXX10",
+      "apellidos": "NIETO",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 48,
+      "dni": "28XXXX44",
+      "apellidos": "BAZAN",
+      "nombres": "CYNTHIA LORENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 114,
+      "dni": "20XXXX07",
+      "apellidos": "ARIAS",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

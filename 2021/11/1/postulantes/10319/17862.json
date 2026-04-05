@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 10319,
+    "padron_id": 17862
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "20XXXX81",
+      "apellidos": "SILVA",
+      "nombres": "FATIMA ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "18XXXX34",
+      "apellidos": "FIGUEROA",
+      "nombres": "SUSANA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "18XXXX74",
+      "apellidos": "GATTI",
+      "nombres": "MARTA ROSA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "17XXXX15",
+      "apellidos": "BERNACHI",
+      "nombres": "GRACIELA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

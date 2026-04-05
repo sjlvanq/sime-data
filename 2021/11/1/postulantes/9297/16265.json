@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9297,
+    "padron_id": 16265
+  },
+  "postulantes": [
+    {
+      "orden": 28,
+      "dni": "29XXXX18",
+      "apellidos": "GIMENEZ",
+      "nombres": "LUCIA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "25XXXX13",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MONICA CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 74,
+      "dni": "21XXXX49",
+      "apellidos": "CARIA",
+      "nombres": "GUSTAVO MARCELO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

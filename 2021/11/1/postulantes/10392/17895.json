@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10392,
+    "padron_id": 17895
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "22XXXX01",
+      "apellidos": "LUNA",
+      "nombres": "SILVINA ROXANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "32XXXX92",
+      "apellidos": "CORDOBA",
+      "nombres": "CLAUDIA NATALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "24XXXX56",
+      "apellidos": "LEZCANO",
+      "nombres": "LELIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

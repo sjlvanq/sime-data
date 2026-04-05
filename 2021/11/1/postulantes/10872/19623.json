@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10872,
+    "padron_id": 19623
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "27XXXX68",
+      "apellidos": "ALDERETE",
+      "nombres": "JUAN ROBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "40XXXX94",
+      "apellidos": "REYES",
+      "nombres": "AIMÉ ANABELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "39XXXX37",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "PAOLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

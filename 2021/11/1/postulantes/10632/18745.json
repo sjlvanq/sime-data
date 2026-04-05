@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 10632,
+    "padron_id": 18745
+  },
+  "postulantes": [
+    {
+      "orden": 34,
+      "dni": "43XXXX93",
+      "apellidos": "SOSA",
+      "nombres": "ALEJANDRA FRANCISCA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "27XXXX73",
+      "apellidos": "BULACIO",
+      "nombres": "JOSE ARMANDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "37XXXX32",
+      "apellidos": "IBAÑEZ",
+      "nombres": "LUCAS GABRIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
