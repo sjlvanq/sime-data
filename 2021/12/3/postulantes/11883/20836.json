@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11883,
+    "padron_id": 20836
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX88",
+      "apellidos": "SOBERON",
+      "nombres": "LILIANA NOEMI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "23XXXX65",
+      "apellidos": "ALVAREZ",
+      "nombres": "ALBERTO ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11638,
+    "padron_id": 21527
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX41",
+      "apellidos": "VELARDEZ",
+      "nombres": "MARIA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "22XXXX87",
+      "apellidos": "FRUTOS",
+      "nombres": "ALICIA SILVANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX96",
+      "apellidos": "RAMOS",
+      "nombres": "MARIANO NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

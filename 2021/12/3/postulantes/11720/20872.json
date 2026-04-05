@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 11720,
+    "padron_id": 20872
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX15",
+      "apellidos": "LADETTO",
+      "nombres": "JUAN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX09",
+      "apellidos": "ALMIRON",
+      "nombres": "ANA KARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "26XXXX12",
+      "apellidos": "VILLARREAL",
+      "nombres": "OMAR ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "29XXXX82",
+      "apellidos": "MANSILLA",
+      "nombres": "GERARDO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 11672,
+    "padron_id": 20692
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "22XXXX34",
+      "apellidos": "ALBORNOZ",
+      "nombres": "HECTOR ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX15",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "YANINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "34XXXX73",
+      "apellidos": "RUIZ",
+      "nombres": "JUAN MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "24XXXX63",
+      "apellidos": "PAEZ",
+      "nombres": "NICOLAS DOMINGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

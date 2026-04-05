@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11903,
+    "padron_id": 20850
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX35",
+      "apellidos": "ARNEDO",
+      "nombres": "VIVIANA TERESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX32",
+      "apellidos": "CAMPERO",
+      "nombres": "GABRIELA NATALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

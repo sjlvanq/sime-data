@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10997,
+    "padron_id": 21374
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX29",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA MARCELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX38",
+      "apellidos": "MEDINA",
+      "nombres": "LAURA ROSALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

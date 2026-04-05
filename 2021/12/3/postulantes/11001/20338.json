@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11001,
+    "padron_id": 20338
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "36XXXX28",
+      "apellidos": "DIAZ",
+      "nombres": "CRISTIAN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "37XXXX83",
+      "apellidos": "FERNANDEZ",
+      "nombres": "HECTOR MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "33XXXX39",
+      "apellidos": "LOBO",
+      "nombres": "ELIANA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

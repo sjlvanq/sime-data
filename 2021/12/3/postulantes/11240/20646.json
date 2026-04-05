@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11240,
+    "padron_id": 20646
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "32XXXX24",
+      "apellidos": "ANGEL",
+      "nombres": "JORGE RODOLFO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "37XXXX06",
+      "apellidos": "GUALINCHAY",
+      "nombres": "ANA BELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "20XXXX46",
+      "apellidos": "BOASSO",
+      "nombres": "VICTOR JUAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

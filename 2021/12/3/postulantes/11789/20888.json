@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 11789,
+    "padron_id": 20888
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "32XXXX86",
+      "apellidos": "JUAREZ VILLANUEVA",
+      "nombres": "CLAUDIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "31XXXX80",
+      "apellidos": "GUARINO",
+      "nombres": "MARIA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "34XXXX56",
+      "apellidos": "MORELLI",
+      "nombres": "VICTOR EMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX05",
+      "apellidos": "YRALA",
+      "nombres": "DIEGO RAUL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

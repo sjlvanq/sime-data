@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 10987,
+    "padron_id": 20068
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX97",
+      "apellidos": "REYNOSO SORIA",
+      "nombres": "SEBASTIAN ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX14",
+      "apellidos": "BLANCO GARCIA",
+      "nombres": "DANIEL ENRIQUE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

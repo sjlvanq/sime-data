@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 8549,
+    "padron_id": 20260
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX08",
+      "apellidos": "BARROS",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX07",
+      "apellidos": "SORIA",
+      "nombres": "MARÍA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX66",
+      "apellidos": "FUENTES",
+      "nombres": "CLARA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

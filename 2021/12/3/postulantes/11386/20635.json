@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 11386,
+    "padron_id": 20635
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX88",
+      "apellidos": "CASTILLO",
+      "nombres": "DORA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "25XXXX12",
+      "apellidos": "FIGUEROA",
+      "nombres": "FELIX MARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX91",
+      "apellidos": "LUNA",
+      "nombres": "ARNALDO ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX74",
+      "apellidos": "LAZARTE LOPEZ",
+      "nombres": "RAUL ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

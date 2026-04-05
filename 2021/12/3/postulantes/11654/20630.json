@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 11654,
+    "padron_id": 20630
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX81",
+      "apellidos": "ROJAS",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "17XXXX51",
+      "apellidos": "MORAN",
+      "nombres": "MIRTA VIVIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "23XXXX31",
+      "apellidos": "GOMEZ",
+      "nombres": "CLAUDIA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "26XXXX60",
+      "apellidos": "GOMEZ",
+      "nombres": "JORGE EMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "23XXXX86",
+      "apellidos": "PAZ",
+      "nombres": "FLAVIA MERCEDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

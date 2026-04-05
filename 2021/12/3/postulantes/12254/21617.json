@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12254,
+    "padron_id": 21617
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "25XXXX09",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MARTA KARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX66",
+      "apellidos": "CISNEROS",
+      "nombres": "GUIDO ANDRÉS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX42",
+      "apellidos": "TENA",
+      "nombres": "JOSÉ ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

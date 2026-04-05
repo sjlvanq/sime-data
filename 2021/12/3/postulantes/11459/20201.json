@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11459,
+    "padron_id": 20201
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "20XXXX01",
+      "apellidos": "MEDINA",
+      "nombres": "MARIO ANTONIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (OTROS TITULOS)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "14XXXX57",
+      "apellidos": "ACOSTA",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

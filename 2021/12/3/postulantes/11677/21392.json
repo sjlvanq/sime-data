@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11677,
+    "padron_id": 21392
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "17XXXX12",
+      "apellidos": "CASTELLANO",
+      "nombres": "JUAN ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "27XXXX54",
+      "apellidos": "GOMEZ",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

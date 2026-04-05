@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11365,
+    "padron_id": 21578
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "38XXXX31",
+      "apellidos": "SALAZAR",
+      "nombres": "JUAN ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX91",
+      "apellidos": "LUNA",
+      "nombres": "ARNALDO ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX74",
+      "apellidos": "LAZARTE LOPEZ",
+      "nombres": "RAUL ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

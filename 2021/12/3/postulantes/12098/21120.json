@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12098,
+    "padron_id": 21120
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX74",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "GUSTAVO ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX48",
+      "apellidos": "SAAVEDRA YBARRA",
+      "nombres": "MARIO ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "29XXXX11",
+      "apellidos": "SAAVEDRA YBARRA",
+      "nombres": "CESAR GUILLERMO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

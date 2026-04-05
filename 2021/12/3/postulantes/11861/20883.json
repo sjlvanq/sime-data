@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11861,
+    "padron_id": 20883
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX06",
+      "apellidos": "HERRERA",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "21XXXX26",
+      "apellidos": "PACHECO",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

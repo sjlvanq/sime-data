@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11906,
+    "padron_id": 20895
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "22XXXX25",
+      "apellidos": "AVILA",
+      "nombres": "HERMINIA SUSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX97",
+      "apellidos": "LOPEZ",
+      "nombres": "CLORINDA ROSA SEBASTIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX71",
+      "apellidos": "MORENO",
+      "nombres": "NESTOR ROLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

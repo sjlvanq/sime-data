@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11920,
+    "padron_id": 21066
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX49",
+      "apellidos": "GALLARDO",
+      "nombres": "FERNANDO AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "38XXXX35",
+      "apellidos": "CEJAS DUMO",
+      "nombres": "LUIS EZEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "24XXXX25",
+      "apellidos": "AGÜERO",
+      "nombres": "CESAR ROLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

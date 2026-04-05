@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 8546,
+    "padron_id": 20269
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "35XXXX03",
+      "apellidos": "CUELLO",
+      "nombres": "EXEQUIEL HUMBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX08",
+      "apellidos": "BARROS",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX72",
+      "apellidos": "GONZALEZ",
+      "nombres": "HERNANDO RAUL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX28",
+      "apellidos": "BRANDAN CORREA",
+      "nombres": "CESAR JORGE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

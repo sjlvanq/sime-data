@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 9440,
+    "padron_id": 20014
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX12",
+      "apellidos": "ROSSELL",
+      "nombres": "ANDREA VALERIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "31XXXX23",
+      "apellidos": "PISCOLICHE",
+      "nombres": "MARIA TERESITA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "34XXXX77",
+      "apellidos": "GONZALEZ",
+      "nombres": "FEDERICO EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 8901,
+    "padron_id": 20063
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "17XXXX17",
+      "apellidos": "ESCOBAR",
+      "nombres": "NORMA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "20XXXX52",
+      "apellidos": "JUAREZ",
+      "nombres": "SILVIA LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX85",
+      "apellidos": "REALES",
+      "nombres": "SILVANA CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "27XXXX22",
+      "apellidos": "GALVAN",
+      "nombres": "ADRIANA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "31XXXX01",
+      "apellidos": "IBARRA",
+      "nombres": "DEBORATH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

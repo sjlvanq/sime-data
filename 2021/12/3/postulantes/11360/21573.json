@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 11360,
+    "padron_id": 21573
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX60",
+      "apellidos": "OYOLA",
+      "nombres": "RAMON ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "34XXXX17",
+      "apellidos": "DIAZ",
+      "nombres": "ISAIAS DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "26XXXX80",
+      "apellidos": "FRIAS",
+      "nombres": "DEOLINDO OSCAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

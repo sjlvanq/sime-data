@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 12073,
+    "padron_id": 21061
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX24",
+      "apellidos": "JUAREZ",
+      "nombres": "RAMON ISAAC",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX90",
+      "apellidos": "QUIROGA SILVA",
+      "nombres": "PAMELA LETICIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

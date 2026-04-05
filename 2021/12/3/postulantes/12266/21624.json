@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12266,
+    "padron_id": 21624
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "35XXXX21",
+      "apellidos": "BRANDAN",
+      "nombres": "MARIA YUSTINA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "27XXXX41",
+      "apellidos": "ORELLANA",
+      "nombres": "RICARDO ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX24",
+      "apellidos": "ESCOBAR",
+      "nombres": "FEDERICO MARTIN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

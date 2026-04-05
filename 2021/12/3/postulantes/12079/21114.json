@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 12079,
+    "padron_id": 21114
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX81",
+      "apellidos": "SUAREZ",
+      "nombres": "SARA EUGENIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX28",
+      "apellidos": "CHAVEZ",
+      "nombres": "MABEL ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX57",
+      "apellidos": "GEREZ",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX52",
+      "apellidos": "GOMEZ",
+      "nombres": "ANALIA RAMONA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

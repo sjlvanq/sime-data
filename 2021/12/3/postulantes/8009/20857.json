@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 8009,
+    "padron_id": 20857
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX33",
+      "apellidos": "CORDOBA",
+      "nombres": "CYNTHIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "35XXXX17",
+      "apellidos": "AVELLANEDA",
+      "nombres": "NESTOR DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
