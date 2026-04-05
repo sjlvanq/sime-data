@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 104281,
+    "padron_id": 182606
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "39XXXX45",
+      "apellidos": "COSTILLA",
+      "nombres": "IVAN ROBERTO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "40XXXX58",
+      "apellidos": "LENCINA BOENTE",
+      "nombres": "MARIANA LOURDES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "39XXXX98",
+      "apellidos": "PONCE",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    }
+  ]
+}

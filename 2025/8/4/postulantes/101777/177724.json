@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 101777,
+    "padron_id": 177724
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "39XXXX88",
+      "apellidos": "DIAZ",
+      "nombres": "RODRIGO ABEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX48",
+      "apellidos": "PEREZ",
+      "nombres": "DANIELA JANET",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

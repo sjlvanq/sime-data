@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 103481,
+    "padron_id": 181920
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX55",
+      "apellidos": "BENENCIA",
+      "nombres": "JOSE ANTONIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX27",
+      "apellidos": "CORBALÁN",
+      "nombres": "NADIA SOLEDAD",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN CARACTER",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX13",
+      "apellidos": "GARCIA MERLO",
+      "nombres": "FEDERICO JOSE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "36XXXX99",
+      "apellidos": "RAMIREZ",
+      "nombres": "SANTIAGO JUAN FRANCISCO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN CARACTER",
+      "CargoInferior": "-"
+    }
+  ]
+}
