@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 36138,
+    "padron_id": 65097
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX64",
+      "apellidos": "MESIAS",
+      "nombres": "MARCELO ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "32XXXX12",
+      "apellidos": "NARANJO",
+      "nombres": "CLAUDIA NATALI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX59",
+      "apellidos": "QUERCI",
+      "nombres": "JOSÉ AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

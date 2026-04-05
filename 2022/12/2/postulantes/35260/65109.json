@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 35260,
+    "padron_id": 65109
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "21XXXX83",
+      "apellidos": "FEMENIAS",
+      "nombres": "JUAN NELSON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "14XXXX34",
+      "apellidos": "CISNEROS",
+      "nombres": "RUBEN PABLO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

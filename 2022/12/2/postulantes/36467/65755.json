@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 36467,
+    "padron_id": 65755
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX85",
+      "apellidos": "YAÑEZ",
+      "nombres": "CRISTIAN FERNANDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "24XXXX73",
+      "apellidos": "CISNEROS",
+      "nombres": "MARIA ANTONIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "32XXXX42",
+      "apellidos": "REYES",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "27XXXX68",
+      "apellidos": "ALDERETE",
+      "nombres": "JUAN ROBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

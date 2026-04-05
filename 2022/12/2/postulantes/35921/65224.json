@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 35921,
+    "padron_id": 65224
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX89",
+      "apellidos": "CABRERA",
+      "nombres": "GRACIELA YUDITH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "20XXXX89",
+      "apellidos": "CHALIN",
+      "nombres": "SILVIA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "20XXXX13",
+      "apellidos": "FREGENAL",
+      "nombres": "SILVIA NELIDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
