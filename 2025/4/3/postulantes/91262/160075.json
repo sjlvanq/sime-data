@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 91262,
+    "padron_id": 160075
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "38XXXX22",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "JOSE MIGUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "32XXXX10",
+      "apellidos": "LAREDO",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX63",
+      "apellidos": "SOSA",
+      "nombres": "CHRISTIAN FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "43XXXX53",
+      "apellidos": "DEL MORAL",
+      "nombres": "SANTIAGO FACUNDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

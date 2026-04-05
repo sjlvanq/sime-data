@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 91393,
+    "padron_id": 160119
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "17XXXX49",
+      "apellidos": "CHAYLE",
+      "nombres": "CLAUDIA VIVIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "31XXXX44",
+      "apellidos": "NAVARRO",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "22XXXX63",
+      "apellidos": "TORENA",
+      "nombres": "DANIEL MIRCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

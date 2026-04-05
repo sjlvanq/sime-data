@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 88685,
+    "padron_id": 155766
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "20XXXX80",
+      "apellidos": "JAIME",
+      "nombres": "WALTER GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX54",
+      "apellidos": "GOMEZ",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX44",
+      "apellidos": "DIAZ",
+      "nombres": "MAURO GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "40XXXX21",
+      "apellidos": "GUARDIA",
+      "nombres": "ENZO  RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

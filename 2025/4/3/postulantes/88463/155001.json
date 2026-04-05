@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 88463,
+    "padron_id": 155001
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "35XXXX96",
+      "apellidos": "GUTIERREZ",
+      "nombres": "DANIEL ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "27XXXX03",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "MARTIN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "22XXXX82",
+      "apellidos": "MARQUEZ",
+      "nombres": "JOSE MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX16",
+      "apellidos": "CORDOBA ZELARAYAN",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

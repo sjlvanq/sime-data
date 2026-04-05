@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 88136,
+    "padron_id": 155341
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX65",
+      "apellidos": "ZAMPELLA",
+      "nombres": "GERARDO ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX38",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "LUIS FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "40XXXX14",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANTIAGO ELIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

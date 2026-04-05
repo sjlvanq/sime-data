@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 88418,
+    "padron_id": 155020
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX60",
+      "apellidos": "CASADO",
+      "nombres": "CECILIA NOEMI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX12",
+      "apellidos": "VILLARREAL",
+      "nombres": "OMAR ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

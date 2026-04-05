@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 88456,
+    "padron_id": 155041
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX31",
+      "apellidos": "GOMEZ",
+      "nombres": "CLAUDIA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "21XXXX71",
+      "apellidos": "ORTIZ",
+      "nombres": "HUGO CESAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

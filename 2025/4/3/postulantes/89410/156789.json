@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 89410,
+    "padron_id": 156789
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "38XXXX66",
+      "apellidos": "BAZÁN",
+      "nombres": "CARLA ANTONELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX77",
+      "apellidos": "DELGADO",
+      "nombres": "JUAN ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "35XXXX21",
+      "apellidos": "LUNA AGUILAR",
+      "nombres": "GUSTAVO OSCAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

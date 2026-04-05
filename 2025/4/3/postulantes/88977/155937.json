@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 88977,
+    "padron_id": 155937
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX90",
+      "apellidos": "SORIA",
+      "nombres": "LUIS RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "23XXXX25",
+      "apellidos": "LO RE",
+      "nombres": "ARNALDO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "38XXXX20",
+      "apellidos": "MORAN",
+      "nombres": "BRUNO GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX71",
+      "apellidos": "VERGARA",
+      "nombres": "ALEXIS NORBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 88449,
+    "padron_id": 156677
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX74",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "GUSTAVO ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX47",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "EXEQUIEL ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "40XXXX93",
+      "apellidos": "CORREA",
+      "nombres": "ESTEBAN FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

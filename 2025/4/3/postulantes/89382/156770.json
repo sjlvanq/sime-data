@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 89382,
+    "padron_id": 156770
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX41",
+      "apellidos": "VELARDEZ",
+      "nombres": "MARIA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX74",
+      "apellidos": "CHOQUIS",
+      "nombres": "GABRIEL EDUARDO ISMAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX77",
+      "apellidos": "DELGADO",
+      "nombres": "JUAN ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 90196,
+    "padron_id": 160671
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "32XXXX34",
+      "apellidos": "LESCANO",
+      "nombres": "MARIA EMILSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX66",
+      "apellidos": "LUNA",
+      "nombres": "GLADYS ELIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX27",
+      "apellidos": "ELIAS",
+      "nombres": "SERGIO RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 90558,
+    "padron_id": 159022
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "35XXXX17",
+      "apellidos": "ZANOTTA",
+      "nombres": "FRANCO MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "31XXXX60",
+      "apellidos": "COLLANTE",
+      "nombres": "DARIO RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "16XXXX67",
+      "apellidos": "SOSA",
+      "nombres": "MARCOS RUBÉN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX40",
+      "apellidos": "SOSA",
+      "nombres": "DIEGO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

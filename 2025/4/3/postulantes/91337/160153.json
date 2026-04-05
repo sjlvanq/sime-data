@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 91337,
+    "padron_id": 160153
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX42",
+      "apellidos": "MEDINA",
+      "nombres": "NESTOR SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX30",
+      "apellidos": "TORASSO",
+      "nombres": "MAURICIO EZEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

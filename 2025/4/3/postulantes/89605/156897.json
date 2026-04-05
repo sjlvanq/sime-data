@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 89605,
+    "padron_id": 156897
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX24",
+      "apellidos": "GONZALEZ",
+      "nombres": "ADRIAN EUDORO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX53",
+      "apellidos": "CINQUEGRANI",
+      "nombres": "VICTOR FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "28XXXX88",
+      "apellidos": "GOMEZ CONTRERAS",
+      "nombres": "ROBERTO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

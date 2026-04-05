@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 90623,
+    "padron_id": 158639
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "39XXXX58",
+      "apellidos": "GALVAN",
+      "nombres": "LUZ MELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "37XXXX45",
+      "apellidos": "CARRIZO RUIZ",
+      "nombres": "MARLLENE GRISELDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX80",
+      "apellidos": "ASTUDILLO",
+      "nombres": "MARIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

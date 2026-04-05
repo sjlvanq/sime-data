@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 90625,
+    "padron_id": 159004
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "23XXXX35",
+      "apellidos": "SANTIAGO",
+      "nombres": "GABRIELA INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 29,
+      "dni": "32XXXX82",
+      "apellidos": "CISTERNA",
+      "nombres": "MARÍA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "41XXXX79",
+      "apellidos": "PEREZ",
+      "nombres": "ALEJANDRO CARLOS MATIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 55,
+      "dni": "41XXXX69",
+      "apellidos": "DORAO",
+      "nombres": "MARIA ESTHER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 88137,
+    "padron_id": 155343
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX65",
+      "apellidos": "ZAMPELLA",
+      "nombres": "GERARDO ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX06",
+      "apellidos": "ZELAYA CACERES",
+      "nombres": "PABLO MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "40XXXX14",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANTIAGO ELIAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 89754,
+    "padron_id": 158476
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX41",
+      "apellidos": "SOSA",
+      "nombres": "JORGE ARMANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX21",
+      "apellidos": "LUNA AGUILAR",
+      "nombres": "GUSTAVO OSCAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

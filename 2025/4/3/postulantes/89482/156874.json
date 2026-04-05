@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 89482,
+    "padron_id": 156874
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX38",
+      "apellidos": "JUAREZ",
+      "nombres": "JORGE ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX32",
+      "apellidos": "CORREA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "27XXXX01",
+      "apellidos": "GONZALEZ",
+      "nombres": "VANINA VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

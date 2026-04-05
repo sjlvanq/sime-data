@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 89600,
+    "padron_id": 156916
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX07",
+      "apellidos": "ASSAD",
+      "nombres": "JESUS EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX51",
+      "apellidos": "MEDINA",
+      "nombres": "RICARDO EMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "39XXXX52",
+      "apellidos": "GAON",
+      "nombres": "AGUSTIN EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "39XXXX94",
+      "apellidos": "GOMEZ",
+      "nombres": "CRISTIAN GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
