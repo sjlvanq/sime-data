@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69152,
+    "padron_id": 123067
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "20XXXX58",
+      "apellidos": "ACOSTA",
+      "nombres": "ELIZABETH DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "34XXXX41",
+      "apellidos": "LUCENA",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "32XXXX05",
+      "apellidos": "MENDIA                                  ",
+      "nombres": "MARIA BELEN                             ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

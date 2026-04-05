@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69380,
+    "padron_id": 123369
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "17XXXX32",
+      "apellidos": "FIGUEROA",
+      "nombres": "SEGUNDO FERMIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "38XXXX92",
+      "apellidos": "PEDRAZA CORONEL",
+      "nombres": "MAYRA AGUSTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

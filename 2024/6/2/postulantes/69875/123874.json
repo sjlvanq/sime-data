@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69875,
+    "padron_id": 123874
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX75",
+      "apellidos": "NASIR",
+      "nombres": "MONICA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "37XXXX30",
+      "apellidos": "FLORES",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

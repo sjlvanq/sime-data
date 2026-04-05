@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 71009,
+    "padron_id": 126264
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX94",
+      "apellidos": "LEDESMA SALICA",
+      "nombres": "MATIAS EZEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX05",
+      "apellidos": "VILLALON",
+      "nombres": "HUGO RAUL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

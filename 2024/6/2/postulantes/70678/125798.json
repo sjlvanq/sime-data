@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 70678,
+    "padron_id": 125798
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "23XXXX71",
+      "apellidos": "VACA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "34XXXX41",
+      "apellidos": "LUCENA",
+      "nombres": "DIEGO SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX90",
+      "apellidos": "CHACON",
+      "nombres": "CLAUDIA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

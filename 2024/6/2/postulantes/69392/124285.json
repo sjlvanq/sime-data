@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 69392,
+    "padron_id": 124285
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "33XXXX49",
+      "apellidos": "GOMEZ",
+      "nombres": "ROCIO DE FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "30XXXX01",
+      "apellidos": "LEIVA",
+      "nombres": "PATRICIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "41XXXX74",
+      "apellidos": "CORONEL",
+      "nombres": "EXEQUIEL DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

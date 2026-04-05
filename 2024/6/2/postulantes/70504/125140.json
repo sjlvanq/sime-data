@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 70504,
+    "padron_id": 125140
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "28XXXX53",
+      "apellidos": "ACOSTA",
+      "nombres": "CESAR DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "26XXXX50",
+      "apellidos": "NACUSSI",
+      "nombres": "PATRICIA KARINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

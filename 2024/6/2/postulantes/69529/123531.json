@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69529,
+    "padron_id": 123531
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "23XXXX61",
+      "apellidos": "PARIS",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "35XXXX22",
+      "apellidos": "SANCHEZ",
+      "nombres": "DIEGO EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "25XXXX34",
+      "apellidos": "AGUILAR",
+      "nombres": "CLAUDIA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

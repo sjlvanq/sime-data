@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69505,
+    "padron_id": 124259
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "30XXXX90",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "31XXXX80",
+      "apellidos": "GRANEROS",
+      "nombres": "MERCEDES ELVIRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "34XXXX55",
+      "apellidos": "TEJEDA",
+      "nombres": "DANIELA YAQUELINE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 70880,
+    "padron_id": 126762
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "26XXXX35",
+      "apellidos": "ISSE",
+      "nombres": "FATIMA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "25XXXX49",
+      "apellidos": "ABDALA FORTE",
+      "nombres": "SILVINA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "34XXXX37",
+      "apellidos": "ILLUMINATO",
+      "nombres": "PIERINA MARISEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

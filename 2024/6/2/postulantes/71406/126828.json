@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71406,
+    "padron_id": 126828
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "28XXXX91",
+      "apellidos": "BALDICH",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "31XXXX56",
+      "apellidos": "NIEVA",
+      "nombres": "DEBORA LUCIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 89,
+      "dni": "34XXXX14",
+      "apellidos": "SALVATIERRA ",
+      "nombres": "JOSÉ MARÍA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

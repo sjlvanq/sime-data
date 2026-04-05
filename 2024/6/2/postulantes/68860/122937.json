@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68860,
+    "padron_id": 122937
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "23XXXX25",
+      "apellidos": "RUZICKI",
+      "nombres": "ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "36XXXX31",
+      "apellidos": "ALMARAZ",
+      "nombres": "RICARDO NAHUEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "26XXXX88",
+      "apellidos": "MARCIAL",
+      "nombres": "MIRIAM DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

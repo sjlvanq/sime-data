@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 71043,
+    "padron_id": 126303
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX79",
+      "apellidos": "MORENO",
+      "nombres": "SEGUNDO JUAN PABLO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "38XXXX83",
+      "apellidos": "RUIZ",
+      "nombres": "MATIAS FACUNDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "29XXXX74",
+      "apellidos": "GUTIERREZ",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "22XXXX50",
+      "apellidos": "CABRERA",
+      "nombres": "MARCELA ELIZABETH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "25XXXX66",
+      "apellidos": "BRITO",
+      "nombres": "MIGUEL MARTIN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

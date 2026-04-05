@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 69136,
+    "padron_id": 125216
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX14",
+      "apellidos": "CARBONELL",
+      "nombres": "FABRICIO CARLOS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 22,
+      "dni": "17XXXX54",
+      "apellidos": "MORENO",
+      "nombres": "GLORIA SANDRA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 27,
+      "dni": "22XXXX58",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "BEATRIZ ADRIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

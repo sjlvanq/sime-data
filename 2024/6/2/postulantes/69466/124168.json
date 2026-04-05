@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69466,
+    "padron_id": 124168
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "34XXXX20",
+      "apellidos": "MIRANDA",
+      "nombres": "PAMELA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "31XXXX85",
+      "apellidos": "MAMANI",
+      "nombres": "SEBASTIAN DARIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

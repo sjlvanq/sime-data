@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69161,
+    "padron_id": 123756
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "25XXXX55",
+      "apellidos": "CASTILLO",
+      "nombres": "GUILLERMO OSCAR",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "34XXXX16",
+      "apellidos": "FRANCO",
+      "nombres": "NATALIA PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

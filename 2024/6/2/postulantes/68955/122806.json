@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68955,
+    "padron_id": 122806
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "34XXXX57",
+      "apellidos": "RAMOS YASSINE",
+      "nombres": "MAURICIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX89",
+      "apellidos": "RUIZ",
+      "nombres": "JORGE HERNANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "41XXXX83",
+      "apellidos": "DELGADO",
+      "nombres": "CAMILA ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

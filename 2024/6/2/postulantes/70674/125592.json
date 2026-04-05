@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 70674,
+    "padron_id": 125592
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "29XXXX09",
+      "apellidos": "DIAZ",
+      "nombres": "MARCELA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "39XXXX43",
+      "apellidos": "GARCÍA",
+      "nombres": "ROCÍO DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX92",
+      "apellidos": "IBAÑEZ",
+      "nombres": "JUAN JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

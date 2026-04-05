@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69473,
+    "padron_id": 123421
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX60",
+      "apellidos": "NAVARRO",
+      "nombres": "IRMA HAYDEE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "VICE DIRECTOR INTERINO"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX29",
+      "apellidos": "GONZALEZ MASMUT",
+      "nombres": "CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

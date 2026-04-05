@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 70022,
+    "padron_id": 124216
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "23XXXX30",
+      "apellidos": "PEREZ",
+      "nombres": "MARIA MARTA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "24XXXX14",
+      "apellidos": "RUIZ",
+      "nombres": "VIVIANA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

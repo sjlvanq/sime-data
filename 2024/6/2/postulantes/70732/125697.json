@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 70732,
+    "padron_id": 125697
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "35XXXX11",
+      "apellidos": "SILVA",
+      "nombres": "MARCOS EDUARDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "25XXXX82",
+      "apellidos": "GONZALEZ",
+      "nombres": "CLAUDIA NOEMI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "22XXXX37",
+      "apellidos": "ALTAMIRANDA",
+      "nombres": "SERGIO ORLANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 68571,
+    "padron_id": 122884
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "34XXXX26",
+      "apellidos": "GALIANO",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "35XXXX50",
+      "apellidos": "ARIAS",
+      "nombres": "DAIANA EDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "37XXXX77",
+      "apellidos": "SCHIJA",
+      "nombres": "NAHIR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

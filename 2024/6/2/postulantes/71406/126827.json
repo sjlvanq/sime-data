@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71406,
+    "padron_id": 126827
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "28XXXX91",
+      "apellidos": "BALDICH",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 100,
+      "dni": "28XXXX69",
+      "apellidos": "VELARDEZ",
+      "nombres": "FRANCO ANTONIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 160,
+      "dni": "34XXXX14",
+      "apellidos": "SALVATIERRA ",
+      "nombres": "JOSÉ MARÍA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 69152,
+    "padron_id": 123070
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "18XXXX92",
+      "apellidos": "BUSTAMANTE",
+      "nombres": "SANDRA MONICA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "23XXXX08",
+      "apellidos": "GOYTIA ANTONI",
+      "nombres": "ANA INES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 124,
+      "dni": "29XXXX14",
+      "apellidos": "NUÑEZ",
+      "nombres": "PAULA KARINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "24XXXX06",
+      "apellidos": "ISMAEL",
+      "nombres": "BETTIANA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

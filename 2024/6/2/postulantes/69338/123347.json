@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 69338,
+    "padron_id": 123347
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX54",
+      "apellidos": "ROMERO GUNSET",
+      "nombres": "ANA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX77",
+      "apellidos": "ILLUMINATO",
+      "nombres": "CARLA FLORENTINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

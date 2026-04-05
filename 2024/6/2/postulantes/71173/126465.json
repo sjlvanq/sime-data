@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 71173,
+    "padron_id": 126465
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX60",
+      "apellidos": "NAVARRO",
+      "nombres": "IRMA HAYDEE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "VICE DIRECTOR INTERINO"
+    },
+    {
+      "orden": 19,
+      "dni": "27XXXX10",
+      "apellidos": "SORIA",
+      "nombres": "JORGE UBALDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 101,
+      "dni": "17XXXX31",
+      "apellidos": "PETRONI MUSTAFA",
+      "nombres": "JORGE BERNARDINO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "20XXXX02",
+      "apellidos": "VARGAS",
+      "nombres": "ESTRELLA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}
