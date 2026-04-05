@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 13300,
+    "padron_id": 23764
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "35XXXX17",
+      "apellidos": "ZANOTTA",
+      "nombres": "FRANCO MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX71",
+      "apellidos": "VERGARA",
+      "nombres": "ALEXIS NORBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX05",
+      "apellidos": "PORTAL",
+      "nombres": "CRISTIAN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX83",
+      "apellidos": "MAGNO",
+      "nombres": "CARLOS ERNESTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

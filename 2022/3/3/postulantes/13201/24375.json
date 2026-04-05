@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13201,
+    "padron_id": 24375
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "36XXXX11",
+      "apellidos": "ROMANO",
+      "nombres": "FRANCO EMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "28XXXX00",
+      "apellidos": "HEREDIA",
+      "nombres": "MARIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "37XXXX46",
+      "apellidos": "GOMEZ",
+      "nombres": "NATALIA ROCIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

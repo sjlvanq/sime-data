@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14627,
+    "padron_id": 25724
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX78",
+      "apellidos": "GUANUCO",
+      "nombres": "TERESA SABINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "21XXXX88",
+      "apellidos": "MIGUEL",
+      "nombres": "MARCELA VERONICA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "22XXXX61",
+      "apellidos": "LEAL",
+      "nombres": "ANGEL JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

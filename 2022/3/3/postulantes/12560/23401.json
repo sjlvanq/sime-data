@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 12560,
+    "padron_id": 23401
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX62",
+      "apellidos": "CORREA",
+      "nombres": "SANTIAGO ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX81",
+      "apellidos": "SOBERON",
+      "nombres": "JOSE LAUTARO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

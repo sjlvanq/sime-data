@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14333,
+    "padron_id": 26403
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "31XXXX34",
+      "apellidos": "QUINTERO",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "39XXXX90",
+      "apellidos": "VALDEZ",
+      "nombres": "CAROLINA VIVIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "40XXXX72",
+      "apellidos": "RIVADENEIRA",
+      "nombres": "RITA DEL MILAGRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

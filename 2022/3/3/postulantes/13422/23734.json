@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13422,
+    "padron_id": 23734
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX36",
+      "apellidos": "MACIAS",
+      "nombres": "MARCELA VIVIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 7,
+      "dni": "18XXXX07",
+      "apellidos": "BASPINEIRO",
+      "nombres": "HECTOR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 11,
+      "dni": "17XXXX65",
+      "apellidos": "CORVALAN",
+      "nombres": "MARIA SUSANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

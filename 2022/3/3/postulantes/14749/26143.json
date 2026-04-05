@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14749,
+    "padron_id": 26143
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX97",
+      "apellidos": "TOLEDO",
+      "nombres": "ARIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX18",
+      "apellidos": "PERALTA",
+      "nombres": "MAURO NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX35",
+      "apellidos": "SOBERON",
+      "nombres": "CLAUDIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

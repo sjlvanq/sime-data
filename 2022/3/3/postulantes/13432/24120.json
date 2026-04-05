@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 13432,
+    "padron_id": 24120
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "28XXXX16",
+      "apellidos": "JIMENEZ",
+      "nombres": "MARIA CRISTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "29XXXX67",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "NANCY VANESA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 13218,
+    "padron_id": 23519
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX51",
+      "apellidos": "CANEVARO",
+      "nombres": "JOSE MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "12XXXX73",
+      "apellidos": "JUAREZ",
+      "nombres": "RAUL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

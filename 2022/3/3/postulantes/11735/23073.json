@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 11735,
+    "padron_id": 23073
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX81",
+      "apellidos": "ROJAS",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "16XXXX43",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "VIVIANA NOEMI DE JESUS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

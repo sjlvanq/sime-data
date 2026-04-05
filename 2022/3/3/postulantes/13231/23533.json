@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 13231,
+    "padron_id": 23533
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX03",
+      "apellidos": "DORADO",
+      "nombres": "MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX28",
+      "apellidos": "GONZALEZ",
+      "nombres": "OSCAR DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX53",
+      "apellidos": "DIAZ",
+      "nombres": "NELSON EDGARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "24XXXX82",
+      "apellidos": "BOGGIATTO",
+      "nombres": "FERNANDO LEONARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14218,
+    "padron_id": 25232
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX49",
+      "apellidos": "GALLARDO",
+      "nombres": "FERNANDO AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX36",
+      "apellidos": "RODRÍGUEZ",
+      "nombres": "HERNÁN NAZARENO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX04",
+      "apellidos": "PACHAO",
+      "nombres": "HUGO FRANCISCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

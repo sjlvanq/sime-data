@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 12625,
+    "padron_id": 23439
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "36XXXX01",
+      "apellidos": "FEREYRA",
+      "nombres": "GIULIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX48",
+      "apellidos": "MORALES",
+      "nombres": "BLANCA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

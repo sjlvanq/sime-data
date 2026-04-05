@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 14772,
+    "padron_id": 26478
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX93",
+      "apellidos": "TRULLENQUE",
+      "nombres": "SILVIA MELINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "22XXXX57",
+      "apellidos": "GEREZ",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX99",
+      "apellidos": "ALBARRACIN",
+      "nombres": "NADIA GISELLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX35",
+      "apellidos": "GUTIERREZ",
+      "nombres": "CYNTHIA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

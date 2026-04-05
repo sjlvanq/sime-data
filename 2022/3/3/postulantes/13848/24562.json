@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 13848,
+    "padron_id": 24562
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "20XXXX42",
+      "apellidos": "MOYA",
+      "nombres": "MIGUEL ANGEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 6,
+      "dni": "17XXXX73",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "JORGE ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

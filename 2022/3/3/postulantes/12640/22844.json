@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 12640,
+    "padron_id": 22844
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX02",
+      "apellidos": "NAVARRO",
+      "nombres": "RUBEN MARINO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "16XXXX18",
+      "apellidos": "DIAZ",
+      "nombres": "PROSPERO EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13799,
+    "padron_id": 25953
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX85",
+      "apellidos": "RACHID",
+      "nombres": "RUBEN EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX94",
+      "apellidos": "GODINO CATIVA",
+      "nombres": "GONZALO ESEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX82",
+      "apellidos": "LOPEZ",
+      "nombres": "AUGUSTO DAVID ARMANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 12384,
+    "padron_id": 26197
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "22XXXX00",
+      "apellidos": "REYES",
+      "nombres": "ALBERTO LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "30XXXX70",
+      "apellidos": "ARANDA",
+      "nombres": "DARIO LEONARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "25XXXX42",
+      "apellidos": "MUÑOZ",
+      "nombres": "CRISTINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "26XXXX70",
+      "apellidos": "SVALDI",
+      "nombres": "ANTONIA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

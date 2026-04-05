@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15081,
+    "padron_id": 26648
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX60",
+      "apellidos": "CARRIZO",
+      "nombres": "CAROLINA SOFIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX01",
+      "apellidos": "ALDANA",
+      "nombres": "MARIA LUCRECIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX83",
+      "apellidos": "QUINTEROS NELLE",
+      "nombres": "JORGE ROLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
