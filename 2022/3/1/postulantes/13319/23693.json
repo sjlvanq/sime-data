@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13319,
+    "padron_id": 23693
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "30XXXX15",
+      "apellidos": "UTRERA",
+      "nombres": "MARIELA SILVINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX81",
+      "apellidos": "ABDALA",
+      "nombres": "MATIAS MIGUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "22XXXX86",
+      "apellidos": "LIZARRAGA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

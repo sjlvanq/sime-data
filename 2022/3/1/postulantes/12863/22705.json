@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12863,
+    "padron_id": 22705
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "31XXXX30",
+      "apellidos": "RODRIGUEZ MIRANDA",
+      "nombres": "DAVID OSCAR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "24XXXX30",
+      "apellidos": "PORCEL",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "30XXXX00",
+      "apellidos": "PEREA",
+      "nombres": "NOELIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 13232,
+    "padron_id": 23504
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "31XXXX56",
+      "apellidos": "MENDIA",
+      "nombres": "MARIA DEL PILAR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "31XXXX30",
+      "apellidos": "RODRIGUEZ MIRANDA",
+      "nombres": "DAVID OSCAR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "28XXXX32",
+      "apellidos": "VALDEZ",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "20XXXX97",
+      "apellidos": "TAPIA",
+      "nombres": "DANIELA ISABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

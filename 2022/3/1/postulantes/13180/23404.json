@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 13180,
+    "padron_id": 23404
+  },
+  "postulantes": [
+    {
+      "orden": 45,
+      "dni": "29XXXX12",
+      "apellidos": "GAUNA",
+      "nombres": "CECILIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 66,
+      "dni": "23XXXX65",
+      "apellidos": "SANTILLAN",
+      "nombres": "MABEL DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "21XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "NANCY CRISTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14294,
+    "padron_id": 25398
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "27XXXX43",
+      "apellidos": "VAQUERA",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "25XXXX79",
+      "apellidos": "CHOCOBAR ONTIVEROS",
+      "nombres": "FABIOLA MAYRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 108,
+      "dni": "24XXXX75",
+      "apellidos": "PENA",
+      "nombres": "ANA MARIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

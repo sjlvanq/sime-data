@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 12831,
+    "padron_id": 22701
+  },
+  "postulantes": [
+    {
+      "orden": 208,
+      "dni": "22XXXX42",
+      "apellidos": "RIVAS",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 279,
+      "dni": "21XXXX56",
+      "apellidos": "FIGUEROA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 328,
+      "dni": "20XXXX08",
+      "apellidos": "VAZQUEZ",
+      "nombres": "ADRIANA ROSA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

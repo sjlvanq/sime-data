@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 14101,
+    "padron_id": 25148
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "23XXXX23",
+      "apellidos": "MELIAN                                  ",
+      "nombres": "VIVIANA ELIZABETH                       ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "16XXXX60",
+      "apellidos": "MARAÑÓN",
+      "nombres": "NORMA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "33XXXX13",
+      "apellidos": "VALOR",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

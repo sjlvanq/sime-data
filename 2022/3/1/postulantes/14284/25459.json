@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 14284,
+    "padron_id": 25459
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "39XXXX33",
+      "apellidos": "ORELLANA",
+      "nombres": "SELENA LUCIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX30",
+      "apellidos": "ESCALANTE",
+      "nombres": "DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX64",
+      "apellidos": "IRATCHET",
+      "nombres": "ARACELI",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "37XXXX14",
+      "apellidos": "FRIAS",
+      "nombres": "LEONELA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 13488,
+    "padron_id": 24085
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "31XXXX30",
+      "apellidos": "RODRIGUEZ MIRANDA",
+      "nombres": "DAVID OSCAR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "25XXXX34",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "SILVINA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "24XXXX30",
+      "apellidos": "PORCEL",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "28XXXX94",
+      "apellidos": "GALINDEZ",
+      "nombres": "ANABEL DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
