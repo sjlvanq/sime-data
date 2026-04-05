@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 16191,
+    "padron_id": 35424
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX13",
+      "apellidos": "PAZ",
+      "nombres": "JULIO RENE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "20XXXX27",
+      "apellidos": "YUSTE",
+      "nombres": "FRANCISCO RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

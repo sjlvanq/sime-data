@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 19215,
+    "padron_id": 34424
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX12",
+      "apellidos": "VILLARREAL",
+      "nombres": "OMAR ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "36XXXX51",
+      "apellidos": "TEJEDA",
+      "nombres": "MARCOS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "40XXXX83",
+      "apellidos": "MARCHESE",
+      "nombres": "ROBERTO ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

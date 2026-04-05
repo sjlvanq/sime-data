@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 16908,
+    "padron_id": 33482
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "25XXXX70",
+      "apellidos": "LAZO",
+      "nombres": "VILMA NANCY",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "32XXXX41",
+      "apellidos": "CHERVATIN",
+      "nombres": "SOL DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX89",
+      "apellidos": "CARMONA",
+      "nombres": "SILVIA ALEJANDRA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

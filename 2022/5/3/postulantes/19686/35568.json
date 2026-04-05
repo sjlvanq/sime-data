@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 19686,
+    "padron_id": 35568
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "23XXXX42",
+      "apellidos": "VEGA",
+      "nombres": "LORENA ANDREA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX24",
+      "apellidos": "LUNA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "27XXXX28",
+      "apellidos": "VEGA",
+      "nombres": "MELINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

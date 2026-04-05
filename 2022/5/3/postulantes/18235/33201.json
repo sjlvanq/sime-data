@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 18235,
+    "padron_id": 33201
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "31XXXX36",
+      "apellidos": "GUERRERO",
+      "nombres": "ROMINA ISABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "36XXXX27",
+      "apellidos": "TAPIA",
+      "nombres": "OSCAR ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "41XXXX88",
+      "apellidos": "ALDERETE",
+      "nombres": "GABRIEL ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

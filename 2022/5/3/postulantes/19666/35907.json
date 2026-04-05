@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 19666,
+    "padron_id": 35907
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "35XXXX80",
+      "apellidos": "AGUERO",
+      "nombres": "MARCOS ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX99",
+      "apellidos": "ELIAS",
+      "nombres": "MARIA JIMENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "37XXXX27",
+      "apellidos": "BERNIO DRUBE",
+      "nombres": "JUAN LUCAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

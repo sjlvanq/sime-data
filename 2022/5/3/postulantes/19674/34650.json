@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 19674,
+    "padron_id": 34650
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "24XXXX76",
+      "apellidos": "NIEVA",
+      "nombres": "GUSTAVO EDUARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX74",
+      "apellidos": "RUIZ",
+      "nombres": "JORGE MARCELO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX46",
+      "apellidos": "MATTIUZZI",
+      "nombres": "GUSTAVO NICOLAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

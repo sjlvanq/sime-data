@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 17202,
+    "padron_id": 31277
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX18",
+      "apellidos": "BARROS",
+      "nombres": "DARIO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX89",
+      "apellidos": "PEREZ",
+      "nombres": "HECTOR MARIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

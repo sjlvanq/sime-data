@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 18895,
+    "padron_id": 33793
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX81",
+      "apellidos": "ROJAS",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX07",
+      "apellidos": "MALDONADO",
+      "nombres": "DIEGO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

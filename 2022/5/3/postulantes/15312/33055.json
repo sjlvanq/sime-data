@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 15312,
+    "padron_id": 33055
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "38XXXX37",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "EVELYN MICAELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "35XXXX00",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "AGUSTINA ELISA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "25XXXX12",
+      "apellidos": "DE MINGO",
+      "nombres": "SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

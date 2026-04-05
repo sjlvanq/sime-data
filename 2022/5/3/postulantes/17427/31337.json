@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 17427,
+    "padron_id": 31337
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "28XXXX74",
+      "apellidos": "PERALTA",
+      "nombres": "RUBEN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX95",
+      "apellidos": "LOPEZ",
+      "nombres": "TERESITA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "28XXXX37",
+      "apellidos": "MASTRIZZO",
+      "nombres": "RAQUEL SATURNINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "31XXXX24",
+      "apellidos": "MOLINA",
+      "nombres": "LUCAS MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "18XXXX76",
+      "apellidos": "SANCHEZ",
+      "nombres": "CESAR MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

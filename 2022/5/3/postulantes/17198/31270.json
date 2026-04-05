@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17198,
+    "padron_id": 31270
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "23XXXX89",
+      "apellidos": "CASTELLS",
+      "nombres": "MAXIMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX91",
+      "apellidos": "LARIVEY",
+      "nombres": "MARIO PABLO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX81",
+      "apellidos": "SOBERON",
+      "nombres": "JOSE LAUTARO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

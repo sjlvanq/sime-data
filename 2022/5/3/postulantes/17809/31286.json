@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 17809,
+    "padron_id": 31286
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX97",
+      "apellidos": "DE LA VEGA",
+      "nombres": "JOSE ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "36XXXX09",
+      "apellidos": "GÓMEZ CONTRERAS",
+      "nombres": "LUCÍA DEL HUERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX88",
+      "apellidos": "GOMEZ CONTRERAS",
+      "nombres": "ROBERTO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

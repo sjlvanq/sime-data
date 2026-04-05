@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 19019,
+    "padron_id": 33798
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX73",
+      "apellidos": "DIAZ",
+      "nombres": "RAUL FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX75",
+      "apellidos": "VERA",
+      "nombres": "EMILIO MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "22XXXX68",
+      "apellidos": "JEREZ",
+      "nombres": "EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "17XXXX48",
+      "apellidos": "MONTES",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

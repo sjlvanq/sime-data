@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 16549,
+    "padron_id": 32048
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "34XXXX11",
+      "apellidos": "ROMERO",
+      "nombres": "JOSE AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "34XXXX99",
+      "apellidos": "DEL GUERCIO",
+      "nombres": "PAULA SABRINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "24XXXX03",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "TERESA ESTELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "31XXXX71",
+      "apellidos": "LEONE",
+      "nombres": "DANIELA PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
