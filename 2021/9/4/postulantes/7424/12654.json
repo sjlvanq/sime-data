@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 7424,
+    "padron_id": 12654
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX88",
+      "apellidos": "JAIME",
+      "nombres": "ROSSANA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "20XXXX21",
+      "apellidos": "ZERRIZUELA",
+      "nombres": "MARIA HILDA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "31XXXX43",
+      "apellidos": "SUELDO",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX55",
+      "apellidos": "FERNANDEZ",
+      "nombres": "YOHANA CORINA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

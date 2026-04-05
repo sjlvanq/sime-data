@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 7465,
+    "padron_id": 12923
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX51",
+      "apellidos": "MEDRANO",
+      "nombres": "ATILIO SEBASTIAN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "36XXXX15",
+      "apellidos": "BALDERRAMA",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "24XXXX45",
+      "apellidos": "TROVO",
+      "nombres": "HUGO DAVID",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
