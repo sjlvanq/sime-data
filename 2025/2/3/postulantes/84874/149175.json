@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 84874,
+    "padron_id": 149175
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX38",
+      "apellidos": "YACUMO",
+      "nombres": "MARTA DANIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX63",
+      "apellidos": "ALBORNOZ",
+      "nombres": "JAVIER ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "43XXXX52",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "GUADALUPE AYELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

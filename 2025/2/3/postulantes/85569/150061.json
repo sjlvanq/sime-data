@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85569,
+    "padron_id": 150061
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX38",
+      "apellidos": "IBRAHIM",
+      "nombres": "SERGIO GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "34XXXX52",
+      "apellidos": "SUELDO",
+      "nombres": "JULIO RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX53",
+      "apellidos": "ALE",
+      "nombres": "JACINTO ISMAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 85487,
+    "padron_id": 150089
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX45",
+      "apellidos": "RUIZ",
+      "nombres": "HUGO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX53",
+      "apellidos": "EMGE",
+      "nombres": "MARTIN LORENZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

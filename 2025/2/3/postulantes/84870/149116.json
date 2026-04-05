@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 84870,
+    "padron_id": 149116
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "31XXXX79",
+      "apellidos": "FERNANDEZ",
+      "nombres": "CARLOS FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX65",
+      "apellidos": "GONZALEZ",
+      "nombres": "PABLO ESTEBAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

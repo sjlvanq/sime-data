@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 84851,
+    "padron_id": 149335
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX48",
+      "apellidos": "SERRANO",
+      "nombres": "JOSE FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP JEFE DE SECCION INTERINO"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX62",
+      "apellidos": "ZANOTTA",
+      "nombres": "JULIO CESAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP TITULAR"
+    }
+  ]
+}

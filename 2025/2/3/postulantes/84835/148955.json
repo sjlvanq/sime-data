@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 84835,
+    "padron_id": 148955
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX98",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "40XXXX51",
+      "apellidos": "GRAMAJO",
+      "nombres": "CRISTIAN NAHUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "37XXXX33",
+      "apellidos": "CARRION",
+      "nombres": "CRISTHIAN ABRAHAM",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
