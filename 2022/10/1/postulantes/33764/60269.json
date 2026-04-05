@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 33764,
+    "padron_id": 60269
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "26XXXX22",
+      "apellidos": "SALOMON",
+      "nombres": "LORENA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "27XXXX66",
+      "apellidos": "SALAZAR",
+      "nombres": "LUCRECIA DEL HUERTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "41XXXX98",
+      "apellidos": "RUIZ",
+      "nombres": "ISMAEL HERNAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "41XXXX73",
+      "apellidos": "ORONA",
+      "nombres": "PAMELA AGOSTINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

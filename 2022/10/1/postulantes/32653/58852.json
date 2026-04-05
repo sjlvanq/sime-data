@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 32653,
+    "padron_id": 58852
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "20XXXX95",
+      "apellidos": "ROBINSON",
+      "nombres": "GUSTAVO JOSE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "30XXXX60",
+      "apellidos": "JUAREZ",
+      "nombres": "GABRIEL FERNANDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "30XXXX09",
+      "apellidos": "CHAVEZ",
+      "nombres": "JUAN CARLOS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "36XXXX02",
+      "apellidos": "MUÑOZ CENTENO",
+      "nombres": "ANTONELA TAMARA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

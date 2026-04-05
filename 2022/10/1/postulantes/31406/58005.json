@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 31406,
+    "padron_id": 58005
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "27XXXX72",
+      "apellidos": "RUIZ",
+      "nombres": "DIEGO MARCIAL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "28XXXX16",
+      "apellidos": "NARVAEZ",
+      "nombres": "JOSE MATIAS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "22XXXX13",
+      "apellidos": "SANCHEZ",
+      "nombres": "RUBEN DARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

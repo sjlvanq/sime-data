@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33924,
+    "padron_id": 61151
+  },
+  "postulantes": [
+    {
+      "orden": 37,
+      "dni": "27XXXX55",
+      "apellidos": "CANDUCCI",
+      "nombres": "SERGIO DAMIAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "31XXXX82",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "LUCIANA MARIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "27XXXX82",
+      "apellidos": "FRIAS PAZ",
+      "nombres": "ALEJANDRA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

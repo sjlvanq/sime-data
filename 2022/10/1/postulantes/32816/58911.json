@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 32816,
+    "padron_id": 58911
+  },
+  "postulantes": [
+    {
+      "orden": 99,
+      "dni": "24XXXX52",
+      "apellidos": "GOMEZ",
+      "nombres": "ROSANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "27XXXX75",
+      "apellidos": "ROLDAN",
+      "nombres": "CRISTIAN OCTAVIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

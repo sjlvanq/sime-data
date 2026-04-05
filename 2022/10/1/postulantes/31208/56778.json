@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 31208,
+    "padron_id": 56778
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "29XXXX17",
+      "apellidos": "JUAREZ",
+      "nombres": "TELMA CARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "40XXXX71",
+      "apellidos": "FERNANDEZ",
+      "nombres": "FLORENCIA MILAGROS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "36XXXX21",
+      "apellidos": "PAEZ ANGELICOLA",
+      "nombres": "IVANA HELENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

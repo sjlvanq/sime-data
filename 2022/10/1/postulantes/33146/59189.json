@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33146,
+    "padron_id": 59189
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "18XXXX66",
+      "apellidos": "COSTAS CASEN",
+      "nombres": "CLAUDIA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 151,
+      "dni": "17XXXX15",
+      "apellidos": "SAYOUD",
+      "nombres": "CLAUDIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "22XXXX01",
+      "apellidos": "VARELA",
+      "nombres": "CLARA TERESITA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

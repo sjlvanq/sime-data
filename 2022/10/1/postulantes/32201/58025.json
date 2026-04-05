@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 32201,
+    "padron_id": 58025
+  },
+  "postulantes": [
+    {
+      "orden": 22,
+      "dni": "26XXXX98",
+      "apellidos": "GUANUCO",
+      "nombres": "VERONICA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "39XXXX23",
+      "apellidos": "ZERDA",
+      "nombres": "JUAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "33XXXX15",
+      "apellidos": "HERRERA",
+      "nombres": "NELSON LEANDRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "41XXXX48",
+      "apellidos": "CEBALLOS",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

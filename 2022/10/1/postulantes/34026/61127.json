@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 34026,
+    "padron_id": 61127
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "26XXXX16",
+      "apellidos": "MEDINA",
+      "nombres": "GLORIA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "27XXXX82",
+      "apellidos": "FRIAS PAZ",
+      "nombres": "ALEJANDRA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX86",
+      "apellidos": "PEREZ",
+      "nombres": "PAOLA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "27XXXX59",
+      "apellidos": "DUMAS PELLETTI",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

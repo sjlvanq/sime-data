@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33210,
+    "padron_id": 59194
+  },
+  "postulantes": [
+    {
+      "orden": 69,
+      "dni": "24XXXX69",
+      "apellidos": "JEREZ",
+      "nombres": "FLAVIA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 151,
+      "dni": "17XXXX15",
+      "apellidos": "SAYOUD",
+      "nombres": "CLAUDIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "22XXXX01",
+      "apellidos": "VARELA",
+      "nombres": "CLARA TERESITA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

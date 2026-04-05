@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 33902,
+    "padron_id": 60717
+  },
+  "postulantes": [
+    {
+      "orden": 698,
+      "dni": "36XXXX05",
+      "apellidos": "GOMEZ",
+      "nombres": "BEATRIZ ELISABET",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 704,
+      "dni": "36XXXX78",
+      "apellidos": "TREJO",
+      "nombres": "SELVA ADRIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1084,
+      "dni": "28XXXX60",
+      "apellidos": "GUERRERO",
+      "nombres": "MARIANA KARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

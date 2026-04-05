@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 34034,
+    "padron_id": 61184
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "20XXXX59",
+      "apellidos": "NAZAR",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 151,
+      "dni": "17XXXX15",
+      "apellidos": "SAYOUD",
+      "nombres": "CLAUDIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "24XXXX70",
+      "apellidos": "ELIZONDO",
+      "nombres": "IVAN JAVIER",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

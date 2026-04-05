@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 33008,
+    "padron_id": 59154
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "42XXXX82",
+      "apellidos": "VILLARROEL",
+      "nombres": "MATIAS ABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "38XXXX46",
+      "apellidos": "MEDINA",
+      "nombres": "MARÍA ISAURA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 57,
+      "dni": "45XXXX84",
+      "apellidos": "TORRES ACOSTA",
+      "nombres": "SOFIA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "45XXXX83",
+      "apellidos": "TORRES ACOSTA",
+      "nombres": "ROSA FIORELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 32483,
+    "padron_id": 58135
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "39XXXX33",
+      "apellidos": "ORELLANA",
+      "nombres": "SELENA LUCIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "41XXXX98",
+      "apellidos": "RUIZ",
+      "nombres": "ISMAEL HERNAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "37XXXX32",
+      "apellidos": "IBAÑEZ",
+      "nombres": "LUCAS GABRIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

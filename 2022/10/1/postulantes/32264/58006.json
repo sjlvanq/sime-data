@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 32264,
+    "padron_id": 58006
+  },
+  "postulantes": [
+    {
+      "orden": 67,
+      "dni": "35XXXX68",
+      "apellidos": "MORENO",
+      "nombres": "FERNANDA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 91,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "37XXXX04",
+      "apellidos": "LAZARTE",
+      "nombres": "SERGIO IVAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 33108,
+    "padron_id": 59267
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX66",
+      "apellidos": "MOLINA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX05",
+      "apellidos": "AVILA",
+      "nombres": "STELLA MARIS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

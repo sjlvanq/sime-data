@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 32107,
+    "padron_id": 57181
+  },
+  "postulantes": [
+    {
+      "orden": 104,
+      "dni": "26XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "MIRTA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 140,
+      "dni": "23XXXX65",
+      "apellidos": "SANTILLAN",
+      "nombres": "MABEL DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 148,
+      "dni": "21XXXX77",
+      "apellidos": "VILLAGRA",
+      "nombres": "PAOLA LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

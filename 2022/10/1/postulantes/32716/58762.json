@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 32716,
+    "padron_id": 58762
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "29XXXX57",
+      "apellidos": "LOBO",
+      "nombres": "MIRIAM MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "29XXXX38",
+      "apellidos": "DIAZ",
+      "nombres": "AUGUSTO GUILLERMO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

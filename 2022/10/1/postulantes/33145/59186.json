@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 33145,
+    "padron_id": 59186
+  },
+  "postulantes": [
+    {
+      "orden": 113,
+      "dni": "17XXXX30",
+      "apellidos": "PEREZ",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 151,
+      "dni": "17XXXX15",
+      "apellidos": "SAYOUD",
+      "nombres": "CLAUDIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 153,
+      "dni": "18XXXX01",
+      "apellidos": "FLORES",
+      "nombres": "JOSE LUIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "22XXXX01",
+      "apellidos": "VARELA",
+      "nombres": "CLARA TERESITA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
