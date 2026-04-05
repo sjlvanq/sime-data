@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 113010,
+    "padron_id": 196002
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX80",
+      "apellidos": "AGUERO",
+      "nombres": "MARCOS ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "43XXXX27",
+      "apellidos": "CORBALAN TREJO",
+      "nombres": "NICOLAS FACUNDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

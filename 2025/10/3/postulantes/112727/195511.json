@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 112727,
+    "padron_id": 195511
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX15",
+      "apellidos": "LOBO",
+      "nombres": "MATIAS MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "36XXXX88",
+      "apellidos": "SVALDI",
+      "nombres": "JUAN SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "38XXXX82",
+      "apellidos": "JOSSO",
+      "nombres": "ANDRES OCTAVIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX29",
+      "apellidos": "FLORES",
+      "nombres": "FRANCO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "38XXXX84",
+      "apellidos": "CORONEL",
+      "nombres": "FACUNDO NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

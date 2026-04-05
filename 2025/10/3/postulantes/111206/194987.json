@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111206,
+    "padron_id": 194987
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "33XXXX69",
+      "apellidos": "SALGUERO",
+      "nombres": "JESSICA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "41XXXX88",
+      "apellidos": "ALDERETE",
+      "nombres": "GABRIEL ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "29XXXX97",
+      "apellidos": "DE LA VEGA",
+      "nombres": "JOSE ALBERTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX22",
+      "apellidos": "JIMENEZ",
+      "nombres": "DIEGO ALEJANDRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX90",
+      "apellidos": "PAZ",
+      "nombres": "DANIEL ALFREDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

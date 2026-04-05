@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 112916,
+    "padron_id": 195949
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "13XXXX87",
+      "apellidos": "ABREGU",
+      "nombres": "LUIS ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "40XXXX83",
+      "apellidos": "MARCHESE",
+      "nombres": "ROBERTO ANDRES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "45XXXX25",
+      "apellidos": "PALACIOS RUIZ",
+      "nombres": "FACUNDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "43XXXX02",
+      "apellidos": "RACEDO",
+      "nombres": "PATRICIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

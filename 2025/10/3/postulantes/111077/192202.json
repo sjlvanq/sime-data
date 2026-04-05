@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111077,
+    "padron_id": 192202
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "33XXXX10",
+      "apellidos": "CUEVAS",
+      "nombres": "KARINA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "39XXXX93",
+      "apellidos": "GEREZ",
+      "nombres": "RICARDO ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "38XXXX00",
+      "apellidos": "PEDRAZA",
+      "nombres": "RITA JAQUELINE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

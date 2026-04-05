@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111398,
+    "padron_id": 193273
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX50",
+      "apellidos": "SIERRA",
+      "nombres": "ROMINA CINTIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "39XXXX99",
+      "apellidos": "RIOS ORDOÑEZ",
+      "nombres": "JONATHAN NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "31XXXX77",
+      "apellidos": "JAIMES",
+      "nombres": "MARCELA ELEONORA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

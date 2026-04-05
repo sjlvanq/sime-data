@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111208,
+    "padron_id": 193339
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "25XXXX04",
+      "apellidos": "ARAOZ",
+      "nombres": "CYNTHIA LORENA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "24XXXX47",
+      "apellidos": "MOALLA",
+      "nombres": "ESTEBAN MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

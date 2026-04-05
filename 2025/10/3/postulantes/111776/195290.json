@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 111776,
+    "padron_id": 195290
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX74",
+      "apellidos": "JUAREZ",
+      "nombres": "TERESA DE JESUS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX50",
+      "apellidos": "ESCOBAR",
+      "nombres": "LORENA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "32XXXX39",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MIRIAN ROXANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "39XXXX06",
+      "apellidos": "ALIAS",
+      "nombres": "MIRIAM MAGDALENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "26XXXX56",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "SILVINA VALERIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

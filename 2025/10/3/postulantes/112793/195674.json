@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112793,
+    "padron_id": 195674
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "34XXXX20",
+      "apellidos": "OLEA",
+      "nombres": "MARIA PAULA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "25XXXX67",
+      "apellidos": "SALVATIERRA",
+      "nombres": "MARCIA INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "31XXXX76",
+      "apellidos": "CASAS CAU JULIA",
+      "nombres": "MARIA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

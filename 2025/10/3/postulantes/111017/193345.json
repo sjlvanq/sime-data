@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111017,
+    "padron_id": 193345
+  },
+  "postulantes": [
+    {
+      "orden": 22,
+      "dni": "35XXXX35",
+      "apellidos": "ALBORNOZ",
+      "nombres": "JIMENA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "36XXXX20",
+      "apellidos": "LANFRANCO",
+      "nombres": "CARLOS FRANCISCO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

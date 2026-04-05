@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111221,
+    "padron_id": 193082
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "38XXXX23",
+      "apellidos": "IRIARTE",
+      "nombres": "LUCAS JHONATHAN ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "40XXXX54",
+      "apellidos": "DIAZ GOMEZ",
+      "nombres": "TOMAS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "36XXXX03",
+      "apellidos": "RIVADENEIRA",
+      "nombres": "JUAN NAZARET",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

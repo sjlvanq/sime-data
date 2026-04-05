@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111687,
+    "padron_id": 193140
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "36XXXX02",
+      "apellidos": "GOMEZ",
+      "nombres": "CONRADO ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX12",
+      "apellidos": "VILLAGRA",
+      "nombres": "SOFIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "25XXXX67",
+      "apellidos": "SALVATIERRA",
+      "nombres": "MARCIA INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX16",
+      "apellidos": "AVILA",
+      "nombres": "DELFINA MARÍA DEL MILAGRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

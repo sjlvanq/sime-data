@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109425,
+    "padron_id": 191372
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "38XXXX66",
+      "apellidos": "BAZÁN",
+      "nombres": "CARLA ANTONELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX17",
+      "apellidos": "PAZ",
+      "nombres": "JOHANA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX42",
+      "apellidos": "DIAZ",
+      "nombres": "CARLA MARIA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

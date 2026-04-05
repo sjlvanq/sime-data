@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111327,
+    "padron_id": 193468
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX14",
+      "apellidos": "RIVERO",
+      "nombres": "LUCIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX01",
+      "apellidos": "ARCE ARRIOLA",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX39",
+      "apellidos": "LOPEZ AZNARAN",
+      "nombres": "ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX15",
+      "apellidos": "PAZ",
+      "nombres": "AGUSTIN JAVIER DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

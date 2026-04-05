@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111981,
+    "padron_id": 194936
+  },
+  "postulantes": [
+    {
+      "orden": 36,
+      "dni": "36XXXX77",
+      "apellidos": "IBAÑEZ",
+      "nombres": "VICTORIA FERNANDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX06",
+      "apellidos": "ROMANO",
+      "nombres": "ADRIANA RAQUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

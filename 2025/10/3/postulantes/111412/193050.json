@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111412,
+    "padron_id": 193050
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "27XXXX03",
+      "apellidos": "DIAZ",
+      "nombres": "ALBA ROSALIA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "28XXXX72",
+      "apellidos": "DAVILA",
+      "nombres": "MARIA PAULA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "38XXXX16",
+      "apellidos": "PAREDES",
+      "nombres": "JOHANA MICAELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 42,
+      "dni": "37XXXX40",
+      "apellidos": "VEGA",
+      "nombres": "MAIRA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 110609,
+    "padron_id": 193288
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "33XXXX45",
+      "apellidos": "JIMENEZ",
+      "nombres": "RAMON LEONCIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "44XXXX70",
+      "apellidos": "ORTEGA CORONEL",
+      "nombres": "MARTINA LUCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "40XXXX54",
+      "apellidos": "DIAZ GOMEZ",
+      "nombres": "TOMAS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

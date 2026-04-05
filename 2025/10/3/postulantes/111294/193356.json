@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111294,
+    "padron_id": 193356
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "17XXXX87",
+      "apellidos": "QUIPILDOR",
+      "nombres": "RODOLFO NESTOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX85",
+      "apellidos": "ROBLES",
+      "nombres": "VICTOR ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

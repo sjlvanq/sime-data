@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111718,
+    "padron_id": 193476
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX03",
+      "apellidos": "CUELLO",
+      "nombres": "EXEQUIEL HUMBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX72",
+      "apellidos": "GONZALEZ",
+      "nombres": "HERNANDO RAUL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

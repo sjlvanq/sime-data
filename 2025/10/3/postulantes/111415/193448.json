@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 111415,
+    "padron_id": 193448
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX92",
+      "apellidos": "VILLA",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "20XXXX27",
+      "apellidos": "YUSTE",
+      "nombres": "FRANCISCO RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

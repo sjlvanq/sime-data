@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 109072,
+    "padron_id": 190300
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "31XXXX38",
+      "apellidos": "NIEVA",
+      "nombres": "MARTIN AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "26XXXX71",
+      "apellidos": "NARANJO",
+      "nombres": "NANCY DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX12",
+      "apellidos": "SEGLI",
+      "nombres": "SERGIO EMILIANO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 111286,
+    "padron_id": 193021
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX58",
+      "apellidos": "RACEDO",
+      "nombres": "SERGIO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX25",
+      "apellidos": "SORUCO",
+      "nombres": "PABLO JAVIER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX33",
+      "apellidos": "TESEYRA",
+      "nombres": "GABRIELA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

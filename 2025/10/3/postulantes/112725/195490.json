@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 112725,
+    "padron_id": 195490
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX06",
+      "apellidos": "HERRERA",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX29",
+      "apellidos": "FLORES",
+      "nombres": "FRANCO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112672,
+    "padron_id": 195602
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX60",
+      "apellidos": "DANIEL",
+      "nombres": "MAGDA NOELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "21XXXX97",
+      "apellidos": "LUNA",
+      "nombres": "DANIEL ANSELMO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX02",
+      "apellidos": "MURUA",
+      "nombres": "LILIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

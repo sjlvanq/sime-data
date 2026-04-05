@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 111765,
+    "padron_id": 194077
+  },
+  "postulantes": [
+    {
+      "orden": 22,
+      "dni": "40XXXX84",
+      "apellidos": "PALMA",
+      "nombres": "JORGE AGUSTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "37XXXX99",
+      "apellidos": "LENCINA",
+      "nombres": "RODRIGO NAHUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "40XXXX70",
+      "apellidos": "TARTALO",
+      "nombres": "SOFIA ERINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 56,
+      "dni": "31XXXX30",
+      "apellidos": "MAMANI",
+      "nombres": "GERMAN ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

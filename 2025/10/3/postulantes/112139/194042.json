@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 112139,
+    "padron_id": 194042
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "32XXXX78",
+      "apellidos": "MEDINA",
+      "nombres": "GISELLE ARIADNA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX26",
+      "apellidos": "DÍAZ",
+      "nombres": "DEBORAH ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "40XXXX15",
+      "apellidos": "PACHECO",
+      "nombres": "CAROLINA DEL ROSARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
