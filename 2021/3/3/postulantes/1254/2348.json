@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 1254,
+    "padron_id": 2348
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX80",
+      "apellidos": "GUARINO",
+      "nombres": "MARIA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX84",
+      "apellidos": "AGUILAR",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "21XXXX20",
+      "apellidos": "TAURIZANO",
+      "nombres": "HUGO FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "17XXXX49",
+      "apellidos": "CHAYLE",
+      "nombres": "CLAUDIA VIVIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

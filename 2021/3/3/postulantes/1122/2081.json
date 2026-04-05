@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 1122,
+    "padron_id": 2081
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "30XXXX85",
+      "apellidos": "YAÑEZ",
+      "nombres": "CRISTIAN FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "36XXXX50",
+      "apellidos": "URUEÑA",
+      "nombres": "ANTONIO LINO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "32XXXX63",
+      "apellidos": "SOSA",
+      "nombres": "CHRISTIAN FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 50,
+      "dni": "37XXXX44",
+      "apellidos": "GIMENEZ",
+      "nombres": "CARLOS EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

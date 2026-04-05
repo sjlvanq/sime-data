@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1399,
+    "padron_id": 2588
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "32XXXX60",
+      "apellidos": "LEGUIZAMON",
+      "nombres": "JOSE ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX85",
+      "apellidos": "MAMANI",
+      "nombres": "SEBASTIAN DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1256,
+    "padron_id": 2443
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "29XXXX62",
+      "apellidos": "RUEDA",
+      "nombres": "SERGIO EMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "38XXXX53",
+      "apellidos": "ALDERETE",
+      "nombres": "FRANCO NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
