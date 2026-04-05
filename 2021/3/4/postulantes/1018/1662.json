@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 1018,
+    "padron_id": 1662
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX32",
+      "apellidos": "LEIVA",
+      "nombres": "JORGE ALEJANDRO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN CARACTER",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX01",
+      "apellidos": "ROMANO",
+      "nombres": "CESAR DANIEL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN CARACTER",
+      "CargoInferior": "-"
+    }
+  ]
+}

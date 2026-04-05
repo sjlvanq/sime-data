@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 1333,
+    "padron_id": 2456
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX96",
+      "apellidos": "ORTIZ",
+      "nombres": "JESUS SEBASTIAN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "35XXXX69",
+      "apellidos": "JUÁREZ",
+      "nombres": "LUISA NATALIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "22XXXX22",
+      "apellidos": "SALAS",
+      "nombres": "HECTOR FABIAN",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
