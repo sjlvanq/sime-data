@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 4541,
+    "padron_id": 8004
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX24",
+      "apellidos": "JUAREZ",
+      "nombres": "RAMON ISAAC",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "21XXXX20",
+      "apellidos": "TAURIZANO",
+      "nombres": "HUGO FABIAN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4903,
+    "padron_id": 8424
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX80",
+      "apellidos": "GUARINO",
+      "nombres": "MARIA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "21XXXX20",
+      "apellidos": "TAURIZANO",
+      "nombres": "HUGO FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX16",
+      "apellidos": "NIEVA",
+      "nombres": "ANGEL OSCAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

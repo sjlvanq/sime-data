@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 4619,
+    "padron_id": 7991
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "11XXXX30",
+      "apellidos": "ROBLES",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "17XXXX84",
+      "apellidos": "SALVATIERRA",
+      "nombres": "RUBEN ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "34XXXX27",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "PABLO EMANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
