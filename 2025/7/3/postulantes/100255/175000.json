@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100255,
+    "padron_id": 175000
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX72",
+      "apellidos": "ANDRADE",
+      "nombres": "DANNY ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX23",
+      "apellidos": "AGUILAR",
+      "nombres": "ARIEL FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

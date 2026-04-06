@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 99506,
+    "padron_id": 174073
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX22",
+      "apellidos": "QUINTERO",
+      "nombres": "RAUL GUSTAVO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX44",
+      "apellidos": "CAMPOS",
+      "nombres": "JUAN JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX25",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "35XXXX18",
+      "apellidos": "JUAREZ                                  ",
+      "nombres": "JOSE EMILIANO                           ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

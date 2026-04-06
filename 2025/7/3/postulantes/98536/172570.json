@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 98536,
+    "padron_id": 172570
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX41",
+      "apellidos": "LUPIA",
+      "nombres": "ENZO DARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "MEP JEFE DE SECCION INTERINO"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX97",
+      "apellidos": "TOLEDO",
+      "nombres": "ARIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "MEP TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 99946,
+    "padron_id": 174287
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "28XXXX25",
+      "apellidos": "GUERRERO",
+      "nombres": "ALFREDO FEDERICO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX47",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "EXEQUIEL ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

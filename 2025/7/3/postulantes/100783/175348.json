@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100783,
+    "padron_id": 175348
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX14",
+      "apellidos": "LOBO",
+      "nombres": "ALVARO SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "32XXXX30",
+      "apellidos": "DIAZ",
+      "nombres": "CRISTIAN HERNAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "37XXXX29",
+      "apellidos": "LANCELLA",
+      "nombres": "YULIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

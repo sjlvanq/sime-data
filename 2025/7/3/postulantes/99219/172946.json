@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99219,
+    "padron_id": 172946
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX76",
+      "apellidos": "GONZALEZ",
+      "nombres": "RAFAEL RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "28XXXX37",
+      "apellidos": "CASTILLO",
+      "nombres": "PRISCILA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "35XXXX79",
+      "apellidos": "ZAMORANO",
+      "nombres": "YANET MILAGRO DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

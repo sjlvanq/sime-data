@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99550,
+    "padron_id": 174197
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "21XXXX52",
+      "apellidos": "LUNA",
+      "nombres": "BEATRIZ FABIOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "38XXXX60",
+      "apellidos": "JUAREZ",
+      "nombres": "LUCIA AYELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "37XXXX03",
+      "apellidos": "ALVAREZ",
+      "nombres": "EZEQUIEL EUGENIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

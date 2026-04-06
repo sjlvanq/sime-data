@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100238,
+    "padron_id": 175684
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "32XXXX89",
+      "apellidos": "GALVAN",
+      "nombres": "MIGUEL RODRIGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "30XXXX07",
+      "apellidos": "GARZON",
+      "nombres": "PABLO OMAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

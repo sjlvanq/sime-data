@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 99769,
+    "padron_id": 174322
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX36",
+      "apellidos": "GONZALEZ",
+      "nombres": "ALFREDO EDUARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX94",
+      "apellidos": "DE MINGO",
+      "nombres": "SANTIAGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

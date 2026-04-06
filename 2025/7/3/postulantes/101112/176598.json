@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 101112,
+    "padron_id": 176598
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "36XXXX28",
+      "apellidos": "DIAZ",
+      "nombres": "CRISTIAN ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "31XXXX31",
+      "apellidos": "MERCADO",
+      "nombres": "CINTIA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

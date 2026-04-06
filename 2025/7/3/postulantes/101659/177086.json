@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 101659,
+    "padron_id": 177086
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX78",
+      "apellidos": "MARQUEZ",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX44",
+      "apellidos": "NAVARRO",
+      "nombres": "JUAN PABLO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

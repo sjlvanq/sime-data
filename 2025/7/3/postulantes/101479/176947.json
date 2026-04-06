@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 101479,
+    "padron_id": 176947
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "23XXXX16",
+      "apellidos": "CORDOBA ZELARAYAN",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "25XXXX62",
+      "apellidos": "SOTELO",
+      "nombres": "MARIA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "23XXXX08",
+      "apellidos": "GOYTIA ANTONI",
+      "nombres": "ANA INES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 101124,
+    "padron_id": 176378
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX19",
+      "apellidos": "MIRANDA GOMEZ",
+      "nombres": "MARIA CONSTANZA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "31XXXX76",
+      "apellidos": "ZAMORA LUQUEZ",
+      "nombres": "MARIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

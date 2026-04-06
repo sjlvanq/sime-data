@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 99498,
+    "padron_id": 173236
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX62",
+      "apellidos": "ACUÑA",
+      "nombres": "RODRIGO ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX93",
+      "apellidos": "SOTELO",
+      "nombres": "PABLO MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

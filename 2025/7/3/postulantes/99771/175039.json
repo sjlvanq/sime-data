@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99771,
+    "padron_id": 175039
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX21",
+      "apellidos": "ACOSTA",
+      "nombres": "ROMINA GRISELDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "36XXXX68",
+      "apellidos": "LOPEZ",
+      "nombres": "ANDRES NICOLAS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX24",
+      "apellidos": "GONZALEZ",
+      "nombres": "ADRIAN EUDORO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

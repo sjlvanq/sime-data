@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 99527,
+    "padron_id": 173234
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX37",
+      "apellidos": "JUAREZ",
+      "nombres": "LUIS ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "35XXXX17",
+      "apellidos": "AVELLANEDA",
+      "nombres": "NESTOR DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

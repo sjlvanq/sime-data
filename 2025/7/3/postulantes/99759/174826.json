@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99759,
+    "padron_id": 174826
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "26XXXX76",
+      "apellidos": "GONZALEZ",
+      "nombres": "RAFAEL RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "26XXXX35",
+      "apellidos": "LOBO",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "40XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "PAMELA CONSTANZA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

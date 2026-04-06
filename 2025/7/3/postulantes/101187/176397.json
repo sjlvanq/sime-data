@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 101187,
+    "padron_id": 176397
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "29XXXX28",
+      "apellidos": "DIAZ",
+      "nombres": "MARIA RAFAELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "37XXXX26",
+      "apellidos": "FERNANDEZ",
+      "nombres": "GABRIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "26XXXX26",
+      "apellidos": "MENDOZA",
+      "nombres": "MARIO RAÚL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

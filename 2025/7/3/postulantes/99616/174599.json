@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 99616,
+    "padron_id": 174599
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "24XXXX19",
+      "apellidos": "ACOSTA",
+      "nombres": "ANDREA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX60",
+      "apellidos": "ROJAS LAZARTE JUAREZ",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

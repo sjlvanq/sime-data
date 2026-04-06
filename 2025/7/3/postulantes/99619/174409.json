@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99619,
+    "padron_id": 174409
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "20XXXX67",
+      "apellidos": "FERNANDEZ",
+      "nombres": "ALBA MARTA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "27XXXX14",
+      "apellidos": "TETU",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "31XXXX73",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 99770,
+    "padron_id": 174321
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "33XXXX70",
+      "apellidos": "GIMENEZ",
+      "nombres": "PATRICIA DEL CARMEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "39XXXX99",
+      "apellidos": "CABRERA",
+      "nombres": "MARIA DELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

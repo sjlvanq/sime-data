@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 99022,
+    "padron_id": 172804
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX40",
+      "apellidos": "SOSA",
+      "nombres": "DIEGO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "43XXXX96",
+      "apellidos": "CHAVARRIA",
+      "nombres": "CARLOS MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

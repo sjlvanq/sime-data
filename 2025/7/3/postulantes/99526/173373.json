@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99526,
+    "padron_id": 173373
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "40XXXX08",
+      "apellidos": "ORQUERA",
+      "nombres": "SILVINA NATALÍ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "25XXXX54",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "35XXXX35",
+      "apellidos": "ALBORNOZ",
+      "nombres": "JIMENA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

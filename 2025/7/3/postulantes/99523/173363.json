@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99523,
+    "padron_id": 173363
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "20XXXX77",
+      "apellidos": "SISINI",
+      "nombres": "MARIA LILIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "21XXXX87",
+      "apellidos": "TORRES",
+      "nombres": "MARTA ALICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "25XXXX80",
+      "apellidos": "ESQUIVEL",
+      "nombres": "JOSE IGNACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
