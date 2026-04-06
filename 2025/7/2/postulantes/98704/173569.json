@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 98704,
+    "padron_id": 173569
+  },
+  "postulantes": [
+    {
+      "orden": 31,
+      "dni": "28XXXX84",
+      "apellidos": "JIMENEZ",
+      "nombres": "NADIA GRISELDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 57,
+      "dni": "35XXXX79",
+      "apellidos": "ZAMORANO",
+      "nombres": "YANET MILAGRO DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 101,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 120,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

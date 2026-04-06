@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 98503,
+    "padron_id": 171685
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX20",
+      "apellidos": "MADRAZO",
+      "nombres": "JOSE ZENON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 79,
+      "dni": "38XXXX31",
+      "apellidos": "SOTELO",
+      "nombres": "GABRIEL MARCOS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

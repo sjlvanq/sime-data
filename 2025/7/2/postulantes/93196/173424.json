@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93196,
+    "padron_id": 173424
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "32XXXX21",
+      "apellidos": "LUNA",
+      "nombres": "ANAHI SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "37XXXX29",
+      "apellidos": "ARIAS",
+      "nombres": "ANA LAURA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 47,
+      "dni": "36XXXX67",
+      "apellidos": "ABELLA",
+      "nombres": "LUCIANA JUDITH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

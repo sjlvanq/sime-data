@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 98696,
+    "padron_id": 172555
+  },
+  "postulantes": [
+    {
+      "orden": 44,
+      "dni": "36XXXX54",
+      "apellidos": "PACO",
+      "nombres": "MARÍA BELÉN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "26XXXX70",
+      "apellidos": "CASAL",
+      "nombres": "CRISTIAN DANIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 47,
+      "dni": "25XXXX96",
+      "apellidos": "RIVERO",
+      "nombres": "SONIA SUSANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "32XXXX43",
+      "apellidos": "VELARDEZ",
+      "nombres": "RUTH PATRICIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

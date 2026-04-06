@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 100480,
+    "padron_id": 174998
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "34XXXX21",
+      "apellidos": "ACOSTA PAZ",
+      "nombres": "SILVINA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "27XXXX35",
+      "apellidos": "ALBORNOZ",
+      "nombres": "ROMINA JANET",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "21XXXX97",
+      "apellidos": "LUNA",
+      "nombres": "DANIEL ANSELMO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "32XXXX89",
+      "apellidos": "PEREZ",
+      "nombres": "HECTOR MARIANO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99040,
+    "padron_id": 172656
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "31XXXX13",
+      "apellidos": "VILLAGRAN",
+      "nombres": "ERIKA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX58",
+      "apellidos": "VISCHI",
+      "nombres": "ADRIANA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "25XXXX39",
+      "apellidos": "SANCHEZ",
+      "nombres": "SILVINA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 100838,
+    "padron_id": 175663
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "30XXXX59",
+      "apellidos": "MOLINA",
+      "nombres": "SEBASTIAN GABRIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "26XXXX43",
+      "apellidos": "ARELLANO",
+      "nombres": "SERGIO ALFREDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "31XXXX56",
+      "apellidos": "NIEVA",
+      "nombres": "DEBORA LUCIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 52,
+      "dni": "35XXXX09",
+      "apellidos": "GONZALEZ",
+      "nombres": "VIRGINIA ROXANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "32XXXX43",
+      "apellidos": "VELARDEZ",
+      "nombres": "RUTH PATRICIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99030,
+    "padron_id": 172678
+  },
+  "postulantes": [
+    {
+      "orden": 128,
+      "dni": "34XXXX28",
+      "apellidos": "CUEVAS",
+      "nombres": "FLORENCIA ANYELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 87,
+      "dni": "41XXXX63",
+      "apellidos": "GARCÍA",
+      "nombres": "STEFANÍA NAIR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "37XXXX17",
+      "apellidos": "ALVAREZ",
+      "nombres": "MELINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

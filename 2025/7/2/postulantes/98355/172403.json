@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 98355,
+    "padron_id": 172403
+  },
+  "postulantes": [
+    {
+      "orden": 51,
+      "dni": "34XXXX05",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA LUCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 57,
+      "dni": "35XXXX79",
+      "apellidos": "ZAMORANO",
+      "nombres": "YANET MILAGRO DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 82,
+      "dni": "39XXXX16",
+      "apellidos": "BARBA",
+      "nombres": "MICAELA AYELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 101,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

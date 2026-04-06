@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 99321,
+    "padron_id": 173085
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "29XXXX00",
+      "apellidos": "MONTEROS",
+      "nombres": "ANALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "39XXXX03",
+      "apellidos": "MENDEZ",
+      "nombres": "ALVARO LEONEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "39XXXX50",
+      "apellidos": "ALURRALDE",
+      "nombres": "MARLENE ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "40XXXX52",
+      "apellidos": "FERREYRA",
+      "nombres": "CARLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

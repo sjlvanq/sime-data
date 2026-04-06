@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100115,
+    "padron_id": 173907
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "27XXXX90",
+      "apellidos": "LOZANO",
+      "nombres": "CECILIA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

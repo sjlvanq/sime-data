@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 100557,
+    "padron_id": 175375
+  },
+  "postulantes": [
+    {
+      "orden": 180,
+      "dni": "26XXXX57",
+      "apellidos": "SOLIS",
+      "nombres": "IRIS FABIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 353,
+      "dni": "39XXXX77",
+      "apellidos": "ALBARRACIN",
+      "nombres": "SOFIA MICAELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX42",
+      "apellidos": "PAZ",
+      "nombres": "ANTONIA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 64,
+      "dni": "35XXXX28",
+      "apellidos": "ALE PAZ",
+      "nombres": "JESSICA YASMILA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

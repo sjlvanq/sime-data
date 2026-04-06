@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100511,
+    "padron_id": 175397
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX87",
+      "apellidos": "ROMERO",
+      "nombres": "DEBORA PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "38XXXX13",
+      "apellidos": "COSTILLA",
+      "nombres": "GABRIELA YUDITH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "31XXXX41",
+      "apellidos": "JUAREZ",
+      "nombres": "WALTER FABIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

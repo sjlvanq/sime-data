@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 98023,
+    "padron_id": 172198
+  },
+  "postulantes": [
+    {
+      "orden": 33,
+      "dni": "35XXXX63",
+      "apellidos": "VALDEZ",
+      "nombres": "LUIS ALFREDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "38XXXX22",
+      "apellidos": "NAVARRO",
+      "nombres": "JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "33XXXX37",
+      "apellidos": "CASTRO SOSA",
+      "nombres": "IVANNA EDITH",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

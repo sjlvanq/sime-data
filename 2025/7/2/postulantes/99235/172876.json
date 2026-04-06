@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 99235,
+    "padron_id": 172876
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "31XXXX70",
+      "apellidos": "LOPEZ PEÑA",
+      "nombres": "JORGE RAMON",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "29XXXX38",
+      "apellidos": "DIAZ",
+      "nombres": "AUGUSTO GUILLERMO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "28XXXX23",
+      "apellidos": "D URSO",
+      "nombres": "LEONARDO DAMIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "30XXXX65",
+      "apellidos": "ROLDAN",
+      "nombres": "NICOLAS ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

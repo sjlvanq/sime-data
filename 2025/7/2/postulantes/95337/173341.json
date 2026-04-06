@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 95337,
+    "padron_id": 173341
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "23XXXX75",
+      "apellidos": "VELEZ",
+      "nombres": "MONICA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "33XXXX36",
+      "apellidos": "BERTINI",
+      "nombres": "ADRIANA GISELLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "39XXXX06",
+      "apellidos": "LOPEZ",
+      "nombres": "ANA DEL MILAGRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

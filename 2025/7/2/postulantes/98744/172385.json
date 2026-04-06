@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 98744,
+    "padron_id": 172385
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX49",
+      "apellidos": "GALLARDO",
+      "nombres": "GASTON ALEXANDER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "37XXXX50",
+      "apellidos": "PEREZ                                   ",
+      "nombres": "LUCIANO HERNAN                          ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "30XXXX08",
+      "apellidos": "JOSE",
+      "nombres": "LUIS RODOLFO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

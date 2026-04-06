@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 100722,
+    "padron_id": 175868
+  },
+  "postulantes": [
+    {
+      "orden": 77,
+      "dni": "37XXXX53",
+      "apellidos": "SANCHEZ",
+      "nombres": "GRECIA ANTONELLA MARGARITA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "33XXXX14",
+      "apellidos": "RIVERO",
+      "nombres": "LUCIANA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX07",
+      "apellidos": "DANILOVICH",
+      "nombres": "LUCIA FLORENCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "27XXXX11",
+      "apellidos": "ROMANO",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "38XXXX30",
+      "apellidos": "BRITO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

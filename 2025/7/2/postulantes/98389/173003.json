@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 98389,
+    "padron_id": 173003
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX64",
+      "apellidos": "LESCANO",
+      "nombres": "GUSTAVO ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "17XXXX05",
+      "apellidos": "ROGELIO",
+      "nombres": "MANUEL RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

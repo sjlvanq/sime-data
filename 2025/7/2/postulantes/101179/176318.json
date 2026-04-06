@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 101179,
+    "padron_id": 176318
+  },
+  "postulantes": [
+    {
+      "orden": 206,
+      "dni": "26XXXX35",
+      "apellidos": "LOBO",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 216,
+      "dni": "32XXXX30",
+      "apellidos": "DANNA",
+      "nombres": "YESICA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 354,
+      "dni": "38XXXX21",
+      "apellidos": "MATTEUCCI",
+      "nombres": "TOMAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX42",
+      "apellidos": "PAZ",
+      "nombres": "ANTONIA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100231,
+    "padron_id": 174484
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "22XXXX86",
+      "apellidos": "PAEZ",
+      "nombres": "NANCY MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX27",
+      "apellidos": "GUARDIA",
+      "nombres": "ANALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

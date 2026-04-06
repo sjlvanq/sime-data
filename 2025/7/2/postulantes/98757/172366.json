@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 98757,
+    "padron_id": 172366
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "25XXXX72",
+      "apellidos": "GONZALEZ",
+      "nombres": "HERNANDO RAUL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "18XXXX12",
+      "apellidos": "CHOCOBAR",
+      "nombres": "RUBEN EDUARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

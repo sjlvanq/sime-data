@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 98597,
+    "padron_id": 171995
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "38XXXX29",
+      "apellidos": "POSSE GALLARDO",
+      "nombres": "CAMILA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "29XXXX81",
+      "apellidos": "MORALES",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "38XXXX51",
+      "apellidos": "ALVAREZ",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99752,
+    "padron_id": 173684
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX71",
+      "apellidos": "CISNEROS",
+      "nombres": "CLAUDIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "33XXXX50",
+      "apellidos": "GARCIA",
+      "nombres": "IVANA ESTEFANI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "42XXXX07",
+      "apellidos": "GOMEZ",
+      "nombres": "NAZARENO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

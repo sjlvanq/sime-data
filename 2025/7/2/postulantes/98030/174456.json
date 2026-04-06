@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 98030,
+    "padron_id": 174456
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "34XXXX90",
+      "apellidos": "AGUIRRE RODRIGUEZ",
+      "nombres": "LOURDES ROCIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "41XXXX83",
+      "apellidos": "DELGADO",
+      "nombres": "CAMILA ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

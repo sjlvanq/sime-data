@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100803,
+    "padron_id": 175664
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX46",
+      "apellidos": "FUENTES",
+      "nombres": "CARLOS ROBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "26XXXX84",
+      "apellidos": "IBAÑEZ",
+      "nombres": "MARIANO HORACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

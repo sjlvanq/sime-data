@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 100365,
+    "padron_id": 175447
+  },
+  "postulantes": [
+    {
+      "orden": 40,
+      "dni": "40XXXX40",
+      "apellidos": "BENZAL",
+      "nombres": "MARIANA CANDELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "35XXXX80",
+      "apellidos": "MORENO LEDESMA",
+      "nombres": "LUCIANO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "30XXXX07",
+      "apellidos": "JIMENEZ",
+      "nombres": "MARTA NATALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "30XXXX68",
+      "apellidos": "RUIZ",
+      "nombres": "LAURA MARISA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

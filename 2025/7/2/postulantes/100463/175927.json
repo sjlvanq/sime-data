@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 100463,
+    "padron_id": 175927
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX43",
+      "apellidos": "CAMBULE",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "39XXXX89",
+      "apellidos": "FERNANDEZ",
+      "nombres": "CONSTANZA MARIA LOURDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX06",
+      "apellidos": "PALMIERI",
+      "nombres": "VANINA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "27XXXX95",
+      "apellidos": "GARAY",
+      "nombres": "VICTOR OSVALDO EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX18",
+      "apellidos": "SERRANO",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

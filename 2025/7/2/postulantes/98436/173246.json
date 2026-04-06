@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 98436,
+    "padron_id": 173246
+  },
+  "postulantes": [
+    {
+      "orden": 37,
+      "dni": "38XXXX79",
+      "apellidos": "REY",
+      "nombres": "KAREN MARCELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "37XXXX35",
+      "apellidos": "CARRAZANA",
+      "nombres": "JOSE ANTONIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 55,
+      "dni": "38XXXX85",
+      "apellidos": "GARCIA",
+      "nombres": "LUCIANA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 65,
+      "dni": "37XXXX79",
+      "apellidos": "CHOCOBAR",
+      "nombres": "FRANCO NICOLAS",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 119,
+      "dni": "38XXXX43",
+      "apellidos": "GRANEROS",
+      "nombres": "CRISTIAN MARCELO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

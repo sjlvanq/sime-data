@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 97195,
+    "padron_id": 171492
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "36XXXX58",
+      "apellidos": "ZAPATA MARCOUX",
+      "nombres": "GERARDO AUGUSTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "38XXXX50",
+      "apellidos": "CHOCOBAR",
+      "nombres": "REBECA NEFTALI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "40XXXX46",
+      "apellidos": "CORONEL",
+      "nombres": "LUCAS SANTIAGO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

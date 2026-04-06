@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 100530,
+    "padron_id": 175084
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "18XXXX68",
+      "apellidos": "JIMENEZ MONES MARCOLONGO",
+      "nombres": "SILVINA PAOLA DE FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "28XXXX71",
+      "apellidos": "DÍAZ",
+      "nombres": "SILVIA ELENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 23,
+      "dni": "27XXXX81",
+      "apellidos": "GOMEZ PARICCE",
+      "nombres": "ALEJANDRA FATIMA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "37XXXX00",
+      "apellidos": "PÉREZ BRAUNSTEIN",
+      "nombres": "MARIANA NOEMI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

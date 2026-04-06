@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 93196,
+    "padron_id": 173428
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "31XXXX74",
+      "apellidos": "JIMENEZ",
+      "nombres": "FRANCO ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "37XXXX77",
+      "apellidos": "GOMEZ",
+      "nombres": "JULIO DARIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "32XXXX84",
+      "apellidos": "PALLARES",
+      "nombres": "NORMA FERNANDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 38,
+      "dni": "32XXXX41",
+      "apellidos": "GUERRA",
+      "nombres": "JULIO CESAR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

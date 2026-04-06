@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99956,
+    "padron_id": 173688
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "38XXXX29",
+      "apellidos": "POSSE GALLARDO",
+      "nombres": "CAMILA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "29XXXX81",
+      "apellidos": "MORALES",
+      "nombres": "FRANCO DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "41XXXX40",
+      "apellidos": "SAHAD",
+      "nombres": "MARIA JOSE DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

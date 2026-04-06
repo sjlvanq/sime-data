@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 101039,
+    "padron_id": 176133
+  },
+  "postulantes": [
+    {
+      "orden": 18,
+      "dni": "36XXXX45",
+      "apellidos": "SARHID",
+      "nombres": "LAURA FLORENCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "31XXXX94",
+      "apellidos": "FARFAN",
+      "nombres": "MYRIAM DE LOS ANGELES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "26XXXX90",
+      "apellidos": "GUTIERREZ",
+      "nombres": "CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "22XXXX57",
+      "apellidos": "GEREZ",
+      "nombres": "ANA MARIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "38XXXX30",
+      "apellidos": "BRITO",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

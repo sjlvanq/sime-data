@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 99905,
+    "padron_id": 174162
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX18",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "32XXXX11",
+      "apellidos": "ORTIZ",
+      "nombres": "GABRIELA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "41XXXX36",
+      "apellidos": "VENZAL",
+      "nombres": "ANDREA ALEJANDRA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "33XXXX35",
+      "apellidos": "ROQUÉ",
+      "nombres": "YESSICA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

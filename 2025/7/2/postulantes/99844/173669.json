@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99844,
+    "padron_id": 173669
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "26XXXX71",
+      "apellidos": "CISNEROS",
+      "nombres": "CLAUDIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "25XXXX66",
+      "apellidos": "BRITO",
+      "nombres": "MIGUEL MARTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "38XXXX86",
+      "apellidos": "GAITAN CISNEROS",
+      "nombres": "DANIELA YANINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

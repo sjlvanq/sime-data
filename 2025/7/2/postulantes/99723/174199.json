@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99723,
+    "padron_id": 174199
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX99",
+      "apellidos": "TESORO",
+      "nombres": "MARTA SELVA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "29XXXX10",
+      "apellidos": "PONCE",
+      "nombres": "NATALIA MARCELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX18",
+      "apellidos": "MERCADO",
+      "nombres": "PABLO SILVESTRE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

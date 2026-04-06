@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 98162,
+    "padron_id": 171452
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "36XXXX80",
+      "apellidos": "DIAZ",
+      "nombres": "GONZALO EXEQUIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "34XXXX05",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA LUCIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 98,
+      "dni": "35XXXX99",
+      "apellidos": "ALCORTA",
+      "nombres": "CARLA GABRIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "28XXXX08",
+      "apellidos": "PASTRANA",
+      "nombres": "ANALIA GRACIELA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

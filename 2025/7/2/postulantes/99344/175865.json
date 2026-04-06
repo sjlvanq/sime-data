@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99344,
+    "padron_id": 175865
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX18",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "28XXXX59",
+      "apellidos": "OCAMPO",
+      "nombres": "ESTELA ROSA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX75",
+      "apellidos": "BOYDO",
+      "nombres": "FABIOLA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

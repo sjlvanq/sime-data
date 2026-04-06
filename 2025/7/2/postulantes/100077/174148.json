@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100077,
+    "padron_id": 174148
+  },
+  "postulantes": [
+    {
+      "orden": 55,
+      "dni": "17XXXX67",
+      "apellidos": "ACHES",
+      "nombres": "CESAR LUIS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "24XXXX60",
+      "apellidos": "NAVARRO",
+      "nombres": "IRMA HAYDEE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "VICE DIRECTOR INTERINO"
+    }
+  ]
+}

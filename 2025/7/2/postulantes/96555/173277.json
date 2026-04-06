@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 96555,
+    "padron_id": 173277
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "29XXXX95",
+      "apellidos": "DECIMA",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "36XXXX13",
+      "apellidos": "ROJAS",
+      "nombres": "VICTOR GUILLERMO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 85,
+      "dni": "35XXXX16",
+      "apellidos": "ALBORNOZ",
+      "nombres": "JOHANA CRISTAL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

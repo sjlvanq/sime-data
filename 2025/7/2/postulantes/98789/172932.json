@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 98789,
+    "padron_id": 172932
+  },
+  "postulantes": [
+    {
+      "orden": 40,
+      "dni": "32XXXX74",
+      "apellidos": "SORIA",
+      "nombres": "RAUL ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "31XXXX50",
+      "apellidos": "BARRAZA",
+      "nombres": "MARTA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 82,
+      "dni": "26XXXX95",
+      "apellidos": "MARTA",
+      "nombres": "YANINA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 86,
+      "dni": "26XXXX14",
+      "apellidos": "FERNANDEZ",
+      "nombres": "MIRTA MABEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99629,
+    "padron_id": 174140
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX18",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "32XXXX11",
+      "apellidos": "ORTIZ",
+      "nombres": "GABRIELA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "37XXXX29",
+      "apellidos": "SANCHEZ",
+      "nombres": "NICODEMO CARLOS DAVID",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

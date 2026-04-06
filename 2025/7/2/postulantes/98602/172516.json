@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 98602,
+    "padron_id": 172516
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "28XXXX68",
+      "apellidos": "VALDEZ",
+      "nombres": "WALTER MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX65",
+      "apellidos": "PONCE",
+      "nombres": "JORGE DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

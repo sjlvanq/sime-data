@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 99720,
+    "padron_id": 173258
+  },
+  "postulantes": [
+    {
+      "orden": 89,
+      "dni": "27XXXX60",
+      "apellidos": "GARECA",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 93,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 165,
+      "dni": "40XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "PAMELA CONSTANZA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "31XXXX75",
+      "apellidos": "AGUIRRE",
+      "nombres": "PAULA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

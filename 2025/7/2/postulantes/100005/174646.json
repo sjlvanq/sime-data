@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100005,
+    "padron_id": 174646
+  },
+  "postulantes": [
+    {
+      "orden": 36,
+      "dni": "26XXXX48",
+      "apellidos": "CORDOBA",
+      "nombres": "NATALIA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX19",
+      "apellidos": "LUPERCIO",
+      "nombres": "VERONICA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

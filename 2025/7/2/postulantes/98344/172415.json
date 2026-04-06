@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 98344,
+    "padron_id": 172415
+  },
+  "postulantes": [
+    {
+      "orden": 41,
+      "dni": "32XXXX67",
+      "apellidos": "VILLAGRA",
+      "nombres": "ROMINA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 72,
+      "dni": "36XXXX65",
+      "apellidos": "LUCENA",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 120,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

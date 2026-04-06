@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 98402,
+    "padron_id": 172855
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "35XXXX54",
+      "apellidos": "LOPEZ",
+      "nombres": "VERÓNICA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "31XXXX90",
+      "apellidos": "CENTENO",
+      "nombres": "CLAUDIA MARISA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "39XXXX93",
+      "apellidos": "PEREZ",
+      "nombres": "VANESSA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "38XXXX33",
+      "apellidos": "PÉREZ",
+      "nombres": "MILAGRO ANTONELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

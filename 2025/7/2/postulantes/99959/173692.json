@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 99959,
+    "padron_id": 173692
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "28XXXX90",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "CRISTIAN REINALDO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX79",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "IVANA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "32XXXX98",
+      "apellidos": "DE CARLO",
+      "nombres": "MARIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX84",
+      "apellidos": "CORRALES",
+      "nombres": "FACUNDO MARIANO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

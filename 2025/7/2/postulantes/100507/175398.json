@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100507,
+    "padron_id": 175398
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "33XXXX18",
+      "apellidos": "CARRIZO",
+      "nombres": "MAYRA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX98",
+      "apellidos": "PALACIOS",
+      "nombres": "LUCÍA REBECA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

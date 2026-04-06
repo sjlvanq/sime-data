@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99901,
+    "padron_id": 174475
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "33XXXX24",
+      "apellidos": "SANCHEZ FILIPPONE",
+      "nombres": "MARIA JOSE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX62",
+      "apellidos": "ZAMORA MOLINA",
+      "nombres": "ANDRES SEBASTIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX90",
+      "apellidos": "AGUIRRE RODRIGUEZ",
+      "nombres": "LOURDES ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

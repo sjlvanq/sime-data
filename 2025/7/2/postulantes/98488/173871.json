@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 98488,
+    "padron_id": 173871
+  },
+  "postulantes": [
+    {
+      "orden": 209,
+      "dni": "27XXXX59",
+      "apellidos": "PAZ",
+      "nombres": "SILVIA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 353,
+      "dni": "39XXXX77",
+      "apellidos": "ALBARRACIN",
+      "nombres": "SOFIA MICAELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 89,
+      "dni": "36XXXX65",
+      "apellidos": "LUCENA",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
