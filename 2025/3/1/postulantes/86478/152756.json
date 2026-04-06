@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 86478,
+    "padron_id": 152756
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "33XXXX02",
+      "apellidos": "DIAZ",
+      "nombres": "MAIRA LEONELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "24XXXX36",
+      "apellidos": "CRUZ",
+      "nombres": "HECTOR ARIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "32XXXX15",
+      "apellidos": "ALVES",
+      "nombres": "MARIA CADENET",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "23XXXX02",
+      "apellidos": "MUZZOLON",
+      "nombres": "MARTIN DIEGO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

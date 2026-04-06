@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 87080,
+    "padron_id": 153575
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "39XXXX86",
+      "apellidos": "HEREDIA",
+      "nombres": "DANIELA DEL MILAGRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "35XXXX54",
+      "apellidos": "MEDINA",
+      "nombres": "TANYA YANET",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX83",
+      "apellidos": "AGUERO",
+      "nombres": "VIRGINIA CAROLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "38XXXX32",
+      "apellidos": "PETRELLI WELZEL",
+      "nombres": "GABRIELA VERONICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

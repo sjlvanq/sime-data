@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 86250,
+    "padron_id": 151150
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "29XXXX58",
+      "apellidos": "DIAZ",
+      "nombres": "GLADYS ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 184,
+      "dni": "28XXXX01",
+      "apellidos": "PEREYRA",
+      "nombres": "CARMEN ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 177,
+      "dni": "26XXXX11",
+      "apellidos": "FIGUEROA",
+      "nombres": "MARIA SILVANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 221,
+      "dni": "23XXXX88",
+      "apellidos": "VILLARREAL",
+      "nombres": "MARISA ALEJANDRA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

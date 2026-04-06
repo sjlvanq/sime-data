@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 85553,
+    "padron_id": 150131
+  },
+  "postulantes": [
+    {
+      "orden": 101,
+      "dni": "30XXXX70",
+      "apellidos": "DECIMA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 150,
+      "dni": "24XXXX66",
+      "apellidos": "RUIZ",
+      "nombres": "GRACIELA FATIMA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

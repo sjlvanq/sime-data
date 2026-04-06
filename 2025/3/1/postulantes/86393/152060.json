@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 86393,
+    "padron_id": 152060
+  },
+  "postulantes": [
+    {
+      "orden": 104,
+      "dni": "21XXXX73",
+      "apellidos": "RIOS",
+      "nombres": "MARTA GUILLERMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 167,
+      "dni": "23XXXX45",
+      "apellidos": "DELGADO",
+      "nombres": "MARIA ANGELICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 225,
+      "dni": "22XXXX33",
+      "apellidos": "SAAVEDRA",
+      "nombres": "MERCEDES ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 225,
+      "dni": "25XXXX69",
+      "apellidos": "SALOMÓN",
+      "nombres": "MARIA JULIA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

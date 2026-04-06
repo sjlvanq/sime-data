@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 86913,
+    "padron_id": 152381
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "24XXXX30",
+      "apellidos": "AGUIRRE",
+      "nombres": "MARIA ELVIRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX15",
+      "apellidos": "VILLAGRA",
+      "nombres": "SILVIA SUSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "22XXXX74",
+      "apellidos": "CHAZARRETA",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

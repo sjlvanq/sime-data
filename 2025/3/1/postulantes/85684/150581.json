@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 85684,
+    "padron_id": 150581
+  },
+  "postulantes": [
+    {
+      "orden": 130,
+      "dni": "21XXXX56",
+      "apellidos": "FIGUEROA",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 149,
+      "dni": "20XXXX58",
+      "apellidos": "VILACHI",
+      "nombres": "CECILIA BERSABET",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 179,
+      "dni": "21XXXX82",
+      "apellidos": "PALINA",
+      "nombres": "JUAN RAMON",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

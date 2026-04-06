@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85855,
+    "padron_id": 150715
+  },
+  "postulantes": [
+    {
+      "orden": 107,
+      "dni": "34XXXX34",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "RITA LUDMILA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 226,
+      "dni": "25XXXX06",
+      "apellidos": "RUIZ",
+      "nombres": "CARINA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 259,
+      "dni": "23XXXX08",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

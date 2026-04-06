@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85557,
+    "padron_id": 150158
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "36XXXX11",
+      "apellidos": "LESCANO",
+      "nombres": "CECILIA ANTONELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "30XXXX01",
+      "apellidos": "CASTRO",
+      "nombres": "ALICIA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 101,
+      "dni": "30XXXX70",
+      "apellidos": "DECIMA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

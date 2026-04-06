@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 86515,
+    "padron_id": 151814
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX86",
+      "apellidos": "PEREZ",
+      "nombres": "PAOLA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "27XXXX27",
+      "apellidos": "ANGEL",
+      "nombres": "PRISCILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "29XXXX39",
+      "apellidos": "SUAREZ",
+      "nombres": "SILVIA MARIA ANABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

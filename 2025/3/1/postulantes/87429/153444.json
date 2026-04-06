@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87429,
+    "padron_id": 153444
+  },
+  "postulantes": [
+    {
+      "orden": 17,
+      "dni": "21XXXX79",
+      "apellidos": "VILARIÑO",
+      "nombres": "LEONARDO GABRIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 26,
+      "dni": "38XXXX71",
+      "apellidos": "LIZÁRRAGA",
+      "nombres": "LUCÍA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "29XXXX00",
+      "apellidos": "DECIMA",
+      "nombres": "JUAN LEANDRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

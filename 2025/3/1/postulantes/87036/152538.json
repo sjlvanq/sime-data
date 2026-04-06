@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 87036,
+    "padron_id": 152538
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "29XXXX00",
+      "apellidos": "DECIMA",
+      "nombres": "JUAN LEANDRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "43XXXX23",
+      "apellidos": "CARRIZO",
+      "nombres": "VIRGINIA IRENE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "39XXXX23",
+      "apellidos": "ZERDA",
+      "nombres": "JUAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "41XXXX33",
+      "apellidos": "LUCERO",
+      "nombres": "CRISTIAN GABRIEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

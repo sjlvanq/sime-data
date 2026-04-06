@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87827,
+    "padron_id": 153934
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "39XXXX86",
+      "apellidos": "HEREDIA",
+      "nombres": "DANIELA DEL MILAGRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "29XXXX39",
+      "apellidos": "VALENZUELA",
+      "nombres": "ANDRES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX83",
+      "apellidos": "AGUERO",
+      "nombres": "VIRGINIA CAROLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

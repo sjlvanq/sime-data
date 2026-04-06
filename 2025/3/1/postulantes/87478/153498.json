@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87478,
+    "padron_id": 153498
+  },
+  "postulantes": [
+    {
+      "orden": 22,
+      "dni": "30XXXX98",
+      "apellidos": "ROMERO",
+      "nombres": "RUTH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "31XXXX10",
+      "apellidos": "GRANITO",
+      "nombres": "MARIA CELINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "29XXXX99",
+      "apellidos": "SAAVEDRA",
+      "nombres": "CYNTHIA CELESTE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

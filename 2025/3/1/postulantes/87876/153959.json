@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 87876,
+    "padron_id": 153959
+  },
+  "postulantes": [
+    {
+      "orden": 748,
+      "dni": "34XXXX46",
+      "apellidos": "AVILA",
+      "nombres": "CARLA LUCIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 830,
+      "dni": "27XXXX76",
+      "apellidos": "RAFAEL",
+      "nombres": "MARIA JOSEFA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 929,
+      "dni": "33XXXX89",
+      "apellidos": "IBAÑEZ",
+      "nombres": "CARINA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1068,
+      "dni": "39XXXX98",
+      "apellidos": "PONCE",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

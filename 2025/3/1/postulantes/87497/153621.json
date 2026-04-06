@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87497,
+    "padron_id": 153621
+  },
+  "postulantes": [
+    {
+      "orden": 455,
+      "dni": "32XXXX03",
+      "apellidos": "TULA",
+      "nombres": "ERIKA JOHANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 600,
+      "dni": "36XXXX46",
+      "apellidos": "FACIANO",
+      "nombres": "EVELYN ANABELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 513,
+      "dni": "22XXXX29",
+      "apellidos": "ARAGON",
+      "nombres": "LIDIA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85618,
+    "padron_id": 150267
+  },
+  "postulantes": [
+    {
+      "orden": 21,
+      "dni": "29XXXX58",
+      "apellidos": "DIAZ",
+      "nombres": "GLADYS ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 231,
+      "dni": "20XXXX82",
+      "apellidos": "PUMARA",
+      "nombres": "ALEJANDRA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

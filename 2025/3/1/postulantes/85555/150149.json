@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85555,
+    "padron_id": 150149
+  },
+  "postulantes": [
+    {
+      "orden": 744,
+      "dni": "31XXXX58",
+      "apellidos": "JIMENEZ",
+      "nombres": "RAMONA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 526,
+      "dni": "33XXXX80",
+      "apellidos": "AGUILAR",
+      "nombres": "LUCIA VERONICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 530,
+      "dni": "37XXXX21",
+      "apellidos": "AGUILERA",
+      "nombres": "FABIANA EDITH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

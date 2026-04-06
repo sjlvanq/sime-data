@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87555,
+    "padron_id": 153636
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "36XXXX11",
+      "apellidos": "LESCANO",
+      "nombres": "CECILIA ANTONELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 231,
+      "dni": "20XXXX82",
+      "apellidos": "PUMARA",
+      "nombres": "ALEJANDRA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

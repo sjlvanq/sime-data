@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 86182,
+    "padron_id": 151099
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "38XXXX97",
+      "apellidos": "RODRIGUEZ ROSSI",
+      "nombres": "MAURO EMMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "23XXXX37",
+      "apellidos": "LAHITTE",
+      "nombres": "VICTOR HUGO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 53,
+      "dni": "39XXXX13",
+      "apellidos": "FLORES",
+      "nombres": "EMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

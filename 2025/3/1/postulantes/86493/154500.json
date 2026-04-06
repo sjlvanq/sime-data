@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 86493,
+    "padron_id": 154500
+  },
+  "postulantes": [
+    {
+      "orden": 140,
+      "dni": "28XXXX47",
+      "apellidos": "CONTRERAS",
+      "nombres": "MARIA ROSA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 188,
+      "dni": "26XXXX66",
+      "apellidos": "ORELLANA",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87965,
+    "padron_id": 154297
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "26XXXX69",
+      "apellidos": "BRITO",
+      "nombres": "NOELIA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "27XXXX59",
+      "apellidos": "PAZ",
+      "nombres": "SILVIA NATALIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "23XXXX38",
+      "apellidos": "RAMIS",
+      "nombres": "MARIA ELISA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 86069,
+    "padron_id": 150958
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "23XXXX72",
+      "apellidos": "MONTERO",
+      "nombres": "LUCIANO FELIPE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "41XXXX36",
+      "apellidos": "VENZAL",
+      "nombres": "ANDREA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "36XXXX34",
+      "apellidos": "HERRERO JAIME",
+      "nombres": "MARÍA VICTORIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

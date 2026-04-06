@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 86966,
+    "padron_id": 152360
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "36XXXX47",
+      "apellidos": "ROMERO",
+      "nombres": "MAYRA NAHIR",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "26XXXX37",
+      "apellidos": "NIEVA",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "26XXXX36",
+      "apellidos": "BULACIO",
+      "nombres": "MARIELA ROSSANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

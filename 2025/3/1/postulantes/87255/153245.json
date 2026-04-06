@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87255,
+    "padron_id": 153245
+  },
+  "postulantes": [
+    {
+      "orden": 120,
+      "dni": "31XXXX47",
+      "apellidos": "GUZMAN",
+      "nombres": "CAROLINA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 186,
+      "dni": "25XXXX57",
+      "apellidos": "NUÑEZ",
+      "nombres": "KARINA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 139,
+      "dni": "34XXXX34",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "RITA LUDMILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

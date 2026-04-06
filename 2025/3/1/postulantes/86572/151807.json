@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 86572,
+    "padron_id": 151807
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "39XXXX87",
+      "apellidos": "MARTINEZ",
+      "nombres": "LUZ MICAELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "40XXXX66",
+      "apellidos": "NIEVA",
+      "nombres": "SOFIA DEL MILAGRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "31XXXX16",
+      "apellidos": "PAEZ",
+      "nombres": "MARIA LUZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "29XXXX39",
+      "apellidos": "SUAREZ",
+      "nombres": "SILVIA MARIA ANABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

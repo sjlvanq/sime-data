@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85550,
+    "padron_id": 150125
+  },
+  "postulantes": [
+    {
+      "orden": 132,
+      "dni": "29XXXX46",
+      "apellidos": "TOLEDO                                  ",
+      "nombres": "VALERIA ROMINA                          ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 231,
+      "dni": "20XXXX82",
+      "apellidos": "PUMARA",
+      "nombres": "ALEJANDRA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 86634,
+    "padron_id": 152026
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "30XXXX01",
+      "apellidos": "CASTRO",
+      "nombres": "ALICIA MABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 130,
+      "dni": "28XXXX62",
+      "apellidos": "SALVA",
+      "nombres": "MONICA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

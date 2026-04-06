@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 87261,
+    "padron_id": 152916
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "26XXXX37",
+      "apellidos": "NIEVA",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
