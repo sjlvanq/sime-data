@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100969,
+    "padron_id": 176055
+  },
+  "postulantes": [
+    {
+      "orden": 102,
+      "dni": "27XXXX05",
+      "apellidos": "BENITO",
+      "nombres": "TATIANA VALERIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 121,
+      "dni": "29XXXX92",
+      "apellidos": "ALBARRACIN",
+      "nombres": "ADRIANA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 34,
+      "dni": "34XXXX41",
+      "apellidos": "CONTRERAS",
+      "nombres": "ROMINA GISELLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

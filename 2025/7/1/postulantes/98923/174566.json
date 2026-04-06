@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 98923,
+    "padron_id": 174566
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "38XXXX30",
+      "apellidos": "ESCALANTE",
+      "nombres": "DANIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "42XXXX06",
+      "apellidos": "VILLA",
+      "nombres": "ALFREDO EMMANUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

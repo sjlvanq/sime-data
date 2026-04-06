@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99259,
+    "padron_id": 172608
+  },
+  "postulantes": [
+    {
+      "orden": 78,
+      "dni": "39XXXX70",
+      "apellidos": "ROJAS",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 103,
+      "dni": "22XXXX66",
+      "apellidos": "LIZONDO",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 199,
+      "dni": "36XXXX43",
+      "apellidos": "MITTELMANN",
+      "nombres": "PRISCILLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

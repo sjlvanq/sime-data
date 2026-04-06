@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100300,
+    "padron_id": 174582
+  },
+  "postulantes": [
+    {
+      "orden": 500,
+      "dni": "36XXXX05",
+      "apellidos": "CASTELLANOS",
+      "nombres": "CARLOS EXEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

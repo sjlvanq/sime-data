@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100646,
+    "padron_id": 175192
+  },
+  "postulantes": [
+    {
+      "orden": 151,
+      "dni": "29XXXX05",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARIELA SOLEDAD",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

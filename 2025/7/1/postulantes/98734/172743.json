@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 98734,
+    "padron_id": 172743
+  },
+  "postulantes": [
+    {
+      "orden": 32,
+      "dni": "23XXXX80",
+      "apellidos": "CORDOBA",
+      "nombres": "MARIA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "28XXXX74",
+      "apellidos": "VALDEZ",
+      "nombres": "MARIELA ADRIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

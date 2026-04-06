@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 101023,
+    "padron_id": 176073
+  },
+  "postulantes": [
+    {
+      "orden": 174,
+      "dni": "38XXXX81",
+      "apellidos": "MORENO",
+      "nombres": "MATIAS FERNANDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 416,
+      "dni": "22XXXX91",
+      "apellidos": "BARROSO",
+      "nombres": "MARIA ESTER",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 525,
+      "dni": "33XXXX85",
+      "apellidos": "MORENO",
+      "nombres": "CLAUDIA SILVINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 598,
+      "dni": "33XXXX98",
+      "apellidos": "NORIEGA",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 726,
+      "dni": "33XXXX97",
+      "apellidos": "MANINO",
+      "nombres": "ELIANA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

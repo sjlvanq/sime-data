@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100114,
+    "padron_id": 174062
+  },
+  "postulantes": [
+    {
+      "orden": 144,
+      "dni": "36XXXX05",
+      "apellidos": "GOMEZ",
+      "nombres": "BEATRIZ ELISABET",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 148,
+      "dni": "32XXXX23",
+      "apellidos": "FIGUEROA",
+      "nombres": "ROMINA YAELE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 218,
+      "dni": "26XXXX31",
+      "apellidos": "MARTIN",
+      "nombres": "DIEGO ALBERTO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

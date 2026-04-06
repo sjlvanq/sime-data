@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 99813,
+    "padron_id": 173917
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "32XXXX74",
+      "apellidos": "SORIA",
+      "nombres": "RAUL ALEJANDRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 59,
+      "dni": "33XXXX40",
+      "apellidos": "GRANEROS",
+      "nombres": "PABLO SEBASTIÁN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 132,
+      "dni": "23XXXX92",
+      "apellidos": "LOBO",
+      "nombres": "SANDRA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 159,
+      "dni": "24XXXX28",
+      "apellidos": "PASTORIZA",
+      "nombres": "GUILLERMO GUSTAVO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

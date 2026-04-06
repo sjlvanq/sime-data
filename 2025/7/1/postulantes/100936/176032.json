@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100936,
+    "padron_id": 176032
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "34XXXX41",
+      "apellidos": "CONTRERAS",
+      "nombres": "ROMINA GISELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 132,
+      "dni": "29XXXX46",
+      "apellidos": "TOLEDO                                  ",
+      "nombres": "VALERIA ROMINA                          ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "26XXXX78",
+      "apellidos": "MARTINEZ",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

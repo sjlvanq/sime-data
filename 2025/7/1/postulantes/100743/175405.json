@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100743,
+    "padron_id": 175405
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "27XXXX82",
+      "apellidos": "CUELLO",
+      "nombres": "NELIDA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "20XXXX24",
+      "apellidos": "MAZA",
+      "nombres": "ROSA ROSARIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

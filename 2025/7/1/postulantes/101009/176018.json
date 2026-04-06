@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 101009,
+    "padron_id": 176018
+  },
+  "postulantes": [
+    {
+      "orden": 78,
+      "dni": "29XXXX24",
+      "apellidos": "ZELAYA",
+      "nombres": "SANDRA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 97,
+      "dni": "26XXXX91",
+      "apellidos": "SEQUEIRA",
+      "nombres": "NANCY MARIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

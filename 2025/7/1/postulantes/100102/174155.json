@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 100102,
+    "padron_id": 174155
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "24XXXX84",
+      "apellidos": "LOBO ORTIZ",
+      "nombres": "MARIELA DE LOS ANGELES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "40XXXX94",
+      "apellidos": "REYES",
+      "nombres": "AIMÉ ANABELLA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "39XXXX07",
+      "apellidos": "ROTGER ZAMORA",
+      "nombres": "GABRIEL HORACIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX66",
+      "apellidos": "TIRADO",
+      "nombres": "PATRICIA ALEJANDRA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

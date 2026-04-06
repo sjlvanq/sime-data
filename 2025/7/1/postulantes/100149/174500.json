@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 100149,
+    "padron_id": 174500
+  },
+  "postulantes": [
+    {
+      "orden": 35,
+      "dni": "37XXXX74",
+      "apellidos": "PONCE",
+      "nombres": "JAVIER EXEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 89,
+      "dni": "27XXXX63",
+      "apellidos": "VILLALBA",
+      "nombres": "ANA LILIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 155,
+      "dni": "35XXXX68",
+      "apellidos": "MORENO",
+      "nombres": "FERNANDA ELIZABETH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 166,
+      "dni": "39XXXX90",
+      "apellidos": "ROBLES",
+      "nombres": "EVELYN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 199,
+      "dni": "36XXXX43",
+      "apellidos": "MITTELMANN",
+      "nombres": "PRISCILLA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

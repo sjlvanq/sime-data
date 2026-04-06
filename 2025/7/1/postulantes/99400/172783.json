@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 99400,
+    "padron_id": 172783
+  },
+  "postulantes": [
+    {
+      "orden": 231,
+      "dni": "41XXXX67",
+      "apellidos": "APIZ",
+      "nombres": "JULIO MÁXIMO FABIÁN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 243,
+      "dni": "36XXXX43",
+      "apellidos": "MITTELMANN",
+      "nombres": "PRISCILLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "33XXXX89",
+      "apellidos": "DELGADO PILLON",
+      "nombres": "MARIA IRUPE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "33XXXX65",
+      "apellidos": "MOREIRA",
+      "nombres": "ROMINA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

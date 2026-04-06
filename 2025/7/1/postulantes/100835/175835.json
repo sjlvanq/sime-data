@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "vacante_id": 100835,
+    "padron_id": 175835
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "21XXXX50",
+      "apellidos": "GONZALEZ",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "20XXXX07",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA FABIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 32,
+      "dni": "39XXXX38",
+      "apellidos": "PALAVECINO",
+      "nombres": "MARISEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "29XXXX68",
+      "apellidos": "LUNA",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "31XXXX47",
+      "apellidos": "RIVADENEIRA",
+      "nombres": "JULIA ROSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "39XXXX92",
+      "apellidos": "DEL CAMPO GUERRERO",
+      "nombres": "MIGUEL GERMAN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 101329,
+    "padron_id": 176615
+  },
+  "postulantes": [
+    {
+      "orden": 94,
+      "dni": "24XXXX60",
+      "apellidos": "GARCIA HARO",
+      "nombres": "CINTHYA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX52",
+      "apellidos": "ALVAREZ",
+      "nombres": "ANALIA VERONICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX65",
+      "apellidos": "JUAREZ",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 112,
+      "dni": "31XXXX35",
+      "apellidos": "CORTINA",
+      "nombres": "MARIA FLORENCIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

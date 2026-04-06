@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 100798,
+    "padron_id": 175738
+  },
+  "postulantes": [
+    {
+      "orden": 660,
+      "dni": "39XXXX10",
+      "apellidos": "VERA",
+      "nombres": "JENNIFFERT KARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 670,
+      "dni": "40XXXX54",
+      "apellidos": "ROMÁN",
+      "nombres": "CINTIA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 242,
+      "dni": "29XXXX68",
+      "apellidos": "LUNA",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 727,
+      "dni": "40XXXX46",
+      "apellidos": "SANCHEZ",
+      "nombres": "ANTONELLA ANAHI DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

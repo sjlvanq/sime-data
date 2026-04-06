@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 100922,
+    "padron_id": 175737
+  },
+  "postulantes": [
+    {
+      "orden": 196,
+      "dni": "22XXXX53",
+      "apellidos": "CAMPOS",
+      "nombres": "ANGELA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 211,
+      "dni": "27XXXX37",
+      "apellidos": "LOPEZ",
+      "nombres": "VERONICA ELBA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 234,
+      "dni": "26XXXX11",
+      "apellidos": "FIGUEROA",
+      "nombres": "MARIA SILVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "28XXXX75",
+      "apellidos": "OVEJERO",
+      "nombres": "ROMINA MARIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

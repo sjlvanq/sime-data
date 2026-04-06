@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 100944,
+    "padron_id": 176051
+  },
+  "postulantes": [
+    {
+      "orden": 24,
+      "dni": "28XXXX75",
+      "apellidos": "OVEJERO",
+      "nombres": "ROMINA MARIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 119,
+      "dni": "24XXXX96",
+      "apellidos": "RODRIGUEZ GONZALO",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 214,
+      "dni": "23XXXX32",
+      "apellidos": "PICCINETTI",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 217,
+      "dni": "23XXXX22",
+      "apellidos": "ERAZO",
+      "nombres": "ALEJANDRA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

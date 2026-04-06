@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100161,
+    "padron_id": 174218
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "20XXXX50",
+      "apellidos": "GONZALEZ",
+      "nombres": "MONICA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 213,
+      "dni": "20XXXX63",
+      "apellidos": "MANZUR",
+      "nombres": "FABIANA MARCELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 215,
+      "dni": "27XXXX19",
+      "apellidos": "AROLFO",
+      "nombres": "GABRIELA DE LAS MERCEDES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

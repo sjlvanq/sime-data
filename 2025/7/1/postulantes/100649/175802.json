@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100649,
+    "padron_id": 175802
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "23XXXX61",
+      "apellidos": "ALTAMIRANDA",
+      "nombres": "CLAUDIA MARIELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "27XXXX63",
+      "apellidos": "VEGA",
+      "nombres": "FERNANDA GRACIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

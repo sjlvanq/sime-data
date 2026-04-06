@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 101047,
+    "padron_id": 176082
+  },
+  "postulantes": [
+    {
+      "orden": 715,
+      "dni": "27XXXX66",
+      "apellidos": "ALVAREZ",
+      "nombres": "MARÍA ROSANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

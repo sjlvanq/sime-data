@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100688,
+    "padron_id": 175692
+  },
+  "postulantes": [
+    {
+      "orden": 41,
+      "dni": "35XXXX28",
+      "apellidos": "ALE PAZ",
+      "nombres": "JESSICA YASMILA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 11,
+      "dni": "34XXXX25",
+      "apellidos": "SECO",
+      "nombres": "CINTHIA LUCIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 75,
+      "dni": "24XXXX60",
+      "apellidos": "GARCIA HARO",
+      "nombres": "CINTHYA VERONICA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

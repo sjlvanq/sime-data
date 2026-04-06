@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 99351,
+    "padron_id": 172767
+  },
+  "postulantes": [
+    {
+      "orden": 191,
+      "dni": "33XXXX11",
+      "apellidos": "MALLA",
+      "nombres": "GABRIELA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 231,
+      "dni": "41XXXX67",
+      "apellidos": "APIZ",
+      "nombres": "JULIO MÁXIMO FABIÁN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 243,
+      "dni": "36XXXX43",
+      "apellidos": "MITTELMANN",
+      "nombres": "PRISCILLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "33XXXX65",
+      "apellidos": "MOREIRA",
+      "nombres": "ROMINA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

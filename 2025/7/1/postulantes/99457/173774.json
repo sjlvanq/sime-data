@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99457,
+    "padron_id": 173774
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "20XXXX38",
+      "apellidos": "ARIAS",
+      "nombres": "JORGE DANIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 108,
+      "dni": "27XXXX77",
+      "apellidos": "NIEVA",
+      "nombres": "DEBORA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 104,
+      "dni": "23XXXX08",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

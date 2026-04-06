@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 99111,
+    "padron_id": 172532
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX29",
+      "apellidos": "CORRALES",
+      "nombres": "MARIA PAULINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "35XXXX00",
+      "apellidos": "HERRERA",
+      "nombres": "OSCAR EMANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100585,
+    "padron_id": 175485
+  },
+  "postulantes": [
+    {
+      "orden": 243,
+      "dni": "36XXXX43",
+      "apellidos": "MITTELMANN",
+      "nombres": "PRISCILLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "33XXXX65",
+      "apellidos": "MOREIRA",
+      "nombres": "ROMINA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX84",
+      "apellidos": "ALBORNOZ",
+      "nombres": "MANUEL HORACIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 100200,
+    "padron_id": 174526
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "34XXXX34",
+      "apellidos": "DAVILA",
+      "nombres": "ANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 30,
+      "dni": "34XXXX41",
+      "apellidos": "CONTRERAS",
+      "nombres": "ROMINA GISELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 101,
+      "dni": "30XXXX70",
+      "apellidos": "DECIMA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 132,
+      "dni": "29XXXX46",
+      "apellidos": "TOLEDO                                  ",
+      "nombres": "VALERIA ROMINA                          ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

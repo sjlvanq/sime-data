@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 100624,
+    "padron_id": 175103
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "32XXXX64",
+      "apellidos": "AMAYA",
+      "nombres": "VANINA NOELIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX88",
+      "apellidos": "GUTIERREZ BULDURINI",
+      "nombres": "DAVID BENITO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "20XXXX36",
+      "apellidos": "JANIN",
+      "nombres": "SUSANA GLORIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "39XXXX07",
+      "apellidos": "ROTGER ZAMORA",
+      "nombres": "GABRIEL HORACIO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SIN REQUISITOS",
+      "CargoInferior": "-"
+    }
+  ]
+}

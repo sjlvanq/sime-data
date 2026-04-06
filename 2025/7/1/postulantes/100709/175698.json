@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 100709,
+    "padron_id": 175698
+  },
+  "postulantes": [
+    {
+      "orden": 65,
+      "dni": "29XXXX55",
+      "apellidos": "URBANO",
+      "nombres": "LUCIANO ALEXIS",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 70,
+      "dni": "40XXXX69",
+      "apellidos": "ZALGADO",
+      "nombres": "LEILA MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 89,
+      "dni": "37XXXX00",
+      "apellidos": "BOIDO",
+      "nombres": "ROCIO MELANI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX55",
+      "apellidos": "CABRERA",
+      "nombres": "KARINA AURORA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX73",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA FABIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

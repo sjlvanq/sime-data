@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 101043,
+    "padron_id": 176170
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "39XXXX27",
+      "apellidos": "FLORES HERNANDEZ",
+      "nombres": "CLAUDIA ANABELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "37XXXX88",
+      "apellidos": "PEREZ",
+      "nombres": "RODRIGO EXEQUIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "40XXXX59",
+      "apellidos": "OLEA",
+      "nombres": "MARCELA YUDY",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 100344,
+    "padron_id": 174847
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "40XXXX14",
+      "apellidos": "MAZA",
+      "nombres": "ANA LUCIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX06",
+      "apellidos": "VELES",
+      "nombres": "LEONOR AURORA DEL ROSARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "37XXXX07",
+      "apellidos": "SOMERA",
+      "nombres": "JIMENA ROCIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "33XXXX82",
+      "apellidos": "CORONEL",
+      "nombres": "LUIS ANGEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

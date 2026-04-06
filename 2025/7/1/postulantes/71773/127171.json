@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 71773,
+    "padron_id": 127171
+  },
+  "postulantes": [
+    {
+      "orden": 945,
+      "dni": "33XXXX50",
+      "apellidos": "PONCE",
+      "nombres": "ANALIA ELISA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1180,
+      "dni": "41XXXX25",
+      "apellidos": "LEDESMA",
+      "nombres": "MILAGROS DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1183,
+      "dni": "39XXXX96",
+      "apellidos": "GRAMAJO",
+      "nombres": "CYNTHIA ANABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

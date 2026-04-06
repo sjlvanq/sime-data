@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100654,
+    "padron_id": 175178
+  },
+  "postulantes": [
+    {
+      "orden": 121,
+      "dni": "25XXXX18",
+      "apellidos": "BURGOS",
+      "nombres": "LILIANA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 102,
+      "dni": "24XXXX21",
+      "apellidos": "PONCE",
+      "nombres": "MARCELA LIDIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

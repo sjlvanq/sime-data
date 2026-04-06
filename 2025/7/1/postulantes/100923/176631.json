@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100923,
+    "padron_id": 176631
+  },
+  "postulantes": [
+    {
+      "orden": 58,
+      "dni": "23XXXX13",
+      "apellidos": "ISAS",
+      "nombres": "CRISTOBAL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "23XXXX20",
+      "apellidos": "VALDEZ",
+      "nombres": "MARTA ESTELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

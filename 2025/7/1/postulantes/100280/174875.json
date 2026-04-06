@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 100280,
+    "padron_id": 174875
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "21XXXX69",
+      "apellidos": "OTAROLA",
+      "nombres": "GRACIELA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "22XXXX34",
+      "apellidos": "TORRES",
+      "nombres": "SEGUNDA SILVIA BEATRIZ",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

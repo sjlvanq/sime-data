@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100923,
+    "padron_id": 176629
+  },
+  "postulantes": [
+    {
+      "orden": 60,
+      "dni": "30XXXX16",
+      "apellidos": "GUARDO",
+      "nombres": "MARÍA MERCEDES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 92,
+      "dni": "37XXXX32",
+      "apellidos": "IBAÑEZ",
+      "nombres": "LUCAS GABRIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "37XXXX33",
+      "apellidos": "VALDIVIEZO",
+      "nombres": "IGNACIO ANTONIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 99974,
+    "padron_id": 173778
+  },
+  "postulantes": [
+    {
+      "orden": 29,
+      "dni": "20XXXX38",
+      "apellidos": "ARIAS",
+      "nombres": "JORGE DANIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

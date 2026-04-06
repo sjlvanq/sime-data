@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 100113,
+    "padron_id": 174033
+  },
+  "postulantes": [
+    {
+      "orden": 496,
+      "dni": "25XXXX55",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "MARIA VIRGINIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 511,
+      "dni": "36XXXX11",
+      "apellidos": "GOMEZ",
+      "nombres": "ROMINA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 766,
+      "dni": "28XXXX94",
+      "apellidos": "ROMANO",
+      "nombres": "CRISTINA ITATI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 840,
+      "dni": "39XXXX96",
+      "apellidos": "GRAMAJO",
+      "nombres": "CYNTHIA ANABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

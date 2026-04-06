@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 99804,
+    "padron_id": 173782
+  },
+  "postulantes": [
+    {
+      "orden": 232,
+      "dni": "29XXXX68",
+      "apellidos": "LUNA",
+      "nombres": "VIVIANA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 766,
+      "dni": "28XXXX94",
+      "apellidos": "ROMANO",
+      "nombres": "CRISTINA ITATI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 840,
+      "dni": "39XXXX96",
+      "apellidos": "GRAMAJO",
+      "nombres": "CYNTHIA ANABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

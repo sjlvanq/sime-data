@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100106,
+    "padron_id": 174048
+  },
+  "postulantes": [
+    {
+      "orden": 30,
+      "dni": "34XXXX41",
+      "apellidos": "CONTRERAS",
+      "nombres": "ROMINA GISELLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 85,
+      "dni": "33XXXX25",
+      "apellidos": "COSTILLA",
+      "nombres": "ELENA NOEMÍ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 206,
+      "dni": "20XXXX63",
+      "apellidos": "MANZUR",
+      "nombres": "FABIANA MARCELA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
