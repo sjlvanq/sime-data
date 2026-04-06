@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 98149,
+    "padron_id": 171438
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "27XXXX32",
+      "apellidos": "CORREA",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "37XXXX47",
+      "apellidos": "SIERRA",
+      "nombres": "SARA ABIGAIL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "32XXXX27",
+      "apellidos": "LAZARTE",
+      "nombres": "VERONICA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

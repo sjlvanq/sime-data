@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 96615,
+    "padron_id": 168813
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX07",
+      "apellidos": "CACERES",
+      "nombres": "MARÍA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX31",
+      "apellidos": "GALVAN",
+      "nombres": "ELIO GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "33XXXX31",
+      "apellidos": "MIRANDA",
+      "nombres": "JUAN ADRIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 97975,
+    "padron_id": 171243
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "31XXXX50",
+      "apellidos": "AGUILAR",
+      "nombres": "SARA ROMINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "23XXXX55",
+      "apellidos": "OGAS",
+      "nombres": "PATRICIA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "31XXXX55",
+      "apellidos": "LIZARRAGA",
+      "nombres": "PABLO MIGUEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 41,
+      "dni": "32XXXX01",
+      "apellidos": "FLORES SANCHEZ",
+      "nombres": "MARCO ANTONIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

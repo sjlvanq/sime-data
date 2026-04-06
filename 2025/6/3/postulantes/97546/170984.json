@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 97546,
+    "padron_id": 170984
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "20XXXX49",
+      "apellidos": "OVIEDO",
+      "nombres": "ANA MARIA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 10,
+      "dni": "23XXXX13",
+      "apellidos": "CAJAL",
+      "nombres": "KARINA ANDREA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX33",
+      "apellidos": "LESCANO",
+      "nombres": "LIDIA SUSANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 98868,
+    "padron_id": 172338
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "33XXXX85",
+      "apellidos": "LOPEZ",
+      "nombres": "MERCEDES ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "27XXXX92",
+      "apellidos": "ALBERTO",
+      "nombres": "MELINA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX16",
+      "apellidos": "AVILA",
+      "nombres": "DELFINA MARÍA DEL MILAGRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

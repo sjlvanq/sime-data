@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 97923,
+    "padron_id": 171898
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX58",
+      "apellidos": "BALDERRAMA",
+      "nombres": "MARIA BELEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "33XXXX41",
+      "apellidos": "ESCALANTE",
+      "nombres": "MARILIN BELINDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "35XXXX77",
+      "apellidos": "DELGADO",
+      "nombres": "JUAN ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

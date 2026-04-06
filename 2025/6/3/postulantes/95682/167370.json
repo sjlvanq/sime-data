@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 95682,
+    "padron_id": 167370
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "23XXXX60",
+      "apellidos": "POZYVILKO",
+      "nombres": "MIRIAM GRICELDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 10,
+      "dni": "23XXXX97",
+      "apellidos": "TOLEDO",
+      "nombres": "ARIEL ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 11,
+      "dni": "21XXXX70",
+      "apellidos": "JUAREZ",
+      "nombres": "SILVIA ROSANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

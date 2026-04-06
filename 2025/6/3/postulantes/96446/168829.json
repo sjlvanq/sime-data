@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 96446,
+    "padron_id": 168829
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX80",
+      "apellidos": "AYALA",
+      "nombres": "DANIEL ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "33XXXX66",
+      "apellidos": "LUNA",
+      "nombres": "GLADYS ELIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX27",
+      "apellidos": "ELIAS",
+      "nombres": "SERGIO RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

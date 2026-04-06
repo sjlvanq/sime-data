@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 96797,
+    "padron_id": 168945
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "23XXXX94",
+      "apellidos": "GONZALEZ",
+      "nombres": "SONIA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (OTROS TITULOS)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 5,
+      "dni": "20XXXX55",
+      "apellidos": "CARABAJAL",
+      "nombres": "CONRADO RICARDO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 1,
+      "dni": "20XXXX36",
+      "apellidos": "MACIAS",
+      "nombres": "MARCELA VIVIANA DEL VALLE",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 2,
+      "dni": "22XXXX46",
+      "apellidos": "ADUSTO",
+      "nombres": "MARIA DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "21XXXX18",
+      "apellidos": "VALDEZ",
+      "nombres": "ELENA LUCIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE (TITULO ESPECÍFICO)",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

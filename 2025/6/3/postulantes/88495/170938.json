@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 88495,
+    "padron_id": 170938
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "21XXXX77",
+      "apellidos": "LOBO",
+      "nombres": "GLORIA NANCI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 4,
+      "dni": "23XXXX13",
+      "apellidos": "CAJAL",
+      "nombres": "KARINA ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

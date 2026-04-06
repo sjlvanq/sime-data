@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 96624,
+    "padron_id": 168816
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX02",
+      "apellidos": "MONTEROS",
+      "nombres": "SERGIO MARCELO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX05",
+      "apellidos": "ALVAREZ",
+      "nombres": "IVANNA MELISA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "37XXXX30",
+      "apellidos": "CANTO",
+      "nombres": "BRENDA MAGALI",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

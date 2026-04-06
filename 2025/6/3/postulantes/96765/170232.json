@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 96765,
+    "padron_id": 170232
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX17",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "RODOLFO ALDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "37XXXX47",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "EXEQUIEL ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "20XXXX22",
+      "apellidos": "CORREA",
+      "nombres": "CARLOS FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

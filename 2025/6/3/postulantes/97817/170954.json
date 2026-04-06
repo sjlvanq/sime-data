@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 97817,
+    "padron_id": 170954
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX44",
+      "apellidos": "SANTILLAN",
+      "nombres": "MARCOS DIEGO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX27",
+      "apellidos": "AGUERO",
+      "nombres": "LUIS NESTOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX16",
+      "apellidos": "CORDOBA ZELARAYAN",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "20XXXX27",
+      "apellidos": "YUSTE",
+      "nombres": "FRANCISCO RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

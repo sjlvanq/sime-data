@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 96003,
+    "padron_id": 167810
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "35XXXX17",
+      "apellidos": "PAZ",
+      "nombres": "JOHANA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "35XXXX42",
+      "apellidos": "DIAZ",
+      "nombres": "CARLA MARIA GABRIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "40XXXX15",
+      "apellidos": "PACHECO",
+      "nombres": "CAROLINA DEL ROSARIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

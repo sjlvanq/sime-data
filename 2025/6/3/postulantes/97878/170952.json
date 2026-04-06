@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 97878,
+    "padron_id": 170952
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "36XXXX35",
+      "apellidos": "MONTIVERO",
+      "nombres": "MARCELO HERNAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "37XXXX69",
+      "apellidos": "ALTAMIRANDA",
+      "nombres": "CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX27",
+      "apellidos": "ACOSTA",
+      "nombres": "ABEL ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "23XXXX18",
+      "apellidos": "PAEZ",
+      "nombres": "ESTEBAN GABRIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

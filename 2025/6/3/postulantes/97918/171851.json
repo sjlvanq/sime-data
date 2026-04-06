@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 97918,
+    "padron_id": 171851
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX41",
+      "apellidos": "VELARDEZ",
+      "nombres": "MARIA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "42XXXX09",
+      "apellidos": "ARGELINO",
+      "nombres": "MATIAS FERNANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "35XXXX77",
+      "apellidos": "DELGADO",
+      "nombres": "JUAN ANTONIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

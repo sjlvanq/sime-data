@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 97593,
+    "padron_id": 170947
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "23XXXX02",
+      "apellidos": "ENCE",
+      "nombres": "SANDRA CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 4,
+      "dni": "23XXXX13",
+      "apellidos": "CAJAL",
+      "nombres": "KARINA ANDREA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

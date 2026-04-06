@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 96506,
+    "padron_id": 168737
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "24XXXX56",
+      "apellidos": "JIMENEZ",
+      "nombres": "SANTIAGO HUMBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "35XXXX15",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "YANINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "38XXXX79",
+      "apellidos": "REY",
+      "nombres": "KAREN MARCELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

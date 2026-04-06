@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 97327,
+    "padron_id": 170247
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "21XXXX36",
+      "apellidos": "AREDEZ",
+      "nombres": "HECTOR ARIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "34XXXX69",
+      "apellidos": "FRIAS",
+      "nombres": "MARÍA DE LOS ANGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "27XXXX77",
+      "apellidos": "DEL CASTILLO",
+      "nombres": "PABLO GUILLERMO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
