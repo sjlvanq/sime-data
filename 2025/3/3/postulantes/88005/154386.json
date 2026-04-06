@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 88005,
+    "padron_id": 154386
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "34XXXX45",
+      "apellidos": "OSCARI",
+      "nombres": "CARLOS SEBASTIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "28XXXX45",
+      "apellidos": "SALAZAR",
+      "nombres": "JORGE MARTIN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "40XXXX54",
+      "apellidos": "DIAZ GOMEZ",
+      "nombres": "TOMAS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

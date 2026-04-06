@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 85836,
+    "padron_id": 150813
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "25XXXX33",
+      "apellidos": "GODOY",
+      "nombres": "LUIS MANUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "37XXXX98",
+      "apellidos": "EZQUER",
+      "nombres": "MARIO NAHUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "26XXXX85",
+      "apellidos": "ROBLES",
+      "nombres": "VICTOR ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "37XXXX90",
+      "apellidos": "SANTILLAN",
+      "nombres": "NESTOR IGNACIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "41XXXX36",
+      "apellidos": "ALBORNOZ",
+      "nombres": "RODRIGO NAZARENO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85846,
+    "padron_id": 150911
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "24XXXX95",
+      "apellidos": "FREIJO",
+      "nombres": "PATRICIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "17XXXX87",
+      "apellidos": "QUIPILDOR",
+      "nombres": "RODOLFO NESTOR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX27",
+      "apellidos": "TAPIA",
+      "nombres": "OSCAR ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

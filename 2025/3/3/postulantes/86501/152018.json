@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 86501,
+    "padron_id": 152018
+  },
+  "postulantes": [
+    {
+      "orden": 7,
+      "dni": "29XXXX05",
+      "apellidos": "ALVAREZ",
+      "nombres": "IVANNA MELISA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX92",
+      "apellidos": "VILLA",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "27XXXX21",
+      "apellidos": "GASPAR",
+      "nombres": "MARIA NATALIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

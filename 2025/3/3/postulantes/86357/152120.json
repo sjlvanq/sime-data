@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 86357,
+    "padron_id": 152120
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX50",
+      "apellidos": "CABRERA",
+      "nombres": "MARCELA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "37XXXX29",
+      "apellidos": "LANCELLA",
+      "nombres": "YULIANA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "22XXXX46",
+      "apellidos": "SANTELLAN",
+      "nombres": "SERGIO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

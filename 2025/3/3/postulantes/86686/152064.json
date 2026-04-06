@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 86686,
+    "padron_id": 152064
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "25XXXX88",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "RUBEN RICARDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "23XXXX69",
+      "apellidos": "OTRERA",
+      "nombres": "WALTER FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "34XXXX66",
+      "apellidos": "VILA",
+      "nombres": "ALVARO ENRIQUE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 86692,
+    "padron_id": 152128
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX88",
+      "apellidos": "MARCIAL",
+      "nombres": "MIRIAM DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "25XXXX92",
+      "apellidos": "ARMAS",
+      "nombres": "CECILIA RAQUEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX94",
+      "apellidos": "FARA",
+      "nombres": "CONRADO LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

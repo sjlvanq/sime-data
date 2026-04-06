@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 87059,
+    "padron_id": 152677
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "29XXXX82",
+      "apellidos": "MANSILLA",
+      "nombres": "GERARDO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "41XXXX22",
+      "apellidos": "HERRERA",
+      "nombres": "LUCIANO DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

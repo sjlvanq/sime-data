@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 86514,
+    "padron_id": 151953
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "31XXXX60",
+      "apellidos": "COLLANTE",
+      "nombres": "DARIO RAFAEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX20",
+      "apellidos": "JIMENEZ",
+      "nombres": "FRANCO DANIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "24XXXX44",
+      "apellidos": "LOPEZ",
+      "nombres": "WALTER AMADEO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 86500,
+    "padron_id": 152033
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "20XXXX09",
+      "apellidos": "DE MIRAT",
+      "nombres": "GABRIEL ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX92",
+      "apellidos": "VILLA",
+      "nombres": "ANDREA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "21XXXX87",
+      "apellidos": "TORRES",
+      "nombres": "MARTA ALICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "93XXXX20",
+      "apellidos": "MOLINA CARRIZALES",
+      "nombres": "BRIGITTE MELIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "33XXXX69",
+      "apellidos": "SUAREZ",
+      "nombres": "ALEXIS CARLOS ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

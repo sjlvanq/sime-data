@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 85837,
+    "padron_id": 150806
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "26XXXX85",
+      "apellidos": "ROBLES",
+      "nombres": "VICTOR ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "36XXXX27",
+      "apellidos": "TAPIA",
+      "nombres": "OSCAR ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

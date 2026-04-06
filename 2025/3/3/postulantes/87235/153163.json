@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87235,
+    "padron_id": 153163
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "31XXXX66",
+      "apellidos": "FUENTES",
+      "nombres": "CLARA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "37XXXX45",
+      "apellidos": "CARRIZO RUIZ",
+      "nombres": "MARLLENE GRISELDA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX24",
+      "apellidos": "PUCHETA HEILBRON",
+      "nombres": "LEYLA NELLY",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

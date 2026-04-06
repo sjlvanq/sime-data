@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87155,
+    "padron_id": 153429
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "36XXXX83",
+      "apellidos": "ROLDAN",
+      "nombres": "NICOLAS ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "26XXXX25",
+      "apellidos": "OLEA",
+      "nombres": "ELIANA PATRICIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "35XXXX46",
+      "apellidos": "BARROCA",
+      "nombres": "WALTER ALEJANDRO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

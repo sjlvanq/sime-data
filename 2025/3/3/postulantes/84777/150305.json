@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 84777,
+    "padron_id": 150305
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX41",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "GUILLERMO FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "31XXXX19",
+      "apellidos": "VERÓN",
+      "nombres": "ADELA PAOLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 85835,
+    "padron_id": 150801
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX97",
+      "apellidos": "CAJAL",
+      "nombres": "DANIEL OMAR",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "40XXXX93",
+      "apellidos": "CORREA",
+      "nombres": "ESTEBAN FABIAN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
