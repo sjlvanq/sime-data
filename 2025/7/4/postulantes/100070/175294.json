@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100070,
+    "padron_id": 175294
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "31XXXX95",
+      "apellidos": "RISSO PATRON",
+      "nombres": "LUCIANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "29XXXX34",
+      "apellidos": "FONTIVERO",
+      "nombres": "FATIMA ELIZABETH",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "28XXXX45",
+      "apellidos": "FERNANDEZ",
+      "nombres": "GABRIELA DE LOURDES",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

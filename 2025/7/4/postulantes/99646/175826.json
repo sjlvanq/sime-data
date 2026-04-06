@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99646,
+    "padron_id": 175826
+  },
+  "postulantes": [
+    {
+      "orden": 15,
+      "dni": "24XXXX33",
+      "apellidos": "ROMANO",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "37XXXX59",
+      "apellidos": "HERRERA",
+      "nombres": "LUCIA GABRIELA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "34XXXX57",
+      "apellidos": "BURZAC",
+      "nombres": "DAVID ALEJANDRO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

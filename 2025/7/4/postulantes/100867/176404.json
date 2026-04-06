@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 100867,
+    "padron_id": 176404
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "29XXXX52",
+      "apellidos": "VALLEJO",
+      "nombres": "ESTEBAN FERNANDO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "28XXXX84",
+      "apellidos": "MUSTAFÁ",
+      "nombres": "SARA ALICIA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "34XXXX13",
+      "apellidos": "MARTIN",
+      "nombres": "MARIA ANABELL",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

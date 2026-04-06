@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 99170,
+    "padron_id": 173503
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "20XXXX04",
+      "apellidos": "ALBARRACIN",
+      "nombres": "MARIA VIVIANA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX17",
+      "apellidos": "ABDALA",
+      "nombres": "IVANNA ELVIRA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

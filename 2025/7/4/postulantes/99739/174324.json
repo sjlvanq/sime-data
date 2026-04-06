@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 99739,
+    "padron_id": 174324
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "32XXXX04",
+      "apellidos": "MANSILLA",
+      "nombres": "LUIS RODOLFO",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "39XXXX60",
+      "apellidos": "JUAREZ OVIEDO",
+      "nombres": "MONICA GABRIELA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "40XXXX28",
+      "apellidos": "FUENTES ORTIZ",
+      "nombres": "LOURDES CAMILA",
+      "TipoCircuito": "-",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
