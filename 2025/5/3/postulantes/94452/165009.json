@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 94452,
+    "padron_id": 165009
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX04",
+      "apellidos": "VASQUEZ",
+      "nombres": "OSCAR ALFREDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    },
+    {
+      "orden": 5,
+      "dni": "26XXXX93",
+      "apellidos": "SANTILLAN",
+      "nombres": "RAUL RUBEN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR/MEP TITULAR"
+    }
+  ]
+}

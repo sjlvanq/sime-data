@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 94414,
+    "padron_id": 165300
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "27XXXX02",
+      "apellidos": "BRANDAN",
+      "nombres": "OMAR FRANCISCO JAVIER",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "41XXXX30",
+      "apellidos": "OTEO",
+      "nombres": "WALTER DAVID",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "43XXXX93",
+      "apellidos": "SAYES",
+      "nombres": "MARIA AGUSTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}
