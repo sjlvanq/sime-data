@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 95111,
+    "padron_id": 166020
+  },
+  "postulantes": [
+    {
+      "orden": 125,
+      "dni": "27XXXX47",
+      "apellidos": "AGUIRRE",
+      "nombres": "CECILIA MARIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 102,
+      "dni": "24XXXX21",
+      "apellidos": "PONCE",
+      "nombres": "MARCELA LIDIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 213,
+      "dni": "20XXXX63",
+      "apellidos": "MANZUR",
+      "nombres": "FABIANA MARCELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

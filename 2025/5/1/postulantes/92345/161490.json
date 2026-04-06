@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 92345,
+    "padron_id": 161490
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "27XXXX82",
+      "apellidos": "CUELLO",
+      "nombres": "NELIDA CECILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "26XXXX37",
+      "apellidos": "NIEVA",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 31,
+      "dni": "29XXXX12",
+      "apellidos": "GAUNA",
+      "nombres": "CECILIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

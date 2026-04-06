@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 92795,
+    "padron_id": 162370
+  },
+  "postulantes": [
+    {
+      "orden": 615,
+      "dni": "37XXXX48",
+      "apellidos": "BOUNAR",
+      "nombres": "MARIA DEL ROSARIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 626,
+      "dni": "32XXXX90",
+      "apellidos": "BARROS",
+      "nombres": "MARIA DEL CARMEN",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 510,
+      "dni": "39XXXX74",
+      "apellidos": "SILVA",
+      "nombres": "RUTH GABRIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

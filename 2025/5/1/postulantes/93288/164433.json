@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 93288,
+    "padron_id": 164433
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "40XXXX66",
+      "apellidos": "NIEVA",
+      "nombres": "SOFIA DEL MILAGRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "27XXXX27",
+      "apellidos": "ANGEL",
+      "nombres": "PRISCILA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

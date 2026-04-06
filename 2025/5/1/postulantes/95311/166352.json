@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 95311,
+    "padron_id": 166352
+  },
+  "postulantes": [
+    {
+      "orden": 819,
+      "dni": "29XXXX61",
+      "apellidos": "VILLARREAL",
+      "nombres": "MARIANA DE LOS ANGELES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 883,
+      "dni": "33XXXX08",
+      "apellidos": "SOTELO CAJAL",
+      "nombres": "ANA CAROLINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 996,
+      "dni": "33XXXX96",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ALVARO JAVIER",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

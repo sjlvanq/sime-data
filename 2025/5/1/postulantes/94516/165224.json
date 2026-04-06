@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 94516,
+    "padron_id": 165224
+  },
+  "postulantes": [
+    {
+      "orden": 115,
+      "dni": "25XXXX69",
+      "apellidos": "SEGURA",
+      "nombres": "MARIELA NATALIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 202,
+      "dni": "24XXXX66",
+      "apellidos": "RUIZ",
+      "nombres": "GRACIELA FATIMA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "34XXXX00",
+      "apellidos": "ROMANO",
+      "nombres": "JOSE MAXIMILIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

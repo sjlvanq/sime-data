@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93279,
+    "padron_id": 163300
+  },
+  "postulantes": [
+    {
+      "orden": 36,
+      "dni": "32XXXX24",
+      "apellidos": "AGUIRRE",
+      "nombres": "YANINA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "28XXXX95",
+      "apellidos": "GOMEZ",
+      "nombres": "MARIA AZUCENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 163,
+      "dni": "27XXXX65",
+      "apellidos": "CASTRO",
+      "nombres": "VALERIA GUILLERMINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 94099,
+    "padron_id": 164401
+  },
+  "postulantes": [
+    {
+      "orden": 372,
+      "dni": "34XXXX93",
+      "apellidos": "LOPEZ",
+      "nombres": "CINTIA PAOLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 870,
+      "dni": "40XXXX07",
+      "apellidos": "SOSA",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 435,
+      "dni": "29XXXX27",
+      "apellidos": "GOMEZ",
+      "nombres": "JOSE EDGARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

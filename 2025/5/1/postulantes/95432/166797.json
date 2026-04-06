@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 95432,
+    "padron_id": 166797
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX37",
+      "apellidos": "SAAVEDRA",
+      "nombres": "WALTER DANIEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "34XXXX70",
+      "apellidos": "PEREZ",
+      "nombres": "LUCIANA ELIZABETH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 78,
+      "dni": "34XXXX98",
+      "apellidos": "BRANDAN",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "20XXXX70",
+      "apellidos": "TORRES",
+      "nombres": "SANDRA MARCELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

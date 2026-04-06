@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93199,
+    "padron_id": 163061
+  },
+  "postulantes": [
+    {
+      "orden": 8,
+      "dni": "28XXXX91",
+      "apellidos": "BALDICH",
+      "nombres": "MARIA LORENA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "37XXXX67",
+      "apellidos": "ROMERO",
+      "nombres": "CARLOS ANTONIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 37,
+      "dni": "35XXXX01",
+      "apellidos": "MARTINEZ",
+      "nombres": "LAURA VIVIANA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

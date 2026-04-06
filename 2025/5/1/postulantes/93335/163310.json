@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 93335,
+    "padron_id": 163310
+  },
+  "postulantes": [
+    {
+      "orden": 106,
+      "dni": "29XXXX63",
+      "apellidos": "GUZMAN",
+      "nombres": "MARÍA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "32XXXX18",
+      "apellidos": "ABACA",
+      "nombres": "NATALIA MARIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "25XXXX73",
+      "apellidos": "HERRERA",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "28XXXX49",
+      "apellidos": "PELLEGRINO",
+      "nombres": "MARIA LAURA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

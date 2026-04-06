@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 94519,
+    "padron_id": 165234
+  },
+  "postulantes": [
+    {
+      "orden": 305,
+      "dni": "20XXXX60",
+      "apellidos": "AGUIRRE",
+      "nombres": "MARIA EDITH",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 464,
+      "dni": "25XXXX96",
+      "apellidos": "LIZÁRRAGA",
+      "nombres": "ADRIANA VIVIANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1060,
+      "dni": "29XXXX19",
+      "apellidos": "ROLDAN",
+      "nombres": "MABEL DE LOS ANGELES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

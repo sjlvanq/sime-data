@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93440,
+    "padron_id": 163365
+  },
+  "postulantes": [
+    {
+      "orden": 870,
+      "dni": "40XXXX07",
+      "apellidos": "SOSA",
+      "nombres": "MARIA EMILIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 227,
+      "dni": "20XXXX60",
+      "apellidos": "AGUIRRE",
+      "nombres": "MARIA EDITH",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 510,
+      "dni": "39XXXX74",
+      "apellidos": "SILVA",
+      "nombres": "RUTH GABRIELA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

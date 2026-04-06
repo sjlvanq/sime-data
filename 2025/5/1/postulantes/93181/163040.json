@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 93181,
+    "padron_id": 163040
+  },
+  "postulantes": [
+    {
+      "orden": 99,
+      "dni": "32XXXX51",
+      "apellidos": "BELTRAN",
+      "nombres": "MARIA SILVANA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 108,
+      "dni": "27XXXX77",
+      "apellidos": "NIEVA",
+      "nombres": "DEBORA VANESA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 187,
+      "dni": "20XXXX59",
+      "apellidos": "LEDESMA",
+      "nombres": "JOSE MANUEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 80,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 94255,
+    "padron_id": 164775
+  },
+  "postulantes": [
+    {
+      "orden": 119,
+      "dni": "24XXXX96",
+      "apellidos": "RODRIGUEZ GONZALO",
+      "nombres": "ANA LIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 104,
+      "dni": "23XXXX00",
+      "apellidos": "HERNANDEZ",
+      "nombres": "MONICA CARINA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

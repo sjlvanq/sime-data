@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "vacante_id": 95340,
+    "padron_id": 166646
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "37XXXX67",
+      "apellidos": "ROMERO",
+      "nombres": "CARLOS ANTONIO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "32XXXX78",
+      "apellidos": "SANTILLÁN",
+      "nombres": "MONICA DEL VALLE",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "30XXXX32",
+      "apellidos": "LUNA",
+      "nombres": "CLAUDIA NOEMI",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 28,
+      "dni": "28XXXX42",
+      "apellidos": "JEREZ",
+      "nombres": "VANINA JESSICA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "32XXXX89",
+      "apellidos": "PEREZ",
+      "nombres": "HECTOR MARIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

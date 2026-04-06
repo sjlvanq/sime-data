@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 94653,
+    "padron_id": 165544
+  },
+  "postulantes": [
+    {
+      "orden": 87,
+      "dni": "31XXXX22",
+      "apellidos": "BONIZONI",
+      "nombres": "VALERIA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 132,
+      "dni": "23XXXX00",
+      "apellidos": "HERNANDEZ",
+      "nombres": "MONICA CARINA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "34XXXX89",
+      "apellidos": "GONZALEZ",
+      "nombres": "CECILIA DOLORES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 76,
+      "dni": "34XXXX00",
+      "apellidos": "ROMANO",
+      "nombres": "JOSE MAXIMILIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

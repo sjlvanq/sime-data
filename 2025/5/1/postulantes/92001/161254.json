@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 92001,
+    "padron_id": 161254
+  },
+  "postulantes": [
+    {
+      "orden": 246,
+      "dni": "35XXXX36",
+      "apellidos": "RIVADENEIRA",
+      "nombres": "MIRTA ALEJANDRA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 788,
+      "dni": "40XXXX99",
+      "apellidos": "RIVADENEIRA",
+      "nombres": "ANABELL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 325,
+      "dni": "30XXXX43",
+      "apellidos": "HERRERA",
+      "nombres": "MAXIMILIANO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 350,
+      "dni": "20XXXX32",
+      "apellidos": "ABRAHAM",
+      "nombres": "ADRIANA FATIMA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

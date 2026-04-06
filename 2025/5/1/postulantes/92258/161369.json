@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 92258,
+    "padron_id": 161369
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "40XXXX66",
+      "apellidos": "NIEVA",
+      "nombres": "SOFIA DEL MILAGRO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "34XXXX86",
+      "apellidos": "PEREZ",
+      "nombres": "PAOLA PATRICIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "36XXXX54",
+      "apellidos": "MAHMUD",
+      "nombres": "MARIANO AUGUSTO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

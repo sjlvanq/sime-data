@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 93641,
+    "padron_id": 163870
+  },
+  "postulantes": [
+    {
+      "orden": 19,
+      "dni": "32XXXX01",
+      "apellidos": "SORIA",
+      "nombres": "JORGE LUCIANO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "39XXXX70",
+      "apellidos": "COSTILLA",
+      "nombres": "JAIRO JEREMIAS",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

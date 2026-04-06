@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 94597,
+    "padron_id": 165456
+  },
+  "postulantes": [
+    {
+      "orden": 243,
+      "dni": "36XXXX43",
+      "apellidos": "MITTELMANN",
+      "nombres": "PRISCILLA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "40XXXX65",
+      "apellidos": "TOLEDO",
+      "nombres": "DAIANA YANET",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 96,
+      "dni": "30XXXX21",
+      "apellidos": "URUEÑA",
+      "nombres": "CECILIA VANESA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX84",
+      "apellidos": "ALBORNOZ",
+      "nombres": "MANUEL HORACIO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

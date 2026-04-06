@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93015,
+    "padron_id": 162665
+  },
+  "postulantes": [
+    {
+      "orden": 112,
+      "dni": "20XXXX35",
+      "apellidos": "CUELLO",
+      "nombres": "NORMA BEATRIZ",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 43,
+      "dni": "24XXXX19",
+      "apellidos": "ALURRALDE",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 61,
+      "dni": "20XXXX13",
+      "apellidos": "LIZARRAGA",
+      "nombres": "NANCY ELVIRA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

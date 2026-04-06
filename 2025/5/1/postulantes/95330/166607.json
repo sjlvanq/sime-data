@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 95330,
+    "padron_id": 166607
+  },
+  "postulantes": [
+    {
+      "orden": 16,
+      "dni": "38XXXX34",
+      "apellidos": "MOLINA",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "27XXXX07",
+      "apellidos": "MANSILLA",
+      "nombres": "NATALIA CECILIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 73,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

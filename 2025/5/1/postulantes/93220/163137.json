@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93220,
+    "padron_id": 163137
+  },
+  "postulantes": [
+    {
+      "orden": 62,
+      "dni": "34XXXX01",
+      "apellidos": "MORENO",
+      "nombres": "MAIRA NOELIA",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 78,
+      "dni": "39XXXX70",
+      "apellidos": "ROJAS",
+      "nombres": "MARIA ISABEL",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 201,
+      "dni": "36XXXX36",
+      "apellidos": "GUERRERO",
+      "nombres": "MAIVE SOFIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

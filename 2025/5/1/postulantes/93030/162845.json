@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93030,
+    "padron_id": 162845
+  },
+  "postulantes": [
+    {
+      "orden": 6,
+      "dni": "40XXXX46",
+      "apellidos": "CORONEL",
+      "nombres": "LUCAS SANTIAGO",
+      "TipoCircuito": "CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 62,
+      "dni": "34XXXX38",
+      "apellidos": "LOPEZ MORALES",
+      "nombres": "JULIO CESAR",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 100,
+      "dni": "42XXXX59",
+      "apellidos": "NAVARRO",
+      "nombres": "MARIA SOFIA",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

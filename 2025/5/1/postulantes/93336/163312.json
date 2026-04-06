@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93336,
+    "padron_id": 163312
+  },
+  "postulantes": [
+    {
+      "orden": 45,
+      "dni": "40XXXX41",
+      "apellidos": "ZELAYA",
+      "nombres": "MARIA DEL MILAGRO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 66,
+      "dni": "20XXXX70",
+      "apellidos": "GUERRA",
+      "nombres": "JUAN RICARDO",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 104,
+      "dni": "29XXXX63",
+      "apellidos": "GUZMAN",
+      "nombres": "MARÍA ISABEL",
+      "TipoCircuito": "SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
