@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 92159,
+    "padron_id": 162701
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "33XXXX03",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "PABLO GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "31XXXX40",
+      "apellidos": "SANTANA",
+      "nombres": "GABRIELA ROMINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "33XXXX99",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA NOELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX03",
+      "apellidos": "LAHITTE",
+      "nombres": "EMILIO AUGUSTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

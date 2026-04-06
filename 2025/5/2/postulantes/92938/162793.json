@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 92938,
+    "padron_id": 162793
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "34XXXX42",
+      "apellidos": "VALDEZ",
+      "nombres": "DANIELA ANAHI",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "25XXXX55",
+      "apellidos": "CASTILLO",
+      "nombres": "GUILLERMO OSCAR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

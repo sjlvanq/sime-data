@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 90171,
+    "padron_id": 161001
+  },
+  "postulantes": [
+    {
+      "orden": 11,
+      "dni": "31XXXX80",
+      "apellidos": "COLMENARES TORRES",
+      "nombres": "ITALO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "24XXXX09",
+      "apellidos": "GALLARDO",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "32XXXX18",
+      "apellidos": "SERRANO",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 39,
+      "dni": "31XXXX78",
+      "apellidos": "ABREGU",
+      "nombres": "GABRIELA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

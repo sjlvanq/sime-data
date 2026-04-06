@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 92317,
+    "padron_id": 162107
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "34XXXX78",
+      "apellidos": "LUNA",
+      "nombres": "CARMEN ESTHER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "37XXXX54",
+      "apellidos": "VILLAFAÑE",
+      "nombres": "CARLA LUCIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "39XXXX03",
+      "apellidos": "MENDEZ",
+      "nombres": "ALVARO LEONEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 25,
+      "dni": "39XXXX50",
+      "apellidos": "ALURRALDE",
+      "nombres": "MARLENE ANDREA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

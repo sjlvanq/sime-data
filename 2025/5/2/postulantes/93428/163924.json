@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 93428,
+    "padron_id": 163924
+  },
+  "postulantes": [
+    {
+      "orden": 13,
+      "dni": "39XXXX32",
+      "apellidos": "MIRANDA",
+      "nombres": "FRANCO ARIEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "22XXXX07",
+      "apellidos": "MUSUMECI DE LISI",
+      "nombres": "MIRTA CAROLINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "36XXXX12",
+      "apellidos": "GONZÁLEZ",
+      "nombres": "LOURDES MARÍA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "28XXXX92",
+      "apellidos": "GUTIERREZ",
+      "nombres": "RAUL SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

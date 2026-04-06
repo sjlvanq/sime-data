@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 95101,
+    "padron_id": 166513
+  },
+  "postulantes": [
+    {
+      "orden": 38,
+      "dni": "22XXXX88",
+      "apellidos": "MORENO",
+      "nombres": "BLANCA ADRIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 39,
+      "dni": "21XXXX35",
+      "apellidos": "ROBLES",
+      "nombres": "MONICA DEL VALLE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 46,
+      "dni": "24XXXX04",
+      "apellidos": "ANDRADE",
+      "nombres": "CLAUDIA FABIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

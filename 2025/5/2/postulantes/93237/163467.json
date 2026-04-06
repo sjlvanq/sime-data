@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93237,
+    "padron_id": 163467
+  },
+  "postulantes": [
+    {
+      "orden": 42,
+      "dni": "28XXXX37",
+      "apellidos": "CASTILLO",
+      "nombres": "PRISCILA MABEL",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 57,
+      "dni": "35XXXX79",
+      "apellidos": "ZAMORANO",
+      "nombres": "YANET MILAGRO DEL CARMEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 120,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

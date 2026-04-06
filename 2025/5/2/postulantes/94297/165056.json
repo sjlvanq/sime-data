@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 94297,
+    "padron_id": 165056
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "34XXXX68",
+      "apellidos": "PEREZ NAVARRO",
+      "nombres": "JULIANA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "32XXXX34",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "ANAHI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 91911,
+    "padron_id": 160733
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX07",
+      "apellidos": "VARELA",
+      "nombres": "MARIA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "34XXXX53",
+      "apellidos": "GALVAN",
+      "nombres": "DANIELA SOLEDAD",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "34XXXX37",
+      "apellidos": "GRANDE",
+      "nombres": "SONIA MARIA MERCEDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 55,
+      "dni": "26XXXX71",
+      "apellidos": "GARCIA",
+      "nombres": "PATRICIA VERONICA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

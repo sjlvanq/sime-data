@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 92105,
+    "padron_id": 161282
+  },
+  "postulantes": [
+    {
+      "orden": 46,
+      "dni": "40XXXX84",
+      "apellidos": "PALMA",
+      "nombres": "JORGE AGUSTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "31XXXX50",
+      "apellidos": "BARRAZA",
+      "nombres": "MARTA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 72,
+      "dni": "33XXXX01",
+      "apellidos": "BRIZUELA",
+      "nombres": "ROSARIO MARCELA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

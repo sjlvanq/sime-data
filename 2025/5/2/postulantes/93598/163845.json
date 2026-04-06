@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93598,
+    "padron_id": 163845
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "22XXXX16",
+      "apellidos": "COSTERG",
+      "nombres": "MARIA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "25XXXX64",
+      "apellidos": "TOSCANO",
+      "nombres": "RICARDO CLEMENTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "29XXXX81",
+      "apellidos": "FIGUEROA",
+      "nombres": "IRIS CAROLA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

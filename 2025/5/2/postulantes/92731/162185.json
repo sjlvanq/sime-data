@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 92731,
+    "padron_id": 162185
+  },
+  "postulantes": [
+    {
+      "orden": 66,
+      "dni": "28XXXX89",
+      "apellidos": "BRAVO",
+      "nombres": "NOEMI DELIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 97,
+      "dni": "25XXXX19",
+      "apellidos": "BATTAGLIA",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 43,
+      "dni": "22XXXX12",
+      "apellidos": "BOULLHESEN",
+      "nombres": "MARCELO FABIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 1,
+      "dni": "24XXXX17",
+      "apellidos": "VERA LEAL",
+      "nombres": "CLAUDIA PAOLA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87553,
+    "padron_id": 160563
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX89",
+      "apellidos": "RUIZ",
+      "nombres": "JORGE HERNANDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "41XXXX83",
+      "apellidos": "DELGADO",
+      "nombres": "CAMILA ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "25XXXX21",
+      "apellidos": "MORALES ESTRADA",
+      "nombres": "ANA CARINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

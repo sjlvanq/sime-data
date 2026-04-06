@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 91005,
+    "padron_id": 162871
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "39XXXX74",
+      "apellidos": "PAEZ",
+      "nombres": "JOAQUIN JULIAN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "31XXXX84",
+      "apellidos": "DARRECHI",
+      "nombres": "HUGO DAVID",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 44,
+      "dni": "18XXXX12",
+      "apellidos": "CHOCOBAR",
+      "nombres": "RUBEN EDUARDO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93082,
+    "padron_id": 163107
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "34XXXX72",
+      "apellidos": "CARRIZO",
+      "nombres": "ANDREA CELESTE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX24",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA ILEANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX07",
+      "apellidos": "BALCARCE",
+      "nombres": "VANESA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

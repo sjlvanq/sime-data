@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 92626,
+    "padron_id": 162543
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX00",
+      "apellidos": "DECIMA",
+      "nombres": "JUAN LEANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "35XXXX58",
+      "apellidos": "MARTINEZ",
+      "nombres": "LAURA ROMINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93001,
+    "padron_id": 162739
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "31XXXX42",
+      "apellidos": "RODRIGUEZ SALCEDO",
+      "nombres": "DEBORAH JUDITH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "22XXXX15",
+      "apellidos": "IBARRA",
+      "nombres": "SONIA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "23XXXX80",
+      "apellidos": "JEREZ",
+      "nombres": "SILVIA ADRIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

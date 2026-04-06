@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 93684,
+    "padron_id": 165000
+  },
+  "postulantes": [
+    {
+      "orden": 75,
+      "dni": "25XXXX31",
+      "apellidos": "CAÑA JAIME",
+      "nombres": "CLAUDIA PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 49,
+      "dni": "35XXXX36",
+      "apellidos": "FERRO",
+      "nombres": "CARLA ANTONELLA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

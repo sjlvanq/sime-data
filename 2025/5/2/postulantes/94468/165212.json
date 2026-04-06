@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 94468,
+    "padron_id": 165212
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "34XXXX09",
+      "apellidos": "CANTOS",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 15,
+      "dni": "31XXXX95",
+      "apellidos": "LOPEZ",
+      "nombres": "TERESITA DEL VALLE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 17,
+      "dni": "35XXXX53",
+      "apellidos": "CARABAJAL",
+      "nombres": "MARIO ALBERTO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

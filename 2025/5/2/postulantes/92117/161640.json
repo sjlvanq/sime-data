@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 92117,
+    "padron_id": 161640
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX67",
+      "apellidos": "GOMEZ",
+      "nombres": "SEBASTIAN NICOLAS",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX61",
+      "apellidos": "MURUA",
+      "nombres": "JUAN IGNACIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX21",
+      "apellidos": "MARCHETTI",
+      "nombres": "GIANINA IRENE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

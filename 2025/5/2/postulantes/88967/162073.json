@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 88967,
+    "padron_id": 162073
+  },
+  "postulantes": [
+    {
+      "orden": 26,
+      "dni": "36XXXX79",
+      "apellidos": "PACHECO",
+      "nombres": "ANA DANIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 33,
+      "dni": "37XXXX41",
+      "apellidos": "GONZALEZ CARRAZANA",
+      "nombres": "ROMINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "38XXXX86",
+      "apellidos": "GAITAN CISNEROS",
+      "nombres": "DANIELA YANINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 7,
+      "dni": "29XXXX74",
+      "apellidos": "GUTIERREZ",
+      "nombres": "MARIA INES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

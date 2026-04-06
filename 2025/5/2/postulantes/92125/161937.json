@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 92125,
+    "padron_id": 161937
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "26XXXX18",
+      "apellidos": "MEDINA",
+      "nombres": "MARIA MAGDALENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "37XXXX44",
+      "apellidos": "IBAÑEZ RENGEL",
+      "nombres": "SOFÍA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "39XXXX06",
+      "apellidos": "LOPEZ",
+      "nombres": "ANA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

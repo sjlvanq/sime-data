@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93132,
+    "padron_id": 163266
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "32XXXX07",
+      "apellidos": "PAZ",
+      "nombres": "JORGE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "20XXXX15",
+      "apellidos": "NAVARRO",
+      "nombres": "SILVANA DELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 6,
+      "dni": "22XXXX68",
+      "apellidos": "JEREZ",
+      "nombres": "EXEQUIEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 91907,
+    "padron_id": 160725
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "34XXXX68",
+      "apellidos": "PEREZ NAVARRO",
+      "nombres": "JULIANA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "37XXXX36",
+      "apellidos": "AHUMADA",
+      "nombres": "MARÍA REBECA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 92078,
+    "padron_id": 161219
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "38XXXX91",
+      "apellidos": "DELGADO",
+      "nombres": "ROCIO IRENE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "29XXXX42",
+      "apellidos": "MEDINA",
+      "nombres": "NESTOR SEBASTIAN",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 54,
+      "dni": "18XXXX51",
+      "apellidos": "ITURRE RIVERA",
+      "nombres": "OSCAR MANUEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}

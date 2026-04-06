@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 94298,
+    "padron_id": 165058
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "32XXXX92",
+      "apellidos": "PAEZ VALDEZ",
+      "nombres": "ROMINA ELIZABETH",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX90",
+      "apellidos": "MENTEL ROMANO",
+      "nombres": "LUCIANO JOSE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 14,
+      "dni": "32XXXX68",
+      "apellidos": "ACUÑA SORO",
+      "nombres": "MARÍA DE LAS MERCEDES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

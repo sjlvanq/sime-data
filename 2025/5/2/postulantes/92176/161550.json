@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 92176,
+    "padron_id": 161550
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX88",
+      "apellidos": "SORIA",
+      "nombres": "MIRTA DORA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "23XXXX25",
+      "apellidos": "RUZICKI",
+      "nombres": "ANDREA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 45,
+      "dni": "24XXXX43",
+      "apellidos": "DI MARIA",
+      "nombres": "ELISABET PAOLA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "38XXXX33",
+      "apellidos": "MOYANO",
+      "nombres": "JULIETA MARIA CIELO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

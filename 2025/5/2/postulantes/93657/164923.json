@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 93657,
+    "padron_id": 164923
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "27XXXX22",
+      "apellidos": "ORMACHEA",
+      "nombres": "PABLO ROGELIO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX03",
+      "apellidos": "BARRIONUEVO",
+      "nombres": "PABLO GONZALO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "33XXXX99",
+      "apellidos": "QUIROGA",
+      "nombres": "MARIA NOELIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

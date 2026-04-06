@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 92110,
+    "padron_id": 161204
+  },
+  "postulantes": [
+    {
+      "orden": 12,
+      "dni": "21XXXX85",
+      "apellidos": "VILLARREAL",
+      "nombres": "ENRIQUETA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "23XXXX23",
+      "apellidos": "FERNANDEZ",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 95136,
+    "padron_id": 166118
+  },
+  "postulantes": [
+    {
+      "orden": 89,
+      "dni": "25XXXX19",
+      "apellidos": "BATTAGLIA",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 124,
+      "dni": "18XXXX00",
+      "apellidos": "NIEVA",
+      "nombres": "MIGUEL ANTONIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 28,
+      "dni": "24XXXX35",
+      "apellidos": "VERA",
+      "nombres": "CECILIA MARIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

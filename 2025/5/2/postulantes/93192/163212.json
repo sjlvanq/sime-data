@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 93192,
+    "padron_id": 163212
+  },
+  "postulantes": [
+    {
+      "orden": 27,
+      "dni": "38XXXX34",
+      "apellidos": "MOLINA",
+      "nombres": "ANA SOFIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX34",
+      "apellidos": "MOYANO",
+      "nombres": "CLAUDIA ALEJANDRA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 82,
+      "dni": "17XXXX97",
+      "apellidos": "BRAVO",
+      "nombres": "SILVIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 120,
+      "dni": "31XXXX97",
+      "apellidos": "MAMANI",
+      "nombres": "FRANCISCA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

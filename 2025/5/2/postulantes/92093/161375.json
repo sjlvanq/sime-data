@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 92093,
+    "padron_id": 161375
+  },
+  "postulantes": [
+    {
+      "orden": 4,
+      "dni": "25XXXX66",
+      "apellidos": "CARDOZO",
+      "nombres": "LAURA GABRIELA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "26XXXX50",
+      "apellidos": "ESCOBAR",
+      "nombres": "LORENA BEATRIZ",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 18,
+      "dni": "38XXXX51",
+      "apellidos": "CHICO ORELLANA",
+      "nombres": "LUCAS GABRIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 92188,
+    "padron_id": 162225
+  },
+  "postulantes": [
+    {
+      "orden": 206,
+      "dni": "26XXXX35",
+      "apellidos": "LOBO",
+      "nombres": "CARLOS JAVIER",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 207,
+      "dni": "35XXXX86",
+      "apellidos": "NIEVA",
+      "nombres": "LIZ VIRGINIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 131,
+      "dni": "37XXXX00",
+      "apellidos": "BOIDO",
+      "nombres": "ROCIO MELANI",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}
