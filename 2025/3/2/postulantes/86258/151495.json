@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 86258,
+    "padron_id": 151495
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "30XXXX13",
+      "apellidos": "MATTASSINI",
+      "nombres": "MARIA LOURDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "35XXXX11",
+      "apellidos": "ALE",
+      "nombres": "MARIA AURORA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

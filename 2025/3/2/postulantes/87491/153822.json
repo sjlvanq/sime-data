@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 87491,
+    "padron_id": 153822
+  },
+  "postulantes": [
+    {
+      "orden": 74,
+      "dni": "22XXXX61",
+      "apellidos": "LONZALLES",
+      "nombres": "MARTA DEOLINDA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 102,
+      "dni": "17XXXX31",
+      "apellidos": "PETRONI MUSTAFA",
+      "nombres": "JORGE BERNARDINO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 110,
+      "dni": "25XXXX50",
+      "apellidos": "JIMENEZ LOPEZ",
+      "nombres": "FERNANDO WALTER",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 114,
+      "dni": "21XXXX58",
+      "apellidos": "MARTINEZ",
+      "nombres": "AMANDA FABIANA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

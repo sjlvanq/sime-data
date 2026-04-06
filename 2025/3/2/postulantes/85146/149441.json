@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85146,
+    "padron_id": 149441
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "27XXXX06",
+      "apellidos": "GONZALEZ",
+      "nombres": "SANDRA MABEL",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "29XXXX24",
+      "apellidos": "CARRIZO",
+      "nombres": "MARIA ILEANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "26XXXX07",
+      "apellidos": "BALCARCE",
+      "nombres": "VANESA ALEJANDRA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

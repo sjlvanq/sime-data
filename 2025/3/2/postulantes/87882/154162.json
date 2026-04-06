@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 87882,
+    "padron_id": 154162
+  },
+  "postulantes": [
+    {
+      "orden": 2,
+      "dni": "29XXXX96",
+      "apellidos": "EMETERIO",
+      "nombres": "MARIA SILVIA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX13",
+      "apellidos": "MIRANDA",
+      "nombres": "MARIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

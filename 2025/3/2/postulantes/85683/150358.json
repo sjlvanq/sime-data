@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85683,
+    "padron_id": 150358
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "18XXXX87",
+      "apellidos": "MURONI",
+      "nombres": "JACINTA ROSA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "27XXXX32",
+      "apellidos": "SALAS",
+      "nombres": "PAOLA MARIA CAROLINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "26XXXX69",
+      "apellidos": "LÓPEZ",
+      "nombres": "CLAUDIA DANIELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

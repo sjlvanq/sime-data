@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 86218,
+    "padron_id": 151770
+  },
+  "postulantes": [
+    {
+      "orden": 63,
+      "dni": "20XXXX64",
+      "apellidos": "FIGUEROA",
+      "nombres": "MARIA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    },
+    {
+      "orden": 3,
+      "dni": "22XXXX14",
+      "apellidos": "PISTAN",
+      "nombres": "MARIA EUGENIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "PROFESOR TITULAR"
+    }
+  ]
+}

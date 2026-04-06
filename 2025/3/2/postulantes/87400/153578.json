@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87400,
+    "padron_id": 153578
+  },
+  "postulantes": [
+    {
+      "orden": 33,
+      "dni": "35XXXX09",
+      "apellidos": "GONZALEZ",
+      "nombres": "VIRGINIA ROXANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 46,
+      "dni": "40XXXX84",
+      "apellidos": "PALMA",
+      "nombres": "JORGE AGUSTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "32XXXX86",
+      "apellidos": "JUAREZ VILLANUEVA",
+      "nombres": "CLAUDIA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

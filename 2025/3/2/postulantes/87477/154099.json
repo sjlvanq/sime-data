@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87477,
+    "padron_id": 154099
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "37XXXX47",
+      "apellidos": "RODRIGUEZ",
+      "nombres": "EXEQUIEL ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "25XXXX66",
+      "apellidos": "NORRY",
+      "nombres": "MARIA DE LOS ÁNGELES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "30XXXX84",
+      "apellidos": "VALLEJO",
+      "nombres": "SILVANA ANTONELLA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85360,
+    "padron_id": 149960
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX50",
+      "apellidos": "VILLARREAL",
+      "nombres": "MARIELA ELIZABETH",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "33XXXX00",
+      "apellidos": "PEREYRA",
+      "nombres": "NADIA PAMELA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 5,
+      "dni": "21XXXX27",
+      "apellidos": "CARRIZO",
+      "nombres": "NORMA VIVIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

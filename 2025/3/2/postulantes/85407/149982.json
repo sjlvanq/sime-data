@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85407,
+    "padron_id": 149982
+  },
+  "postulantes": [
+    {
+      "orden": 14,
+      "dni": "28XXXX70",
+      "apellidos": "MEDINA",
+      "nombres": "NATALIA ELINA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 51,
+      "dni": "32XXXX18",
+      "apellidos": "SERRANO",
+      "nombres": "ELIANA SOFIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 13,
+      "dni": "27XXXX28",
+      "apellidos": "VEGA",
+      "nombres": "MELINA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 86624,
+    "padron_id": 152247
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "28XXXX67",
+      "apellidos": "ZUCCON",
+      "nombres": "MARIA FERNANDA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "28XXXX68",
+      "apellidos": "VALDIVIESO",
+      "nombres": "CAROLINA DEL VALLE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "29XXXX68",
+      "apellidos": "TORRES MAEMPEL",
+      "nombres": "OTTO JORGE MAXIMILIANO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "39XXXX57",
+      "apellidos": "MANSILLA",
+      "nombres": "ANTONELLA MARINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

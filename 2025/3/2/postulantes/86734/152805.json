@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 86734,
+    "padron_id": 152805
+  },
+  "postulantes": [
+    {
+      "orden": 25,
+      "dni": "29XXXX84",
+      "apellidos": "MENGUAL",
+      "nombres": "VERONICA PRISCILA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "37XXXX44",
+      "apellidos": "IBAÑEZ RENGEL",
+      "nombres": "SOFÍA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 19,
+      "dni": "39XXXX06",
+      "apellidos": "LOPEZ",
+      "nombres": "ANA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "30XXXX78",
+      "apellidos": "CARREÑO",
+      "nombres": "YANINA VALERIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

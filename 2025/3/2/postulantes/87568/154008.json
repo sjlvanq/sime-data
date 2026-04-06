@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87568,
+    "padron_id": 154008
+  },
+  "postulantes": [
+    {
+      "orden": 3,
+      "dni": "32XXXX24",
+      "apellidos": "ESCOBAR",
+      "nombres": "FEDERICO MARTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "37XXXX02",
+      "apellidos": "ROBLES",
+      "nombres": "GUSTAVO MAXIMILIANO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 12,
+      "dni": "38XXXX00",
+      "apellidos": "YBALO",
+      "nombres": "ESTEFANIA BELEN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

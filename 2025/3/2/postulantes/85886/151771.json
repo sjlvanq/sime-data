@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 85886,
+    "padron_id": 151771
+  },
+  "postulantes": [
+    {
+      "orden": 9,
+      "dni": "41XXXX83",
+      "apellidos": "DELGADO",
+      "nombres": "CAMILA ROCIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "37XXXX36",
+      "apellidos": "AHUMADA",
+      "nombres": "MARÍA REBECA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "36XXXX84",
+      "apellidos": "D OLIVEIRA",
+      "nombres": "ABRIL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX90",
+      "apellidos": "AGUIRRE RODRIGUEZ",
+      "nombres": "LOURDES ROCIO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

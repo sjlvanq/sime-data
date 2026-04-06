@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87565,
+    "padron_id": 154001
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "30XXXX51",
+      "apellidos": "LAZARTE",
+      "nombres": "MOIRA MERCEDES",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 2,
+      "dni": "28XXXX83",
+      "apellidos": "PAZ",
+      "nombres": "EMILCE SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "22XXXX83",
+      "apellidos": "HERRERA",
+      "nombres": "GLORIA ARGENTINA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

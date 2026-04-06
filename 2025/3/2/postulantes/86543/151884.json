@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 86543,
+    "padron_id": 151884
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "17XXXX31",
+      "apellidos": "PETRONI MUSTAFA",
+      "nombres": "JORGE BERNARDINO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "30XXXX78",
+      "apellidos": "ROMERO",
+      "nombres": "MARÍA LUJÁN",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "31XXXX03",
+      "apellidos": "NIETO",
+      "nombres": "JORGE LUIS",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

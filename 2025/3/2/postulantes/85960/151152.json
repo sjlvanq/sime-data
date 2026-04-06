@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 85960,
+    "padron_id": 151152
+  },
+  "postulantes": [
+    {
+      "orden": 20,
+      "dni": "31XXXX22",
+      "apellidos": "ROSALES",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 36,
+      "dni": "37XXXX36",
+      "apellidos": "AHUMADA",
+      "nombres": "MARÍA REBECA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "34XXXX90",
+      "apellidos": "AGUIRRE RODRIGUEZ",
+      "nombres": "LOURDES ROCIO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 4,
+      "dni": "34XXXX68",
+      "apellidos": "PEREZ NAVARRO",
+      "nombres": "JULIANA BEATRIZ",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

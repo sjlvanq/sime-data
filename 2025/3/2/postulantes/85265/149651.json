@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85265,
+    "padron_id": 149651
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "35XXXX45",
+      "apellidos": "JIMENEZ",
+      "nombres": "CINTHIA SOLEDAD",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 20,
+      "dni": "18XXXX87",
+      "apellidos": "FERRARI",
+      "nombres": "GRACIELA BEATRIZ",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 24,
+      "dni": "25XXXX32",
+      "apellidos": "PERALTA",
+      "nombres": "NATALIA MARIA JOSE",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

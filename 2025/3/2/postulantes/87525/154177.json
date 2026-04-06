@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 87525,
+    "padron_id": 154177
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "26XXXX00",
+      "apellidos": "VACA",
+      "nombres": "MELINA VIVIANA",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 3,
+      "dni": "27XXXX99",
+      "apellidos": "RUIZ",
+      "nombres": "ARIEL ORLANDO",
+      "TipoCircuito": "NINGUNO",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

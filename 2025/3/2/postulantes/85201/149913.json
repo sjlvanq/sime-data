@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 85201,
+    "padron_id": 149913
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "25XXXX48",
+      "apellidos": "MADRID",
+      "nombres": "SILVIA ELENA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 9,
+      "dni": "31XXXX22",
+      "apellidos": "ROSALES",
+      "nombres": "MARIA CECILIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 1,
+      "dni": "32XXXX54",
+      "apellidos": "ROMERO GUNSET",
+      "nombres": "ANA CELESTE",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

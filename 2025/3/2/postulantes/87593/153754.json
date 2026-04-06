@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "vacante_id": 87593,
+    "padron_id": 153754
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "29XXXX00",
+      "apellidos": "DECIMA",
+      "nombres": "JUAN LEANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 10,
+      "dni": "31XXXX56",
+      "apellidos": "MENDIA",
+      "nombres": "MARIA DEL PILAR",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

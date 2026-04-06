@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "vacante_id": 86587,
+    "padron_id": 151913
+  },
+  "postulantes": [
+    {
+      "orden": 5,
+      "dni": "25XXXX67",
+      "apellidos": "MEDINA",
+      "nombres": "ELIANA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 35,
+      "dni": "35XXXX35",
+      "apellidos": "LONZALLE",
+      "nombres": "LURDES JIMENA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 27,
+      "dni": "22XXXX67",
+      "apellidos": "ARGAÑARAZ",
+      "nombres": "VERONICA DE LOS ANGELES",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 40,
+      "dni": "23XXXX57",
+      "apellidos": "ACOSTA",
+      "nombres": "MARIO GABRIEL",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE",
+      "CargoInferior": "-"
+    }
+  ]
+}

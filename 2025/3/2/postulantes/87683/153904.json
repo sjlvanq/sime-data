@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "vacante_id": 87683,
+    "padron_id": 153904
+  },
+  "postulantes": [
+    {
+      "orden": 10,
+      "dni": "25XXXX66",
+      "apellidos": "BRITO",
+      "nombres": "MIGUEL MARTIN",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 21,
+      "dni": "42XXXX07",
+      "apellidos": "GOMEZ",
+      "nombres": "NAZARENO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 22,
+      "dni": "37XXXX74",
+      "apellidos": "BARRIENTOS",
+      "nombres": "GUSTAVO ALEJANDRO",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "SUPLETORIO",
+      "CargoInferior": "-"
+    }
+  ]
+}

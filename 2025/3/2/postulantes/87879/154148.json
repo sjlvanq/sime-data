@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "vacante_id": 87879,
+    "padron_id": 154148
+  },
+  "postulantes": [
+    {
+      "orden": 1,
+      "dni": "28XXXX07",
+      "apellidos": "VARELA",
+      "nombres": "MARIA NATALIA",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "32XXXX72",
+      "apellidos": "LUCCA",
+      "nombres": "MARIA CELESTE",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 16,
+      "dni": "34XXXX37",
+      "apellidos": "GRANDE",
+      "nombres": "SONIA MARIA MERCEDES",
+      "TipoCircuito": "CIRC. CON RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 60,
+      "dni": "30XXXX07",
+      "apellidos": "JIMENEZ",
+      "nombres": "MARTA NATALIA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 65,
+      "dni": "27XXXX10",
+      "apellidos": "CARABAJAL",
+      "nombres": "GRACIELA CAROLINA",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "DOCENTE - ESPECIFICIDAD CURRICULAR",
+      "CargoInferior": "-"
+    },
+    {
+      "orden": 8,
+      "dni": "25XXXX16",
+      "apellidos": "AVILA",
+      "nombres": "DELFINA MARÍA DEL MILAGRO",
+      "TipoCircuito": "CIRC. SIN RESIDENCIA",
+      "CategoriaTitulo": "HABILITANTE - INCUMBENCIA CURRICULAR",
+      "CargoInferior": "-"
+    }
+  ]
+}
